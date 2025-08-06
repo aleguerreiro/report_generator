@@ -1,0 +1,341 @@
+ID do Card,Responsável,Status,Status Código,Etiquetas,Sprint,01. Tarefa,01.1 Escopo da Tarefa,02. Horas Estimadas,Unnamed: 9
+1599517,Celiene,Cancelado,X,Interno Nava,-,Separar notas dos maiores fornecedores,"Para a melhorar a assertividade do robo que lê as NFs de fornecedores, os modelos específicos serão criados para as NFs de cada fornecedor.  Precisamos definir os fornecedores prioritários, portanto se concordar, vamos começar pelos maiores players. Os fornecedores que mais nos atendem. 
+Por favor adicione neste ticket NFs destes players para que passemos ao desenvolvedor do robô. ",-,-
+1557540,Operação,Concluído,E,Interno Nava,-,Base Lasa/ Quero Quero: Informações para saneamento ,-,-,-
+1647658,Zapform,Concluído,E,-,SPRINT 06_(14~18abr.25),Retificar pedidos criados no Zapform conforme planilha anexa.,"Retificar pedidos criados no Zapform conforme planilha anexa. São pedidos que tinham inconsistência na planilha inicial de importação.
+",20,-
+1563183,Zapform,Concluído,E,-,SPRINT 03_(24~28mar.25),Desenvolver funcionalidade para ler RM e dar baixa de pagamento no Zapform e NF.,,50,-
+1649724,Zapform,Concluído,E,-,SPRINT 06_(14~18abr.25),Consumo de Horas Daily,-,5,-
+1557588,Zapform,Concluído,E,Dependência ,SPRINT 02_(17~21mar.25),Cancelamento Massivo de contratos no RM após Migração - Lote 1 ,,15,-
+1764966,Julio,Análise,1,-,-,Renovação automática de pedidos,"Quando tivermos contratos chegando ao seu fim, precisaremos da opção de renovação automática.
+Este ponto foi levantado pelo Ale (Zapform) e precisa ser rediscutido pois acredito que haverá correção e por este motivo não haverá renovação automática e sim a criação de um novo pedido com novos termos......
+",-,-
+1563254,Zapform,Concluído,E,-,SPRINT 02_(17~21mar.25),Consumo de Horas Daily,-,5,-
+1546878,Zapform,Concluído,E,Aguardando Aprovação,SPRINT 01_(10~14mar.25),Popular card de pedido criado pelo Zapform com todas as informações do RM,,20,-
+1546879,Zapform,Concluído,E,Aguardando Aprovação,SPRINT 01_(10~14mar.25),Adicionar nome do card no campo histórico do pedido no RM,,8,-
+1546880,Suprimentos,Concluído,E,Interno Nava,-,-,-,-,-
+1546881,Suprimentos,Concluído,E,Interno Nava,-,-,-,2,-
+1546882,Zapform,Concluído,E,Aguardando Aprovação,SPRINT 01_(10~14mar.25),Base Piloto - Migrar fornecedores da planilha de suprimento para o Zapform,,40,-
+1700486,Zapform,Concluído,E,Aprovado pela NAVA,SPRINT 09_(05~09mai.25),Criar tipo de usuário para Assessoria,"Usuários da Assessoria deverão acessar os cards da coluna 2 - Assessoria e poder definir os substatus relativos a procura da NF.
+Se atentar que os consultores não tenham acesso aos cards de outras colunas via board ou através de funções como Gerar Relatório  (menu esquerda)",8,-
+1765001,Zapform,Concluído,E,-,SPRINT 13_(02~06jun.25),Consumo de Horas Daily,-,5,-
+1765021,Zapform,Concluído,E,-,SPRINT 14_(09~13jun.25),Consumo de Horas Daily,-,5,-
+1708701,Zapform,Concluído,E,Aprovado pela NAVA,SPRINT 10_(12~16mai.25),Criar nova coluna para contemplar validação da Assessoria,"- Mudar nome de coluna Aguardando NF para Assessoria
+- Criar nova coluna Aguardando NF
+O critério de entrada para a coluna Assessoria é o atual critério
+A promoção da coluna Assessoria para Aguardando NF serão os cards com substatus preenchido com Validado Assessoria
+",30,-
+1551021,Governança,Impedimento,B,"Dependência , Interno Nava",-,Validação da entrega dos KPIs,,-,-
+1628344,Julio,Análise,1,-,-,Funcionalidades de Filtro: ,"Capacidade de filtrar os cards no Kanban por projeto e por status específico, facilitando a visualização e gestão direcionada de tarefas e projetos. ",-,-
+1619643,Celiene,Concluído,E,Interno Nava,-,Validar Dados importados,Validar o que foi importado da planilha de contratos e os pedidos gerados pelo ZapForm,-,-
+1753790,Zapform,Análise,1,-,-,-,-,-,-
+1620166,Zapform,Concluído,E,-,SPRINT 04_(31~04abr.25),Consumo de Horas Daily,-,5,-
+1831627,Zapform,Concluído,E,-,-,-,-,-,-
+1831628,Zapform,Concluído,E,-,-,-,-,-,-
+1831629,Zapform,Concluído,E,-,-,-,-,-,-
+1831630,Zapform,Concluído,E,-,-,-,-,-,-
+1628367,Zapform,Concluído,E,-,SPRINT 06_(14~18abr.25),"-Migração lote 2 - 225 fornecedores
+ ",-,20,-
+1831631,Zapform,Concluído,E,-,-,-,-,-,-
+1831632,Zapform,Concluído,E,-,-,-,-,-,-
+1831633,Zapform,Concluído,E,-,-,-,-,-,-
+1831634,Zapform,Concluído,E,-,-,-,-,-,-
+1831635,Zapform,Concluído,E,-,-,-,-,-,-
+1831637,Zapform,Concluído,E,-,-,-,-,-,-
+1831638,Zapform,Concluído,E,-,-,-,-,-,-
+1831636,Zapform,Concluído,E,-,-,-,-,-,-
+1551067,Zapform,A Fazer,A,-,-,Etapa 2 KPIs : Adição de filtro no dashboard,-,24,-
+1552621,Suprimentos,Cancelado,X,Interno Nava,-,-,-,-,-
+1628400,Julio,Análise,1,-,-,KPI,"Extração de base com os seguintes indicadores: 
+
+Tempo total da jornada:  Tempo médio total desde o pedido até a implantação do link
+Tempo médio - Viabilidade:  Tempo médio para realizar a viabilidade técnica e de cobertura
+Tempo médio - Solicitação de Contratação: 	Tempo médio entre viabilidade concluída e solicitação de contratação
+Tempo médio - Contratação:  Tempo médio para negociação e fechamento do contrato
+Tempo médio - Implantação:  Tempo médio entre contrato assinado e ativação do link
+Produtividade - Comercial (Viabilidade):  Número de viabilidades realizadas por analista por período
+Produtividade - Suprimentos (Contratação):  Número de contratos fechados por analista de suprimentos por período
+Produtividade - Operação (Implantação):  Número de implantações realizadas por técnico ou analista por período
+Taxa de conversão - Viabilidade para Contrato:  Proporção de viabilidades que geram contratos
+Taxa de conversão - Contrato para Implantação:  Proporção de contratos que resultam em links implantados
+Quantidade de links ativos:  Número total de links ativos na base
+Quantidade de links cancelados:  Número total de links cancelados em um período
+Taxa de churn:  Proporção de links cancelados sobre o total de ativos (mensal)
+Produtividade por agente - Comercial:  Número de viabilidades realizadas por agente comercial
+Produtividade por agente - Suprimentos:  Número de contratos fechados por agente de suprimentos
+Produtividade por agente - Operação:  Número de links implantados por agente de operação
+Retrabalho por etapa:  Volume de pedidos que retornaram à etapa anterior por falhas
+Tempo de ciclo médio por link (lead time):  Tempo médio total de processamento de um link (da entrada à ativação)
+SLA de ativação cumprido (%):  Proporção de links ativados dentro do SLA acordado
+Backlog de pedidos em aberto:  Quantidade de pedidos em aberto em cada etapa do funil
+Tempo médio de resposta ao cliente:  Tempo médio de resposta ao cliente em cada etapa da jornada
+Aging do Backlog:  Distribuição dos pedidos em aberto por faixa de tempo (0-7, 8-15, 16-30, >30 dias) para identificar gargalos nas etapas
+
+Ref. planilha em anexo.
+",-,-
+1667838,Zapform,Concluído,E,-,SPRINT 07_(21~25abr.25),Cancelamento de Pedidos Abertos a partir do Quadro NAV_ISP_02. Gestão de Contratos,"📌 Funcionalidade: Cancelamento de Pedidos Abertos a partir do Quadro NAV_ISP_02. Gestão de Contratos
+Será adicionado um botão chamado “Cancelar pedidos abertos” dentro de cada card de contrato no quadro NAV_ISP_02. Gestão de Contratos.
+
+✅ O que acontecerá ao clicar nesse botão:
+Todos os pedidos não pagos vinculados a esse contrato no quadro NAV_ISP_03. ISP_Gestão de Pedidos serão automaticamente cancelados.
+
+Uma mensagem de aviso será exibida, orientando o usuário a aguardar a finalização do processo.
+
+A ação não poderá ser desfeita após iniciada.
+
+⚠️ Em caso de erro no cancelamento:
+Se algum pedido não puder ser cancelado, uma etiqueta vermelha será exibida no card correspondente no quadro NAV_ISP_03. ISP_Gestão de Pedidos, com a mensagem: ""Erro ao tentar cancelar pedido"".
+
+ℹ️ Observações importantes:
+O contrato permanecerá ativo, mesmo com todos os pedidos cancelados.
+
+Enquanto o contrato estiver ativo, o usuário poderá:
+
+Criar novamente todos os pedidos do contrato, com a possibilidade de alterar prazos e valores;
+
+Gerar novos pedidos avulsos, conforme necessário.
+
+",20,-
+1563408,Celiene,Cancelado,X,Interno Nava,-,-Saneamento : Análise e priorização da planilha da Lasa - Fase 2 62 novos,-,-,-
+1707283,Zapform,Concluído,E,-,SPRINT 09_(05~09mai.25),Criação de botão para consulta manual nos cards na coluna pedidos criados,"Será criado um botão de consulta individual dentro do card do pedido para permitir a verificação manual, contornando a limitação de performance do RM (cada consulta leva cerca de 30 segundos e há mais de 100 mil pedidos).
+
+",8,-
+1620250,Zapform,Concluído,E,-,SPRINT 05_(07~11abr.25),Consumo de Horas Daily,-,5,-
+1563429,Zapform,Concluído,E,-,SPRINT 04_(31~04abr.25),-Migração lote 1 - 799 fornecedores da LASA,Para a realizaçaõ dessa tarefa será necessário criar um script de automação de importação. A tarefas migradas anteriormente foram executadas algumas etapas manualmente. ,70,-
+1688873,Zapform,Concluído,E,-,SPRINT 07_(21~25abr.25),Correção de CNPJs em Pedidos e Contratos,"Realizar a correção de inconsistências em pedidos que apresentam a mesma designação, mas estão vinculados a CNPJs incorretos. A atividade contempla as seguintes etapas:
+
+Realizar o levantamento das inconsistências:
+Analisar os pedidos existentes para identificar divergências entre a designação e o CNPJ informado.
+
+Validar e classificar os casos identificados:
+Confirmar os pedidos com CNPJ incorreto e agrupá-los conforme a designação correta.
+
+Executar as correções necessárias:
+
+Cancelar os contratos e pedidos associados aos CNPJs incorretos;
+
+Gerar novos contratos e pedidos utilizando o CNPJ correto.
+
+Objetivo: Garantir a integridade dos dados e a correta vinculação dos contratos com os respectivos CNPJs.",20,-
+1669929,Zapform,Concluído,E,-,SPRINT 08_(28~02mai.25),Geração e envio diário de relatórios das configurações de cards,"Atividade: Geração e envio diário de relatórios das configurações de cards
+
+Objetivo:
+Elaborar relatórios contendo todos os cards das três configurações abaixo, com envio automático por e-mail todos os dias:
+
+- NAV_ISP_01 – Viabilidade e Contratação
+- NAV_ISP_02 – Gestão de Contratos
+- NAV_ISP_03 – ISP_Gestão de Pedidos
+
+Formato do relatório:
+
+Cada linha do relatório representa um card individual.
+
+Cada coluna corresponde a uma informação existente dentro do card, como campos personalizados, etiquetas, status, entre outros dados relevantes.
+
+Frequência de envio:
+
+Diariamente.
+
+Essa frequência foi definida devido ao alto volume de cards, garantindo que os dados estejam sempre atualizados e acessíveis para acompanhamento e análise.
+
+",40,-
+1573167,Zapform,Concluído,E,-,SPRINT 02_(17~21mar.25),Criação de script de importação de fornecedores da planilha.,24,35,-
+1581363,Zapform,Concluído,E,-,SPRINT 03_(24~28mar.25),Consumo de Horas Daily,-,5,-
+1641274,Zapform,Concluído,E,-,SPRINT 05_(07~11abr.25),Cancelar 9 Contratos que foram identificados que estão com valor errado. ,Cancelar 9 Contratos que foram identificados que estão com valor errado. Gerar os novos pedidos corretos.. Criar rotina para nao ter erro semalhante,16,-
+1641276,Julio,A Fazer,A,-,-,Criar rotina de atualização de pedidos.,"Rotina deve alterar o contrato e cancelar pedidos futuros, posteriormente atualizar o contrato como ativo e criar o novos pedidos com os novos valores.",-,-
+1715010,Zapform,A Fazer,A,-,-,-BUGS - REL EMAIL,"1 - REMOVER GIF DO STATUS
+2 - CORRIGIR ERRO DE DIGITAÇÃO ASSESSORIA NO LUGAR DE ASSESORIA
+VIDE PRINT ANEXO",-,-
+1694530,Zapform,Concluído,E,-,SPRINT 07_(21~25abr.25),Consumo de Horas Daily,-,5,-
+1694535,Zapform,Concluído,E,-,SPRINT 08_(28~02mai.25),Consumo de Horas Daily,-,5,-
+1557319,Zapform,Concluído,E,Aguardando Aprovação,SPRINT 01_(10~14mar.25),Consumo de Horas Daily,,5,-
+1707339,Zapform,Em Progresso,C,-,SPRINT 14_(09~13jun.25),Ajuste de Pagamentos com Múltiplas Notas Fiscais,"Descrição: Corrigir lógica de pagamento para suportar pedidos com múltiplas NFs pagas. Identificado também problema de não unicidade do campo NRO_PEDIDO.
+",40,-
+1667926,Zapform,Concluído,E,-,SPRINT 06_(14~18abr.25),Verificação de Notas Fiscais (NF) pela VERG,"🧩 Descrição da Funcionalidade – Verificação de Notas Fiscais (NF) pela VERG
+Será implementada uma funcionalidade automática para identificar se existem notas fiscais (NF) coletadas pela ferramenta VERG que ainda não foram validadas no sistema RM. Essa verificação ocorrerá diariamente e também poderá ser feita manualmente via botão individual em cada pedido.
+
+🕒 Periodicidade da Verificação
+A verificação será executada uma vez por dia, de madrugada, abrangendo todos os pedidos da coluna ""Aguardando NF"".
+
+Cada card de pedido contará com um botão para consulta manual, permitindo ao usuário disparar a verificação de forma pontual.
+
+🔍 Verificações Realizadas
+✅ 1. Verificação por Número do Pedido
+Consulta à base VERG utilizando o ID do pedido.
+
+Se for encontrada uma nota fiscal vinculada, serão realizadas as seguintes ações:
+
+Será adicionada uma etiqueta verde no card com o texto:
+
+🟩 ""NF no Pedido – aguardando validação fiscal""
+
+Serão preenchidos os seguintes campos no card:
+
+Número da Nota Fiscal (NRONOTA)
+Valor da Nota Fiscal (VALORNOTA)
+Data de Emissão da Nota (DTEMISSAONOTA)
+CNPJ do Cliente (CNPJ)
+
+Código da Empresa (Coligada) (CODCOLIGADA)
+
+⚠️ 2. Verificação por CNPJ (sem vínculo com pedido)
+Consulta à base VERG utilizando o CNPJ do cliente.
+
+Se for encontrada uma nota fiscal sem vínculo direto com pedido, serão realizadas as seguintes ações:
+
+Será adicionada uma etiqueta amarela no card com o texto:
+
+🟨 ""NF no CNPJ – aguardando verificação de vínculo com pedido""
+
+Serão preenchidos os seguintes campos no card:
+
+Número da Nota Fiscal (NRONOTA)
+Valor da Nota Fiscal (VALORNOTA)
+Data de Emissão da Nota (DTEMISSAONOTA)
+CNPJ do Cliente (CNPJ)
+Código da Empresa (Coligada) (CODCOLIGADA)
+
+COM PEDIDO:
+<soapenv:Envelope xmlns:soapenv=""http://schemas.xmlsoap.org/soap/envelope/"" xmlns:tot=""http://www.totvs.com/"">
+<soapenv:Header/>
+<soapenv:Body>
+<tot:RealizarConsultaSQL>
+<!--Optional:-->
+<tot:codSentenca>ZPWEBSER00000007</tot:codSentenca>
+<!--Optional:-->
+<tot:codColigada>0</tot:codColigada>
+<!--Optional:-->
+<tot:codSistema>G</tot:codSistema>
+<!--Optional:-->
+<tot:parameters>IDMOV=299533</tot:parameters>
+</tot:RealizarConsultaSQL>
+</soapenv:Body>
+</soapenv:Envelope>
+ 
+
+COM CNPJ:
+<soapenv:Envelope xmlns:soapenv=""http://schemas.xmlsoap.org/soap/envelope/"" xmlns:tot=""http://www.totvs.com/"">
+<soapenv:Header/>
+<soapenv:Body>
+<tot:RealizarConsultaSQL>
+<!--Optional:-->
+<tot:codSentenca>ZPWEBSER00000008</tot:codSentenca>
+<!--Optional:-->
+<tot:codColigada>0</tot:codColigada>
+<!--Optional:-->
+<tot:codSistema>G</tot:codSistema>
+<!--Optional:-->
+<tot:parameters>CNPJ=14238664000106</tot:parameters>
+</tot:RealizarConsultaSQL>
+</soapenv:Body>
+</soapenv:Envelope>
+",40,-
+1694553,Julio,Concluído,E,-,-,Daily Sprint 9 - 05/05~09/05,-,1.25,-
+1707364,Zapform,Concluído,E,-,SPRINT 09_(05~09mai.25),Alterar chave primária usada na integração de NRO_PEDIDO para IDMOV.,"Foi identificado que a NAVA zerou a numeração de pedidos em 2022, tornando o campo NRO_PEDIDO não exclusivo.",8,-
+1707379,Zapform,Concluído,E,-,SPRINT 09_(05~09mai.25),Tratamento de Timeout Silencioso no RM,Resolver falhas silenciosas (timeout) nas consultas de pedidos com status “Aguardando NF” e “Aguardando Pagamento” que afetam a sincronização.,16,-
+1735028,Zapform,Concluído,E,-,SPRINT 10_(12~16mai.25),Consumo de Horas Daily,-,5,-
+1735031,Zapform,Concluído,E,-,SPRINT 11_(19~23mai.25),Consumo de Horas Daily,-,5,-
+1735038,Zapform,Concluído,E,-,SPRINT 12_(26~30mai.25),Consumo de Horas Daily,-,5,-
+1707402,Zapform,Concluído,E,-,SPRINT 09_(05~09mai.25),Tratamento cadastro duplicado CNPJ,"Atualmente, o cadastro de fornecedores pode ser feito tanto no Zapform quanto diretamente no RM. Isso está gerando duplicidade de registros, especialmente quando o CNPJ é cadastrado diretamente no RM após já existir no Zapform.
+
+",8,-
+1550737,Zapform,Planejamento,6,-,-,Extração da base de indicadores,-,8,-
+1552301,Zapform,Cancelado,X,-,SPRINT 01_(10~14mar.25),De Para Zapform para RM ,-,2,-
+1735108,Julio,Aprovação B2,3,-,-,Restringir edição dos comentários somente ao autor.,"Atualmente é possível que qualquer  operador consiga editar todos os comentários. 
+Gostariamos que somente o autor do comentário tivesse esse acesso.",-,-
+1748433,Zapform,Concluído,E,-,SPRINT 10_(12~16mai.25),Criar nova coluna para contemplar validação da Assessoria,"- Mudar nome de coluna Aguardando NF para Assessoria
+- Criar nova coluna Aguardando NF
+O critério de entrada para a coluna Assessoria é o atual critério
+A promoção da coluna Assessoria para Aguardando NF serão os cards com substatus preenchido com Validado Assessoria
+",30,-
+1748436,Zapform,Concluído,E,-,SPRINT 10_(12~16mai.25),Consumo de Horas Daily,-,5,-
+1748437,Julio,Concluído,E,-,-,Daily Sprint 11 - 19/05~23/05,-,1.25,-
+1748439,Julio,Concluído,E,-,-,Daily Sprint 10 - 12/05~16/05,-,1.25,-
+1748441,Zapform,Concluído,E,-,SPRINT 12_(26~30mai.25),Botão de Atualização Individual de Pedido Criado,"Criação de botão que permite atualização pontual dos dados na coluna 'Pedido Criado', sem afetar outros registros.",4,-
+1748443,Zapform,Concluído,E,-,SPRINT 12_(26~30mai.25),Verificação Contínua de Dados do Chamado no RM,"Criação de rotina que realiza checagens periódicas das informações dos chamados no RM, garantindo consistência de dados.",10,-
+1748444,Zapform,Concluído,E,-,SPRINT 12_(26~30mai.25),Validação de CNPJs Fora do Padrão no RM,Desenvolvimento de lógica para identificar e tratar CNPJs com formatos irregulares antes da importação no sistema RM.,4,-
+1748445,Zapform,Concluído,E,-,SPRINT 11_(19~23mai.25),Envio Automatizado de E-mails para o Setor Fiscal,"Criação de rotina automatizada para envio de e-mails com dados relevantes ao setor Fiscal, facilitando a comunicação e o acompanhamento de demandas.",30,-
+1748446,Zapform,Concluído,E,-,SPRINT 11_(19~23mai.25),Inclusão de Anexos (NF e Boleto) pela Assessoria,Desenvolvimento do processo que permite à Assessoria anexar Notas Fiscais e boletos diretamente nos cards da plataforma.,45,-
+1748447,Julio,Concluído,E,-,-,Daily Sprint 12 - 26/05~30/05,-,1.25,-
+1748448,Zapform,Concluído,E,-,SPRINT 12_(26~30mai.25),Disparo de E-mails “DOCUMENTOS BOM PARA PAGAMENTO”,Configuração da automação para envio de e-mails sinalizando que documentos estão prontos para pagamento. Teste concluído com sucesso.,4,-
+1748449,Zapform,Concluído,E,-,-,Relatório de E-mails Enviados ao Fiscal,Geração de relatório detalhado com os registros de e-mails enviados automaticamente ao setor Fiscal.,2,-
+1586146,Zapform,Escopo,2,-,-,Trava e transições automáticas ,"-
+Fila Viabilidade
+Flegar viabilidade em análise 
+Demais filas bloqueadas 
+
+Transição automática de fila : mudou sub status (qualquer),  automaticamente card vai para fila Comercial 
+
+
+Fila Comercial 
+Flegar para aguardando resposta 
+Demais filas bloqueadas 
+
+Transição automática de fila :mudou sub status  proposta aceita,  automaticamente card vai para fila Solicitação de contratação 
+
+
+Fila Solicitação de contratação 
+Flegar Solicitação em análise 
+Demais filas bloqueadas 
+
+Transição automática de fila :mudou sub status  viável,  automaticamente card vai para Fila Suprimentos 
+Transição automática de fila :mudou sub status  inviável,  automaticamente card vai para Comercial  
+
+Fila Suprimentos 
+Flegar  Aguardando contato   
+Demais filas bloqueadas 
+Retirar substatus : aguardando pedido de mensalidade , instalação e  avulsos
+
+Transição automática de fila :mudou sub status  contrato assinado,  automaticamente card vai para Fila de implantação
+
+Fila de implantação
+Flegar  Implantação em agendamento 
+Demais filas bloqueadas 
+
+Transição automática de fila :mudou sub status  implantação instalado,  automaticamente card vai para Fila Suprimentos 
+Flegar  aguardando pedidos de contrato
+Demais filas bloqueadas 
+
+
+Suprimentos 
+Flegar aguardando pedido de contrato 
+Demais filas bloqueadas 
+
+Transição automática de fila:
+ ação 1 : enviar para gerar pedido,  automaticamente card vai para quadro gestão de contratos na FIla contrato Ativo 
+ ação 2 : mudar  substatus para contrato ativo no quadro viabilidade e enviar para Fila de encerrados 
+",-,-
+1748450,Zapform,Concluído,E,-,SPRINT 12_(26~30mai.25),Atualização do Mês de Referência no Banco de Dados,"Inclusão do campo de mês de referência em todos os cards existentes, com atualização retroativa no banco de dados.",8,-
+1748452,Zapform,Concluído,E,-,SPRINT 12_(26~30mai.25),Organização e Automação de Etiquetas,Estruturação e automação das etiquetas para melhor categorização dos cards e otimização dos filtros.,5,-
+1696221,Zapform,Concluído,E,Aprovado pela NAVA,SPRINT 09_(05~09mai.25),Criação de substatus na coluna Acessoria,"
+Na coluna aguardando NF 
+Criar Substatus 
+CNPJ incorreto  - atribui automaticamente ao responsável supply 
+Divergência no valor da NF - atribui automaticamente ao  responsável supply 
+Outros abrir campo detalhamento obrigatório- atribui automaticamente ao responsável supply 
+Validado Assessoria - mover para nova coluna Aguardando NF e atribui à fila do Fiscal.
+",16,-
+1692635,Zapform,Concluído,E,-,SPRINT 07_(21~25abr.25),Criação de Contatos no Zapform sem restrição de número de whatsapp,"Realizar a criação de planliha para poder criar contatos na plataforma Zapform  mesmo que não possuam o whatsapp válido, com base no CNPJ.
+
+Para cada linha da planilha:
+
+Extrair os dados de nome e CNPJ do cliente.
+Enviar os dados para a API de criação de clientes da Zapform (configuração 726).
+Em caso de sucesso, registrar o ID do cliente com link direto para o cadastro no sistema.
+Caso o cliente já exista ou ocorra erro, registrar o status correspondente.
+A planilha será atualizada automaticamente com duas colunas:
+
+id_cliente: link clicável para o cadastro no Zapform.
+status_cliente: resultado da tentativa de criação, podendo ser:
+- Cliente criado
+- Erro na criação. Verifique se esse número já está criado!
+",10,-
+1732071,Julio,A Fazer,A,-,-,Alterar endereço de envio de emails,"Alterar email de envio de mensagens para email do domínio Nava.
+Assim que possível nos envie o que é necessário para aplicar esta configuração.",-,-
+1656295,Zapform,Concluído,E,-,SPRINT 06_(14~18abr.25),Fazer análise se todos os cards presentes no Zapform estão na planta ativa. Atualizar cards com os dados da planilha de planta ativa anexa.,-,3,-
+1748457,Zapform,Concluído,E,-,SPRINT 12_(26~30mai.25),Botão “Consultar NF” no Supply e Fiscal,"Inclusão de botão funcional nas visualizações dos setores Supply e Fiscal, permitindo acesso rápido à Nota Fiscal.",16,-
+1748458,Celiene,Cancelado,X,-,-,-,-,-,-
+1748459,Zapform,Concluído,E,-,SPRINT 13_(02~06jun.25),Campo de Prazo Final Vinculado ao Prev_Recebimento,"Criação de campo exclusivo para representar o prazo final do card, baseado automaticamente na previsão de recebimento (Prev_Recebimento).",16,-
+1748460,Zapform,Concluído,E,-,SPRINT 12_(26~30mai.25),Correção de Inconsistências RM x Zapform,Diagnóstico e correção de divergências nos dados sincronizados entre o sistema RM e a plataforma Zapform.,6,-
+1748462,Zapform,Concluído,E,-,SPRINT 12_(26~30mai.25),Aumento da Frequência de Verificação Fiscal,"Ajuste no intervalo de tempo das verificações automáticas da coluna Fiscal, tornando o processo mais responsivo.",2,-
+1550830,Zapform,Concluído,E,-,SPRINT 14_(09~13jun.25),"Treinamento da Ferramenta Time Suprimentos e Fiscal, Reuniões de Checkpoint e Workshop",,14,-
