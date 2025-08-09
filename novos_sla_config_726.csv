@@ -1,0 +1,143 @@
+ID da Ordem,Etapa,Modificado por,SLA,Data Início Execução,Data Final Execução,Prazo Máximo,Duração Total,Duração Útil,Status SLA,Excedido Total (min),Excedido Útil (min)
+1874688,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:36,-,0.01 dias,-,-,-,-
+1874688,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:36,-,-,-,-,-,-,-
+1874689,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:35,-,0.01 dias,-,-,-,-
+1874689,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:35,-,-,-,-,-,-,-
+1874690,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:34,-,0.01 dias,-,-,-,-
+1874690,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:34,-,-,-,-,-,-,-
+1874691,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:33,-,0.01 dias,-,-,-,-
+1874691,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:33,-,-,-,-,-,-,-
+1874693,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:32,-,0.01 dias,-,-,-,-
+1874693,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:32,-,-,-,-,-,-,-
+1874694,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:31,-,0.0 dias,-,-,-,-
+1874694,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:31,-,-,-,-,-,-,-
+1874695,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:30,-,0.0 dias,-,-,-,-
+1874695,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:30,-,-,-,-,-,-,-
+1874696,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:28,-,0.0 dias,-,-,-,-
+1874696,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:28,-,-,-,-,-,-,-
+1873527,Viabilidade,-,-,07/08/2025 11:31,08/08/2025 19:49,-,1.35 dias,-,-,-,-
+1873527,Lixeira,fabiano.uoya@nava.com.br,-,08/08/2025 19:49,-,-,-,-,-,-,-
+1875470,Viabilidade,-,-,08/08/2025 17:37,08/08/2025 17:37,-,0.0 dias,-,-,-,-
+1875470,Encerrados (Ativos e Cancelados),anny.araujo@nava.com.br,-,08/08/2025 17:37,-,-,-,-,-,-,-
+1835925,Viabilidade,-,-,16/07/2025 17:30,16/07/2025 17:30,-,0.0 dias,-,-,-,-
+1835925,Cancelamento em Andamento,integracao-planilha-orion,-,16/07/2025 17:30,-,-,-,-,-,-,-
+1874678,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:48,-,0.02 dias,-,-,-,-
+1874678,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:48,-,-,-,-,-,-,-
+1700525,Viabilidade,-,-,05/05/2025 16:06,05/05/2025 16:06,-,0.0 dias,-,-,-,-
+1700525,Cancelamento em Andamento,orion.martins@nava.com.br,-,05/05/2025 16:06,08/08/2025 18:58,-,95.12 dias,-,-,-,-
+1700525,Encerrados (Ativos e Cancelados),fabiano.uoya@nava.com.br,-,08/08/2025 18:58,-,-,-,-,-,-,-
+1872949,Viabilidade,-,-,06/08/2025 16:53,08/08/2025 19:49,-,2.12 dias,-,-,-,-
+1872949,Lixeira,fabiano.uoya@nava.com.br,-,08/08/2025 19:49,-,-,-,-,-,-,-
+1632509,Viabilidade,-,-,08/04/2025 13:13,08/04/2025 13:13,-,0.0 dias,-,-,-,-
+1632509,Implantação,carlos@zapform.com.br,-,08/04/2025 13:13,14/04/2025 09:42,-,5.85 dias,-,-,-,-
+1632509,Cancelamento em Andamento,integracao-ale,-,14/04/2025 09:42,15/04/2025 15:57,-,1.26 dias,-,-,-,-
+1632509,Encerrados (Ativos e Cancelados),integracao-ale,-,15/04/2025 15:57,15/04/2025 22:07,-,0.26 dias,-,-,-,-
+1632509,Implantação,integracao-ale,-,15/04/2025 22:07,16/04/2025 00:03,-,0.08 dias,-,-,-,-
+1632509,Cancelamento em Andamento,integracao-ale,-,16/04/2025 00:03,16/04/2025 11:15,-,0.47 dias,-,-,-,-
+1632509,Implantação,integracao-ale,-,16/04/2025 11:15,16/04/2025 16:25,-,0.22 dias,-,-,-,-
+1632509,Encerrados (Ativos e Cancelados),integracao-ale,-,16/04/2025 16:25,-,-,-,-,-,-,-
+1868987,Viabilidade,-,-,04/08/2025 17:23,-,-,-,-,-,-,-
+1868988,Viabilidade,-,-,04/08/2025 17:23,-,-,-,-,-,-,-
+1868989,Viabilidade,-,-,04/08/2025 17:23,-,-,-,-,-,-,-
+1868990,Viabilidade,-,-,04/08/2025 17:23,-,-,-,-,-,-,-
+1868991,Viabilidade,-,-,04/08/2025 17:23,08/08/2025 14:57,-,3.9 dias,-,-,-,-
+1868991,Comercial,lucass.ramos@nava.com.br,-,08/08/2025 14:57,-,-,-,-,-,-,-
+1868992,Viabilidade,-,-,04/08/2025 17:23,06/08/2025 16:10,-,1.95 dias,-,-,-,-
+1868992,Comercial,lucass.ramos@nava.com.br,-,06/08/2025 16:10,-,-,-,-,-,-,-
+1868993,Viabilidade,-,-,04/08/2025 17:23,05/08/2025 15:51,-,0.94 dias,-,-,-,-
+1868993,Comercial,lucass.ramos@nava.com.br,-,05/08/2025 15:51,-,-,-,-,-,-,-
+1868994,Viabilidade,-,-,04/08/2025 17:23,05/08/2025 15:18,-,0.91 dias,-,-,-,-
+1868994,Comercial,lucass.ramos@nava.com.br,-,05/08/2025 15:18,-,-,-,-,-,-,-
+1868995,Viabilidade,-,-,04/08/2025 17:23,06/08/2025 12:14,-,1.79 dias,-,-,-,-
+1868995,Comercial,lucass.ramos@nava.com.br,-,06/08/2025 12:14,-,-,-,-,-,-,-
+1868996,Viabilidade,-,-,04/08/2025 17:23,06/08/2025 15:12,-,1.91 dias,-,-,-,-
+1868996,Comercial,lucass.ramos@nava.com.br,-,06/08/2025 15:12,-,-,-,-,-,-,-
+1868997,Viabilidade,-,-,04/08/2025 17:23,-,-,-,-,-,-,-
+1868998,Viabilidade,-,-,04/08/2025 17:23,-,-,-,-,-,-,-
+1717319,Viabilidade,-,-,14/05/2025 13:49,14/05/2025 13:49,-,0.0 dias,-,-,-,-
+1717319,Cancelamento em Andamento,orion.martins@nava.com.br,-,14/05/2025 13:49,08/08/2025 18:58,-,86.21 dias,-,-,-,-
+1717319,Encerrados (Ativos e Cancelados),fabiano.uoya@nava.com.br,-,08/08/2025 18:58,-,-,-,-,-,-,-
+1717320,Viabilidade,-,-,14/05/2025 13:49,14/05/2025 13:49,-,0.0 dias,-,-,-,-
+1717320,Cancelamento em Andamento,orion.martins@nava.com.br,-,14/05/2025 13:49,08/08/2025 18:53,-,86.21 dias,-,-,-,-
+1717320,Encerrados (Ativos e Cancelados),fabiano.uoya@nava.com.br,-,08/08/2025 18:53,-,-,-,-,-,-,-
+1717322,Viabilidade,-,-,14/05/2025 13:49,14/05/2025 13:49,-,0.0 dias,-,-,-,-
+1717322,Cancelamento em Andamento,orion.martins@nava.com.br,-,14/05/2025 13:49,08/08/2025 18:54,-,86.21 dias,-,-,-,-
+1717322,Encerrados (Ativos e Cancelados),fabiano.uoya@nava.com.br,-,08/08/2025 18:54,-,-,-,-,-,-,-
+1717324,Viabilidade,-,-,14/05/2025 13:49,14/05/2025 13:49,-,0.0 dias,-,-,-,-
+1717324,Cancelamento em Andamento,orion.martins@nava.com.br,-,14/05/2025 13:49,08/08/2025 18:55,-,86.21 dias,-,-,-,-
+1717324,Encerrados (Ativos e Cancelados),fabiano.uoya@nava.com.br,-,08/08/2025 18:55,-,-,-,-,-,-,-
+1717325,Viabilidade,-,-,14/05/2025 13:49,14/05/2025 13:49,-,0.0 dias,-,-,-,-
+1717325,Cancelamento em Andamento,orion.martins@nava.com.br,-,14/05/2025 13:49,08/08/2025 18:57,-,86.21 dias,-,-,-,-
+1717325,Encerrados (Ativos e Cancelados),fabiano.uoya@nava.com.br,-,08/08/2025 18:57,-,-,-,-,-,-,-
+1717326,Viabilidade,-,-,14/05/2025 13:50,14/05/2025 13:50,-,0.0 dias,-,-,-,-
+1717326,Cancelamento em Andamento,orion.martins@nava.com.br,-,14/05/2025 13:50,08/08/2025 18:56,-,86.21 dias,-,-,-,-
+1717326,Encerrados (Ativos e Cancelados),fabiano.uoya@nava.com.br,-,08/08/2025 18:56,-,-,-,-,-,-,-
+1485018,Viabilidade,-,-,30/01/2025 17:12,03/02/2025 12:59,-,3.82 dias,-,-,-,-
+1485018,Comercial,lucass.ramos@nava.com.br,-,03/02/2025 12:59,10/03/2025 17:27,-,35.19 dias,-,-,-,-
+1485018,Solicitação de Contratação,luana.leites@nava.com.br,-,10/03/2025 17:27,26/03/2025 08:58,-,15.65 dias,-,-,-,-
+1485018,Suprimentos,fabiano.uoya@nava.com.br,-,26/03/2025 08:58,09/04/2025 12:00,-,14.13 dias,-,-,-,-
+1485018,Solicitação de Contratação,nicolly.barbosa@nava.com.br,-,09/04/2025 12:00,11/04/2025 10:50,-,1.95 dias,-,-,-,-
+1485018,Suprimentos,fabiano.uoya@nava.com.br,-,11/04/2025 10:50,06/05/2025 08:22,-,24.9 dias,-,-,-,-
+1485018,Viabilidade,anny.araujo@nava.com.br,-,06/05/2025 08:22,09/05/2025 17:26,-,3.38 dias,-,-,-,-
+1485018,Solicitação de Contratação,fabiano.uoya@nava.com.br,-,09/05/2025 17:26,23/06/2025 08:54,-,44.64 dias,-,-,-,-
+1485018,Suprimentos,fabiano.uoya@nava.com.br,-,23/06/2025 08:54,18/07/2025 09:07,-,25.01 dias,-,-,-,-
+1485018,Solicitação de Contratação,vinicius.alexandre@nava.com.br,-,18/07/2025 09:07,06/08/2025 13:18,-,19.17 dias,-,-,-,-
+1485018,Pendência do Cliente,stefani.santos@nava.com.br,-,06/08/2025 13:18,07/08/2025 14:12,-,1.04 dias,-,-,-,-
+1485018,Solicitação de Contratação,stefani.santos@nava.com.br,-,07/08/2025 14:12,08/08/2025 16:33,-,1.1 dias,-,-,-,-
+1485018,Comercial,fabiano.uoya@nava.com.br,-,08/08/2025 16:33,08/08/2025 17:52,-,0.06 dias,-,-,-,-
+1485018,Suprimentos,fabiano.uoya@nava.com.br,-,08/08/2025 17:52,-,-,-,-,-,-,-
+1788893,Viabilidade,-,-,23/06/2025 10:48,04/07/2025 12:26,-,11.07 dias,-,-,-,-
+1788893,Comercial,lucass.ramos@nava.com.br,-,04/07/2025 12:26,-,-,-,-,-,-,-
+1835871,Viabilidade,-,-,16/07/2025 17:02,16/07/2025 17:02,-,0.0 dias,-,-,-,-
+1835871,Cancelamento em Andamento,integracao-planilha-orion,-,16/07/2025 17:02,08/08/2025 16:11,-,22.96 dias,-,-,-,-
+1835871,Implantação,gabriels.santos@nava.com.br,-,08/08/2025 16:11,-,-,-,-,-,-,-
+1875425,Viabilidade,-,-,08/08/2025 17:11,08/08/2025 17:11,-,0.0 dias,-,-,-,-
+1875425,Encerrados (Ativos e Cancelados),anny.araujo@nava.com.br,-,08/08/2025 17:11,-,-,-,-,-,-,-
+1874664,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 12:03,-,0.03 dias,-,-,-,-
+1874664,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 12:03,-,-,-,-,-,-,-
+1874665,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 12:03,-,0.03 dias,-,-,-,-
+1874665,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 12:03,-,-,-,-,-,-,-
+1874666,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 12:02,-,0.03 dias,-,-,-,-
+1874666,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 12:02,-,-,-,-,-,-,-
+1874667,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 12:01,-,0.03 dias,-,-,-,-
+1874667,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 12:01,-,-,-,-,-,-,-
+1874668,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:59,-,0.02 dias,-,-,-,-
+1874668,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:59,-,-,-,-,-,-,-
+1874669,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:58,-,0.02 dias,-,-,-,-
+1874669,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:58,-,-,-,-,-,-,-
+1874670,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:57,-,0.02 dias,-,-,-,-
+1874670,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:57,-,-,-,-,-,-,-
+1874671,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:56,-,0.02 dias,-,-,-,-
+1874671,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:56,-,-,-,-,-,-,-
+1874672,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:55,-,0.02 dias,-,-,-,-
+1874672,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:55,-,-,-,-,-,-,-
+1874673,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:54,-,0.02 dias,-,-,-,-
+1874673,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:54,-,-,-,-,-,-,-
+1874674,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:53,-,0.02 dias,-,-,-,-
+1874674,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:53,-,-,-,-,-,-,-
+1874675,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:52,-,0.02 dias,-,-,-,-
+1874675,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:52,-,-,-,-,-,-,-
+1874676,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:51,-,0.02 dias,-,-,-,-
+1874676,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:51,-,-,-,-,-,-,-
+1874677,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:49,-,0.02 dias,-,-,-,-
+1874677,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:49,-,-,-,-,-,-,-
+1875446,Viabilidade,-,-,08/08/2025 17:18,08/08/2025 17:18,-,0.0 dias,-,-,-,-
+1875446,Encerrados (Ativos e Cancelados),anny.araujo@nava.com.br,-,08/08/2025 17:18,-,-,-,-,-,-,-
+1874679,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:47,-,0.02 dias,-,-,-,-
+1874679,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:47,-,-,-,-,-,-,-
+1874680,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:46,-,0.01 dias,-,-,-,-
+1874680,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:46,-,-,-,-,-,-,-
+1874681,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:44,-,0.01 dias,-,-,-,-
+1874681,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:44,-,-,-,-,-,-,-
+1874682,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:43,-,0.01 dias,-,-,-,-
+1874682,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:43,-,-,-,-,-,-,-
+1874683,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:42,-,0.01 dias,-,-,-,-
+1874683,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:42,-,-,-,-,-,-,-
+1874684,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:41,-,0.01 dias,-,-,-,-
+1874684,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:41,-,-,-,-,-,-,-
+1874685,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:39,-,0.01 dias,-,-,-,-
+1874685,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:39,-,-,-,-,-,-,-
+1874686,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:38,-,0.01 dias,-,-,-,-
+1874686,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:38,-,-,-,-,-,-,-
+1874687,Viabilidade,-,-,08/08/2025 11:24,08/08/2025 11:37,-,0.01 dias,-,-,-,-
+1874687,Cancelamento em Andamento,integracao-planilha-brendow,-,08/08/2025 11:37,-,-,-,-,-,-,-

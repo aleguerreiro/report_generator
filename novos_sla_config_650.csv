@@ -1,0 +1,10 @@
+ID da Ordem,Etapa,Modificado por,SLA,Data Início Execução,Data Final Execução,Prazo Máximo,Duração Total,Duração Útil,Status SLA,Excedido Total (min),Excedido Útil (min)
+1875051,Em preenchimento,-,-,08/08/2025 14:31,08/08/2025 14:34,-,0.0 dias,-,-,-,-
+1875051,Concluído,-,-,08/08/2025 14:34,-,-,-,-,-,-,-
+1874732,Em preenchimento,-,-,08/08/2025 11:44,08/08/2025 11:45,-,0.0 dias,-,-,-,-
+1874732,Aguardando Atendimento,-,-,08/08/2025 11:45,08/08/2025 15:11,-,0.14 dias,-,-,-,-
+1874732,Concluído,atendimento@penetron.com.br,-,08/08/2025 15:11,-,-,-,-,-,-,-
+1875237,Em preenchimento,-,-,08/08/2025 15:35,09/08/2025 15:36,-,1.0 dias,-,-,-,-
+1875237,Concluído,-,-,09/08/2025 15:36,-,-,-,-,-,-,-
+1874983,Em preenchimento,-,-,08/08/2025 13:56,08/08/2025 15:22,-,0.06 dias,-,-,-,-
+1874983,Concluído,atendimento@penetron.com.br,-,08/08/2025 15:22,-,-,-,-,-,-,-

@@ -1,0 +1,1304 @@
+ID da Ordem,Etapa,Modificado por,SLA,Data Início Execução,Data Final Execução,Prazo Máximo,Duração Total,Duração Útil,Status SLA,Excedido Total (min),Excedido Útil (min)
+1759235,📦 Pedido Criado,-,-,06/06/2025 12:24,31/07/2025 21:01,-,55.36 dias,-,-,-,-
+1759235,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 16:13,04/08/2025 15:00,4.8 dias,1.09 dias,Atrasado,1513.88,613.87
+1759235,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,05/08/2025 16:13,08/08/2025 09:06,07/08/2025 14:14,2.7 dias,0.83 dias,Atrasado,1132.21,232.2
+1759235,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/08/2025 09:06,-,11/08/2025 09:07,-,-,-,-,-
+1740804,📦 Pedido Criado,-,-,28/05/2025 10:41,31/07/2025 21:01,-,64.43 dias,-,-,-,-
+1740804,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 17:01,04/08/2025 15:00,5.83 dias,1.5 dias,Atrasado,3001.65,1200.0
+1740804,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 17:01,-,08/08/2025 15:00,-,-,-,-,-
+1851398,📦 Pedido Criado,-,-,23/07/2025 10:29,31/07/2025 21:01,-,8.44 dias,-,-,-,-
+1851398,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1636359,📦 Pedido Criado,-,-,09/04/2025 12:58,31/07/2025 21:01,-,113.34 dias,-,-,-,-
+1636359,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1695757,📦 Pedido Criado,-,-,02/05/2025 14:34,02/05/2025 15:00,-,0.02 dias,-,-,-,-
+1695757,🛠 Assessoria,integracao-projetoisp,16:00 Horas,02/05/2025 15:00,16/07/2025 12:27,06/05/2025 13:01,74.89 dias,19.77 dias,Atrasado,102206.31,27506.3
+1695757,🧑‍💻 Supply,assessoriasolutions003@gmail.com,16:00 Horas,16/07/2025 12:27,16/07/2025 12:27,18/07/2025 10:28,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1695757,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,16/07/2025 12:27,06/08/2025 10:03,18/07/2025 10:28,20.9 dias,5.53 dias,Atrasado,27335.88,6995.87
+1695757,🛠 Assessoria,maik.santos@nava.com.br,16:00 Horas,06/08/2025 10:03,06/08/2025 10:04,08/08/2025 08:04,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1695757,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),maik.santos@nava.com.br,16:00 Horas,06/08/2025 10:04,06/08/2025 12:09,08/08/2025 08:05,0.09 dias,0.09 dias,Dentro do SLA,0,0
+1695757,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 12:09,09/08/2025 04:36,07/08/2025 12:10,2.68 dias,0.95 dias,Atrasado,2426.01,830.0
+1695757,✅ Pagamento Realizado,integracao-projetoisp,-,09/08/2025 04:36,-,-,-,-,-,-,-
+1765401,📦 Pedido Criado,-,-,09/06/2025 17:24,31/07/2025 21:01,-,52.15 dias,-,-,-,-
+1765401,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 21:36,04/08/2025 15:00,6.02 dias,1.5 dias,Atrasado,3276.09,1200.0
+1765401,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,06/08/2025 21:36,08/08/2025 18:06,08/08/2025 15:00,1.85 dias,0.75 dias,Atrasado,186.9,120.0
+1765401,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/08/2025 18:06,-,11/08/2025 17:00,-,-,-,-,-
+1767450,📦 Pedido Criado,-,-,10/06/2025 15:06,31/07/2025 21:01,-,51.25 dias,-,-,-,-
+1767450,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1759258,📦 Pedido Criado,-,-,06/06/2025 12:31,31/07/2025 21:01,-,55.35 dias,-,-,-,-
+1759258,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 16:13,04/08/2025 15:00,4.8 dias,1.09 dias,Atrasado,1513.88,613.87
+1759258,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,05/08/2025 16:13,08/08/2025 09:05,07/08/2025 14:14,2.7 dias,0.83 dias,Atrasado,1131.96,231.95
+1759258,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/08/2025 09:05,-,11/08/2025 09:06,-,-,-,-,-
+1851420,📦 Pedido Criado,-,-,23/07/2025 10:34,31/07/2025 21:01,-,8.43 dias,-,-,-,-
+1851420,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1740828,📦 Pedido Criado,-,-,28/05/2025 10:48,31/07/2025 21:01,-,64.43 dias,-,-,-,-
+1740828,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 17:01,04/08/2025 15:00,5.83 dias,1.5 dias,Atrasado,3001.65,1200.0
+1740828,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 17:01,-,08/08/2025 15:00,-,-,-,-,-
+1638427,📦 Pedido Criado,-,-,09/04/2025 14:35,31/07/2025 21:01,-,113.27 dias,-,-,-,-
+1638427,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1636378,📦 Pedido Criado,-,-,09/04/2025 13:01,31/07/2025 21:01,-,113.33 dias,-,-,-,-
+1636378,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 09:03,04/08/2025 15:00,6.5 dias,1.54 dias,Atrasado,3963.3,1263.3
+1636378,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,07/08/2025 09:03,08/08/2025 18:17,08/08/2025 16:04,1.38 dias,0.71 dias,Atrasado,133.1,56.0
+1636378,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/08/2025 18:17,-,11/08/2025 17:00,-,-,-,-,-
+1773607,📦 Pedido Criado,-,-,13/06/2025 17:39,31/07/2025 21:01,-,48.14 dias,-,-,-,-
+1773607,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1775657,📦 Pedido Criado,-,-,16/06/2025 16:26,31/07/2025 21:01,-,45.19 dias,-,-,-,-
+1775657,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,04/08/2025 08:57,04/08/2025 15:00,3.5 dias,0.41 dias,Dentro do SLA,0,0
+1775657,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,04/08/2025 08:57,06/08/2025 12:03,05/08/2025 15:58,2.13 dias,0.88 dias,Atrasado,1205.88,305.87
+1775657,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 12:03,-,07/08/2025 12:04,-,-,-,-,-
+1636394,📦 Pedido Criado,-,-,09/04/2025 13:01,31/07/2025 21:01,-,113.33 dias,-,-,-,-
+1636394,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1749041,📦 Pedido Criado,-,-,31/05/2025 12:28,31/07/2025 21:01,-,61.36 dias,-,-,-,-
+1749041,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1740851,📦 Pedido Criado,-,-,28/05/2025 10:52,31/07/2025 21:01,-,64.42 dias,-,-,-,-
+1740851,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 17:01,04/08/2025 15:00,5.83 dias,1.5 dias,Atrasado,3001.65,1200.0
+1740851,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 17:01,08/08/2025 17:26,08/08/2025 15:00,2.02 dias,0.75 dias,Atrasado,146.61,120.0
+1740851,🛠 Assessoria,ana.prevelato@nava.com.br,16:00 Horas,08/08/2025 17:26,-,12/08/2025 15:00,-,-,-,-,-
+1679412,📦 Pedido Criado,-,-,28/04/2025 09:46,31/07/2025 21:01,-,94.47 dias,-,-,-,-
+1679412,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 17:02,04/08/2025 15:00,0.83 dias,0.38 dias,Dentro do SLA,0,0
+1679412,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,01/08/2025 17:02,05/08/2025 15:10,05/08/2025 15:00,3.92 dias,0.67 dias,Atrasado,10.62,10.62
+1679412,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 15:10,-,06/08/2025 15:11,-,-,-,-,-
+1636412,📦 Pedido Criado,-,-,09/04/2025 13:02,31/07/2025 21:01,-,113.33 dias,-,-,-,-
+1636412,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 08:17,04/08/2025 15:00,4.47 dias,0.76 dias,Atrasado,1037.32,137.32
+1636412,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 08:17,06/08/2025 15:18,06/08/2025 15:18,1.29 dias,0.67 dias,Atrasado,0.0,0.0
+1636412,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 15:18,-,07/08/2025 15:19,-,-,-,-,-
+1638473,📦 Pedido Criado,-,-,09/04/2025 14:40,31/07/2025 21:01,-,113.26 dias,-,-,-,-
+1638473,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1636429,📦 Pedido Criado,-,-,09/04/2025 13:04,31/07/2025 21:01,-,113.33 dias,-,-,-,-
+1636429,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 15:06,04/08/2025 15:00,0.75 dias,0.3 dias,Dentro do SLA,0,0
+1636429,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,01/08/2025 15:06,05/08/2025 12:20,05/08/2025 13:07,3.88 dias,0.63 dias,Dentro do SLA,0,0
+1636429,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 12:20,-,06/08/2025 12:21,-,-,-,-,-
+1749070,📦 Pedido Criado,-,-,31/05/2025 12:45,31/07/2025 21:01,-,61.34 dias,-,-,-,-
+1749070,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1740878,📦 Pedido Criado,-,-,28/05/2025 11:00,31/07/2025 21:01,-,64.42 dias,-,-,-,-
+1740878,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1851473,📦 Pedido Criado,-,-,23/07/2025 11:05,31/07/2025 21:01,-,8.41 dias,-,-,-,-
+1851473,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1759314,📦 Pedido Criado,-,-,06/06/2025 13:01,08/08/2025 11:55,-,62.95 dias,-,-,-,-
+1759314,✅ Pagamento Realizado,integracao-projetoisp,-,08/08/2025 11:55,-,-,-,-,-,-,-
+1716309,📦 Pedido Criado,-,-,13/05/2025 16:51,31/07/2025 21:01,-,79.17 dias,-,-,-,-
+1716309,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1794135,📦 Pedido Criado,-,-,26/06/2025 11:17,31/07/2025 21:01,-,35.41 dias,-,-,-,-
+1794135,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 22:13,04/08/2025 15:00,6.05 dias,1.5 dias,Atrasado,3313.39,1200.0
+1794135,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,06/08/2025 22:13,-,08/08/2025 15:00,-,-,-,-,-
+1759322,📦 Pedido Criado,-,-,06/06/2025 13:02,08/08/2025 11:55,-,62.95 dias,-,-,-,-
+1759322,✅ Pagamento Realizado,integracao-projetoisp,-,08/08/2025 11:55,-,-,-,-,-,-,-
+1863771,📦 Pedido Criado,-,-,30/07/2025 14:48,31/07/2025 21:01,-,1.26 dias,-,-,-,-
+1863771,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 14:21,04/08/2025 15:00,7.72 dias,2.14 dias,Atrasado,5721.96,2121.95
+1863771,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,08/08/2025 14:21,-,12/08/2025 12:22,-,-,-,-,-
+1638495,📦 Pedido Criado,-,-,09/04/2025 14:41,31/07/2025 21:01,-,113.26 dias,-,-,-,-
+1638495,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 10:19,04/08/2025 15:00,0.55 dias,0.1 dias,Dentro do SLA,0,0
+1638495,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,01/08/2025 10:19,04/08/2025 15:18,05/08/2025 08:20,3.21 dias,0.58 dias,Dentro do SLA,0,0
+1638495,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 15:18,-,05/08/2025 15:19,-,-,-,-,-
+1636450,📦 Pedido Criado,-,-,09/04/2025 13:05,31/07/2025 21:01,-,113.33 dias,-,-,-,-
+1636450,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 16:27,04/08/2025 15:00,5.81 dias,1.48 dias,Atrasado,2967.14,1167.13
+1636450,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 16:27,07/08/2025 18:17,08/08/2025 14:28,1.08 dias,0.4 dias,Dentro do SLA,0,0
+1636450,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 18:17,-,08/08/2025 17:00,-,-,-,-,-
+1794148,📦 Pedido Criado,-,-,26/06/2025 11:23,31/07/2025 21:01,-,35.4 dias,-,-,-,-
+1794148,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 15:53,04/08/2025 15:00,4.79 dias,1.08 dias,Atrasado,1493.34,593.33
+1794148,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 15:53,07/08/2025 15:05,07/08/2025 13:54,1.97 dias,0.72 dias,Atrasado,71.11,71.1
+1794148,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 15:05,-,08/08/2025 15:06,-,-,-,-,-
+1759336,📦 Pedido Criado,-,-,06/06/2025 13:02,31/07/2025 21:01,-,55.33 dias,-,-,-,-
+1759336,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 16:06,04/08/2025 15:00,4.8 dias,1.09 dias,Atrasado,1506.39,606.38
+1759336,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,05/08/2025 16:06,07/08/2025 18:07,07/08/2025 14:07,2.08 dias,0.79 dias,Atrasado,240.92,173.0
+1759336,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 18:07,-,08/08/2025 17:00,-,-,-,-,-
+1851498,📦 Pedido Criado,-,-,23/07/2025 11:12,31/07/2025 21:01,-,8.41 dias,-,-,-,-
+1851498,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1749100,📦 Pedido Criado,-,-,31/05/2025 12:53,31/07/2025 21:01,-,61.34 dias,-,-,-,-
+1749100,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1794159,📦 Pedido Criado,-,-,26/06/2025 11:24,31/07/2025 21:01,-,35.4 dias,-,-,-,-
+1794159,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 22:06,04/08/2025 15:00,6.05 dias,1.5 dias,Atrasado,3306.8,1200.0
+1794159,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,06/08/2025 22:06,-,08/08/2025 15:00,-,-,-,-,-
+1638512,📦 Pedido Criado,-,-,09/04/2025 14:42,31/07/2025 21:01,-,113.26 dias,-,-,-,-
+1638512,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 15:03,04/08/2025 15:00,4.75 dias,1.04 dias,Atrasado,1443.82,543.82
+1638512,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 15:03,07/08/2025 15:14,07/08/2025 13:04,2.01 dias,0.76 dias,Atrasado,130.98,130.97
+1638512,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 15:14,-,08/08/2025 15:15,-,-,-,-,-
+1636468,📦 Pedido Criado,-,-,09/04/2025 13:05,31/07/2025 21:01,-,113.33 dias,-,-,-,-
+1636468,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1851510,📦 Pedido Criado,-,-,23/07/2025 11:14,23/07/2025 11:14,-,0.0 dias,-,-,-,-
+1851510,🧑‍💻 Supply,thais.roberta@nava.com.br,16:00 Horas,23/07/2025 11:14,23/07/2025 11:45,25/07/2025 09:15,0.02 dias,0.02 dias,Dentro do SLA,0,0
+1851510,🛠 Assessoria,thais.roberta@nava.com.br,16:00 Horas,23/07/2025 11:45,25/07/2025 10:59,25/07/2025 09:46,1.97 dias,0.72 dias,Atrasado,73.55,73.55
+1851510,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,25/07/2025 10:59,28/07/2025 12:02,29/07/2025 09:00,3.04 dias,0.42 dias,Dentro do SLA,0,0
+1851510,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,28/07/2025 12:02,29/07/2025 14:07,29/07/2025 12:03,1.09 dias,0.46 dias,Atrasado,124.52,124.52
+1851510,🧑‍💻 Supply,ana.prevelato@nava.com.br,16:00 Horas,29/07/2025 14:07,29/07/2025 16:41,31/07/2025 12:08,0.11 dias,0.11 dias,Dentro do SLA,0,0
+1851510,🛠 Assessoria,thais.roberta@nava.com.br,16:00 Horas,29/07/2025 16:41,30/07/2025 10:38,31/07/2025 14:42,0.75 dias,0.12 dias,Dentro do SLA,0,0
+1851510,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,30/07/2025 10:38,31/07/2025 09:14,01/08/2025 08:39,0.94 dias,0.32 dias,Dentro do SLA,0,0
+1851510,🛠 Assessoria,ana.prevelato@nava.com.br,16:00 Horas,31/07/2025 09:14,31/07/2025 12:40,01/08/2025 16:15,0.14 dias,0.14 dias,Dentro do SLA,0,0
+1851510,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,31/07/2025 12:40,31/07/2025 15:02,04/08/2025 10:41,0.1 dias,0.1 dias,Dentro do SLA,0,0
+1851510,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,31/07/2025 15:02,09/08/2025 04:11,01/08/2025 15:03,8.55 dias,2.33 dias,Atrasado,10868.12,2817.0
+1851510,✅ Pagamento Realizado,integracao-projetoisp,-,09/08/2025 04:11,-,-,-,-,-,-,-
+1833084,📦 Pedido Criado,-,-,15/07/2025 15:12,31/07/2025 21:01,-,16.24 dias,-,-,-,-
+1833084,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1851516,📦 Pedido Criado,-,-,23/07/2025 11:17,31/07/2025 21:01,-,8.41 dias,-,-,-,-
+1851516,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1794179,📦 Pedido Criado,-,-,26/06/2025 11:28,31/07/2025 21:01,-,35.4 dias,-,-,-,-
+1794179,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 15:53,04/08/2025 15:00,4.79 dias,1.08 dias,Atrasado,1493.34,593.33
+1794179,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 15:53,07/08/2025 18:05,07/08/2025 13:54,2.09 dias,0.8 dias,Atrasado,251.65,186.0
+1794179,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 18:05,-,08/08/2025 17:00,-,-,-,-,-
+1738883,📦 Pedido Criado,-,-,27/05/2025 09:26,31/07/2025 21:01,-,65.48 dias,-,-,-,-
+1738883,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1636485,📦 Pedido Criado,-,-,09/04/2025 13:06,31/07/2025 21:01,-,113.33 dias,-,-,-,-
+1636485,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 09:48,04/08/2025 15:00,4.53 dias,0.83 dias,Atrasado,1128.13,228.12
+1636485,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,05/08/2025 09:48,06/08/2025 18:16,06/08/2025 16:49,1.35 dias,0.67 dias,Atrasado,87.59,11.0
+1636485,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 18:16,-,07/08/2025 17:00,-,-,-,-,-
+1851526,📦 Pedido Criado,-,-,23/07/2025 11:19,31/07/2025 21:01,-,8.4 dias,-,-,-,-
+1851526,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 08:42,04/08/2025 15:00,0.49 dias,0.03 dias,Dentro do SLA,0,0
+1851526,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,01/08/2025 08:42,01/08/2025 15:02,04/08/2025 15:43,0.26 dias,0.26 dias,Dentro do SLA,0,0
+1851526,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,01/08/2025 15:02,-,04/08/2025 15:03,-,-,-,-,-
+1638534,📦 Pedido Criado,-,-,09/04/2025 14:42,31/07/2025 21:01,-,113.26 dias,-,-,-,-
+1638534,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 15:19,04/08/2025 15:00,0.76 dias,0.31 dias,Dentro do SLA,0,0
+1638534,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,01/08/2025 15:19,04/08/2025 21:25,05/08/2025 13:20,3.25 dias,0.44 dias,Dentro do SLA,0,0
+1638534,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 21:25,-,05/08/2025 17:00,-,-,-,-,-
+1740938,📦 Pedido Criado,-,-,28/05/2025 11:30,31/07/2025 21:01,-,64.4 dias,-,-,-,-
+1740938,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1759374,📦 Pedido Criado,-,-,06/06/2025 13:14,31/07/2025 21:01,-,55.32 dias,-,-,-,-
+1759374,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 16:06,04/08/2025 15:00,4.8 dias,1.09 dias,Atrasado,1506.39,606.38
+1759374,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,05/08/2025 16:06,07/08/2025 18:07,07/08/2025 14:07,2.08 dias,0.79 dias,Atrasado,240.67,173.0
+1759374,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 18:07,-,08/08/2025 17:00,-,-,-,-,-
+1636504,📦 Pedido Criado,-,-,09/04/2025 13:07,07/07/2025 22:41,-,89.4 dias,-,-,-,-
+1636504,🛠 Assessoria,assessoriasolutions001@gmail.com,16:00 Horas,07/07/2025 22:41,07/07/2025 22:42,09/07/2025 15:00,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1636504,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,07/07/2025 22:42,08/07/2025 12:17,09/07/2025 15:00,0.57 dias,0.18 dias,Dentro do SLA,0,0
+1636504,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/07/2025 12:17,-,09/07/2025 12:18,-,-,-,-,-
+1738907,📦 Pedido Criado,-,-,27/05/2025 09:32,31/07/2025 21:01,-,65.48 dias,-,-,-,-
+1738907,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1759389,📦 Pedido Criado,-,-,06/06/2025 13:15,31/07/2025 21:01,-,55.32 dias,-,-,-,-
+1759389,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1851553,📦 Pedido Criado,-,-,23/07/2025 11:20,23/07/2025 11:20,-,0.0 dias,-,-,-,-
+1851553,🧑‍💻 Supply,thais.roberta@nava.com.br,16:00 Horas,23/07/2025 11:20,23/07/2025 11:49,25/07/2025 09:21,0.02 dias,0.02 dias,Dentro do SLA,0,0
+1851553,🛠 Assessoria,thais.roberta@nava.com.br,16:00 Horas,23/07/2025 11:49,25/07/2025 11:03,25/07/2025 09:50,1.97 dias,0.72 dias,Atrasado,73.99,73.98
+1851553,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,25/07/2025 11:03,05/08/2025 15:21,29/07/2025 09:04,11.18 dias,2.8 dias,Atrasado,10457.29,3077.28
+1851553,🛠 Assessoria,ana.prevelato@nava.com.br,16:00 Horas,05/08/2025 15:21,-,07/08/2025 13:22,-,-,-,-,-
+1718433,📦 Pedido Criado,-,-,15/05/2025 10:12,31/07/2025 21:01,-,77.45 dias,-,-,-,-
+1718433,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1794212,📦 Pedido Criado,-,-,26/06/2025 11:33,31/07/2025 21:01,-,35.39 dias,-,-,-,-
+1794212,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 15:53,04/08/2025 15:00,4.79 dias,1.08 dias,Atrasado,1493.34,593.33
+1794212,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 15:53,07/08/2025 18:05,07/08/2025 13:54,2.09 dias,0.8 dias,Atrasado,251.38,186.0
+1794212,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 18:05,-,08/08/2025 17:00,-,-,-,-,-
+1638570,📦 Pedido Criado,-,-,09/04/2025 14:44,31/07/2025 21:01,-,113.26 dias,-,-,-,-
+1638570,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 10:47,04/08/2025 15:00,5.57 dias,1.24 dias,Atrasado,2627.3,827.3
+1638570,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 10:47,08/08/2025 15:14,08/08/2025 08:48,2.19 dias,0.94 dias,Atrasado,386.61,386.6
+1638570,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/08/2025 15:14,-,11/08/2025 15:15,-,-,-,-,-
+1636525,📦 Pedido Criado,-,-,09/04/2025 13:09,31/07/2025 21:01,-,113.33 dias,-,-,-,-
+1636525,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 08:55,04/08/2025 15:00,7.5 dias,1.91 dias,Atrasado,5395.13,1795.12
+1636525,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,08/08/2025 08:55,-,11/08/2025 15:56,-,-,-,-,-
+1851566,📦 Pedido Criado,-,-,23/07/2025 11:26,31/07/2025 21:01,-,8.4 dias,-,-,-,-
+1851566,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1738926,📦 Pedido Criado,-,-,27/05/2025 09:37,31/07/2025 21:01,-,65.48 dias,-,-,-,-
+1738926,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1835195,📦 Pedido Criado,-,-,16/07/2025 13:50,31/07/2025 21:01,-,15.3 dias,-,-,-,-
+1835195,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1759421,📦 Pedido Criado,-,-,06/06/2025 13:20,31/07/2025 21:01,-,55.32 dias,-,-,-,-
+1759421,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 15:58,04/08/2025 15:00,4.79 dias,1.08 dias,Atrasado,1498.96,598.95
+1759421,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,05/08/2025 15:58,07/08/2025 18:07,07/08/2025 13:59,2.09 dias,0.79 dias,Atrasado,248.43,181.0
+1759421,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 18:07,-,08/08/2025 17:00,-,-,-,-,-
+1851582,📦 Pedido Criado,-,-,23/07/2025 11:31,23/07/2025 11:31,-,0.0 dias,-,-,-,-
+1851582,🧑‍💻 Supply,thais.roberta@nava.com.br,16:00 Horas,23/07/2025 11:31,23/07/2025 11:49,25/07/2025 09:32,0.01 dias,0.01 dias,Dentro do SLA,0,0
+1851582,🛠 Assessoria,thais.roberta@nava.com.br,16:00 Horas,23/07/2025 11:49,25/07/2025 11:06,25/07/2025 09:50,1.97 dias,0.72 dias,Atrasado,76.48,76.47
+1851582,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,25/07/2025 11:06,28/07/2025 12:02,29/07/2025 09:07,3.04 dias,0.41 dias,Dentro do SLA,0,0
+1851582,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,28/07/2025 12:02,29/07/2025 14:18,29/07/2025 12:03,1.09 dias,0.47 dias,Atrasado,135.51,135.5
+1851582,🧑‍💻 Supply,ana.prevelato@nava.com.br,16:00 Horas,29/07/2025 14:18,31/07/2025 16:07,31/07/2025 12:19,2.08 dias,0.83 dias,Atrasado,228.28,228.27
+1851582,🛠 Assessoria,thais.roberta@nava.com.br,16:00 Horas,31/07/2025 16:07,01/08/2025 07:36,04/08/2025 14:08,0.65 dias,0.04 dias,Dentro do SLA,0,0
+1851582,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,01/08/2025 07:36,01/08/2025 15:02,04/08/2025 15:00,0.31 dias,0.29 dias,Dentro do SLA,0,0
+1851582,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,01/08/2025 15:02,09/08/2025 04:10,04/08/2025 15:03,7.55 dias,1.96 dias,Atrasado,6547.62,2277.0
+1851582,✅ Pagamento Realizado,integracao-projetoisp,-,09/08/2025 04:10,-,-,-,-,-,-,-
+1636545,📦 Pedido Criado,-,-,09/04/2025 13:09,31/07/2025 21:01,-,113.33 dias,-,-,-,-
+1636545,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1640643,📦 Pedido Criado,-,-,10/04/2025 13:21,31/07/2025 21:01,-,112.32 dias,-,-,-,-
+1640643,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1714383,📦 Pedido Criado,-,-,12/05/2025 14:40,31/07/2025 21:01,-,80.26 dias,-,-,-,-
+1714383,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1759447,📦 Pedido Criado,-,-,06/06/2025 13:29,31/07/2025 21:01,-,55.31 dias,-,-,-,-
+1759447,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 15:58,04/08/2025 15:00,4.79 dias,1.08 dias,Atrasado,1498.96,598.95
+1759447,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,05/08/2025 15:58,07/08/2025 18:07,07/08/2025 13:59,2.09 dias,0.79 dias,Atrasado,248.17,181.0
+1759447,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 18:07,-,08/08/2025 17:00,-,-,-,-,-
+1636567,📦 Pedido Criado,-,-,09/04/2025 13:10,31/07/2025 21:01,-,113.33 dias,-,-,-,-
+1636567,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 15:38,04/08/2025 15:00,4.78 dias,1.07 dias,Atrasado,1478.79,578.78
+1636567,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 15:38,07/08/2025 12:16,07/08/2025 13:39,1.86 dias,0.61 dias,Dentro do SLA,0,0
+1636567,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 12:16,09/08/2025 06:03,08/08/2025 12:17,1.74 dias,0.57 dias,Atrasado,1067.0,283.0
+1636567,✅ Pagamento Realizado,integracao-projetoisp,-,09/08/2025 06:03,-,-,-,-,-,-,-
+1638628,📦 Pedido Criado,-,-,09/04/2025 14:48,31/07/2025 21:01,-,113.26 dias,-,-,-,-
+1638628,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1714417,📦 Pedido Criado,-,-,12/05/2025 14:49,31/07/2025 21:01,-,80.26 dias,-,-,-,-
+1714417,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1741046,📦 Pedido Criado,-,-,28/05/2025 12:12,31/07/2025 21:01,-,64.37 dias,-,-,-,-
+1741046,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1687807,📦 Pedido Criado,-,-,30/04/2025 10:37,31/07/2025 21:01,-,92.43 dias,-,-,-,-
+1687807,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1720589,📦 Pedido Criado,-,-,16/05/2025 16:29,31/07/2025 21:01,-,76.19 dias,-,-,-,-
+1720589,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 16:22,04/08/2025 15:00,0.81 dias,0.35 dias,Dentro do SLA,0,0
+1720589,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 16:22,05/08/2025 12:10,05/08/2025 14:23,3.82 dias,0.57 dias,Dentro do SLA,0,0
+1720589,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 12:10,-,06/08/2025 12:11,-,-,-,-,-
+1640725,📦 Pedido Criado,-,-,10/04/2025 13:30,31/07/2025 21:01,-,112.31 dias,-,-,-,-
+1640725,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1704217,📦 Pedido Criado,-,-,07/05/2025 09:01,31/07/2025 21:01,-,85.5 dias,-,-,-,-
+1704217,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 10:01,04/08/2025 15:00,4.54 dias,0.83 dias,Atrasado,1141.7,241.68
+1704217,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,05/08/2025 10:01,06/08/2025 18:09,07/08/2025 08:02,1.34 dias,0.67 dias,Dentro do SLA,0,0
+1704217,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 18:09,-,07/08/2025 17:00,-,-,-,-,-
+1636633,📦 Pedido Criado,-,-,09/04/2025 13:15,31/07/2025 21:01,-,113.32 dias,-,-,-,-
+1636633,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1753381,📦 Pedido Criado,-,-,03/06/2025 11:08,03/06/2025 11:09,-,0.0 dias,-,-,-,-
+1753381,🧑‍💻 Supply,anny.araujo@nava.com.br,16:00 Horas,03/06/2025 11:09,03/06/2025 11:10,05/06/2025 09:10,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1753381,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),anny.araujo@nava.com.br,16:00 Horas,03/06/2025 11:10,03/06/2025 11:12,05/06/2025 09:11,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1753381,🧑‍💻 Supply,anny.araujo@nava.com.br,16:00 Horas,03/06/2025 11:12,03/06/2025 11:12,05/06/2025 09:13,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1753381,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),anny.araujo@nava.com.br,16:00 Horas,03/06/2025 11:12,05/06/2025 18:12,05/06/2025 09:13,2.29 dias,0.99 dias,Atrasado,539.9,467.0
+1753381,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/06/2025 18:12,-,06/06/2025 17:00,-,-,-,-,-
+1696040,📦 Pedido Criado,-,-,02/05/2025 15:23,31/07/2025 21:01,-,90.23 dias,-,-,-,-
+1696040,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1636649,📦 Pedido Criado,-,-,09/04/2025 13:15,31/07/2025 21:01,-,113.32 dias,-,-,-,-
+1636649,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 15:23,04/08/2025 15:00,6.77 dias,1.81 dias,Atrasado,4343.4,1643.4
+1636649,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,07/08/2025 15:23,-,11/08/2025 13:24,-,-,-,-,-
+1835310,📦 Pedido Criado,-,-,16/07/2025 14:28,31/07/2025 21:01,-,15.27 dias,-,-,-,-
+1835310,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 16:10,04/08/2025 15:00,0.8 dias,0.34 dias,Dentro do SLA,0,0
+1835310,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 16:10,06/08/2025 09:51,05/08/2025 14:11,4.74 dias,0.86 dias,Atrasado,1180.15,280.15
+1835310,🛠 Assessoria,ana.prevelato@nava.com.br,16:00 Horas,06/08/2025 09:51,06/08/2025 10:42,07/08/2025 16:52,0.04 dias,0.04 dias,Dentro do SLA,0,0
+1835310,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 10:42,08/08/2025 17:23,08/08/2025 08:43,2.28 dias,1.01 dias,Atrasado,520.76,497.0
+1835310,🛠 Assessoria,ana.prevelato@nava.com.br,16:00 Horas,08/08/2025 17:23,-,12/08/2025 15:00,-,-,-,-,-
+1638712,📦 Pedido Criado,-,-,09/04/2025 14:53,30/06/2025 21:01,-,82.26 dias,-,-,-,-
+1638712,🛠 Assessoria,integracao-projetoisp,16:00 Horas,30/06/2025 21:01,11/07/2025 15:07,02/07/2025 15:00,10.75 dias,3.3 dias,Atrasado,12967.04,3787.03
+1638712,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),mfernandesnykiel@gmail.com,16:00 Horas,11/07/2025 15:07,11/07/2025 15:10,15/07/2025 13:08,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1638712,🧑‍💻 Supply,mfernandesnykiel@gmail.com,16:00 Horas,11/07/2025 15:10,11/07/2025 15:10,15/07/2025 13:11,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1638712,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),mfernandesnykiel@gmail.com,16:00 Horas,11/07/2025 15:10,15/07/2025 18:15,15/07/2025 13:11,4.13 dias,0.83 dias,Atrasado,304.68,229.0
+1638712,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,15/07/2025 18:15,-,16/07/2025 17:00,-,-,-,-,-
+1638713,📦 Pedido Criado,-,-,09/04/2025 14:53,31/07/2025 21:01,-,113.26 dias,-,-,-,-
+1638713,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1640762,📦 Pedido Criado,-,-,10/04/2025 13:42,31/07/2025 21:01,-,112.3 dias,-,-,-,-
+1640762,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 09:44,04/08/2025 15:00,5.53 dias,1.2 dias,Atrasado,2564.05,764.03
+1640762,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,06/08/2025 09:44,07/08/2025 18:13,07/08/2025 16:45,1.35 dias,0.68 dias,Atrasado,88.73,15.0
+1640762,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 18:13,-,08/08/2025 17:00,-,-,-,-,-
+1636669,📦 Pedido Criado,-,-,09/04/2025 13:16,31/07/2025 21:01,-,113.32 dias,-,-,-,-
+1636669,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1741120,📦 Pedido Criado,-,-,28/05/2025 12:55,31/07/2025 21:01,-,64.34 dias,-,-,-,-
+1741120,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 07:22,04/08/2025 15:00,6.43 dias,1.5 dias,Atrasado,3862.82,1200.0
+1741120,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,07/08/2025 07:22,08/08/2025 18:09,08/08/2025 15:00,1.45 dias,0.75 dias,Atrasado,189.83,120.0
+1741120,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/08/2025 18:09,-,11/08/2025 17:00,-,-,-,-,-
+1851717,📦 Pedido Criado,-,-,23/07/2025 12:42,31/07/2025 21:01,-,8.35 dias,-,-,-,-
+1851717,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 15:10,04/08/2025 15:00,0.76 dias,0.3 dias,Dentro do SLA,0,0
+1851717,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,01/08/2025 15:10,05/08/2025 12:02,05/08/2025 13:11,3.87 dias,0.62 dias,Dentro do SLA,0,0
+1851717,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 12:02,-,06/08/2025 12:03,-,-,-,-,-
+1638734,📦 Pedido Criado,-,-,09/04/2025 14:54,31/07/2025 21:01,-,113.26 dias,-,-,-,-
+1638734,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 10:13,04/08/2025 15:00,0.55 dias,0.09 dias,Dentro do SLA,0,0
+1638734,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,01/08/2025 10:13,04/08/2025 12:17,05/08/2025 08:14,3.09 dias,0.46 dias,Dentro do SLA,0,0
+1638734,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 12:17,-,05/08/2025 12:18,-,-,-,-,-
+1714512,📦 Pedido Criado,-,-,12/05/2025 15:16,31/07/2025 21:01,-,80.24 dias,-,-,-,-
+1714512,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1636693,📦 Pedido Criado,-,-,09/04/2025 13:17,31/07/2025 21:01,-,113.32 dias,-,-,-,-
+1636693,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 15:22,04/08/2025 15:00,6.76 dias,1.81 dias,Atrasado,4342.95,1642.93
+1636693,🧑‍💻 Supply,gabriels.santos@nava.com.br,16:00 Horas,07/08/2025 15:22,07/08/2025 15:25,11/08/2025 13:23,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1636693,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),gabriels.santos@nava.com.br,16:00 Horas,07/08/2025 15:25,-,11/08/2025 13:26,-,-,-,-,-
+1843542,📦 Pedido Criado,-,-,18/07/2025 15:48,31/07/2025 21:01,-,13.22 dias,-,-,-,-
+1843542,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1767782,📦 Pedido Criado,-,-,10/06/2025 15:56,31/07/2025 21:01,-,51.21 dias,-,-,-,-
+1767782,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1636711,📦 Pedido Criado,-,-,09/04/2025 13:18,31/07/2025 21:01,-,113.32 dias,-,-,-,-
+1636711,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1640817,📦 Pedido Criado,-,-,10/04/2025 13:57,31/07/2025 21:01,-,112.29 dias,-,-,-,-
+1640817,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1638770,📦 Pedido Criado,-,-,09/04/2025 14:55,31/07/2025 21:01,-,113.25 dias,-,-,-,-
+1638770,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 08:26,04/08/2025 15:00,6.48 dias,1.52 dias,Atrasado,3926.01,1226.0
+1638770,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,07/08/2025 08:26,08/08/2025 17:18,08/08/2025 15:27,1.37 dias,0.73 dias,Atrasado,111.22,93.0
+1638770,🛠 Assessoria,ana.prevelato@nava.com.br,16:00 Horas,08/08/2025 17:18,-,12/08/2025 15:00,-,-,-,-,-
+1640832,📦 Pedido Criado,-,-,10/04/2025 13:58,31/07/2025 21:01,-,112.29 dias,-,-,-,-
+1640832,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1638785,📦 Pedido Criado,-,-,09/04/2025 14:57,31/07/2025 21:01,-,113.25 dias,-,-,-,-
+1638785,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1636746,📦 Pedido Criado,-,-,09/04/2025 13:20,31/07/2025 21:01,-,113.32 dias,-,-,-,-
+1636746,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,04/08/2025 12:19,04/08/2025 15:00,3.64 dias,0.56 dias,Dentro do SLA,0,0
+1636746,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,04/08/2025 12:19,04/08/2025 12:19,06/08/2025 10:20,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1636746,🛠 Assessoria,assessoriasolutions003@gmail.com,16:00 Horas,04/08/2025 12:19,04/08/2025 12:19,06/08/2025 10:20,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1636746,🧑‍💻 Supply,assessoriasolutions003@gmail.com,16:00 Horas,04/08/2025 12:19,05/08/2025 08:42,06/08/2025 10:20,0.85 dias,0.22 dias,Dentro do SLA,0,0
+1636746,🛠 Assessoria,anny.araujo@nava.com.br,16:00 Horas,05/08/2025 08:42,07/08/2025 17:25,06/08/2025 15:43,2.36 dias,1.1 dias,Atrasado,1542.3,617.0
+1636746,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),mfernandesnykiel@gmail.com,16:00 Horas,07/08/2025 17:25,07/08/2025 17:26,11/08/2025 15:00,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1636746,🧑‍💻 Supply,mfernandesnykiel@gmail.com,16:00 Horas,07/08/2025 17:26,08/08/2025 09:16,11/08/2025 15:00,0.66 dias,0.05 dias,Dentro do SLA,0,0
+1636746,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),anny.araujo@nava.com.br,16:00 Horas,08/08/2025 09:16,08/08/2025 09:28,11/08/2025 16:17,0.01 dias,0.01 dias,Dentro do SLA,0,0
+1636746,🧑‍💻 Supply,anny.araujo@nava.com.br,16:00 Horas,08/08/2025 09:28,08/08/2025 15:36,11/08/2025 16:29,0.26 dias,0.26 dias,Dentro do SLA,0,0
+1636746,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,08/08/2025 15:36,-,12/08/2025 13:37,-,-,-,-,-
+1843608,📦 Pedido Criado,-,-,18/07/2025 16:05,31/07/2025 21:01,-,13.21 dias,-,-,-,-
+1843608,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 10:14,04/08/2025 15:00,7.55 dias,1.97 dias,Atrasado,5474.07,1874.07
+1843608,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,08/08/2025 10:14,-,12/08/2025 08:15,-,-,-,-,-
+1798554,📦 Pedido Criado,-,-,27/06/2025 11:41,31/07/2025 21:01,-,34.39 dias,-,-,-,-
+1798554,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1687963,📦 Pedido Criado,-,-,30/04/2025 11:18,31/07/2025 21:01,-,92.4 dias,-,-,-,-
+1687963,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1636768,📦 Pedido Criado,-,-,09/04/2025 13:21,31/07/2025 21:01,-,113.32 dias,-,-,-,-
+1636768,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1638823,📦 Pedido Criado,-,-,09/04/2025 14:58,31/07/2025 21:01,-,113.25 dias,-,-,-,-
+1638823,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1638831,📦 Pedido Criado,-,-,09/04/2025 14:58,31/07/2025 21:01,-,113.25 dias,-,-,-,-
+1638831,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1794500,📦 Pedido Criado,-,-,26/06/2025 13:09,29/07/2025 11:44,-,32.94 dias,-,-,-,-
+1794500,🛠 Assessoria,mfernandesnykiel@gmail.com,16:00 Horas,29/07/2025 11:44,29/07/2025 11:45,31/07/2025 09:45,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1794500,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),mfernandesnykiel@gmail.com,16:00 Horas,29/07/2025 11:45,29/07/2025 12:05,31/07/2025 09:46,0.01 dias,0.01 dias,Dentro do SLA,0,0
+1794500,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,29/07/2025 12:05,-,30/07/2025 12:06,-,-,-,-,-
+1638856,📦 Pedido Criado,-,-,09/04/2025 15:00,31/07/2025 21:01,-,113.25 dias,-,-,-,-
+1638856,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 14:30,04/08/2025 15:00,0.73 dias,0.27 dias,Dentro do SLA,0,0
+1638856,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 14:30,05/08/2025 12:14,05/08/2025 12:31,3.91 dias,0.66 dias,Dentro do SLA,0,0
+1638856,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 12:14,-,06/08/2025 12:15,-,-,-,-,-
+1688009,📦 Pedido Criado,-,-,30/04/2025 11:32,31/07/2025 21:01,-,92.4 dias,-,-,-,-
+1688009,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 12:10,04/08/2025 15:00,4.63 dias,0.92 dias,Atrasado,1270.19,370.18
+1688009,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 12:10,07/08/2025 09:10,07/08/2025 10:11,1.88 dias,0.63 dias,Dentro do SLA,0,0
+1688009,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 09:10,-,08/08/2025 09:11,-,-,-,-,-
+1835467,📦 Pedido Criado,-,-,16/07/2025 15:26,31/07/2025 21:01,-,15.23 dias,-,-,-,-
+1835467,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 15:07,04/08/2025 15:00,0.75 dias,0.3 dias,Dentro do SLA,0,0
+1835467,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,01/08/2025 15:07,05/08/2025 12:03,05/08/2025 13:08,3.87 dias,0.62 dias,Dentro do SLA,0,0
+1835467,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 12:03,-,06/08/2025 12:04,-,-,-,-,-
+1636813,📦 Pedido Criado,-,-,09/04/2025 13:24,31/07/2025 21:01,-,113.32 dias,-,-,-,-
+1636813,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1767903,📦 Pedido Criado,-,-,10/06/2025 16:36,31/07/2025 21:01,-,51.18 dias,-,-,-,-
+1767903,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1804769,📦 Pedido Criado,-,-,01/07/2025 11:27,31/07/2025 21:01,-,30.4 dias,-,-,-,-
+1804769,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 10:19,04/08/2025 15:00,4.55 dias,0.85 dias,Atrasado,1159.69,259.68
+1804769,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 10:19,06/08/2025 18:02,07/08/2025 08:20,1.32 dias,0.65 dias,Dentro do SLA,0,0
+1804769,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 18:02,09/08/2025 04:13,07/08/2025 17:00,2.42 dias,0.75 dias,Atrasado,2113.37,540.0
+1804769,✅ Pagamento Realizado,integracao-projetoisp,-,09/08/2025 04:13,-,-,-,-,-,-,-
+1794532,📦 Pedido Criado,-,-,26/06/2025 13:11,26/06/2025 13:11,-,0.0 dias,-,-,-,-
+1794532,🧑‍💻 Supply,celiene.pinho@nava.com.br,16:00 Horas,26/06/2025 13:11,26/06/2025 13:12,30/06/2025 11:12,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1794532,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),celiene.pinho@nava.com.br,16:00 Horas,26/06/2025 13:12,27/06/2025 11:15,30/06/2025 11:13,0.92 dias,0.29 dias,Dentro do SLA,0,0
+1794532,🧑‍💻 Supply,luna.sipoli@nava.com.br,16:00 Horas,27/06/2025 11:15,27/06/2025 13:12,01/07/2025 09:16,0.08 dias,0.08 dias,Dentro do SLA,0,0
+1794532,🛠 Assessoria,celiene.pinho@nava.com.br,16:00 Horas,27/06/2025 13:12,30/06/2025 16:39,01/07/2025 11:13,3.14 dias,0.52 dias,Dentro do SLA,0,0
+1794532,🧑‍💻 Supply,assessoriasolutions001@gmail.com,16:00 Horas,30/06/2025 16:39,01/07/2025 16:24,02/07/2025 14:40,0.99 dias,0.36 dias,Dentro do SLA,0,0
+1794532,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,01/07/2025 16:24,08/07/2025 12:14,03/07/2025 14:25,6.83 dias,1.7 dias,Atrasado,7069.28,1489.27
+1794532,🧑‍💻 Supply,luna.sipoli@nava.com.br,16:00 Horas,08/07/2025 12:14,22/07/2025 11:01,10/07/2025 10:15,13.95 dias,3.7 dias,Atrasado,17326.86,4366.85
+1794532,🛠 Assessoria,thais.roberta@nava.com.br,16:00 Horas,22/07/2025 11:01,25/07/2025 12:36,24/07/2025 09:02,3.07 dias,1.19 dias,Atrasado,1654.39,754.38
+1794532,🧑‍💻 Supply,assessoriasolutions003@gmail.com,16:00 Horas,25/07/2025 12:36,25/07/2025 14:06,29/07/2025 10:37,0.06 dias,0.06 dias,Dentro do SLA,0,0
+1794532,🛠 Assessoria,thais.roberta@nava.com.br,16:00 Horas,25/07/2025 14:06,25/07/2025 14:13,29/07/2025 12:07,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1794532,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,25/07/2025 14:13,29/07/2025 15:13,29/07/2025 12:14,4.04 dias,0.79 dias,Atrasado,179.04,179.03
+1794532,🧑‍💻 Supply,ana.prevelato@nava.com.br,16:00 Horas,29/07/2025 15:13,30/07/2025 15:23,31/07/2025 13:14,1.01 dias,0.38 dias,Dentro do SLA,0,0
+1794532,🛠 Assessoria,thais.roberta@nava.com.br,16:00 Horas,30/07/2025 15:23,31/07/2025 11:07,01/08/2025 13:24,0.82 dias,0.2 dias,Dentro do SLA,0,0
+1794532,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,31/07/2025 11:07,01/08/2025 09:46,04/08/2025 09:08,0.94 dias,0.32 dias,Dentro do SLA,0,0
+1794532,🛠 Assessoria,ana.prevelato@nava.com.br,16:00 Horas,01/08/2025 09:46,08/08/2025 17:02,04/08/2025 16:47,7.3 dias,2.18 dias,Atrasado,5775.14,2173.0
+1794532,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,08/08/2025 17:02,-,12/08/2025 15:00,-,-,-,-,-
+1636844,📦 Pedido Criado,-,-,09/04/2025 13:26,31/07/2025 21:01,-,113.32 dias,-,-,-,-
+1636844,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1835509,📦 Pedido Criado,-,-,16/07/2025 15:41,31/07/2025 21:01,-,15.22 dias,-,-,-,-
+1835509,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 16:10,04/08/2025 15:00,0.8 dias,0.34 dias,Dentro do SLA,0,0
+1835509,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 16:10,06/08/2025 10:42,05/08/2025 14:11,4.77 dias,0.9 dias,Atrasado,1231.21,331.2
+1835509,🛠 Assessoria,assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 10:42,06/08/2025 10:42,08/08/2025 08:43,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1835509,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 10:42,-,08/08/2025 08:43,-,-,-,-,-
+1759741,📦 Pedido Criado,-,-,06/06/2025 16:15,31/07/2025 21:01,-,55.2 dias,-,-,-,-
+1759741,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1843709,📦 Pedido Criado,-,-,18/07/2025 16:45,31/07/2025 21:01,-,13.18 dias,-,-,-,-
+1843709,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1636867,📦 Pedido Criado,-,-,09/04/2025 13:27,31/07/2025 21:01,-,113.32 dias,-,-,-,-
+1636867,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1638916,📦 Pedido Criado,-,-,09/04/2025 15:03,30/07/2025 22:49,-,112.32 dias,-,-,-,-
+1638916,🛠 Assessoria,assessoriasolutions001@gmail.com,16:00 Horas,30/07/2025 22:49,30/07/2025 22:50,01/08/2025 15:00,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1638916,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,30/07/2025 22:50,31/07/2025 12:05,01/08/2025 15:00,0.55 dias,0.17 dias,Dentro do SLA,0,0
+1638916,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,31/07/2025 12:05,-,01/08/2025 12:06,-,-,-,-,-
+1718795,📦 Pedido Criado,-,-,15/05/2025 12:35,31/07/2025 21:01,-,77.35 dias,-,-,-,-
+1718795,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1874461,📦 Pedido Criado,-,-,08/08/2025 09:56,08/08/2025 10:00,-,0.0 dias,-,-,-,-
+1874461,❌ Pedido Cancelado,integracao-projetoisp,-,08/08/2025 10:00,-,-,-,-,-,-,-
+1874463,📦 Pedido Criado,-,-,08/08/2025 09:58,08/08/2025 09:59,-,0.0 dias,-,-,-,-
+1874463,🧑‍💻 Supply,thais.roberta@nava.com.br,16:00 Horas,08/08/2025 09:59,08/08/2025 09:59,11/08/2025 17:00,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1874463,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,08/08/2025 09:59,-,11/08/2025 17:00,-,-,-,-,-
+1688096,📦 Pedido Criado,-,-,30/04/2025 11:57,31/07/2025 21:01,-,92.38 dias,-,-,-,-
+1688096,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1636905,📦 Pedido Criado,-,-,09/04/2025 13:30,31/07/2025 21:01,-,113.31 dias,-,-,-,-
+1636905,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,04/08/2025 07:37,04/08/2025 15:00,3.44 dias,0.38 dias,Dentro do SLA,0,0
+1636905,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,04/08/2025 07:37,05/08/2025 18:21,05/08/2025 15:00,1.45 dias,0.75 dias,Atrasado,201.82,120.0
+1636905,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 18:21,-,06/08/2025 17:00,-,-,-,-,-
+1641004,📦 Pedido Criado,-,-,10/04/2025 14:52,31/07/2025 21:01,-,112.26 dias,-,-,-,-
+1641004,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,04/08/2025 09:27,04/08/2025 15:00,3.52 dias,0.44 dias,Dentro do SLA,0,0
+1641004,🧑‍💻 Supply,thais.roberta@nava.com.br,16:00 Horas,04/08/2025 09:27,04/08/2025 09:27,05/08/2025 16:28,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1641004,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,04/08/2025 09:27,06/08/2025 12:12,05/08/2025 16:28,2.11 dias,0.86 dias,Atrasado,1184.15,284.13
+1641004,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 12:12,-,07/08/2025 12:13,-,-,-,-,-
+1767981,📦 Pedido Criado,-,-,10/06/2025 17:03,31/07/2025 21:01,-,51.17 dias,-,-,-,-
+1767981,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1638956,📦 Pedido Criado,-,-,09/04/2025 15:05,31/07/2025 21:01,-,113.25 dias,-,-,-,-
+1638956,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1767994,📦 Pedido Criado,-,-,10/06/2025 17:05,10/06/2025 18:19,-,0.05 dias,-,-,-,-
+1767994,🧑‍💻 Supply,celiene.pinho@nava.com.br,16:00 Horas,10/06/2025 18:19,10/06/2025 18:20,12/06/2025 15:00,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1767994,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),celiene.pinho@nava.com.br,16:00 Horas,10/06/2025 18:20,11/06/2025 12:44,12/06/2025 15:00,0.77 dias,0.2 dias,Dentro do SLA,0,0
+1767994,🧑‍💻 Supply,luna.sipoli@nava.com.br,16:00 Horas,11/06/2025 12:44,12/06/2025 10:59,13/06/2025 10:45,0.93 dias,0.3 dias,Dentro do SLA,0,0
+1767994,🛠 Assessoria,thais.roberta@nava.com.br,16:00 Horas,12/06/2025 10:59,29/06/2025 17:33,16/06/2025 09:00,17.27 dias,4.38 dias,Atrasado,19233.6,5340.0
+1767994,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,29/06/2025 17:33,30/06/2025 12:04,01/07/2025 15:00,0.77 dias,0.17 dias,Dentro do SLA,0,0
+1767994,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,30/06/2025 12:04,16/07/2025 16:17,01/07/2025 12:05,16.18 dias,4.68 dias,Atrasado,21852.77,6192.77
+1767994,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),maik.santos@nava.com.br,16:00 Horas,16/07/2025 16:17,17/07/2025 08:50,18/07/2025 14:18,0.69 dias,0.06 dias,Dentro do SLA,0,0
+1767994,🧑‍💻 Supply,luna.sipoli@nava.com.br,16:00 Horas,17/07/2025 08:50,24/07/2025 15:37,18/07/2025 15:51,7.28 dias,2.16 dias,Atrasado,8626.78,2146.77
+1767994,🛠 Assessoria,thais.roberta@nava.com.br,16:00 Horas,24/07/2025 15:37,25/07/2025 12:42,28/07/2025 13:38,0.88 dias,0.25 dias,Dentro do SLA,0,0
+1767994,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),mfernandesnykiel@gmail.com,16:00 Horas,25/07/2025 12:42,05/08/2025 15:15,29/07/2025 10:43,11.11 dias,2.73 dias,Atrasado,10352.5,2972.5
+1767994,🛠 Assessoria,ana.prevelato@nava.com.br,16:00 Horas,05/08/2025 15:15,07/08/2025 17:06,07/08/2025 13:16,2.08 dias,0.82 dias,Atrasado,230.45,224.0
+1767994,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),mfernandesnykiel@gmail.com,16:00 Horas,07/08/2025 17:06,-,11/08/2025 15:00,-,-,-,-,-
+1638970,📦 Pedido Criado,-,-,09/04/2025 15:06,31/07/2025 21:01,-,113.25 dias,-,-,-,-
+1638970,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1636925,📦 Pedido Criado,-,-,09/04/2025 13:30,31/07/2025 21:01,-,113.31 dias,-,-,-,-
+1636925,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1839685,📦 Pedido Criado,-,-,17/07/2025 14:44,17/07/2025 14:44,-,0.0 dias,-,-,-,-
+1839685,🧑‍💻 Supply,thais.roberta@nava.com.br,16:00 Horas,17/07/2025 14:44,17/07/2025 14:45,21/07/2025 12:45,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1839685,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,17/07/2025 14:45,05/08/2025 15:30,21/07/2025 12:46,19.03 dias,4.91 dias,Atrasado,21764.57,6104.57
+1839685,🧑‍💻 Supply,ana.prevelato@nava.com.br,16:00 Horas,05/08/2025 15:30,07/08/2025 15:34,07/08/2025 13:31,2.0 dias,0.75 dias,Atrasado,123.35,123.33
+1839685,🛠 Assessoria,thais.roberta@nava.com.br,16:00 Horas,07/08/2025 15:34,-,11/08/2025 13:35,-,-,-,-,-
+1768006,📦 Pedido Criado,-,-,10/06/2025 17:08,31/07/2025 21:01,-,51.16 dias,-,-,-,-
+1768006,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1714761,📦 Pedido Criado,-,-,12/05/2025 16:52,31/07/2025 21:01,-,80.17 dias,-,-,-,-
+1714761,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,04/08/2025 10:53,04/08/2025 15:00,3.58 dias,0.5 dias,Dentro do SLA,0,0
+1714761,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,04/08/2025 10:53,06/08/2025 12:08,06/08/2025 08:54,2.05 dias,0.8 dias,Atrasado,194.87,194.87
+1714761,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 12:08,-,07/08/2025 12:09,-,-,-,-,-
+1757770,📦 Pedido Criado,-,-,05/06/2025 14:43,31/07/2025 21:01,-,56.26 dias,-,-,-,-
+1757770,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1743435,📦 Pedido Criado,-,-,29/05/2025 12:27,31/07/2025 21:01,-,63.36 dias,-,-,-,-
+1743435,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1638986,📦 Pedido Criado,-,-,09/04/2025 15:07,31/07/2025 21:01,-,113.25 dias,-,-,-,-
+1638986,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1798733,📦 Pedido Criado,-,-,27/06/2025 13:21,31/07/2025 21:01,-,34.32 dias,-,-,-,-
+1798733,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 13:41,04/08/2025 15:00,0.69 dias,0.24 dias,Dentro do SLA,0,0
+1798733,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 13:41,04/08/2025 18:05,05/08/2025 11:42,3.18 dias,0.51 dias,Dentro do SLA,0,0
+1798733,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 18:05,-,05/08/2025 17:00,-,-,-,-,-
+1643086,📦 Pedido Criado,-,-,11/04/2025 15:43,31/07/2025 21:01,-,111.22 dias,-,-,-,-
+1643086,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 09:49,04/08/2025 15:00,0.53 dias,0.08 dias,Dentro do SLA,0,0
+1643086,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 09:49,04/08/2025 12:15,04/08/2025 16:50,3.1 dias,0.48 dias,Dentro do SLA,0,0
+1643086,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 12:15,-,05/08/2025 12:16,-,-,-,-,-
+1636941,📦 Pedido Criado,-,-,09/04/2025 13:31,31/07/2025 21:01,-,113.31 dias,-,-,-,-
+1636941,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1688149,📦 Pedido Criado,-,-,30/04/2025 12:14,31/07/2025 21:01,-,92.37 dias,-,-,-,-
+1688149,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1636955,📦 Pedido Criado,-,-,09/04/2025 13:31,31/07/2025 21:01,-,113.31 dias,-,-,-,-
+1636955,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1798756,📦 Pedido Criado,-,-,27/06/2025 13:27,31/07/2025 21:01,-,34.31 dias,-,-,-,-
+1798756,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 13:41,04/08/2025 15:00,0.69 dias,0.24 dias,Dentro do SLA,0,0
+1798756,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 13:41,04/08/2025 18:04,05/08/2025 11:42,3.18 dias,0.51 dias,Dentro do SLA,0,0
+1798756,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 18:04,-,05/08/2025 17:00,-,-,-,-,-
+1759847,📦 Pedido Criado,-,-,06/06/2025 17:15,31/07/2025 21:01,-,55.16 dias,-,-,-,-
+1759847,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 13:18,04/08/2025 15:00,7.68 dias,2.1 dias,Atrasado,5658.58,2058.57
+1759847,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,08/08/2025 13:18,-,12/08/2025 11:19,-,-,-,-,-
+1639016,📦 Pedido Criado,-,-,09/04/2025 15:09,31/07/2025 21:01,-,113.24 dias,-,-,-,-
+1639016,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 13:33,04/08/2025 15:00,0.69 dias,0.23 dias,Dentro do SLA,0,0
+1639016,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 13:33,05/08/2025 12:14,05/08/2025 11:34,3.95 dias,0.7 dias,Atrasado,40.48,40.47
+1639016,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 12:14,-,06/08/2025 12:15,-,-,-,-,-
+1636969,📦 Pedido Criado,-,-,09/04/2025 13:32,31/07/2025 21:01,-,113.31 dias,-,-,-,-
+1636969,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1667690,📦 Pedido Criado,-,-,23/04/2025 13:42,31/07/2025 21:01,-,99.3 dias,-,-,-,-
+1667690,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1759856,📦 Pedido Criado,-,-,06/06/2025 17:18,09/06/2025 09:57,-,2.69 dias,-,-,-,-
+1759856,🛠 Assessoria,admin-ale,16:00 Horas,09/06/2025 09:57,10/06/2025 13:31,10/06/2025 16:58,1.15 dias,0.52 dias,Dentro do SLA,0,0
+1759856,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,10/06/2025 13:31,11/06/2025 09:05,12/06/2025 11:32,0.82 dias,0.19 dias,Dentro do SLA,0,0
+1759856,🧑‍💻 Supply,celiene.pinho@nava.com.br,16:00 Horas,11/06/2025 09:05,11/06/2025 09:07,12/06/2025 16:06,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1759856,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),celiene.pinho@nava.com.br,16:00 Horas,11/06/2025 09:07,11/06/2025 12:58,12/06/2025 16:08,0.16 dias,0.16 dias,Dentro do SLA,0,0
+1759856,🧑‍💻 Supply,luna.sipoli@nava.com.br,16:00 Horas,11/06/2025 12:58,13/06/2025 06:03,13/06/2025 10:59,1.71 dias,0.54 dias,Dentro do SLA,0,0
+1759856,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,13/06/2025 06:03,17/06/2025 22:12,13/06/2025 17:00,4.67 dias,1.12 dias,Atrasado,6072.16,1080.0
+1759856,🛠 Assessoria,assessoriasolutions003@gmail.com,16:00 Horas,17/06/2025 22:12,17/06/2025 22:12,19/06/2025 15:00,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1759856,🧑‍💻 Supply,assessoriasolutions003@gmail.com,16:00 Horas,17/06/2025 22:12,18/06/2025 05:32,19/06/2025 15:00,0.31 dias,0.0 dias,Dentro do SLA,0,0
+1759856,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,18/06/2025 05:32,-,18/06/2025 17:00,-,-,-,-,-
+1636982,📦 Pedido Criado,-,-,09/04/2025 13:33,21/07/2025 16:05,-,103.11 dias,-,-,-,-
+1636982,🛠 Assessoria,assessoriasolutions001@gmail.com,16:00 Horas,21/07/2025 16:05,21/07/2025 16:06,23/07/2025 14:06,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1636982,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,21/07/2025 16:06,21/07/2025 21:09,23/07/2025 14:07,0.21 dias,0.04 dias,Dentro do SLA,0,0
+1636982,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,21/07/2025 21:09,09/08/2025 06:03,22/07/2025 17:00,18.37 dias,5.25 dias,Atrasado,25263.46,7020.0
+1636982,✅ Pagamento Realizado,integracao-projetoisp,-,09/08/2025 06:03,-,-,-,-,-,-,-
+1792639,📦 Pedido Criado,-,-,25/06/2025 15:55,31/07/2025 21:01,-,36.21 dias,-,-,-,-
+1792639,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 15:51,04/08/2025 15:00,0.79 dias,0.33 dias,Dentro do SLA,0,0
+1792639,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,01/08/2025 15:51,05/08/2025 18:03,05/08/2025 13:52,4.09 dias,0.8 dias,Atrasado,251.03,188.0
+1792639,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 18:03,-,06/08/2025 17:00,-,-,-,-,-
+1813120,📦 Pedido Criado,-,-,03/07/2025 09:59,31/07/2025 21:01,-,28.46 dias,-,-,-,-
+1813120,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 14:56,04/08/2025 15:00,0.75 dias,0.29 dias,Dentro do SLA,0,0
+1813120,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,01/08/2025 14:56,05/08/2025 12:04,05/08/2025 12:57,3.88 dias,0.63 dias,Dentro do SLA,0,0
+1813120,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 12:04,-,06/08/2025 12:05,-,-,-,-,-
+1839745,📦 Pedido Criado,-,-,17/07/2025 14:48,31/07/2025 21:01,-,14.26 dias,-,-,-,-
+1839745,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 10:53,04/08/2025 15:00,6.58 dias,1.62 dias,Atrasado,4073.71,1373.7
+1839745,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,07/08/2025 10:53,-,11/08/2025 08:54,-,-,-,-,-
+1639050,📦 Pedido Criado,-,-,09/04/2025 15:11,31/07/2025 21:01,-,113.24 dias,-,-,-,-
+1639050,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 16:22,04/08/2025 15:00,4.81 dias,1.1 dias,Atrasado,1522.88,622.88
+1639050,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 16:22,07/08/2025 18:14,07/08/2025 14:23,2.08 dias,0.78 dias,Atrasado,231.52,157.0
+1639050,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 18:14,09/08/2025 05:20,08/08/2025 17:00,1.46 dias,0.38 dias,Atrasado,740.89,0.0
+1639050,✅ Pagamento Realizado,integracao-projetoisp,-,09/08/2025 05:20,-,-,-,-,-,-,-
+1637002,📦 Pedido Criado,-,-,09/04/2025 13:35,31/07/2025 21:01,-,113.31 dias,-,-,-,-
+1637002,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 17:38,04/08/2025 15:00,6.86 dias,1.88 dias,Atrasado,4478.44,1740.0
+1637002,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,07/08/2025 17:38,-,11/08/2025 15:00,-,-,-,-,-
+1639056,📦 Pedido Criado,-,-,09/04/2025 15:11,31/07/2025 21:01,-,113.24 dias,-,-,-,-
+1639056,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 12:24,04/08/2025 15:00,4.64 dias,0.93 dias,Atrasado,1284.42,384.42
+1639056,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 12:24,07/08/2025 09:12,07/08/2025 10:25,1.87 dias,0.62 dias,Dentro do SLA,0,0
+1639056,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 09:12,-,08/08/2025 09:13,-,-,-,-,-
+1714835,📦 Pedido Criado,-,-,12/05/2025 17:20,31/07/2025 21:01,-,80.15 dias,-,-,-,-
+1714835,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 15:32,04/08/2025 15:00,4.77 dias,1.06 dias,Atrasado,1472.24,572.23
+1714835,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 15:32,07/08/2025 12:11,07/08/2025 13:33,1.86 dias,0.61 dias,Dentro do SLA,0,0
+1714835,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 12:11,-,08/08/2025 12:12,-,-,-,-,-
+1759898,📦 Pedido Criado,-,-,06/06/2025 17:28,31/07/2025 21:01,-,55.15 dias,-,-,-,-
+1759898,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,04/08/2025 10:58,04/08/2025 15:00,3.58 dias,0.5 dias,Dentro do SLA,0,0
+1759898,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,04/08/2025 10:58,06/08/2025 18:04,06/08/2025 08:59,2.3 dias,1.0 dias,Atrasado,545.63,481.0
+1759898,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 18:04,-,07/08/2025 17:00,-,-,-,-,-
+1639073,📦 Pedido Criado,-,-,09/04/2025 15:12,30/04/2025 21:01,-,21.24 dias,-,-,-,-
+1639073,🛠 Assessoria,integracao-projetoisp,16:00 Horas,30/04/2025 21:01,20/05/2025 01:32,02/05/2025 15:00,19.19 dias,4.88 dias,Atrasado,25112.07,6060.0
+1639073,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,20/05/2025 01:32,15/07/2025 12:41,20/05/2025 17:00,56.47 dias,15.2 dias,Atrasado,80381.78,21341.77
+1639073,🛠 Assessoria,assessoriasolutions001@gmail.com,16:00 Horas,15/07/2025 12:41,15/07/2025 12:47,17/07/2025 10:42,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1639073,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,15/07/2025 12:47,15/07/2025 12:48,16/07/2025 12:48,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1639073,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions@gmail.com,16:00 Horas,15/07/2025 12:48,15/07/2025 15:14,17/07/2025 10:49,0.1 dias,0.1 dias,Dentro do SLA,0,0
+1639073,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,15/07/2025 15:14,-,16/07/2025 15:15,-,-,-,-,-
+1813154,📦 Pedido Criado,-,-,03/07/2025 10:11,31/07/2025 21:01,-,28.45 dias,-,-,-,-
+1813154,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 14:55,04/08/2025 15:00,0.75 dias,0.29 dias,Dentro do SLA,0,0
+1813154,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,01/08/2025 14:55,05/08/2025 12:04,05/08/2025 12:56,3.88 dias,0.63 dias,Dentro do SLA,0,0
+1813154,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 12:04,-,06/08/2025 12:05,-,-,-,-,-
+1639078,📦 Pedido Criado,-,-,09/04/2025 15:12,31/07/2025 21:01,-,113.24 dias,-,-,-,-
+1639078,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 08:23,04/08/2025 15:00,6.47 dias,1.52 dias,Atrasado,3923.81,1223.8
+1639078,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,07/08/2025 08:23,08/08/2025 18:13,08/08/2025 15:24,1.41 dias,0.73 dias,Atrasado,169.77,96.0
+1639078,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/08/2025 18:13,-,11/08/2025 17:00,-,-,-,-,-
+1639097,📦 Pedido Criado,-,-,09/04/2025 15:13,31/07/2025 21:01,-,113.24 dias,-,-,-,-
+1639097,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1694396,📦 Pedido Criado,-,-,02/05/2025 11:12,31/07/2025 21:01,-,90.41 dias,-,-,-,-
+1694396,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 21:31,04/08/2025 15:00,7.02 dias,1.88 dias,Atrasado,4711.42,1740.0
+1694396,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,07/08/2025 21:31,-,11/08/2025 15:00,-,-,-,-,-
+1850065,📦 Pedido Criado,-,-,22/07/2025 11:47,31/07/2025 21:01,-,9.38 dias,-,-,-,-
+1850065,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1639122,📦 Pedido Criado,-,-,09/04/2025 15:16,25/07/2025 08:28,-,106.72 dias,-,-,-,-
+1639122,🛠 Assessoria,assessoriasolutions001@gmail.com,16:00 Horas,25/07/2025 08:28,25/07/2025 08:29,28/07/2025 15:29,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1639122,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,25/07/2025 08:29,25/07/2025 18:16,28/07/2025 15:30,0.41 dias,0.35 dias,Dentro do SLA,0,0
+1639122,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,25/07/2025 18:16,-,28/07/2025 17:00,-,-,-,-,-
+1792726,📦 Pedido Criado,-,-,25/06/2025 16:34,31/07/2025 21:01,-,36.19 dias,-,-,-,-
+1792726,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1792727,📦 Pedido Criado,-,-,25/06/2025 16:34,30/06/2025 21:01,-,5.19 dias,-,-,-,-
+1792727,🛠 Assessoria,integracao-projetoisp,16:00 Horas,30/06/2025 21:01,11/07/2025 15:07,02/07/2025 15:00,10.75 dias,3.3 dias,Atrasado,12967.04,3787.03
+1792727,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),mfernandesnykiel@gmail.com,16:00 Horas,11/07/2025 15:07,11/07/2025 15:10,15/07/2025 13:08,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1792727,🧑‍💻 Supply,mfernandesnykiel@gmail.com,16:00 Horas,11/07/2025 15:10,11/07/2025 15:10,15/07/2025 13:11,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1792727,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),mfernandesnykiel@gmail.com,16:00 Horas,11/07/2025 15:10,15/07/2025 18:04,15/07/2025 13:11,4.12 dias,0.83 dias,Atrasado,293.62,229.0
+1792727,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,15/07/2025 18:04,-,16/07/2025 17:00,-,-,-,-,-
+1649367,📦 Pedido Criado,-,-,14/04/2025 14:13,31/07/2025 21:01,-,108.28 dias,-,-,-,-
+1649367,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 11:58,04/08/2025 15:00,4.62 dias,0.92 dias,Atrasado,1258.69,358.68
+1649367,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 11:58,06/08/2025 18:11,07/08/2025 09:59,1.26 dias,0.58 dias,Dentro do SLA,0,0
+1649367,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 18:11,-,07/08/2025 17:00,-,-,-,-,-
+1637083,📦 Pedido Criado,-,-,09/04/2025 13:38,31/07/2025 21:01,-,113.31 dias,-,-,-,-
+1637083,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1848043,📦 Pedido Criado,-,-,21/07/2025 15:03,31/07/2025 21:01,-,10.25 dias,-,-,-,-
+1848043,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1688300,📦 Pedido Criado,-,-,30/04/2025 13:34,31/07/2025 21:01,-,92.31 dias,-,-,-,-
+1688300,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1686257,📦 Pedido Criado,-,-,29/04/2025 15:12,31/07/2025 21:01,-,93.24 dias,-,-,-,-
+1686257,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 10:29,04/08/2025 15:00,5.56 dias,1.23 dias,Atrasado,2609.74,809.73
+1686257,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 10:29,08/08/2025 15:12,08/08/2025 08:30,2.2 dias,0.95 dias,Atrasado,402.24,402.23
+1686257,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/08/2025 15:12,-,11/08/2025 15:13,-,-,-,-,-
+1825524,📦 Pedido Criado,-,-,10/07/2025 16:12,31/07/2025 21:01,-,21.2 dias,-,-,-,-
+1825524,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1702645,📦 Pedido Criado,-,-,06/05/2025 11:12,31/07/2025 21:01,-,86.41 dias,-,-,-,-
+1702645,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 15:25,04/08/2025 15:00,7.77 dias,2.18 dias,Atrasado,5785.22,2185.22
+1702645,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,08/08/2025 15:25,-,12/08/2025 13:26,-,-,-,-,-
+1649398,📦 Pedido Criado,-,-,14/04/2025 14:25,31/07/2025 21:01,-,108.27 dias,-,-,-,-
+1649398,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1768194,📦 Pedido Criado,-,-,10/06/2025 19:18,31/07/2025 21:01,-,51.07 dias,-,-,-,-
+1768194,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 13:18,04/08/2025 15:00,7.68 dias,2.1 dias,Atrasado,5658.58,2058.57
+1768194,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,08/08/2025 13:18,-,12/08/2025 11:19,-,-,-,-,-
+1702659,📦 Pedido Criado,-,-,06/05/2025 11:14,31/07/2025 21:01,-,86.41 dias,-,-,-,-
+1702659,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 18:02,04/08/2025 15:00,7.88 dias,2.25 dias,Atrasado,5942.9,2280.0
+1702659,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,08/08/2025 18:02,-,12/08/2025 15:00,-,-,-,-,-
+1637125,📦 Pedido Criado,-,-,09/04/2025 13:40,31/07/2025 21:01,-,113.31 dias,-,-,-,-
+1637125,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1737486,📦 Pedido Criado,-,-,26/05/2025 11:29,31/07/2025 21:01,-,66.4 dias,-,-,-,-
+1737486,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 15:28,04/08/2025 15:00,0.77 dias,0.31 dias,Dentro do SLA,0,0
+1737486,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 15:28,01/08/2025 15:33,05/08/2025 13:29,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1737486,🛠 Assessoria,assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 15:33,01/08/2025 15:33,05/08/2025 13:34,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1737486,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 15:33,05/08/2025 12:09,05/08/2025 13:34,3.86 dias,0.61 dias,Dentro do SLA,0,0
+1737486,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 12:09,-,06/08/2025 12:10,-,-,-,-,-
+1852185,📦 Pedido Criado,-,-,23/07/2025 16:27,31/07/2025 21:01,-,8.19 dias,-,-,-,-
+1852185,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1637154,📦 Pedido Criado,-,-,09/04/2025 13:40,31/07/2025 21:01,-,113.31 dias,-,-,-,-
+1637154,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 08:55,04/08/2025 15:00,0.5 dias,0.04 dias,Dentro do SLA,0,0
+1637154,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,01/08/2025 08:55,04/08/2025 12:19,04/08/2025 15:56,3.14 dias,0.52 dias,Dentro do SLA,0,0
+1637154,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 12:19,-,05/08/2025 12:20,-,-,-,-,-
+1717030,📦 Pedido Criado,-,-,14/05/2025 11:35,31/07/2025 21:01,-,78.39 dias,-,-,-,-
+1717030,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 10:27,04/08/2025 15:00,5.56 dias,1.23 dias,Atrasado,2607.51,807.5
+1717030,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 10:27,08/08/2025 15:10,08/08/2025 08:28,2.2 dias,0.95 dias,Atrasado,402.93,402.92
+1717030,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/08/2025 15:10,-,11/08/2025 15:11,-,-,-,-,-
+1723182,📦 Pedido Criado,-,-,19/05/2025 11:20,31/07/2025 21:01,-,73.4 dias,-,-,-,-
+1723182,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1710898,📦 Pedido Criado,-,-,10/05/2025 14:35,31/07/2025 21:01,-,82.27 dias,-,-,-,-
+1710898,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 09:49,04/08/2025 15:00,0.53 dias,0.08 dias,Dentro do SLA,0,0
+1710898,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 09:49,04/08/2025 12:12,04/08/2025 16:50,3.1 dias,0.47 dias,Dentro do SLA,0,0
+1710898,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 12:12,-,05/08/2025 12:13,-,-,-,-,-
+1639223,📦 Pedido Criado,-,-,09/04/2025 15:44,31/07/2025 21:01,-,113.22 dias,-,-,-,-
+1639223,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 10:45,04/08/2025 15:00,7.57 dias,1.99 dias,Atrasado,5505.56,1905.55
+1639223,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,08/08/2025 10:45,-,12/08/2025 08:46,-,-,-,-,-
+1649466,📦 Pedido Criado,-,-,14/04/2025 14:43,31/07/2025 21:01,-,108.26 dias,-,-,-,-
+1649466,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1637185,📦 Pedido Criado,-,-,09/04/2025 13:41,31/07/2025 21:01,-,113.31 dias,-,-,-,-
+1637185,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 20:30,04/08/2025 15:00,5.98 dias,1.5 dias,Atrasado,3210.41,1200.0
+1637185,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,06/08/2025 20:30,08/08/2025 18:15,08/08/2025 15:00,1.91 dias,0.75 dias,Atrasado,195.58,120.0
+1637185,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/08/2025 18:15,-,11/08/2025 17:00,-,-,-,-,-
+1852234,📦 Pedido Criado,-,-,23/07/2025 16:41,31/07/2025 21:01,-,8.18 dias,-,-,-,-
+1852234,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1702732,📦 Pedido Criado,-,-,06/05/2025 11:19,31/07/2025 21:01,-,86.4 dias,-,-,-,-
+1702732,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1792845,📦 Pedido Criado,-,-,25/06/2025 17:27,31/07/2025 21:01,-,36.15 dias,-,-,-,-
+1792845,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1758029,📦 Pedido Criado,-,-,05/06/2025 15:19,31/07/2025 21:01,-,56.24 dias,-,-,-,-
+1758029,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 14:20,04/08/2025 15:00,4.72 dias,1.01 dias,Atrasado,1400.63,500.62
+1758029,🧑‍💻 Supply,thais.roberta@nava.com.br,16:00 Horas,05/08/2025 14:20,05/08/2025 14:21,07/08/2025 12:21,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1758029,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,05/08/2025 14:21,07/08/2025 15:07,07/08/2025 12:22,2.03 dias,0.78 dias,Atrasado,165.84,165.83
+1758029,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 15:07,-,08/08/2025 15:08,-,-,-,-,-
+1637217,📦 Pedido Criado,-,-,09/04/2025 13:42,31/07/2025 21:01,-,113.31 dias,-,-,-,-
+1637217,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1850212,📦 Pedido Criado,-,-,22/07/2025 12:42,31/07/2025 21:01,-,9.35 dias,-,-,-,-
+1850212,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 22:24,04/08/2025 15:00,6.06 dias,1.5 dias,Atrasado,3324.44,1200.0
+1850212,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,06/08/2025 22:24,-,08/08/2025 15:00,-,-,-,-,-
+1727338,📦 Pedido Criado,-,-,20/05/2025 15:55,31/07/2025 21:01,-,72.21 dias,-,-,-,-
+1727338,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1833837,📦 Pedido Criado,-,-,15/07/2025 16:34,31/07/2025 21:01,-,16.19 dias,-,-,-,-
+1833837,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 14:00,04/08/2025 15:00,0.71 dias,0.25 dias,Dentro do SLA,0,0
+1833837,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 14:00,04/08/2025 18:04,05/08/2025 12:01,3.17 dias,0.5 dias,Dentro do SLA,0,0
+1833837,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 18:04,-,05/08/2025 17:00,-,-,-,-,-
+1686383,📦 Pedido Criado,-,-,29/04/2025 15:31,31/07/2025 21:01,-,93.23 dias,-,-,-,-
+1686383,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 09:58,04/08/2025 15:00,6.54 dias,1.58 dias,Atrasado,4018.19,1318.18
+1686383,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,07/08/2025 09:58,08/08/2025 18:12,08/08/2025 16:59,1.34 dias,0.67 dias,Atrasado,73.46,1.0
+1686383,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/08/2025 18:12,-,11/08/2025 17:00,-,-,-,-,-
+1811316,📦 Pedido Criado,-,-,02/07/2025 14:34,31/07/2025 21:01,-,29.27 dias,-,-,-,-
+1811316,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1639287,📦 Pedido Criado,-,-,09/04/2025 16:08,31/07/2025 21:01,-,113.2 dias,-,-,-,-
+1639287,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1739642,📦 Pedido Criado,-,-,27/05/2025 13:00,31/07/2025 21:01,-,65.33 dias,-,-,-,-
+1739642,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 16:57,04/08/2025 15:00,5.83 dias,1.5 dias,Atrasado,2997.62,1197.62
+1739642,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 16:57,-,08/08/2025 14:58,-,-,-,-,-
+1811326,📦 Pedido Criado,-,-,02/07/2025 14:36,02/07/2025 14:36,-,0.0 dias,-,-,-,-
+1811326,🧑‍💻 Supply,thais.roberta@nava.com.br,16:00 Horas,02/07/2025 14:36,02/07/2025 14:36,04/07/2025 12:37,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1811326,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,02/07/2025 14:36,03/07/2025 15:04,04/07/2025 12:37,1.02 dias,0.39 dias,Dentro do SLA,0,0
+1811326,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,03/07/2025 15:04,08/07/2025 12:16,04/07/2025 15:05,4.88 dias,1.01 dias,Atrasado,5591.08,911.07
+1811326,🧑‍💻 Supply,kaike.fransisco@nava.com.br,16:00 Horas,08/07/2025 12:16,08/07/2025 12:16,10/07/2025 10:17,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1811326,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),kaike.fransisco@nava.com.br,16:00 Horas,08/07/2025 12:16,08/07/2025 15:02,10/07/2025 10:17,0.11 dias,0.11 dias,Dentro do SLA,0,0
+1811326,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/07/2025 15:02,13/07/2025 23:05,09/07/2025 15:03,5.34 dias,1.21 dias,Atrasado,6242.05,1197.0
+1811326,🛠 Assessoria,assessoriasolutions001@gmail.com,16:00 Horas,13/07/2025 23:05,14/07/2025 01:01,15/07/2025 15:00,0.08 dias,0.0 dias,Dentro do SLA,0,0
+1811326,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,14/07/2025 01:01,-,14/07/2025 17:00,-,-,-,-,-
+1637250,📦 Pedido Criado,-,-,09/04/2025 13:43,31/07/2025 21:01,-,113.3 dias,-,-,-,-
+1637250,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1639299,📦 Pedido Criado,-,-,09/04/2025 16:08,31/07/2025 21:01,-,113.2 dias,-,-,-,-
+1639299,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1862547,📦 Pedido Criado,-,-,29/07/2025 15:23,29/07/2025 15:23,-,0.0 dias,-,-,-,-
+1862547,🧑‍💻 Supply,celiene.pinho@nava.com.br,16:00 Horas,29/07/2025 15:23,29/07/2025 15:23,31/07/2025 13:24,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1862547,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),celiene.pinho@nava.com.br,16:00 Horas,29/07/2025 15:23,05/08/2025 15:19,31/07/2025 13:24,7.0 dias,1.87 dias,Atrasado,7315.63,1735.62
+1862547,🧑‍💻 Supply,ana.prevelato@nava.com.br,16:00 Horas,05/08/2025 15:19,06/08/2025 10:40,07/08/2025 13:20,0.81 dias,0.18 dias,Dentro do SLA,0,0
+1862547,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),celiene.pinho@nava.com.br,16:00 Horas,06/08/2025 10:40,-,08/08/2025 08:41,-,-,-,-,-
+1700755,📦 Pedido Criado,-,-,05/05/2025 16:51,31/07/2025 21:01,-,87.17 dias,-,-,-,-
+1700755,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1702806,📦 Pedido Criado,-,-,06/05/2025 11:23,31/07/2025 21:01,-,86.4 dias,-,-,-,-
+1702806,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1739671,📦 Pedido Criado,-,-,27/05/2025 13:06,31/07/2025 21:01,-,65.33 dias,-,-,-,-
+1739671,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 16:57,04/08/2025 15:00,5.83 dias,1.5 dias,Atrasado,2997.62,1197.62
+1739671,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 16:57,08/08/2025 17:27,08/08/2025 14:58,2.02 dias,0.75 dias,Atrasado,149.32,122.0
+1739671,🛠 Assessoria,ana.prevelato@nava.com.br,16:00 Horas,08/08/2025 17:27,-,12/08/2025 15:00,-,-,-,-,-
+1637276,📦 Pedido Criado,-,-,09/04/2025 13:43,31/07/2025 21:01,-,113.3 dias,-,-,-,-
+1637276,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 11:12,04/08/2025 15:00,4.59 dias,0.88 dias,Atrasado,1212.37,312.35
+1637276,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 11:12,06/08/2025 18:16,07/08/2025 09:13,1.29 dias,0.62 dias,Dentro do SLA,0,0
+1637276,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 18:16,-,07/08/2025 17:00,-,-,-,-,-
+1739684,📦 Pedido Criado,-,-,27/05/2025 13:07,31/07/2025 21:01,-,65.33 dias,-,-,-,-
+1739684,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 15:51,04/08/2025 15:00,0.79 dias,0.33 dias,Dentro do SLA,0,0
+1739684,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 15:51,05/08/2025 18:06,05/08/2025 13:52,4.09 dias,0.8 dias,Atrasado,254.55,188.0
+1739684,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 18:06,-,06/08/2025 17:00,-,-,-,-,-
+1852336,📦 Pedido Criado,-,-,23/07/2025 17:19,31/07/2025 21:01,-,8.15 dias,-,-,-,-
+1852336,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1641395,📦 Pedido Criado,-,-,10/04/2025 17:20,31/07/2025 21:01,-,112.15 dias,-,-,-,-
+1641395,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1766331,📦 Pedido Criado,-,-,10/06/2025 10:35,31/07/2025 21:01,-,51.43 dias,-,-,-,-
+1766331,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,03/08/2025 23:12,04/08/2025 15:00,3.09 dias,0.38 dias,Dentro do SLA,0,0
+1766331,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,03/08/2025 23:12,05/08/2025 15:05,05/08/2025 15:00,1.66 dias,0.67 dias,Atrasado,5.88,5.87
+1766331,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 15:05,-,06/08/2025 15:06,-,-,-,-,-
+1702847,📦 Pedido Criado,-,-,06/05/2025 11:25,31/07/2025 21:01,-,86.4 dias,-,-,-,-
+1702847,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1799104,📦 Pedido Criado,-,-,27/06/2025 16:25,31/07/2025 21:01,-,34.19 dias,-,-,-,-
+1799104,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1864643,📦 Pedido Criado,-,-,31/07/2025 11:02,31/07/2025 21:01,-,0.42 dias,-,-,-,-
+1864643,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1739716,📦 Pedido Criado,-,-,27/05/2025 13:13,31/07/2025 21:01,-,65.33 dias,-,-,-,-
+1739716,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 16:57,04/08/2025 15:00,5.83 dias,1.5 dias,Atrasado,2997.62,1197.62
+1739716,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 16:57,-,08/08/2025 14:58,-,-,-,-,-
+1637318,📦 Pedido Criado,-,-,09/04/2025 13:45,31/07/2025 21:01,-,113.3 dias,-,-,-,-
+1637318,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 11:12,04/08/2025 15:00,4.59 dias,0.88 dias,Atrasado,1212.37,312.37
+1637318,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 11:12,06/08/2025 18:15,07/08/2025 09:13,1.29 dias,0.62 dias,Dentro do SLA,0,0
+1637318,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 18:15,-,07/08/2025 17:00,-,-,-,-,-
+1641424,📦 Pedido Criado,-,-,10/04/2025 17:22,31/07/2025 21:01,-,112.15 dias,-,-,-,-
+1641424,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1872851,📦 Pedido Criado,-,-,06/08/2025 16:13,06/08/2025 16:13,-,0.0 dias,-,-,-,-
+1872851,🧑‍💻 Supply,gabriels.santos@nava.com.br,16:00 Horas,06/08/2025 16:13,07/08/2025 11:59,08/08/2025 14:14,0.82 dias,0.2 dias,Dentro do SLA,0,0
+1872851,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),gabriels.santos@nava.com.br,16:00 Horas,07/08/2025 11:59,-,11/08/2025 10:00,-,-,-,-,-
+1711059,📦 Pedido Criado,-,-,10/05/2025 20:19,31/07/2025 21:01,-,82.03 dias,-,-,-,-
+1711059,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,04/08/2025 10:53,04/08/2025 15:00,3.58 dias,0.5 dias,Dentro do SLA,0,0
+1711059,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,04/08/2025 10:53,06/08/2025 12:09,06/08/2025 08:54,2.05 dias,0.8 dias,Atrasado,195.13,195.13
+1711059,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 12:09,-,07/08/2025 12:10,-,-,-,-,-
+1641442,📦 Pedido Criado,-,-,10/04/2025 17:23,31/07/2025 21:01,-,112.15 dias,-,-,-,-
+1641442,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1637353,📦 Pedido Criado,-,-,09/04/2025 13:46,31/07/2025 21:01,-,113.3 dias,-,-,-,-
+1637353,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 11:12,04/08/2025 15:00,4.59 dias,0.88 dias,Atrasado,1212.36,312.35
+1637353,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 11:12,06/08/2025 18:15,07/08/2025 09:13,1.29 dias,0.62 dias,Dentro do SLA,0,0
+1637353,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 18:15,-,07/08/2025 17:00,-,-,-,-,-
+1702898,📦 Pedido Criado,-,-,06/05/2025 11:27,31/07/2025 21:01,-,86.4 dias,-,-,-,-
+1702898,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 10:47,04/08/2025 15:00,5.57 dias,1.24 dias,Atrasado,2627.3,827.3
+1702898,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 10:47,08/08/2025 15:11,08/08/2025 08:48,2.18 dias,0.93 dias,Atrasado,383.45,383.43
+1702898,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/08/2025 15:11,-,11/08/2025 15:12,-,-,-,-,-
+1702912,📦 Pedido Criado,-,-,06/05/2025 11:27,30/06/2025 21:01,-,55.4 dias,-,-,-,-
+1702912,🛠 Assessoria,integracao-projetoisp,16:00 Horas,30/06/2025 21:01,15/07/2025 22:29,02/07/2025 15:00,15.06 dias,4.12 dias,Atrasado,19169.07,4980.0
+1702912,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,15/07/2025 22:29,15/07/2025 22:33,17/07/2025 15:00,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1702912,🛠 Assessoria,assessoriasolutions001@gmail.com,16:00 Horas,15/07/2025 22:33,15/07/2025 22:33,17/07/2025 15:00,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1702912,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,15/07/2025 22:33,16/07/2025 18:16,17/07/2025 15:00,0.82 dias,0.38 dias,Dentro do SLA,0,0
+1702912,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,16/07/2025 18:16,-,17/07/2025 17:00,-,-,-,-,-
+1813505,📦 Pedido Criado,-,-,03/07/2025 10:40,31/07/2025 21:01,-,28.43 dias,-,-,-,-
+1813505,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 10:52,04/08/2025 15:00,4.58 dias,0.87 dias,Atrasado,1192.44,292.43
+1813505,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,05/08/2025 10:52,06/08/2025 18:02,07/08/2025 08:53,1.3 dias,0.63 dias,Dentro do SLA,0,0
+1813505,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 18:02,-,07/08/2025 17:00,-,-,-,-,-
+1702913,📦 Pedido Criado,-,-,06/05/2025 11:27,31/07/2025 21:01,-,86.4 dias,-,-,-,-
+1702913,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1799172,📦 Pedido Criado,-,-,27/06/2025 16:52,31/07/2025 21:01,-,34.17 dias,-,-,-,-
+1799172,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 11:09,04/08/2025 15:00,5.59 dias,1.26 dias,Atrasado,2649.9,849.9
+1799172,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 11:09,08/08/2025 16:05,08/08/2025 09:10,2.21 dias,0.96 dias,Atrasado,415.62,415.62
+1799172,🧑‍💻 Supply,assessoriasolutions003@gmail.com,16:00 Horas,08/08/2025 16:05,-,12/08/2025 14:06,-,-,-,-,-
+1637381,📦 Pedido Criado,-,-,09/04/2025 13:47,31/07/2025 21:01,-,113.3 dias,-,-,-,-
+1637381,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 11:12,04/08/2025 15:00,4.59 dias,0.88 dias,Atrasado,1212.37,312.35
+1637381,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 11:12,06/08/2025 18:15,07/08/2025 09:13,1.29 dias,0.62 dias,Dentro do SLA,0,0
+1637381,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 18:15,-,07/08/2025 17:00,-,-,-,-,-
+1827866,📦 Pedido Criado,-,-,11/07/2025 16:37,31/07/2025 21:01,-,20.18 dias,-,-,-,-
+1827866,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 21:46,04/08/2025 15:00,6.03 dias,1.5 dias,Atrasado,3286.63,1200.0
+1827866,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,06/08/2025 21:46,08/08/2025 18:05,08/08/2025 15:00,1.85 dias,0.75 dias,Atrasado,185.01,120.0
+1827866,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/08/2025 18:05,-,11/08/2025 17:00,-,-,-,-,-
+1702940,📦 Pedido Criado,-,-,06/05/2025 11:30,31/07/2025 21:01,-,86.4 dias,-,-,-,-
+1702940,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,04/08/2025 12:19,04/08/2025 15:00,3.64 dias,0.56 dias,Dentro do SLA,0,0
+1702940,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,04/08/2025 12:19,04/08/2025 12:19,06/08/2025 10:20,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1702940,🛠 Assessoria,assessoriasolutions003@gmail.com,16:00 Horas,04/08/2025 12:19,04/08/2025 12:19,06/08/2025 10:20,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1702940,🧑‍💻 Supply,assessoriasolutions003@gmail.com,16:00 Horas,04/08/2025 12:19,05/08/2025 08:41,06/08/2025 10:20,0.85 dias,0.22 dias,Dentro do SLA,0,0
+1702940,🛠 Assessoria,anny.araujo@nava.com.br,16:00 Horas,05/08/2025 08:41,05/08/2025 10:48,06/08/2025 15:42,0.09 dias,0.09 dias,Dentro do SLA,0,0
+1702940,🧑‍💻 Supply,assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 10:48,05/08/2025 10:48,07/08/2025 08:49,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1702940,🛠 Assessoria,assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 10:48,07/08/2025 17:25,07/08/2025 08:49,2.28 dias,1.01 dias,Atrasado,516.3,491.0
+1702940,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),mfernandesnykiel@gmail.com,16:00 Horas,07/08/2025 17:25,07/08/2025 17:26,11/08/2025 15:00,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1702940,🧑‍💻 Supply,mfernandesnykiel@gmail.com,16:00 Horas,07/08/2025 17:26,08/08/2025 09:16,11/08/2025 15:00,0.66 dias,0.05 dias,Dentro do SLA,0,0
+1702940,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),anny.araujo@nava.com.br,16:00 Horas,08/08/2025 09:16,08/08/2025 09:28,11/08/2025 16:17,0.01 dias,0.01 dias,Dentro do SLA,0,0
+1702940,🧑‍💻 Supply,anny.araujo@nava.com.br,16:00 Horas,08/08/2025 09:28,08/08/2025 15:36,11/08/2025 16:29,0.26 dias,0.26 dias,Dentro do SLA,0,0
+1702940,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,08/08/2025 15:36,-,12/08/2025 13:37,-,-,-,-,-
+1637409,📦 Pedido Criado,-,-,09/04/2025 13:48,31/07/2025 21:01,-,113.3 dias,-,-,-,-
+1637409,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 11:12,04/08/2025 15:00,4.59 dias,0.88 dias,Atrasado,1212.37,312.35
+1637409,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 11:12,06/08/2025 18:14,07/08/2025 09:13,1.29 dias,0.62 dias,Dentro do SLA,0,0
+1637409,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 18:14,-,07/08/2025 17:00,-,-,-,-,-
+1727523,📦 Pedido Criado,-,-,20/05/2025 17:01,31/07/2025 21:01,-,72.17 dias,-,-,-,-
+1727523,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 14:41,04/08/2025 15:00,0.74 dias,0.28 dias,Dentro do SLA,0,0
+1727523,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 14:41,05/08/2025 12:09,05/08/2025 12:42,3.89 dias,0.64 dias,Dentro do SLA,0,0
+1727523,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 12:09,-,06/08/2025 12:10,-,-,-,-,-
+1872934,📦 Pedido Criado,-,-,06/08/2025 16:49,06/08/2025 17:00,-,0.01 dias,-,-,-,-
+1872934,🛠 Assessoria,integracao-projetoisp,16:00 Horas,06/08/2025 17:00,-,08/08/2025 15:00,-,-,-,-,-
+1637426,📦 Pedido Criado,-,-,09/04/2025 13:48,31/07/2025 21:01,-,113.3 dias,-,-,-,-
+1637426,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 11:12,04/08/2025 15:00,4.59 dias,0.88 dias,Atrasado,1212.37,312.35
+1637426,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 11:12,06/08/2025 18:14,07/08/2025 09:13,1.29 dias,0.62 dias,Dentro do SLA,0,0
+1637426,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 18:14,-,07/08/2025 17:00,-,-,-,-,-
+1635388,📦 Pedido Criado,-,-,09/04/2025 11:58,31/07/2025 21:01,-,113.38 dias,-,-,-,-
+1635388,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1741888,📦 Pedido Criado,-,-,28/05/2025 15:55,31/07/2025 21:01,-,64.21 dias,-,-,-,-
+1741888,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1637444,📦 Pedido Criado,-,-,09/04/2025 13:49,31/07/2025 21:01,-,113.3 dias,-,-,-,-
+1637444,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 11:12,04/08/2025 15:00,4.59 dias,0.88 dias,Atrasado,1212.36,312.35
+1637444,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 11:12,06/08/2025 18:14,07/08/2025 09:13,1.29 dias,0.62 dias,Dentro do SLA,0,0
+1637444,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 18:14,-,07/08/2025 17:00,-,-,-,-,-
+1799240,📦 Pedido Criado,-,-,27/06/2025 17:24,31/07/2025 21:01,-,34.15 dias,-,-,-,-
+1799240,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 13:19,04/08/2025 15:00,5.68 dias,1.35 dias,Atrasado,2779.37,979.37
+1799240,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 13:19,08/08/2025 12:04,08/08/2025 11:20,1.95 dias,0.7 dias,Atrasado,44.82,44.82
+1799240,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/08/2025 12:04,-,11/08/2025 12:05,-,-,-,-,-
+1637460,📦 Pedido Criado,-,-,09/04/2025 13:50,31/07/2025 21:01,-,113.3 dias,-,-,-,-
+1637460,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 11:12,04/08/2025 15:00,4.59 dias,0.88 dias,Atrasado,1212.37,312.35
+1637460,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 11:12,06/08/2025 18:14,07/08/2025 09:13,1.29 dias,0.62 dias,Dentro do SLA,0,0
+1637460,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 18:14,-,07/08/2025 17:00,-,-,-,-,-
+1766485,📦 Pedido Criado,-,-,10/06/2025 11:14,31/07/2025 21:01,-,51.41 dias,-,-,-,-
+1766485,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1827928,📦 Pedido Criado,-,-,11/07/2025 17:04,31/07/2025 21:01,-,20.16 dias,-,-,-,-
+1827928,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1703004,📦 Pedido Criado,-,-,06/05/2025 11:35,31/07/2025 21:01,-,86.39 dias,-,-,-,-
+1703004,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1637475,📦 Pedido Criado,-,-,09/04/2025 13:51,31/07/2025 21:01,-,113.3 dias,-,-,-,-
+1637475,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1864806,📦 Pedido Criado,-,-,31/07/2025 11:51,31/07/2025 11:53,-,0.0 dias,-,-,-,-
+1864806,🧑‍💻 Supply,thais.roberta@nava.com.br,16:00 Horas,31/07/2025 11:53,31/07/2025 11:54,04/08/2025 09:54,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1864806,🛠 Assessoria,thais.roberta@nava.com.br,16:00 Horas,31/07/2025 11:54,06/08/2025 14:09,04/08/2025 09:55,6.09 dias,1.59 dias,Atrasado,3134.94,1334.93
+1864806,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 14:09,07/08/2025 18:01,08/08/2025 12:10,1.16 dias,0.49 dias,Dentro do SLA,0,0
+1864806,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 18:01,-,08/08/2025 17:00,-,-,-,-,-
+1635436,📦 Pedido Criado,-,-,09/04/2025 12:03,31/07/2025 21:01,-,113.37 dias,-,-,-,-
+1635436,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1637495,📦 Pedido Criado,-,-,09/04/2025 13:52,31/07/2025 21:01,-,113.3 dias,-,-,-,-
+1637495,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1649790,📦 Pedido Criado,-,-,14/04/2025 15:28,31/07/2025 21:01,-,108.23 dias,-,-,-,-
+1649790,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 15:07,04/08/2025 15:00,5.75 dias,1.42 dias,Atrasado,2887.83,1087.82
+1649790,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 15:07,07/08/2025 18:13,08/08/2025 13:08,1.13 dias,0.45 dias,Dentro do SLA,0,0
+1649790,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 18:13,09/08/2025 04:55,08/08/2025 17:00,1.45 dias,0.38 dias,Atrasado,715.98,0.0
+1649790,✅ Pagamento Realizado,integracao-projetoisp,-,09/08/2025 04:55,-,-,-,-,-,-,-
+1799295,📦 Pedido Criado,-,-,27/06/2025 17:43,31/07/2025 21:01,-,34.14 dias,-,-,-,-
+1799295,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 11:09,04/08/2025 15:00,5.59 dias,1.26 dias,Atrasado,2649.9,849.9
+1799295,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 11:09,08/08/2025 15:18,08/08/2025 09:10,2.17 dias,0.92 dias,Atrasado,368.71,368.7
+1799295,🛠 Assessoria,ana.prevelato@nava.com.br,16:00 Horas,08/08/2025 15:18,08/08/2025 16:05,12/08/2025 13:19,0.03 dias,0.03 dias,Dentro do SLA,0,0
+1799295,🧑‍💻 Supply,assessoriasolutions003@gmail.com,16:00 Horas,08/08/2025 16:05,-,12/08/2025 14:06,-,-,-,-,-
+1637514,📦 Pedido Criado,-,-,09/04/2025 13:53,31/07/2025 21:01,-,113.3 dias,-,-,-,-
+1637514,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 10:51,04/08/2025 15:00,0.58 dias,0.12 dias,Dentro do SLA,0,0
+1637514,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,01/08/2025 10:51,04/08/2025 12:19,05/08/2025 08:52,3.06 dias,0.44 dias,Dentro do SLA,0,0
+1637514,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 12:19,-,05/08/2025 12:20,-,-,-,-,-
+1686674,📦 Pedido Criado,-,-,29/04/2025 16:16,31/07/2025 21:01,-,93.2 dias,-,-,-,-
+1686674,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1676434,📦 Pedido Criado,-,-,25/04/2025 13:09,31/07/2025 21:01,-,97.33 dias,-,-,-,-
+1676434,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 16:19,04/08/2025 15:00,0.8 dias,0.35 dias,Dentro do SLA,0,0
+1676434,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 16:19,01/08/2025 16:45,05/08/2025 14:20,0.02 dias,0.02 dias,Dentro do SLA,0,0
+1676434,🛠 Assessoria,assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 16:45,01/08/2025 16:45,05/08/2025 14:46,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1676434,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 16:45,05/08/2025 18:16,05/08/2025 14:46,4.06 dias,0.76 dias,Atrasado,210.78,134.0
+1676434,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 18:16,06/08/2025 10:26,06/08/2025 17:00,0.67 dias,0.1 dias,Dentro do SLA,0,0
+1676434,🛠 Assessoria,assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 10:26,06/08/2025 10:28,08/08/2025 08:27,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1676434,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 10:28,06/08/2025 12:11,08/08/2025 08:29,0.07 dias,0.07 dias,Dentro do SLA,0,0
+1676434,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 12:11,-,07/08/2025 12:12,-,-,-,-,-
+1875107,📦 Pedido Criado,-,-,08/08/2025 14:53,08/08/2025 14:56,-,0.0 dias,-,-,-,-
+1875107,❌ Pedido Cancelado,integracao-projetoisp,-,08/08/2025 14:56,-,-,-,-,-,-,-
+1875116,📦 Pedido Criado,-,-,08/08/2025 14:55,08/08/2025 14:55,-,0.0 dias,-,-,-,-
+1875116,🛠 Assessoria,thais.roberta@nava.com.br,16:00 Horas,08/08/2025 14:55,08/08/2025 14:59,12/08/2025 12:56,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1875116,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,08/08/2025 14:59,-,12/08/2025 13:00,-,-,-,-,-
+1676463,📦 Pedido Criado,-,-,25/04/2025 13:14,-,-,-,-,-,-,-
+1723570,📦 Pedido Criado,-,-,19/05/2025 13:51,31/07/2025 21:01,-,73.3 dias,-,-,-,-
+1723570,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1676467,📦 Pedido Criado,-,-,25/04/2025 13:14,-,-,-,-,-,-,-
+1676468,📦 Pedido Criado,-,-,25/04/2025 13:14,31/07/2025 21:01,-,97.32 dias,-,-,-,-
+1676468,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 16:45,04/08/2025 15:00,0.82 dias,0.36 dias,Dentro do SLA,0,0
+1676468,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 16:45,06/08/2025 09:50,05/08/2025 14:46,4.71 dias,0.84 dias,Atrasado,1144.22,244.22
+1676468,🛠 Assessoria,ana.prevelato@nava.com.br,16:00 Horas,06/08/2025 09:50,06/08/2025 10:28,07/08/2025 16:51,0.03 dias,0.03 dias,Dentro do SLA,0,0
+1676468,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 10:28,07/08/2025 16:08,08/08/2025 08:29,1.24 dias,0.61 dias,Dentro do SLA,0,0
+1676468,🧑‍💻 Supply,juliana.santos@nava.com.br,16:00 Horas,07/08/2025 16:08,08/08/2025 13:31,11/08/2025 14:09,0.89 dias,0.27 dias,Dentro do SLA,0,0
+1676468,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),juliana.santos@nava.com.br,16:00 Horas,08/08/2025 13:31,08/08/2025 15:12,12/08/2025 11:32,0.07 dias,0.07 dias,Dentro do SLA,0,0
+1676468,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/08/2025 15:12,-,11/08/2025 15:13,-,-,-,-,-
+1676469,📦 Pedido Criado,-,-,25/04/2025 13:14,-,-,-,-,-,-,-
+1676470,📦 Pedido Criado,-,-,25/04/2025 13:14,-,-,-,-,-,-,-
+1676466,📦 Pedido Criado,-,-,25/04/2025 13:14,-,-,-,-,-,-,-
+1637554,📦 Pedido Criado,-,-,09/04/2025 13:55,31/07/2025 21:01,-,113.3 dias,-,-,-,-
+1637554,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1842374,📦 Pedido Criado,-,-,18/07/2025 11:26,31/07/2025 21:01,-,13.4 dias,-,-,-,-
+1842374,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 11:21,04/08/2025 15:00,6.6 dias,1.64 dias,Atrasado,4101.07,1401.07
+1842374,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),celiene.pinho@nava.com.br,16:00 Horas,07/08/2025 11:21,-,11/08/2025 09:22,-,-,-,-,-
+1635527,📦 Pedido Criado,-,-,09/04/2025 12:07,31/07/2025 21:01,-,113.37 dias,-,-,-,-
+1635527,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1637586,📦 Pedido Criado,-,-,09/04/2025 13:57,31/07/2025 21:01,-,113.29 dias,-,-,-,-
+1637586,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 08:24,04/08/2025 15:00,7.47 dias,1.89 dias,Atrasado,5364.77,1764.77
+1637586,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,08/08/2025 08:24,-,11/08/2025 15:25,-,-,-,-,-
+1703132,📦 Pedido Criado,-,-,06/05/2025 11:40,31/07/2025 21:01,-,86.39 dias,-,-,-,-
+1703132,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1637597,📦 Pedido Criado,-,-,09/04/2025 13:58,31/07/2025 21:01,-,113.29 dias,-,-,-,-
+1637597,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1737955,📦 Pedido Criado,-,-,26/05/2025 14:30,31/07/2025 21:01,-,66.27 dias,-,-,-,-
+1737955,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 15:20,04/08/2025 15:00,0.76 dias,0.31 dias,Dentro do SLA,0,0
+1737955,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 15:20,04/08/2025 21:11,05/08/2025 13:21,3.24 dias,0.44 dias,Dentro do SLA,0,0
+1737955,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 21:11,-,05/08/2025 17:00,-,-,-,-,-
+1637623,📦 Pedido Criado,-,-,09/04/2025 13:59,31/07/2025 21:01,-,113.29 dias,-,-,-,-
+1637623,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,02/08/2025 09:34,04/08/2025 15:00,1.52 dias,0.38 dias,Dentro do SLA,0,0
+1637623,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,02/08/2025 09:34,05/08/2025 15:15,05/08/2025 15:00,3.24 dias,0.68 dias,Atrasado,15.8,15.8
+1637623,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 15:15,-,06/08/2025 15:16,-,-,-,-,-
+1758462,📦 Pedido Criado,-,-,05/06/2025 18:07,31/07/2025 21:01,-,56.12 dias,-,-,-,-
+1758462,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 11:18,04/08/2025 15:00,6.6 dias,1.64 dias,Atrasado,4098.93,1398.92
+1758462,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),celiene.pinho@nava.com.br,16:00 Horas,07/08/2025 11:18,-,11/08/2025 09:19,-,-,-,-,-
+1637634,📦 Pedido Criado,-,-,09/04/2025 14:01,31/07/2025 21:01,-,113.29 dias,-,-,-,-
+1637634,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1713415,📦 Pedido Criado,-,-,12/05/2025 11:41,31/07/2025 21:01,-,80.39 dias,-,-,-,-
+1713415,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 14:44,04/08/2025 15:00,6.74 dias,1.78 dias,Atrasado,4304.23,1604.23
+1713415,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,07/08/2025 14:44,-,11/08/2025 12:45,-,-,-,-,-
+1635597,📦 Pedido Criado,-,-,09/04/2025 12:09,31/07/2025 21:01,-,113.37 dias,-,-,-,-
+1635597,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1637654,📦 Pedido Criado,-,-,09/04/2025 14:01,31/07/2025 21:01,-,113.29 dias,-,-,-,-
+1637654,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1649944,📦 Pedido Criado,-,-,14/04/2025 15:39,31/07/2025 21:01,-,108.22 dias,-,-,-,-
+1649944,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1637666,📦 Pedido Criado,-,-,09/04/2025 14:01,31/07/2025 21:01,-,113.29 dias,-,-,-,-
+1637666,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 07:18,04/08/2025 15:00,7.43 dias,1.88 dias,Atrasado,5298.71,1740.0
+1637666,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,08/08/2025 07:18,-,11/08/2025 15:00,-,-,-,-,-
+1686824,📦 Pedido Criado,-,-,29/04/2025 16:45,31/07/2025 21:01,-,93.18 dias,-,-,-,-
+1686824,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 09:55,04/08/2025 15:00,0.54 dias,0.08 dias,Dentro do SLA,0,0
+1686824,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 09:55,01/08/2025 18:11,04/08/2025 16:56,0.35 dias,0.3 dias,Dentro do SLA,0,0
+1686824,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,01/08/2025 18:11,-,04/08/2025 17:00,-,-,-,-,-
+1637683,📦 Pedido Criado,-,-,09/04/2025 14:03,31/07/2025 21:01,-,113.29 dias,-,-,-,-
+1637683,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 10:51,04/08/2025 15:00,0.58 dias,0.12 dias,Dentro do SLA,0,0
+1637683,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,01/08/2025 10:51,04/08/2025 12:19,05/08/2025 08:52,3.06 dias,0.44 dias,Dentro do SLA,0,0
+1637683,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 12:19,-,05/08/2025 12:20,-,-,-,-,-
+1752386,📦 Pedido Criado,-,-,02/06/2025 15:28,31/07/2025 21:01,-,59.23 dias,-,-,-,-
+1752386,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 13:18,04/08/2025 15:00,7.68 dias,2.1 dias,Atrasado,5658.58,2058.57
+1752386,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,08/08/2025 13:18,-,12/08/2025 11:19,-,-,-,-,-
+1637701,📦 Pedido Criado,-,-,09/04/2025 14:04,31/07/2025 21:01,-,113.29 dias,-,-,-,-
+1637701,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 10:51,04/08/2025 15:00,0.58 dias,0.12 dias,Dentro do SLA,0,0
+1637701,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,01/08/2025 10:51,04/08/2025 12:18,05/08/2025 08:52,3.06 dias,0.44 dias,Dentro do SLA,0,0
+1637701,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 12:18,-,05/08/2025 12:19,-,-,-,-,-
+1754442,📦 Pedido Criado,-,-,04/06/2025 10:16,31/07/2025 21:01,-,57.45 dias,-,-,-,-
+1754442,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 19:48,04/08/2025 15:00,5.95 dias,1.5 dias,Atrasado,3168.35,1200.0
+1754442,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,06/08/2025 19:48,07/08/2025 18:08,08/08/2025 15:00,0.93 dias,0.38 dias,Dentro do SLA,0,0
+1754442,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 18:08,-,08/08/2025 17:00,-,-,-,-,-
+1688906,📦 Pedido Criado,-,-,30/04/2025 15:16,28/07/2025 16:55,-,89.07 dias,-,-,-,-
+1688906,🧑‍💻 Supply,thais.roberta@nava.com.br,16:00 Horas,28/07/2025 16:55,28/07/2025 16:56,30/07/2025 14:56,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1688906,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,28/07/2025 16:56,29/07/2025 12:08,30/07/2025 14:57,0.8 dias,0.17 dias,Dentro do SLA,0,0
+1688906,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,29/07/2025 12:08,-,30/07/2025 12:09,-,-,-,-,-
+1766742,📦 Pedido Criado,-,-,10/06/2025 12:56,31/07/2025 21:01,-,51.34 dias,-,-,-,-
+1766742,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1637719,📦 Pedido Criado,-,-,09/04/2025 14:05,31/07/2025 21:01,-,113.29 dias,-,-,-,-
+1637719,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 10:51,04/08/2025 15:00,0.58 dias,0.12 dias,Dentro do SLA,0,0
+1637719,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,01/08/2025 10:51,04/08/2025 12:18,05/08/2025 08:52,3.06 dias,0.44 dias,Dentro do SLA,0,0
+1637719,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 12:18,-,05/08/2025 12:19,-,-,-,-,-
+1738076,📦 Pedido Criado,-,-,26/05/2025 15:27,31/07/2025 21:01,-,66.23 dias,-,-,-,-
+1738076,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 10:04,04/08/2025 15:00,5.54 dias,1.21 dias,Atrasado,2584.22,784.22
+1738076,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 10:04,08/08/2025 15:10,08/08/2025 08:05,2.21 dias,0.96 dias,Atrasado,425.41,425.4
+1738076,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/08/2025 15:10,-,11/08/2025 15:11,-,-,-,-,-
+1766751,📦 Pedido Criado,-,-,10/06/2025 12:57,12/06/2025 11:12,-,1.93 dias,-,-,-,-
+1766751,🛠 Assessoria,alexandre.rodrigues@nava.com.br,16:00 Horas,12/06/2025 11:12,20/06/2025 16:19,16/06/2025 09:13,8.21 dias,2.46 dias,Atrasado,6186.66,2586.65
+1766751,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),mfernandesnykiel@gmail.com,16:00 Horas,20/06/2025 16:19,26/06/2025 11:05,24/06/2025 14:20,5.78 dias,1.28 dias,Atrasado,2685.04,885.03
+1766751,🛠 Assessoria,luna.sipoli@nava.com.br,16:00 Horas,26/06/2025 11:05,26/06/2025 14:49,30/06/2025 09:06,0.16 dias,0.16 dias,Dentro do SLA,0,0
+1766751,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),mfernandesnykiel@gmail.com,16:00 Horas,26/06/2025 14:49,27/06/2025 12:02,30/06/2025 12:50,0.88 dias,0.26 dias,Dentro do SLA,0,0
+1766751,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,27/06/2025 12:02,-,30/06/2025 12:03,-,-,-,-,-
+1766769,📦 Pedido Criado,-,-,10/06/2025 13:03,31/07/2025 21:01,-,51.33 dias,-,-,-,-
+1766769,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1686898,📦 Pedido Criado,-,-,29/04/2025 17:10,31/07/2025 21:01,-,93.16 dias,-,-,-,-
+1686898,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1766784,📦 Pedido Criado,-,-,10/06/2025 13:04,12/06/2025 11:12,-,1.92 dias,-,-,-,-
+1766784,🛠 Assessoria,alexandre.rodrigues@nava.com.br,16:00 Horas,12/06/2025 11:12,20/06/2025 16:19,16/06/2025 09:13,8.21 dias,2.46 dias,Atrasado,6186.66,2586.65
+1766784,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),mfernandesnykiel@gmail.com,16:00 Horas,20/06/2025 16:19,30/06/2025 10:39,24/06/2025 14:20,9.76 dias,2.01 dias,Atrasado,8419.87,1939.87
+1766784,🛠 Assessoria,luna.sipoli@nava.com.br,16:00 Horas,30/06/2025 10:39,14/07/2025 15:28,02/07/2025 08:40,14.2 dias,3.95 dias,Atrasado,17688.28,4728.27
+1766784,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),mfernandesnykiel@gmail.com,16:00 Horas,14/07/2025 15:28,17/07/2025 14:18,16/07/2025 13:29,2.95 dias,1.08 dias,Atrasado,1489.42,589.42
+1766784,🛠 Assessoria,luna.sipoli@nava.com.br,16:00 Horas,17/07/2025 14:18,21/07/2025 12:00,21/07/2025 12:19,3.9 dias,0.65 dias,Dentro do SLA,0,0
+1766784,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),mfernandesnykiel@gmail.com,16:00 Horas,21/07/2025 12:00,29/07/2025 16:59,23/07/2025 10:01,8.21 dias,2.46 dias,Atrasado,9058.53,2578.52
+1766784,🧑‍💻 Supply,ana.prevelato@nava.com.br,16:00 Horas,29/07/2025 16:59,31/07/2025 16:34,31/07/2025 15:00,1.98 dias,0.73 dias,Atrasado,94.78,94.77
+1766784,🛠 Assessoria,thais.roberta@nava.com.br,16:00 Horas,31/07/2025 16:34,08/08/2025 16:43,04/08/2025 14:35,8.01 dias,2.26 dias,Atrasado,5888.53,2288.52
+1766784,🧑‍💻 Supply,mfernandesnykiel@gmail.com,16:00 Horas,08/08/2025 16:43,08/08/2025 17:05,12/08/2025 14:44,0.01 dias,0.01 dias,Dentro do SLA,0,0
+1766784,❌ Pedido Cancelado,integracao-projetoisp,-,08/08/2025 17:05,-,-,-,-,-,-,-
+1686928,📦 Pedido Criado,-,-,29/04/2025 17:26,31/07/2025 21:01,-,93.15 dias,-,-,-,-
+1686928,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 08:04,04/08/2025 15:00,0.46 dias,0.0 dias,Dentro do SLA,0,0
+1686928,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,01/08/2025 08:04,01/08/2025 15:08,04/08/2025 15:05,0.29 dias,0.29 dias,Dentro do SLA,0,0
+1686928,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,01/08/2025 15:08,-,04/08/2025 15:09,-,-,-,-,-
+1635728,📦 Pedido Criado,-,-,09/04/2025 12:17,31/07/2025 21:01,-,113.36 dias,-,-,-,-
+1635728,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1738132,📦 Pedido Criado,-,-,26/05/2025 15:48,31/07/2025 21:01,-,66.22 dias,-,-,-,-
+1738132,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1723800,📦 Pedido Criado,-,-,19/05/2025 15:06,31/07/2025 21:01,-,73.25 dias,-,-,-,-
+1723800,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 10:14,04/08/2025 15:00,5.55 dias,1.22 dias,Atrasado,2594.3,794.28
+1723800,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 10:14,08/08/2025 15:10,08/08/2025 08:15,2.21 dias,0.96 dias,Atrasado,415.66,415.65
+1723800,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/08/2025 15:10,-,11/08/2025 15:11,-,-,-,-,-
+1766810,📦 Pedido Criado,-,-,10/06/2025 13:09,31/07/2025 21:01,-,51.33 dias,-,-,-,-
+1766810,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1766818,📦 Pedido Criado,-,-,10/06/2025 13:10,12/06/2025 11:12,-,1.92 dias,-,-,-,-
+1766818,🛠 Assessoria,alexandre.rodrigues@nava.com.br,16:00 Horas,12/06/2025 11:12,20/06/2025 16:19,16/06/2025 09:13,8.21 dias,2.46 dias,Atrasado,6186.66,2586.65
+1766818,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),mfernandesnykiel@gmail.com,16:00 Horas,20/06/2025 16:19,25/06/2025 09:00,24/06/2025 14:20,4.7 dias,0.82 dias,Atrasado,1120.47,220.47
+1766818,🛠 Assessoria,luna.sipoli@nava.com.br,16:00 Horas,25/06/2025 09:00,26/06/2025 01:06,26/06/2025 16:01,0.67 dias,0.33 dias,Dentro do SLA,0,0
+1766818,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,26/06/2025 01:06,-,26/06/2025 17:00,-,-,-,-,-
+1754530,📦 Pedido Criado,-,-,04/06/2025 10:46,31/07/2025 21:01,-,57.43 dias,-,-,-,-
+1754530,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 18:02,04/08/2025 15:00,7.88 dias,2.25 dias,Atrasado,5942.9,2280.0
+1754530,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,08/08/2025 18:02,-,12/08/2025 15:00,-,-,-,-,-
+1637802,📦 Pedido Criado,-,-,09/04/2025 14:11,31/07/2025 21:01,-,113.28 dias,-,-,-,-
+1637802,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1754551,📦 Pedido Criado,-,-,04/06/2025 10:54,31/07/2025 21:01,-,57.42 dias,-,-,-,-
+1754551,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 18:02,04/08/2025 15:00,7.88 dias,2.25 dias,Atrasado,5942.9,2280.0
+1754551,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,08/08/2025 18:02,-,12/08/2025 15:00,-,-,-,-,-
+1748415,📦 Pedido Criado,-,-,30/05/2025 15:17,31/07/2025 21:01,-,62.24 dias,-,-,-,-
+1748415,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 15:31,04/08/2025 15:00,0.77 dias,0.31 dias,Dentro do SLA,0,0
+1748415,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,01/08/2025 15:31,05/08/2025 18:06,05/08/2025 13:32,4.11 dias,0.81 dias,Atrasado,274.03,208.0
+1748415,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 18:06,-,06/08/2025 17:00,-,-,-,-,-
+1637828,📦 Pedido Criado,-,-,09/04/2025 14:12,31/07/2025 21:01,-,113.28 dias,-,-,-,-
+1637828,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1723851,📦 Pedido Criado,-,-,19/05/2025 15:12,31/07/2025 21:01,-,73.24 dias,-,-,-,-
+1723851,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1723855,📦 Pedido Criado,-,-,19/05/2025 15:12,30/06/2025 21:01,-,42.24 dias,-,-,-,-
+1723855,🛠 Assessoria,integracao-projetoisp,16:00 Horas,30/06/2025 21:01,04/07/2025 01:05,02/07/2025 15:00,3.17 dias,1.12 dias,Atrasado,2045.61,660.0
+1723855,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,04/07/2025 01:05,04/07/2025 15:10,07/07/2025 15:00,0.59 dias,0.3 dias,Dentro do SLA,0,0
+1723855,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/07/2025 15:10,-,07/07/2025 15:11,-,-,-,-,-
+1705427,📦 Pedido Criado,-,-,07/05/2025 11:17,31/07/2025 21:01,-,85.41 dias,-,-,-,-
+1705427,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 11:56,04/08/2025 15:00,0.62 dias,0.16 dias,Dentro do SLA,0,0
+1705427,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 11:56,04/08/2025 18:11,05/08/2025 09:57,3.26 dias,0.59 dias,Dentro do SLA,0,0
+1705427,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 18:11,-,05/08/2025 17:00,-,-,-,-,-
+1637851,📦 Pedido Criado,-,-,09/04/2025 14:13,31/07/2025 21:01,-,113.28 dias,-,-,-,-
+1637851,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1637860,📦 Pedido Criado,-,-,09/04/2025 14:14,31/07/2025 21:01,-,113.28 dias,-,-,-,-
+1637860,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1752555,📦 Pedido Criado,-,-,02/06/2025 16:29,31/07/2025 21:01,-,59.19 dias,-,-,-,-
+1752555,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1637879,📦 Pedido Criado,-,-,09/04/2025 14:15,31/07/2025 21:01,-,113.28 dias,-,-,-,-
+1637879,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 10:05,04/08/2025 15:00,4.54 dias,0.84 dias,Atrasado,1145.57,245.57
+1637879,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 10:05,06/08/2025 18:13,07/08/2025 08:06,1.34 dias,0.66 dias,Dentro do SLA,0,0
+1637879,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 18:13,-,07/08/2025 17:00,-,-,-,-,-
+1748479,📦 Pedido Criado,-,-,30/05/2025 15:38,31/07/2025 21:01,-,62.22 dias,-,-,-,-
+1748479,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1754641,📦 Pedido Criado,-,-,04/06/2025 11:37,31/07/2025 21:01,-,57.39 dias,-,-,-,-
+1754641,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,04/08/2025 10:38,04/08/2025 15:00,3.57 dias,0.49 dias,Dentro do SLA,0,0
+1754641,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,04/08/2025 10:38,06/08/2025 18:06,06/08/2025 08:39,2.31 dias,1.01 dias,Atrasado,567.6,501.0
+1754641,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 18:06,-,07/08/2025 17:00,-,-,-,-,-
+1689115,📦 Pedido Criado,-,-,30/04/2025 15:33,31/07/2025 21:01,-,92.23 dias,-,-,-,-
+1689115,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 15:01,04/08/2025 15:00,0.75 dias,0.29 dias,Dentro do SLA,0,0
+1689115,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,01/08/2025 15:01,05/08/2025 12:12,05/08/2025 13:02,3.88 dias,0.63 dias,Dentro do SLA,0,0
+1689115,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 12:12,-,06/08/2025 12:13,-,-,-,-,-
+1637933,📦 Pedido Criado,-,-,09/04/2025 14:16,31/07/2025 21:01,-,113.28 dias,-,-,-,-
+1637933,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 13:02,04/08/2025 15:00,4.67 dias,0.96 dias,Atrasado,1322.26,422.25
+1637933,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,05/08/2025 13:02,07/08/2025 12:15,07/08/2025 11:03,1.97 dias,0.72 dias,Atrasado,72.77,72.77
+1637933,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 12:15,-,08/08/2025 12:16,-,-,-,-,-
+1834559,📦 Pedido Criado,-,-,16/07/2025 09:36,31/07/2025 21:01,-,15.48 dias,-,-,-,-
+1834559,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1637988,📦 Pedido Criado,-,-,09/04/2025 14:19,29/07/2025 22:33,-,111.34 dias,-,-,-,-
+1637988,🛠 Assessoria,assessoriasolutions001@gmail.com,16:00 Horas,29/07/2025 22:33,29/07/2025 22:35,31/07/2025 15:00,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1637988,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,29/07/2025 22:35,30/07/2025 12:04,31/07/2025 15:00,0.56 dias,0.17 dias,Dentro do SLA,0,0
+1637988,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,30/07/2025 12:04,-,31/07/2025 12:05,-,-,-,-,-
+1738342,📦 Pedido Criado,-,-,26/05/2025 17:07,31/07/2025 21:01,-,66.16 dias,-,-,-,-
+1738342,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 11:49,04/08/2025 15:00,6.62 dias,1.66 dias,Atrasado,4129.4,1429.4
+1738342,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,07/08/2025 11:49,-,11/08/2025 09:50,-,-,-,-,-
+1627752,📦 Pedido Criado,-,-,07/04/2025 11:04,08/08/2025 09:55,-,122.95 dias,-,-,-,-
+1627752,❌ Pedido Cancelado,integracao-projetoisp,-,08/08/2025 09:55,-,-,-,-,-,-,-
+1627753,📦 Pedido Criado,-,-,07/04/2025 11:04,08/08/2025 09:55,-,122.95 dias,-,-,-,-
+1627753,❌ Pedido Cancelado,integracao-projetoisp,-,08/08/2025 09:55,-,-,-,-,-,-,-
+1627754,📦 Pedido Criado,-,-,07/04/2025 11:04,08/08/2025 09:55,-,122.95 dias,-,-,-,-
+1627754,❌ Pedido Cancelado,integracao-projetoisp,-,08/08/2025 09:55,-,-,-,-,-,-,-
+1754731,📦 Pedido Criado,-,-,04/06/2025 12:26,31/07/2025 21:01,-,57.36 dias,-,-,-,-
+1754731,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 17:47,04/08/2025 15:00,7.87 dias,2.25 dias,Atrasado,5927.83,2280.0
+1754731,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,08/08/2025 17:47,-,12/08/2025 15:00,-,-,-,-,-
+1689196,📦 Pedido Criado,-,-,30/04/2025 15:46,31/07/2025 21:01,-,92.22 dias,-,-,-,-
+1689196,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 13:58,04/08/2025 15:00,0.71 dias,0.25 dias,Dentro do SLA,0,0
+1689196,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 13:58,04/08/2025 18:12,05/08/2025 11:59,3.18 dias,0.5 dias,Dentro do SLA,0,0
+1689196,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 18:12,-,05/08/2025 17:00,-,-,-,-,-
+1769069,📦 Pedido Criado,-,-,11/06/2025 09:55,31/07/2025 21:01,-,50.46 dias,-,-,-,-
+1769069,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 13:11,04/08/2025 15:00,7.67 dias,2.09 dias,Atrasado,5651.07,2051.07
+1769069,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),mfernandesnykiel@gmail.com,16:00 Horas,08/08/2025 13:11,-,12/08/2025 11:12,-,-,-,-,-
+1627759,📦 Pedido Criado,-,-,07/04/2025 11:04,31/07/2025 21:01,-,115.41 dias,-,-,-,-
+1627759,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 15:44,04/08/2025 15:00,7.78 dias,2.2 dias,Atrasado,5804.99,2204.98
+1627759,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,08/08/2025 15:44,-,12/08/2025 13:45,-,-,-,-,-
+1638011,📦 Pedido Criado,-,-,09/04/2025 14:19,31/07/2025 21:01,-,113.28 dias,-,-,-,-
+1638011,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 20:15,04/08/2025 15:00,5.97 dias,1.5 dias,Atrasado,3195.61,1200.0
+1638011,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,06/08/2025 20:15,08/08/2025 18:14,08/08/2025 15:00,1.92 dias,0.75 dias,Atrasado,194.82,120.0
+1638011,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/08/2025 18:14,-,11/08/2025 17:00,-,-,-,-,-
+1764988,📦 Pedido Criado,-,-,09/06/2025 15:39,31/07/2025 21:01,-,52.22 dias,-,-,-,-
+1764988,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,06/08/2025 09:37,04/08/2025 15:00,5.52 dias,1.19 dias,Atrasado,2557.35,757.35
+1764988,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 09:37,07/08/2025 18:06,07/08/2025 16:38,1.35 dias,0.68 dias,Atrasado,88.92,22.0
+1764988,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 18:06,-,08/08/2025 17:00,-,-,-,-,-
+1738365,📦 Pedido Criado,-,-,26/05/2025 17:16,31/07/2025 21:01,-,66.16 dias,-,-,-,-
+1738365,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 15:28,04/08/2025 15:00,0.77 dias,0.31 dias,Dentro do SLA,0,0
+1738365,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 15:28,01/08/2025 15:33,05/08/2025 13:29,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1738365,🛠 Assessoria,assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 15:33,01/08/2025 15:33,05/08/2025 13:34,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1738365,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 15:33,05/08/2025 12:09,05/08/2025 13:34,3.86 dias,0.61 dias,Dentro do SLA,0,0
+1738365,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 12:09,-,06/08/2025 12:10,-,-,-,-,-
+1635963,📦 Pedido Criado,-,-,09/04/2025 12:31,31/07/2025 21:01,-,113.35 dias,-,-,-,-
+1635963,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1627778,📦 Pedido Criado,-,-,07/04/2025 11:05,31/07/2025 21:01,-,115.41 dias,-,-,-,-
+1627778,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1754757,📦 Pedido Criado,-,-,04/06/2025 12:42,31/07/2025 21:01,-,57.35 dias,-,-,-,-
+1754757,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 17:47,04/08/2025 15:00,7.87 dias,2.25 dias,Atrasado,5927.83,2280.0
+1754757,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,08/08/2025 17:47,-,12/08/2025 15:00,-,-,-,-,-
+1635982,📦 Pedido Criado,-,-,09/04/2025 12:33,31/07/2025 21:01,-,113.35 dias,-,-,-,-
+1635982,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,04/08/2025 10:34,04/08/2025 15:00,3.56 dias,0.48 dias,Dentro do SLA,0,0
+1635982,🧑‍💻 Supply,assessoriasolutions003@gmail.com,16:00 Horas,04/08/2025 10:34,04/08/2025 16:35,06/08/2025 08:35,0.25 dias,0.25 dias,Dentro do SLA,0,0
+1635982,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),juliana.santos@nava.com.br,16:00 Horas,04/08/2025 16:35,06/08/2025 18:17,06/08/2025 14:36,2.07 dias,0.77 dias,Atrasado,221.36,144.0
+1635982,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 18:17,-,07/08/2025 17:00,-,-,-,-,-
+1842844,📦 Pedido Criado,-,-,18/07/2025 12:03,31/07/2025 21:01,-,13.37 dias,-,-,-,-
+1842844,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 10:14,04/08/2025 15:00,6.55 dias,1.59 dias,Atrasado,4034.86,1334.85
+1842844,🧑‍💻 Supply,assessoriasolutions003@gmail.com,16:00 Horas,07/08/2025 10:14,07/08/2025 15:36,11/08/2025 08:15,0.22 dias,0.22 dias,Dentro do SLA,0,0
+1842844,🛠 Assessoria,juliana.santos@nava.com.br,16:00 Horas,07/08/2025 15:36,07/08/2025 16:24,11/08/2025 13:37,0.03 dias,0.03 dias,Dentro do SLA,0,0
+1842844,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,07/08/2025 16:24,-,11/08/2025 14:25,-,-,-,-,-
+1754783,📦 Pedido Criado,-,-,04/06/2025 12:53,31/07/2025 21:01,-,57.34 dias,-,-,-,-
+1754783,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 17:47,04/08/2025 15:00,7.87 dias,2.25 dias,Atrasado,5927.83,2280.0
+1754783,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,08/08/2025 17:47,-,12/08/2025 15:00,-,-,-,-,-
+1814178,📦 Pedido Criado,-,-,03/07/2025 11:41,03/07/2025 11:45,-,0.0 dias,-,-,-,-
+1814178,🧑‍💻 Supply,celiene.pinho@nava.com.br,16:00 Horas,03/07/2025 11:45,03/07/2025 11:46,07/07/2025 09:46,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1814178,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),celiene.pinho@nava.com.br,16:00 Horas,03/07/2025 11:46,03/07/2025 15:01,07/07/2025 09:47,0.14 dias,0.14 dias,Dentro do SLA,0,0
+1814178,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,03/07/2025 15:01,-,04/07/2025 15:02,-,-,-,-,-
+1842867,📦 Pedido Criado,-,-,18/07/2025 12:03,18/07/2025 13:00,-,0.04 dias,-,-,-,-
+1842867,🛠 Assessoria,integracao-projetoisp,16:00 Horas,18/07/2025 13:00,24/07/2025 15:03,22/07/2025 11:01,6.09 dias,1.59 dias,Atrasado,3122.86,1322.85
+1842867,🧑‍💻 Supply,assessoriasolutions003@gmail.com,16:00 Horas,24/07/2025 15:03,28/07/2025 09:49,28/07/2025 13:04,3.78 dias,0.53 dias,Dentro do SLA,0,0
+1842867,🛠 Assessoria,celiene.pinho@nava.com.br,16:00 Horas,28/07/2025 09:49,07/08/2025 10:20,29/07/2025 16:50,10.02 dias,3.02 dias,Atrasado,12570.59,3390.58
+1842867,🧑‍💻 Supply,assessoriasolutions003@gmail.com,16:00 Horas,07/08/2025 10:20,07/08/2025 16:28,11/08/2025 08:21,0.26 dias,0.26 dias,Dentro do SLA,0,0
+1842867,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,07/08/2025 16:28,-,11/08/2025 14:29,-,-,-,-,-
+1814202,📦 Pedido Criado,-,-,03/07/2025 11:42,31/07/2025 21:01,-,28.39 dias,-,-,-,-
+1814202,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1742523,📦 Pedido Criado,-,-,28/05/2025 17:59,31/07/2025 21:01,-,64.13 dias,-,-,-,-
+1742523,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1840827,📦 Pedido Criado,-,-,17/07/2025 16:35,-,-,-,-,-,-,-
+1724093,📦 Pedido Criado,-,-,19/05/2025 16:43,31/07/2025 21:01,-,73.18 dias,-,-,-,-
+1724093,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 15:12,04/08/2025 15:00,0.76 dias,0.3 dias,Dentro do SLA,0,0
+1724093,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 15:12,04/08/2025 21:14,05/08/2025 13:13,3.25 dias,0.45 dias,Dentro do SLA,0,0
+1724093,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 21:14,-,05/08/2025 17:00,-,-,-,-,-
+1840828,📦 Pedido Criado,-,-,17/07/2025 16:35,-,-,-,-,-,-,-
+1840829,📦 Pedido Criado,-,-,17/07/2025 16:35,-,-,-,-,-,-,-
+1840831,📦 Pedido Criado,-,-,17/07/2025 16:35,-,-,-,-,-,-,-
+1840832,📦 Pedido Criado,-,-,17/07/2025 16:35,-,-,-,-,-,-,-
+1840833,📦 Pedido Criado,-,-,17/07/2025 16:35,-,-,-,-,-,-,-
+1840834,📦 Pedido Criado,-,-,17/07/2025 16:35,-,-,-,-,-,-,-
+1840830,📦 Pedido Criado,-,-,17/07/2025 16:35,31/07/2025 21:01,-,14.18 dias,-,-,-,-
+1840830,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 17:01,04/08/2025 15:00,6.83 dias,1.88 dias,Atrasado,4441.76,1740.0
+1840830,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,07/08/2025 17:01,-,11/08/2025 15:00,-,-,-,-,-
+1638077,📦 Pedido Criado,-,-,09/04/2025 14:21,31/07/2025 21:01,-,113.28 dias,-,-,-,-
+1638077,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 16:46,04/08/2025 15:00,6.82 dias,1.87 dias,Atrasado,4426.46,1726.45
+1638077,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,07/08/2025 16:46,-,11/08/2025 14:47,-,-,-,-,-
+1636047,📦 Pedido Criado,-,-,09/04/2025 12:38,31/07/2025 21:01,-,113.35 dias,-,-,-,-
+1636047,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1627864,📦 Pedido Criado,-,-,07/04/2025 11:27,31/07/2025 21:01,-,115.4 dias,-,-,-,-
+1627864,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,03/08/2025 23:09,04/08/2025 15:00,3.09 dias,0.38 dias,Dentro do SLA,0,0
+1627864,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,03/08/2025 23:09,05/08/2025 15:20,05/08/2025 15:00,1.67 dias,0.68 dias,Atrasado,20.67,20.67
+1627864,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 15:20,-,06/08/2025 15:21,-,-,-,-,-
+1638106,📦 Pedido Criado,-,-,09/04/2025 14:22,31/07/2025 21:01,-,113.28 dias,-,-,-,-
+1638106,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1853150,📦 Pedido Criado,-,-,24/07/2025 11:11,31/07/2025 21:01,-,7.41 dias,-,-,-,-
+1853150,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 15:08,04/08/2025 15:00,0.76 dias,0.3 dias,Dentro do SLA,0,0
+1853150,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 15:08,05/08/2025 12:02,05/08/2025 13:09,3.87 dias,0.62 dias,Dentro do SLA,0,0
+1853150,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 12:02,-,06/08/2025 12:03,-,-,-,-,-
+1857247,📦 Pedido Criado,-,-,25/07/2025 10:31,31/07/2025 21:01,-,6.44 dias,-,-,-,-
+1857247,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 13:40,04/08/2025 15:00,6.69 dias,1.74 dias,Atrasado,4240.55,1540.55
+1857247,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,07/08/2025 13:40,-,11/08/2025 11:41,-,-,-,-,-
+1724135,📦 Pedido Criado,-,-,19/05/2025 16:54,31/07/2025 21:01,-,73.17 dias,-,-,-,-
+1724135,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 17:23,04/08/2025 15:00,0.85 dias,0.38 dias,Dentro do SLA,0,0
+1724135,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,01/08/2025 17:23,05/08/2025 15:07,05/08/2025 15:00,3.91 dias,0.67 dias,Atrasado,7.97,7.97
+1724135,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 15:07,-,06/08/2025 15:08,-,-,-,-,-
+1636077,📦 Pedido Criado,-,-,09/04/2025 12:41,31/07/2025 21:01,-,113.35 dias,-,-,-,-
+1636077,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1838834,📦 Pedido Criado,-,-,17/07/2025 13:06,31/07/2025 21:01,-,14.33 dias,-,-,-,-
+1838834,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1738491,📦 Pedido Criado,-,-,26/05/2025 18:37,31/07/2025 21:01,-,66.1 dias,-,-,-,-
+1738491,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1636097,📦 Pedido Criado,-,-,09/04/2025 12:41,31/07/2025 21:01,-,113.35 dias,-,-,-,-
+1636097,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1758992,📦 Pedido Criado,-,-,06/06/2025 11:06,31/07/2025 21:01,-,55.41 dias,-,-,-,-
+1758992,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1677072,📦 Pedido Criado,-,-,25/04/2025 17:49,31/07/2025 21:01,-,97.13 dias,-,-,-,-
+1677072,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 15:39,04/08/2025 15:00,4.78 dias,1.07 dias,Atrasado,1479.54,579.53
+1677072,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,05/08/2025 15:39,08/08/2025 18:12,07/08/2025 13:40,3.11 dias,1.18 dias,Atrasado,1712.72,740.0
+1677072,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/08/2025 18:12,-,11/08/2025 17:00,-,-,-,-,-
+1638162,📦 Pedido Criado,-,-,09/04/2025 14:24,30/04/2025 21:01,-,21.28 dias,-,-,-,-
+1638162,🛠 Assessoria,integracao-projetoisp,16:00 Horas,30/04/2025 21:01,21/05/2025 10:45,02/05/2025 15:00,20.57 dias,5.36 dias,Atrasado,27105.02,6765.02
+1638162,🧑‍💻 Supply,integracao-ale,16:00 Horas,21/05/2025 10:45,25/05/2025 11:34,23/05/2025 08:46,4.03 dias,1.01 dias,Atrasado,3048.76,494.0
+1638162,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,25/05/2025 11:34,27/05/2025 16:38,27/05/2025 15:00,2.21 dias,0.74 dias,Atrasado,98.6,98.6
+1638162,🛠 Assessoria,admin-ale,16:00 Horas,27/05/2025 16:38,03/06/2025 14:11,29/05/2025 14:39,6.9 dias,1.77 dias,Atrasado,7172.82,1592.82
+1638162,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,03/06/2025 14:11,05/06/2025 18:31,05/06/2025 12:12,2.18 dias,0.87 dias,Atrasado,379.94,288.0
+1638162,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/06/2025 18:31,-,06/06/2025 17:00,-,-,-,-,-
+1638163,📦 Pedido Criado,-,-,09/04/2025 14:24,16/04/2025 13:26,-,6.96 dias,-,-,-,-
+1638163,🛠 Assessoria,carlos@zapform.com.br,16:00 Horas,16/04/2025 13:26,21/05/2025 10:55,18/04/2025 11:27,34.9 dias,9.27 dias,Atrasado,47488.77,12388.77
+1638163,🧑‍💻 Supply,integracao-ale,16:00 Horas,21/05/2025 10:55,21/05/2025 13:21,23/05/2025 08:56,0.1 dias,0.1 dias,Dentro do SLA,0,0
+1638163,🛠 Assessoria,integracao-ale,16:00 Horas,21/05/2025 13:21,03/06/2025 14:12,23/05/2025 11:22,13.04 dias,3.41 dias,Atrasado,16010.95,3950.93
+1638163,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,03/06/2025 14:12,03/06/2025 14:13,05/06/2025 12:13,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1638163,form - Arquivado,assessoriasolutions003@gmail.com,-,03/06/2025 14:13,03/06/2025 15:54,-,0.07 dias,-,-,-,-
+1638163,🛠 Assessoria,admin-ale,16:00 Horas,03/06/2025 15:54,03/06/2025 16:52,05/06/2025 13:55,0.04 dias,0.04 dias,Dentro do SLA,0,0
+1638163,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,03/06/2025 16:52,05/06/2025 18:31,05/06/2025 14:53,2.07 dias,0.76 dias,Atrasado,218.69,127.0
+1638163,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/06/2025 18:31,-,06/06/2025 17:00,-,-,-,-,-
+1869588,📦 Pedido Criado,-,-,05/08/2025 10:46,05/08/2025 10:47,-,0.0 dias,-,-,-,-
+1869588,🧑‍💻 Supply,vinicius.alexandre@nava.com.br,16:00 Horas,05/08/2025 10:47,05/08/2025 10:48,07/08/2025 08:48,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1869588,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),vinicius.alexandre@nava.com.br,16:00 Horas,05/08/2025 10:48,06/08/2025 18:00,07/08/2025 08:49,1.3 dias,0.63 dias,Dentro do SLA,0,0
+1869588,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 18:00,-,07/08/2025 17:00,-,-,-,-,-
+1636115,📦 Pedido Criado,-,-,09/04/2025 12:42,31/07/2025 21:01,-,113.35 dias,-,-,-,-
+1636115,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 11:50,04/08/2025 15:00,0.62 dias,0.16 dias,Dentro do SLA,0,0
+1636115,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 11:50,04/08/2025 18:17,05/08/2025 09:51,3.27 dias,0.59 dias,Dentro do SLA,0,0
+1636115,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 18:17,-,05/08/2025 17:00,-,-,-,-,-
+1638166,📦 Pedido Criado,-,-,09/04/2025 14:24,31/07/2025 21:01,-,113.28 dias,-,-,-,-
+1638166,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 08:42,04/08/2025 15:00,6.49 dias,1.53 dias,Atrasado,3942.83,1242.82
+1638166,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,07/08/2025 08:42,08/08/2025 17:20,08/08/2025 15:43,1.36 dias,0.72 dias,Atrasado,97.52,77.0
+1638166,🛠 Assessoria,ana.prevelato@nava.com.br,16:00 Horas,08/08/2025 17:20,-,12/08/2025 15:00,-,-,-,-,-
+1773342,📦 Pedido Criado,-,-,13/06/2025 15:29,31/07/2025 21:01,-,48.23 dias,-,-,-,-
+1773342,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 13:02,04/08/2025 15:00,0.67 dias,0.21 dias,Dentro do SLA,0,0
+1773342,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 13:02,04/08/2025 18:06,05/08/2025 11:03,3.21 dias,0.54 dias,Dentro do SLA,0,0
+1773342,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 18:06,-,05/08/2025 17:00,-,-,-,-,-
+1724213,📦 Pedido Criado,-,-,19/05/2025 17:26,31/07/2025 21:01,-,73.15 dias,-,-,-,-
+1724213,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 07:56,04/08/2025 15:00,4.45 dias,0.75 dias,Atrasado,1016.07,120.0
+1724213,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 07:56,06/08/2025 15:08,06/08/2025 15:00,1.3 dias,0.67 dias,Atrasado,8.96,8.95
+1724213,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 15:08,-,07/08/2025 15:09,-,-,-,-,-
+1851203,📦 Pedido Criado,-,-,23/07/2025 09:23,31/07/2025 21:01,-,8.48 dias,-,-,-,-
+1851203,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1873735,📦 Pedido Criado,-,-,07/08/2025 13:29,07/08/2025 14:00,-,0.02 dias,-,-,-,-
+1873735,🛠 Assessoria,integracao-projetoisp,16:00 Horas,07/08/2025 14:00,-,11/08/2025 12:01,-,-,-,-,-
+1773393,📦 Pedido Criado,-,-,13/06/2025 15:47,31/07/2025 21:01,-,48.22 dias,-,-,-,-
+1773393,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 13:02,04/08/2025 15:00,0.67 dias,0.21 dias,Dentro do SLA,0,0
+1773393,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 13:02,04/08/2025 18:05,05/08/2025 11:03,3.21 dias,0.54 dias,Dentro do SLA,0,0
+1773393,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 18:05,-,05/08/2025 17:00,-,-,-,-,-
+1638225,📦 Pedido Criado,-,-,09/04/2025 14:26,31/07/2025 21:01,-,113.27 dias,-,-,-,-
+1638225,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 15:24,04/08/2025 15:00,0.77 dias,0.31 dias,Dentro do SLA,0,0
+1638225,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,01/08/2025 15:24,04/08/2025 21:25,05/08/2025 13:25,3.25 dias,0.44 dias,Dentro do SLA,0,0
+1638225,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 21:25,-,05/08/2025 17:00,-,-,-,-,-
+1636189,📦 Pedido Criado,-,-,09/04/2025 12:46,31/07/2025 21:01,-,113.34 dias,-,-,-,-
+1636189,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 09:56,04/08/2025 15:00,4.54 dias,0.83 dias,Atrasado,1136.03,236.02
+1636189,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 09:56,07/08/2025 12:17,06/08/2025 16:57,2.1 dias,0.85 dias,Atrasado,1160.11,260.1
+1636189,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 12:17,-,08/08/2025 12:18,-,-,-,-,-
+1816423,📦 Pedido Criado,-,-,04/07/2025 12:08,31/07/2025 21:01,-,27.37 dias,-,-,-,-
+1816423,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1636203,📦 Pedido Criado,-,-,09/04/2025 12:48,31/07/2025 21:01,-,113.34 dias,-,-,-,-
+1636203,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1765235,📦 Pedido Criado,-,-,09/06/2025 16:11,31/07/2025 21:01,-,52.2 dias,-,-,-,-
+1765235,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1863545,📦 Pedido Criado,-,-,30/07/2025 12:53,31/07/2025 21:01,-,1.34 dias,-,-,-,-
+1863545,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 14:21,04/08/2025 15:00,7.72 dias,2.14 dias,Atrasado,5721.96,2121.95
+1863545,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,08/08/2025 14:21,-,12/08/2025 12:22,-,-,-,-,-
+1636218,📦 Pedido Criado,-,-,09/04/2025 12:49,31/07/2025 21:01,-,113.34 dias,-,-,-,-
+1636218,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1636217,📦 Pedido Criado,-,-,09/04/2025 12:49,30/06/2025 21:01,-,82.34 dias,-,-,-,-
+1636217,🛠 Assessoria,integracao-projetoisp,16:00 Horas,30/06/2025 21:01,22/07/2025 15:44,02/07/2025 15:00,21.78 dias,5.95 dias,Atrasado,28844.75,7604.75
+1636217,🧑‍💻 Supply,saneamentomensal@gmail.com,16:00 Horas,22/07/2025 15:44,28/07/2025 18:06,24/07/2025 13:45,6.1 dias,1.55 dias,Atrasado,6021.91,1275.0
+1636217,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),celiene.pinho@nava.com.br,16:00 Horas,28/07/2025 18:06,29/07/2025 15:06,30/07/2025 15:00,0.87 dias,0.3 dias,Dentro do SLA,0,0
+1636217,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,29/07/2025 15:06,-,30/07/2025 15:07,-,-,-,-,-
+1765244,📦 Pedido Criado,-,-,09/06/2025 16:13,09/06/2025 16:13,-,0.0 dias,-,-,-,-
+1765244,🛠 Assessoria,thais.roberta@nava.com.br,16:00 Horas,09/06/2025 16:13,10/06/2025 10:00,11/06/2025 14:14,0.74 dias,0.12 dias,Dentro do SLA,0,0
+1765244,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,10/06/2025 10:00,10/06/2025 16:58,12/06/2025 08:01,0.29 dias,0.29 dias,Dentro do SLA,0,0
+1765244,🛠 Assessoria,luna.sipoli@nava.com.br,16:00 Horas,10/06/2025 16:58,11/06/2025 10:58,12/06/2025 14:59,0.75 dias,0.13 dias,Dentro do SLA,0,0
+1765244,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,11/06/2025 10:58,12/06/2025 15:02,13/06/2025 08:59,1.17 dias,0.54 dias,Dentro do SLA,0,0
+1765244,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,12/06/2025 15:02,-,13/06/2025 15:03,-,-,-,-,-
+1720198,📦 Pedido Criado,-,-,16/05/2025 13:06,31/07/2025 21:01,-,76.33 dias,-,-,-,-
+1720198,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1863563,📦 Pedido Criado,-,-,30/07/2025 12:55,31/07/2025 21:01,-,1.34 dias,-,-,-,-
+1863563,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 14:21,04/08/2025 15:00,7.72 dias,2.14 dias,Atrasado,5721.96,2121.95
+1863563,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,08/08/2025 14:21,-,12/08/2025 12:22,-,-,-,-,-
+1759126,📦 Pedido Criado,-,-,06/06/2025 11:50,31/07/2025 21:01,-,55.38 dias,-,-,-,-
+1759126,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1650589,📦 Pedido Criado,-,-,14/04/2025 16:41,31/07/2025 21:01,-,108.18 dias,-,-,-,-
+1650589,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 11:41,04/08/2025 15:00,6.61 dias,1.65 dias,Atrasado,4121.71,1421.7
+1650589,🧑‍💻 Supply,gabriels.santos@nava.com.br,16:00 Horas,07/08/2025 11:41,07/08/2025 11:52,11/08/2025 09:42,0.01 dias,0.01 dias,Dentro do SLA,0,0
+1650589,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),gabriels.santos@nava.com.br,16:00 Horas,07/08/2025 11:52,-,11/08/2025 09:53,-,-,-,-,-
+1759136,📦 Pedido Criado,-,-,06/06/2025 11:50,06/06/2025 11:56,-,0.0 dias,-,-,-,-
+1759136,🧑‍💻 Supply,celiene.pinho@nava.com.br,16:00 Horas,06/06/2025 11:56,06/06/2025 11:56,10/06/2025 09:57,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1759136,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),celiene.pinho@nava.com.br,16:00 Horas,06/06/2025 11:56,06/06/2025 15:05,10/06/2025 09:57,0.13 dias,0.13 dias,Dentro do SLA,0,0
+1759136,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/06/2025 15:05,-,09/06/2025 15:06,-,-,-,-,-
+1640358,📦 Pedido Criado,-,-,10/04/2025 11:43,31/07/2025 21:01,-,112.39 dias,-,-,-,-
+1640358,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 14:22,04/08/2025 15:00,0.72 dias,0.27 dias,Dentro do SLA,0,0
+1640358,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 14:22,04/08/2025 18:14,05/08/2025 12:23,3.16 dias,0.48 dias,Dentro do SLA,0,0
+1640358,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 18:14,-,05/08/2025 17:00,-,-,-,-,-
+1673130,📦 Pedido Criado,-,-,24/04/2025 15:14,31/07/2025 21:01,-,98.24 dias,-,-,-,-
+1673130,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 16:45,04/08/2025 15:00,0.82 dias,0.36 dias,Dentro do SLA,0,0
+1673130,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 16:45,06/08/2025 10:22,05/08/2025 14:46,4.73 dias,0.86 dias,Atrasado,1176.92,276.92
+1673130,🛠 Assessoria,assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 10:22,06/08/2025 10:28,08/08/2025 08:23,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1673130,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,06/08/2025 10:28,07/08/2025 16:08,08/08/2025 08:29,1.24 dias,0.61 dias,Dentro do SLA,0,0
+1673130,🧑‍💻 Supply,juliana.santos@nava.com.br,16:00 Horas,07/08/2025 16:08,08/08/2025 13:59,11/08/2025 14:09,0.91 dias,0.28 dias,Dentro do SLA,0,0
+1673130,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),juliana.santos@nava.com.br,16:00 Horas,08/08/2025 13:59,08/08/2025 15:13,12/08/2025 12:00,0.05 dias,0.05 dias,Dentro do SLA,0,0
+1673130,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/08/2025 15:13,-,11/08/2025 15:14,-,-,-,-,-
+1716138,📦 Pedido Criado,-,-,13/05/2025 15:37,31/07/2025 21:01,-,79.22 dias,-,-,-,-
+1716138,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 13:17,04/08/2025 15:00,4.68 dias,0.97 dias,Atrasado,1337.14,437.13
+1716138,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions001@gmail.com,16:00 Horas,05/08/2025 13:17,07/08/2025 12:10,07/08/2025 11:18,1.95 dias,0.7 dias,Atrasado,52.93,52.92
+1716138,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 12:10,-,08/08/2025 12:11,-,-,-,-,-
+1673131,📦 Pedido Criado,-,-,24/04/2025 15:14,-,-,-,-,-,-,-
+1673132,📦 Pedido Criado,-,-,24/04/2025 15:14,-,-,-,-,-,-,-
+1673133,📦 Pedido Criado,-,-,24/04/2025 15:14,-,-,-,-,-,-,-
+1673134,📦 Pedido Criado,-,-,24/04/2025 15:14,-,-,-,-,-,-,-
+1673135,📦 Pedido Criado,-,-,24/04/2025 15:14,-,-,-,-,-,-,-
+1830832,📦 Pedido Criado,-,-,14/07/2025 14:23,31/07/2025 21:01,-,17.28 dias,-,-,-,-
+1830832,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1673137,📦 Pedido Criado,-,-,24/04/2025 15:14,-,-,-,-,-,-,-
+1673136,📦 Pedido Criado,-,-,24/04/2025 15:14,-,-,-,-,-,-,-
+1636270,📦 Pedido Criado,-,-,09/04/2025 12:52,31/07/2025 21:01,-,113.34 dias,-,-,-,-
+1636270,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1640374,📦 Pedido Criado,-,-,10/04/2025 11:44,30/06/2025 21:01,-,81.39 dias,-,-,-,-
+1640374,🛠 Assessoria,integracao-projetoisp,16:00 Horas,30/06/2025 21:01,03/07/2025 16:45,02/07/2025 15:00,2.82 dias,1.12 dias,Atrasado,1545.99,645.98
+1640374,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),mfernandesnykiel@gmail.com,16:00 Horas,03/07/2025 16:45,04/07/2025 15:10,07/07/2025 14:46,0.93 dias,0.31 dias,Dentro do SLA,0,0
+1640374,🛠 Assessoria,luna.sipoli@nava.com.br,16:00 Horas,04/07/2025 15:10,15/07/2025 22:04,08/07/2025 13:11,11.29 dias,2.7 dias,Atrasado,10613.85,2929.0
+1640374,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),mfernandesnykiel@gmail.com,16:00 Horas,15/07/2025 22:04,30/07/2025 09:00,17/07/2025 15:00,14.46 dias,3.79 dias,Atrasado,18360.05,4500.05
+1640374,🛠 Assessoria,ana.prevelato@nava.com.br,16:00 Horas,30/07/2025 09:00,30/07/2025 09:19,31/07/2025 16:01,0.01 dias,0.01 dias,Dentro do SLA,0,0
+1640374,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),mfernandesnykiel@gmail.com,16:00 Horas,30/07/2025 09:19,31/07/2025 09:13,31/07/2025 16:20,1.0 dias,0.37 dias,Dentro do SLA,0,0
+1640374,🛠 Assessoria,ana.prevelato@nava.com.br,16:00 Horas,31/07/2025 09:13,31/07/2025 09:25,01/08/2025 16:14,0.01 dias,0.01 dias,Dentro do SLA,0,0
+1640374,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),mfernandesnykiel@gmail.com,16:00 Horas,31/07/2025 09:25,01/08/2025 09:13,01/08/2025 16:26,0.99 dias,0.37 dias,Dentro do SLA,0,0
+1640374,🛠 Assessoria,ana.prevelato@nava.com.br,16:00 Horas,01/08/2025 09:13,-,04/08/2025 16:14,-,-,-,-,-
+1640375,📦 Pedido Criado,-,-,10/04/2025 11:44,31/07/2025 21:01,-,112.39 dias,-,-,-,-
+1640375,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 14:22,04/08/2025 15:00,0.72 dias,0.27 dias,Dentro do SLA,0,0
+1640375,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,01/08/2025 14:22,04/08/2025 18:14,05/08/2025 12:23,3.16 dias,0.48 dias,Dentro do SLA,0,0
+1640375,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,04/08/2025 18:14,-,05/08/2025 17:00,-,-,-,-,-
+1636288,📦 Pedido Criado,-,-,09/04/2025 12:53,31/07/2025 21:01,-,113.34 dias,-,-,-,-
+1636288,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 14:04,04/08/2025 15:00,7.71 dias,2.13 dias,Atrasado,5704.73,2104.72
+1636288,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,08/08/2025 14:04,-,12/08/2025 12:05,-,-,-,-,-
+1775558,📦 Pedido Criado,-,-,16/06/2025 15:49,31/07/2025 21:01,-,45.22 dias,-,-,-,-
+1775558,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1636303,📦 Pedido Criado,-,-,09/04/2025 12:54,31/07/2025 21:01,-,113.34 dias,-,-,-,-
+1636303,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 14:04,04/08/2025 15:00,7.71 dias,2.13 dias,Atrasado,5704.73,2104.72
+1636303,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,08/08/2025 14:04,-,12/08/2025 12:05,-,-,-,-,-
+1759186,📦 Pedido Criado,-,-,06/06/2025 12:02,31/07/2025 21:01,-,55.37 dias,-,-,-,-
+1759186,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1638355,📦 Pedido Criado,-,-,09/04/2025 14:32,31/07/2025 21:01,-,113.27 dias,-,-,-,-
+1638355,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1830874,📦 Pedido Criado,-,-,14/07/2025 14:34,31/07/2025 21:01,-,17.27 dias,-,-,-,-
+1830874,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1636315,📦 Pedido Criado,-,-,09/04/2025 12:55,31/07/2025 21:01,-,113.34 dias,-,-,-,-
+1636315,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,08/08/2025 14:04,04/08/2025 15:00,7.71 dias,2.13 dias,Atrasado,5704.74,2104.73
+1636315,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,08/08/2025 14:04,-,12/08/2025 12:05,-,-,-,-,-
+1640417,📦 Pedido Criado,-,-,10/04/2025 11:50,31/07/2025 21:01,-,112.38 dias,-,-,-,-
+1640417,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,04/08/2025 09:14,04/08/2025 15:00,3.51 dias,0.43 dias,Dentro do SLA,0,0
+1640417,🧑‍💻 Supply,thais.roberta@nava.com.br,16:00 Horas,04/08/2025 09:14,04/08/2025 09:14,05/08/2025 16:15,0.0 dias,0.0 dias,Dentro do SLA,0,0
+1640417,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,04/08/2025 09:14,06/08/2025 12:12,05/08/2025 16:15,2.12 dias,0.87 dias,Atrasado,1197.68,297.67
+1640417,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,06/08/2025 12:12,-,07/08/2025 12:13,-,-,-,-,-
+1740772,📦 Pedido Criado,-,-,28/05/2025 10:30,31/07/2025 21:01,-,64.44 dias,-,-,-,-
+1740772,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,05/08/2025 11:49,04/08/2025 15:00,4.62 dias,0.91 dias,Atrasado,1249.09,349.08
+1740772,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,05/08/2025 11:49,07/08/2025 09:08,07/08/2025 09:50,1.89 dias,0.64 dias,Dentro do SLA,0,0
+1740772,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,07/08/2025 09:08,-,08/08/2025 09:09,-,-,-,-,-
+1638375,📦 Pedido Criado,-,-,09/04/2025 14:32,31/07/2025 21:01,-,113.27 dias,-,-,-,-
+1638375,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 17:48,04/08/2025 15:00,6.87 dias,1.88 dias,Atrasado,4488.51,1740.0
+1638375,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),saneamentomensal@gmail.com,16:00 Horas,07/08/2025 17:48,-,11/08/2025 15:00,-,-,-,-,-
+1665009,📦 Pedido Criado,-,-,22/04/2025 10:49,31/07/2025 21:01,-,100.42 dias,-,-,-,-
+1665009,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,01/08/2025 15:54,04/08/2025 15:00,0.79 dias,0.33 dias,Dentro do SLA,0,0
+1665009,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),thais.roberta@nava.com.br,16:00 Horas,01/08/2025 15:54,05/08/2025 18:17,05/08/2025 13:55,4.1 dias,0.8 dias,Atrasado,262.29,185.0
+1665009,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,05/08/2025 18:17,-,06/08/2025 17:00,-,-,-,-,-
+1638387,📦 Pedido Criado,-,-,09/04/2025 14:33,31/07/2025 21:01,-,113.27 dias,-,-,-,-
+1638387,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 09:00,04/08/2025 15:00,6.5 dias,1.54 dias,Atrasado,3960.82,1260.82
+1638387,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,07/08/2025 09:00,08/08/2025 18:14,08/08/2025 16:01,1.38 dias,0.71 dias,Atrasado,133.03,59.0
+1638387,✅📄 NF Recebida (Aguardando Pagamento),integracao-projetoisp,09:00 Horas,08/08/2025 18:14,-,11/08/2025 17:00,-,-,-,-,-
+1851389,📦 Pedido Criado,-,-,23/07/2025 10:28,31/07/2025 21:01,-,8.44 dias,-,-,-,-
+1851389,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,-,04/08/2025 15:00,-,-,-,-,-
+1640446,📦 Pedido Criado,-,-,10/04/2025 11:57,31/07/2025 21:01,-,112.38 dias,-,-,-,-
+1640446,🛠 Assessoria,integracao-projetoisp,16:00 Horas,31/07/2025 21:01,07/08/2025 14:54,04/08/2025 15:00,6.75 dias,1.79 dias,Atrasado,4314.73,1614.72
+1640446,📄 Fiscal (Aguardando Validação Fiscal - NF e Boleto recebidos),assessoriasolutions003@gmail.com,16:00 Horas,07/08/2025 14:54,-,11/08/2025 12:55,-,-,-,-,-

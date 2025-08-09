@@ -1,0 +1,35 @@
+ID da Ordem,Etapa,Modificado por,SLA,Data Início Execução,Data Final Execução,Prazo Máximo,Duração Total,Duração Útil,Status SLA,Excedido Total (min),Excedido Útil (min)
+1619464,Aguardando Verificação/Aprovação (NAVA),-,-,04/04/2025 15:39,04/04/2025 19:28,-,0.16 dias,-,-,-,-
+1619464,Enviado para o RM (Integração),carlos@zapform.com.br,-,04/04/2025 19:28,04/04/2025 19:28,-,0.0 dias,-,-,-,-
+1619464,Contrato Ativo,carlos@zapform.com.br,-,04/04/2025 19:28,04/08/2025 09:47,-,121.6 dias,-,-,-,-
+1619464,Aguardando Verificação/Aprovação (NAVA),integracao-projetoisp,-,04/08/2025 09:47,04/08/2025 09:48,-,0.0 dias,-,-,-,-
+1619464,Contratos Encerrados,gabriels.santos@nava.com.br,-,04/08/2025 09:48,08/08/2025 14:52,-,4.21 dias,-,-,-,-
+1619464,Aguardando Verificação/Aprovação (NAVA),thais.roberta@nava.com.br,-,08/08/2025 14:52,08/08/2025 14:53,-,0.0 dias,-,-,-,-
+1619464,Enviado para o RM (Integração),integracao-projetoisp,-,08/08/2025 14:53,08/08/2025 14:53,-,0.0 dias,-,-,-,-
+1619464,Contrato Ativo,integracao-projetoisp,-,08/08/2025 14:53,08/08/2025 14:56,-,0.0 dias,-,-,-,-
+1619464,Contratos Encerrados,thais.roberta@nava.com.br,-,08/08/2025 14:56,-,-,-,-,-,-,-
+1618956,Aguardando Verificação/Aprovação (NAVA),-,-,04/04/2025 14:39,07/04/2025 11:02,-,2.85 dias,-,-,-,-
+1618956,Enviado para o RM (Integração),carlos@zapform.com.br,-,07/04/2025 11:02,07/04/2025 11:04,-,0.0 dias,-,-,-,-
+1618956,Contrato Ativo,carlos@zapform.com.br,-,07/04/2025 11:04,08/08/2025 09:55,-,122.95 dias,-,-,-,-
+1618956,Aguardando Verificação/Aprovação (NAVA),integracao-projetoisp,-,08/08/2025 09:55,08/08/2025 09:55,-,0.0 dias,-,-,-,-
+1618956,Cancelado,thais.roberta@nava.com.br,-,08/08/2025 09:55,08/08/2025 09:56,-,0.0 dias,-,-,-,-
+1618956,Aguardando Verificação/Aprovação (NAVA),thais.roberta@nava.com.br,-,08/08/2025 09:56,08/08/2025 09:56,-,0.0 dias,-,-,-,-
+1618956,Enviado para o RM (Integração),integracao-projetoisp,-,08/08/2025 09:56,08/08/2025 09:56,-,0.0 dias,-,-,-,-
+1618956,Contrato Ativo,integracao-projetoisp,-,08/08/2025 09:56,-,-,-,-,-,-,-
+1601230,Aguardando Verificação/Aprovação (NAVA),-,-,31/03/2025 22:01,01/04/2025 03:40,-,0.24 dias,-,-,-,-
+1601230,Enviado para o RM (Integração),carlos@zapform.com.br,-,01/04/2025 03:40,01/04/2025 03:41,-,0.0 dias,-,-,-,-
+1601230,Contrato Ativo,carlos@zapform.com.br,-,01/04/2025 03:41,08/08/2025 16:07,-,129.52 dias,-,-,-,-
+1601230,Aguardando Verificação/Aprovação (NAVA),integracao-projetoisp,-,08/08/2025 16:07,08/08/2025 16:07,-,0.0 dias,-,-,-,-
+1601230,Contratos Encerrados,gabriels.santos@nava.com.br,-,08/08/2025 16:07,-,-,-,-,-,-,-
+1674094,Aguardando Verificação/Aprovação (NAVA),-,-,25/04/2025 09:25,25/04/2025 09:26,-,0.0 dias,-,-,-,-
+1674094,Enviado para o RM (Integração),integracao-projetoisp,-,25/04/2025 09:26,25/04/2025 09:26,-,0.0 dias,-,-,-,-
+1674094,Contrato Ativo,integracao-projetoisp,-,25/04/2025 09:26,25/04/2025 13:09,-,0.15 dias,-,-,-,-
+1674094,Aguardando Verificação/Aprovação (NAVA),integracao-projetoisp,-,25/04/2025 13:09,25/04/2025 13:13,-,0.0 dias,-,-,-,-
+1674094,Enviado para o RM (Integração),integracao-projetoisp,-,25/04/2025 13:13,25/04/2025 13:14,-,0.0 dias,-,-,-,-
+1674094,Contrato Ativo,integracao-projetoisp,-,25/04/2025 13:14,25/04/2025 13:14,-,0.0 dias,-,-,-,-
+1674094,Erro de Importação,integracao-projetoisp,-,25/04/2025 13:14,25/04/2025 13:16,-,0.0 dias,-,-,-,-
+1674094,Aguardando Verificação/Aprovação (NAVA),carlos@zapform.com.br,-,25/04/2025 13:16,25/04/2025 13:17,-,0.0 dias,-,-,-,-
+1674094,Contrato Ativo,carlos@zapform.com.br,-,25/04/2025 13:17,-,-,-,-,-,-,-
+1673109,Aguardando Verificação/Aprovação (NAVA),-,-,24/04/2025 15:12,24/04/2025 15:12,-,0.0 dias,-,-,-,-
+1673109,Enviado para o RM (Integração),integracao-projetoisp,-,24/04/2025 15:12,24/04/2025 15:14,-,0.0 dias,-,-,-,-
+1673109,Contrato Ativo,integracao-projetoisp,-,24/04/2025 15:14,-,-,-,-,-,-,-
