@@ -12,7 +12,7 @@ def get_config_name(config_id, token):
         "Authorization": f"Token {token}"
     }
     try:
-        response = requests.get(url, headers=headers, timeout=10)
+        response = requests.get(url, headers=headers, timeout=30)
         if response.status_code == 200:
             return response.json().get("name", f"config_{config_id}")
         else:
@@ -44,7 +44,7 @@ def fetch_orders_by_date(token, config_id, filters, get_with_retry):
     while url:
         for attempt in range(max_attempts):
             try:
-                response = get_with_retry(url, headers=headers, timeout=10, params=params)
+                response = get_with_retry(url, headers=headers, timeout=30, params=params)
                 if response.status_code == 200:
                     data = response.json()
                     orders = data.get('results', [])
@@ -144,7 +144,7 @@ def fetch_order_data(config_id, order_id, token_manager, get_with_retry):
 
     for attempt in range(5):
         try:
-            response = get_with_retry(url, headers=headers, timeout=10)
+            response = get_with_retry(url, headers=headers, timeout=30)
             if response and response.status_code == 200:
                 token_manager.marcar_sucesso()
                 return response.json()

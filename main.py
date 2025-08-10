@@ -22,14 +22,26 @@ def main():
 
     # 🔐 Logins da API Zapform
     logins = [
-        {"username": "integracao-ale4", "password": "Zapform@04"},
-        {"username": "integracao-ale5", "password": "Zapform@05"},
-        {"username": "integracao-ale6", "password": "Zapform@06"},
-        {"username": "integracao-ale7", "password": "Zapform@07"},
-        {"username": "integracao-ale8", "password": "Zapform@08"},
-        {"username": "integracao-ale9", "password": "Zapform@09"},
+        {"username": "integracao-ale20", "password": "Zapform@20"},
+        {"username": "integracao-ale19", "password": "Zapform@19"},
+        {"username": "integracao-ale18", "password": "Zapform@18"},
+        {"username": "integracao-ale17", "password": "Zapform@17"},
+        {"username": "integracao-ale16", "password": "Zapform@16"},
+        {"username": "integracao-ale15", "password": "Zapform@15"},
+        {"username": "integracao-ale14", "password": "Zapform@14"},
+        {"username": "integracao-ale13", "password": "Zapform@13"},
+        {"username": "integracao-ale12", "password": "Zapform@12"},
+        {"username": "integracao-ale11", "password": "Zapform@11"},
         {"username": "integracao-ale10", "password": "Zapform@10"},
+        {"username": "integracao-ale9", "password": "Zapform@09"},
+        {"username": "integracao-ale8", "password": "Zapform@08"},
+        {"username": "integracao-ale7", "password": "Zapform@07"},
+        {"username": "integracao-ale6", "password": "Zapform@06"},
+        {"username": "integracao-ale5", "password": "Zapform@05"},
+        {"username": "integracao-ale4", "password": "Zapform@04"},
     ]
+
+
 
     # 🔗 Conecta ao Google Sheets
     scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]

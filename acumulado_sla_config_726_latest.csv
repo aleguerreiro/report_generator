@@ -1,4 +1,10 @@
 ID da Ordem,Etapa,Modificado por,SLA,Data Início Execução,Data Final Execução,Prazo Máximo,Duração Total,Duração Útil,Status SLA,Excedido Total (min),Excedido Útil (min)
+1754092,Viabilidade,-,-,03/06/2025 17:35,06/06/2025 14:35,-,2.88 dias,-,-,-,-
+1754092,Solicitação de Contratação,fabiano.uoya@nava.com.br,-,06/06/2025 14:35,09/06/2025 15:07,-,3.02 dias,-,-,-,-
+1754092,Suprimentos,fabiano.uoya@nava.com.br,-,09/06/2025 15:07,01/07/2025 11:26,-,21.85 dias,-,-,-,-
+1754092,Implantação,kaike.fransisco@nava.com.br,-,01/07/2025 11:26,21/07/2025 17:13,-,20.24 dias,-,-,-,-
+1754092,Solicitação de Contratação,stefani.santos@nava.com.br,-,21/07/2025 17:13,24/07/2025 14:47,-,2.9 dias,-,-,-,-
+1754092,Suprimentos,fabiano.uoya@nava.com.br,-,24/07/2025 14:47,-,-,-,-,-,-,-
 1276251,Viabilidade,-,-,22/10/2024 12:58,22/10/2024 13:04,-,0.0 dias,-,-,-,-
 1276251,Cancelamento em Andamento,orion.martins@nava.com.br,-,22/10/2024 13:04,04/11/2024 21:37,-,13.36 dias,-,-,-,-
 1276251,Implantação,admin,-,04/11/2024 21:37,07/11/2024 12:27,-,2.62 dias,-,-,-,-
@@ -389,9 +395,6 @@ ID da Ordem,Etapa,Modificado por,SLA,Data Início Execução,Data Final Execuç�
 1835870,Viabilidade,-,-,16/07/2025 17:02,16/07/2025 17:02,-,0.0 dias,-,-,-,-
 1835870,Cancelamento em Andamento,integracao-planilha-orion,-,16/07/2025 17:02,06/08/2025 09:28,-,20.68 dias,-,-,-,-
 1835870,Encerrados (Ativos e Cancelados),fabiano.uoya@nava.com.br,-,06/08/2025 09:28,-,-,-,-,-,-,-
-1835871,Viabilidade,-,-,16/07/2025 17:02,16/07/2025 17:02,-,0.0 dias,-,-,-,-
-1835871,Cancelamento em Andamento,integracao-planilha-orion,-,16/07/2025 17:02,08/08/2025 16:11,-,22.96 dias,-,-,-,-
-1835871,Implantação,gabriels.santos@nava.com.br,-,08/08/2025 16:11,-,-,-,-,-,-,-
 1835872,Viabilidade,-,-,16/07/2025 17:02,16/07/2025 17:02,-,0.0 dias,-,-,-,-
 1835872,Cancelamento em Andamento,integracao-planilha-orion,-,16/07/2025 17:02,-,-,-,-,-,-,-
 1835873,Viabilidade,-,-,16/07/2025 17:02,16/07/2025 17:02,-,0.0 dias,-,-,-,-
@@ -417,8 +420,6 @@ ID da Ordem,Etapa,Modificado por,SLA,Data Início Execução,Data Final Execuç�
 1835924,Viabilidade,-,-,16/07/2025 17:30,16/07/2025 17:30,-,0.0 dias,-,-,-,-
 1835924,Cancelamento em Andamento,integracao-planilha-orion,-,16/07/2025 17:30,06/08/2025 09:31,-,20.67 dias,-,-,-,-
 1835924,Encerrados (Ativos e Cancelados),fabiano.uoya@nava.com.br,-,06/08/2025 09:31,-,-,-,-,-,-,-
-1835925,Viabilidade,-,-,16/07/2025 17:30,16/07/2025 17:30,-,0.0 dias,-,-,-,-
-1835925,Cancelamento em Andamento,integracao-planilha-orion,-,16/07/2025 17:30,-,-,-,-,-,-,-
 1835926,Viabilidade,-,-,16/07/2025 17:30,16/07/2025 17:30,-,0.0 dias,-,-,-,-
 1835926,Cancelamento em Andamento,integracao-planilha-orion,-,16/07/2025 17:30,-,-,-,-,-,-,-
 1835927,Viabilidade,-,-,16/07/2025 17:30,16/07/2025 17:30,-,0.0 dias,-,-,-,-
@@ -483,24 +484,6 @@ ID da Ordem,Etapa,Modificado por,SLA,Data Início Execução,Data Final Execuç�
 1279062,Lixeira,admin-ale,-,16/04/2025 00:05,-,-,-,-,-,-,-
 1770638,Viabilidade,-,-,11/06/2025 16:33,23/07/2025 14:13,-,41.9 dias,-,-,-,-
 1770638,Comercial,lucass.ramos@nava.com.br,-,23/07/2025 14:13,-,-,-,-,-,-,-
-1868987,Viabilidade,-,-,04/08/2025 17:23,-,-,-,-,-,-,-
-1868988,Viabilidade,-,-,04/08/2025 17:23,-,-,-,-,-,-,-
-1868989,Viabilidade,-,-,04/08/2025 17:23,-,-,-,-,-,-,-
-1868990,Viabilidade,-,-,04/08/2025 17:23,-,-,-,-,-,-,-
-1868991,Viabilidade,-,-,04/08/2025 17:23,08/08/2025 14:57,-,3.9 dias,-,-,-,-
-1868991,Comercial,lucass.ramos@nava.com.br,-,08/08/2025 14:57,-,-,-,-,-,-,-
-1868992,Viabilidade,-,-,04/08/2025 17:23,06/08/2025 16:10,-,1.95 dias,-,-,-,-
-1868992,Comercial,lucass.ramos@nava.com.br,-,06/08/2025 16:10,-,-,-,-,-,-,-
-1868993,Viabilidade,-,-,04/08/2025 17:23,05/08/2025 15:51,-,0.94 dias,-,-,-,-
-1868993,Comercial,lucass.ramos@nava.com.br,-,05/08/2025 15:51,-,-,-,-,-,-,-
-1868994,Viabilidade,-,-,04/08/2025 17:23,05/08/2025 15:18,-,0.91 dias,-,-,-,-
-1868994,Comercial,lucass.ramos@nava.com.br,-,05/08/2025 15:18,-,-,-,-,-,-,-
-1868995,Viabilidade,-,-,04/08/2025 17:23,06/08/2025 12:14,-,1.79 dias,-,-,-,-
-1868995,Comercial,lucass.ramos@nava.com.br,-,06/08/2025 12:14,-,-,-,-,-,-,-
-1868996,Viabilidade,-,-,04/08/2025 17:23,06/08/2025 15:12,-,1.91 dias,-,-,-,-
-1868996,Comercial,lucass.ramos@nava.com.br,-,06/08/2025 15:12,-,-,-,-,-,-,-
-1868997,Viabilidade,-,-,04/08/2025 17:23,-,-,-,-,-,-,-
-1868998,Viabilidade,-,-,04/08/2025 17:23,-,-,-,-,-,-,-
 1868999,Viabilidade,-,-,04/08/2025 17:23,05/08/2025 14:21,-,0.87 dias,-,-,-,-
 1868999,Lixeira,luana.leites@nava.com.br,-,05/08/2025 14:21,-,-,-,-,-,-,-
 1279180,Viabilidade,-,-,24/10/2024 14:18,24/10/2024 14:18,-,0.0 dias,-,-,-,-
@@ -1590,8 +1573,6 @@ ID da Ordem,Etapa,Modificado por,SLA,Data Início Execução,Data Final Execuç�
 1872947,Comercial,lucass.ramos@nava.com.br,-,07/08/2025 17:37,-,-,-,-,-,-,-
 1872948,Viabilidade,-,-,06/08/2025 16:53,07/08/2025 17:36,-,1.03 dias,-,-,-,-
 1872948,Comercial,lucass.ramos@nava.com.br,-,07/08/2025 17:36,-,-,-,-,-,-,-
-1872949,Viabilidade,-,-,06/08/2025 16:53,08/08/2025 19:49,-,2.12 dias,-,-,-,-
-1872949,Lixeira,fabiano.uoya@nava.com.br,-,08/08/2025 19:49,-,-,-,-,-,-,-
 1315924,Viabilidade,-,-,14/11/2024 19:35,14/11/2024 19:38,-,0.0 dias,-,-,-,-
 1315924,Solicitação de Contratação,edmar.simon@nava.com.br,-,14/11/2024 19:38,18/11/2024 13:39,-,3.75 dias,-,-,-,-
 1315924,Encerrados (Ativos e Cancelados),orion.martins@nava.com.br,-,18/11/2024 13:39,-,-,-,-,-,-,-
@@ -1673,8 +1654,6 @@ ID da Ordem,Etapa,Modificado por,SLA,Data Início Execução,Data Final Execuç�
 1742451,Viabilidade,-,-,28/05/2025 17:09,28/05/2025 17:09,-,0.0 dias,-,-,-,-
 1742451,Suprimentos,thais.roberta@nava.com.br,-,28/05/2025 17:09,30/05/2025 09:55,-,1.7 dias,-,-,-,-
 1742451,Encerrados (Ativos e Cancelados),anny.araujo@nava.com.br,-,30/05/2025 09:55,-,-,-,-,-,-,-
-1873527,Viabilidade,-,-,07/08/2025 11:31,08/08/2025 19:49,-,1.35 dias,-,-,-,-
-1873527,Lixeira,fabiano.uoya@nava.com.br,-,08/08/2025 19:49,-,-,-,-,-,-,-
 1873617,Viabilidade,-,-,07/08/2025 12:14,07/08/2025 12:14,-,0.0 dias,-,-,-,-
 1873617,Cancelamento em Andamento,integracao-planilha-brendow,-,07/08/2025 12:14,-,-,-,-,-,-,-
 1873618,Viabilidade,-,-,07/08/2025 12:14,07/08/2025 12:14,-,0.0 dias,-,-,-,-
@@ -2583,20 +2562,6 @@ ID da Ordem,Etapa,Modificado por,SLA,Data Início Execução,Data Final Execuç�
 1485017,Suprimentos,fabiano.uoya@nava.com.br,-,27/05/2025 12:19,30/05/2025 14:40,-,3.1 dias,-,-,-,-
 1485017,Solicitação de Contratação,stefani.santos@nava.com.br,-,30/05/2025 14:40,23/06/2025 09:50,-,23.8 dias,-,-,-,-
 1485017,Comercial,fabiano.uoya@nava.com.br,-,23/06/2025 09:50,-,-,-,-,-,-,-
-1485018,Viabilidade,-,-,30/01/2025 17:12,03/02/2025 12:59,-,3.82 dias,-,-,-,-
-1485018,Comercial,lucass.ramos@nava.com.br,-,03/02/2025 12:59,10/03/2025 17:27,-,35.19 dias,-,-,-,-
-1485018,Solicitação de Contratação,luana.leites@nava.com.br,-,10/03/2025 17:27,26/03/2025 08:58,-,15.65 dias,-,-,-,-
-1485018,Suprimentos,fabiano.uoya@nava.com.br,-,26/03/2025 08:58,09/04/2025 12:00,-,14.13 dias,-,-,-,-
-1485018,Solicitação de Contratação,nicolly.barbosa@nava.com.br,-,09/04/2025 12:00,11/04/2025 10:50,-,1.95 dias,-,-,-,-
-1485018,Suprimentos,fabiano.uoya@nava.com.br,-,11/04/2025 10:50,06/05/2025 08:22,-,24.9 dias,-,-,-,-
-1485018,Viabilidade,anny.araujo@nava.com.br,-,06/05/2025 08:22,09/05/2025 17:26,-,3.38 dias,-,-,-,-
-1485018,Solicitação de Contratação,fabiano.uoya@nava.com.br,-,09/05/2025 17:26,23/06/2025 08:54,-,44.64 dias,-,-,-,-
-1485018,Suprimentos,fabiano.uoya@nava.com.br,-,23/06/2025 08:54,18/07/2025 09:07,-,25.01 dias,-,-,-,-
-1485018,Solicitação de Contratação,vinicius.alexandre@nava.com.br,-,18/07/2025 09:07,06/08/2025 13:18,-,19.17 dias,-,-,-,-
-1485018,Pendência do Cliente,stefani.santos@nava.com.br,-,06/08/2025 13:18,07/08/2025 14:12,-,1.04 dias,-,-,-,-
-1485018,Solicitação de Contratação,stefani.santos@nava.com.br,-,07/08/2025 14:12,08/08/2025 16:33,-,1.1 dias,-,-,-,-
-1485018,Comercial,fabiano.uoya@nava.com.br,-,08/08/2025 16:33,08/08/2025 17:52,-,0.06 dias,-,-,-,-
-1485018,Suprimentos,fabiano.uoya@nava.com.br,-,08/08/2025 17:52,-,-,-,-,-,-,-
 1485019,Viabilidade,-,-,30/01/2025 17:12,03/02/2025 12:58,-,3.82 dias,-,-,-,-
 1485019,Comercial,lucass.ramos@nava.com.br,-,03/02/2025 12:58,10/03/2025 17:27,-,35.19 dias,-,-,-,-
 1485019,Solicitação de Contratação,luana.leites@nava.com.br,-,10/03/2025 17:27,26/03/2025 08:57,-,15.65 dias,-,-,-,-
@@ -3769,12 +3734,6 @@ ID da Ordem,Etapa,Modificado por,SLA,Data Início Execução,Data Final Execuç�
 1619012,Encerrados (Ativos e Cancelados),integracao-ale,-,16/04/2025 16:33,-,-,-,-,-,-,-
 1717318,Viabilidade,-,-,14/05/2025 13:49,14/05/2025 13:49,-,0.0 dias,-,-,-,-
 1717318,Cancelamento em Andamento,orion.martins@nava.com.br,-,14/05/2025 13:49,-,-,-,-,-,-,-
-1717319,Viabilidade,-,-,14/05/2025 13:49,14/05/2025 13:49,-,0.0 dias,-,-,-,-
-1717319,Cancelamento em Andamento,orion.martins@nava.com.br,-,14/05/2025 13:49,08/08/2025 18:58,-,86.21 dias,-,-,-,-
-1717319,Encerrados (Ativos e Cancelados),fabiano.uoya@nava.com.br,-,08/08/2025 18:58,-,-,-,-,-,-,-
-1717320,Viabilidade,-,-,14/05/2025 13:49,14/05/2025 13:49,-,0.0 dias,-,-,-,-
-1717320,Cancelamento em Andamento,orion.martins@nava.com.br,-,14/05/2025 13:49,08/08/2025 18:53,-,86.21 dias,-,-,-,-
-1717320,Encerrados (Ativos e Cancelados),fabiano.uoya@nava.com.br,-,08/08/2025 18:53,-,-,-,-,-,-,-
 1619017,Viabilidade,-,-,04/04/2025 14:46,04/04/2025 14:46,-,0.0 dias,-,-,-,-
 1619017,Implantação,carlos@zapform.com.br,-,04/04/2025 14:46,14/04/2025 09:48,-,9.79 dias,-,-,-,-
 1619017,Cancelamento em Andamento,integracao-ale,-,14/04/2025 09:48,15/04/2025 16:03,-,1.26 dias,-,-,-,-
@@ -3785,20 +3744,8 @@ ID da Ordem,Etapa,Modificado por,SLA,Data Início Execução,Data Final Execuç�
 1619017,Encerrados (Ativos e Cancelados),integracao-ale,-,16/04/2025 16:33,-,-,-,-,-,-,-
 1717321,Viabilidade,-,-,14/05/2025 13:49,14/05/2025 13:49,-,0.0 dias,-,-,-,-
 1717321,Cancelamento em Andamento,orion.martins@nava.com.br,-,14/05/2025 13:49,-,-,-,-,-,-,-
-1717322,Viabilidade,-,-,14/05/2025 13:49,14/05/2025 13:49,-,0.0 dias,-,-,-,-
-1717322,Cancelamento em Andamento,orion.martins@nava.com.br,-,14/05/2025 13:49,08/08/2025 18:54,-,86.21 dias,-,-,-,-
-1717322,Encerrados (Ativos e Cancelados),fabiano.uoya@nava.com.br,-,08/08/2025 18:54,-,-,-,-,-,-,-
 1717323,Viabilidade,-,-,14/05/2025 13:49,14/05/2025 13:49,-,0.0 dias,-,-,-,-
 1717323,Cancelamento em Andamento,orion.martins@nava.com.br,-,14/05/2025 13:49,-,-,-,-,-,-,-
-1717324,Viabilidade,-,-,14/05/2025 13:49,14/05/2025 13:49,-,0.0 dias,-,-,-,-
-1717324,Cancelamento em Andamento,orion.martins@nava.com.br,-,14/05/2025 13:49,08/08/2025 18:55,-,86.21 dias,-,-,-,-
-1717324,Encerrados (Ativos e Cancelados),fabiano.uoya@nava.com.br,-,08/08/2025 18:55,-,-,-,-,-,-,-
-1717325,Viabilidade,-,-,14/05/2025 13:49,14/05/2025 13:49,-,0.0 dias,-,-,-,-
-1717325,Cancelamento em Andamento,orion.martins@nava.com.br,-,14/05/2025 13:49,08/08/2025 18:57,-,86.21 dias,-,-,-,-
-1717325,Encerrados (Ativos e Cancelados),fabiano.uoya@nava.com.br,-,08/08/2025 18:57,-,-,-,-,-,-,-
-1717326,Viabilidade,-,-,14/05/2025 13:50,14/05/2025 13:50,-,0.0 dias,-,-,-,-
-1717326,Cancelamento em Andamento,orion.martins@nava.com.br,-,14/05/2025 13:50,08/08/2025 18:56,-,86.21 dias,-,-,-,-
-1717326,Encerrados (Ativos e Cancelados),fabiano.uoya@nava.com.br,-,08/08/2025 18:56,-,-,-,-,-,-,-
 1717327,Viabilidade,-,-,14/05/2025 13:50,14/05/2025 13:50,-,0.0 dias,-,-,-,-
 1717327,Cancelamento em Andamento,orion.martins@nava.com.br,-,14/05/2025 13:50,-,-,-,-,-,-,-
 1717328,Viabilidade,-,-,14/05/2025 13:50,14/05/2025 13:50,-,0.0 dias,-,-,-,-
@@ -7908,8 +7855,6 @@ ID da Ordem,Etapa,Modificado por,SLA,Data Início Execução,Data Final Execuç�
 1788892,Comercial,fabiano.uoya@nava.com.br,-,28/07/2025 15:02,28/07/2025 16:15,-,0.05 dias,-,-,-,-
 1788892,Implantação,stefani.santos@nava.com.br,-,28/07/2025 16:15,29/07/2025 10:45,-,0.77 dias,-,-,-,-
 1788892,Comercial,stefani.santos@nava.com.br,-,29/07/2025 10:45,-,-,-,-,-,-,-
-1788893,Viabilidade,-,-,23/06/2025 10:48,04/07/2025 12:26,-,11.07 dias,-,-,-,-
-1788893,Comercial,lucass.ramos@nava.com.br,-,04/07/2025 12:26,-,-,-,-,-,-,-
 1273888,Viabilidade,-,-,22/10/2024 00:08,22/10/2024 00:08,-,0.0 dias,-,-,-,-
 1273888,Solicitação de Contratação,carlos@zapform.com.br,-,22/10/2024 00:08,04/11/2024 21:27,-,13.89 dias,-,-,-,-
 1273888,Comercial,integracao-zapform,-,04/11/2024 21:27,-,-,-,-,-,-,-
@@ -9961,14 +9906,6 @@ ID da Ordem,Etapa,Modificado por,SLA,Data Início Execução,Data Final Execuç�
 1632506,Cancelamento em Andamento,integracao-ale,-,16/04/2025 00:04,16/04/2025 11:15,-,0.47 dias,-,-,-,-
 1632506,Implantação,integracao-ale,-,16/04/2025 11:15,16/04/2025 16:25,-,0.22 dias,-,-,-,-
 1632506,Encerrados (Ativos e Cancelados),integracao-ale,-,16/04/2025 16:25,-,-,-,-,-,-,-
-1632509,Viabilidade,-,-,08/04/2025 13:13,08/04/2025 13:13,-,0.0 dias,-,-,-,-
-1632509,Implantação,carlos@zapform.com.br,-,08/04/2025 13:13,14/04/2025 09:42,-,5.85 dias,-,-,-,-
-1632509,Cancelamento em Andamento,integracao-ale,-,14/04/2025 09:42,15/04/2025 15:57,-,1.26 dias,-,-,-,-
-1632509,Encerrados (Ativos e Cancelados),integracao-ale,-,15/04/2025 15:57,15/04/2025 22:07,-,0.26 dias,-,-,-,-
-1632509,Implantação,integracao-ale,-,15/04/2025 22:07,16/04/2025 00:03,-,0.08 dias,-,-,-,-
-1632509,Cancelamento em Andamento,integracao-ale,-,16/04/2025 00:03,16/04/2025 11:15,-,0.47 dias,-,-,-,-
-1632509,Implantação,integracao-ale,-,16/04/2025 11:15,16/04/2025 16:25,-,0.22 dias,-,-,-,-
-1632509,Encerrados (Ativos e Cancelados),integracao-ale,-,16/04/2025 16:25,-,-,-,-,-,-,-
 1632513,Viabilidade,-,-,08/04/2025 13:14,08/04/2025 13:14,-,0.0 dias,-,-,-,-
 1632513,Implantação,carlos@zapform.com.br,-,08/04/2025 13:14,14/04/2025 09:42,-,5.85 dias,-,-,-,-
 1632513,Cancelamento em Andamento,integracao-ale,-,14/04/2025 09:42,15/04/2025 15:57,-,1.26 dias,-,-,-,-
@@ -15912,9 +15849,6 @@ ID da Ordem,Etapa,Modificado por,SLA,Data Início Execução,Data Final Execuç�
 1274539,Encerrados (Ativos e Cancelados),fabiano.uoya@nava.com.br,-,22/01/2025 14:47,-,-,-,-,-,-,-
 1700524,Viabilidade,-,-,05/05/2025 16:06,05/05/2025 16:06,-,0.0 dias,-,-,-,-
 1700524,Cancelamento em Andamento,orion.martins@nava.com.br,-,05/05/2025 16:06,-,-,-,-,-,-,-
-1700525,Viabilidade,-,-,05/05/2025 16:06,05/05/2025 16:06,-,0.0 dias,-,-,-,-
-1700525,Cancelamento em Andamento,orion.martins@nava.com.br,-,05/05/2025 16:06,08/08/2025 18:58,-,95.12 dias,-,-,-,-
-1700525,Encerrados (Ativos e Cancelados),fabiano.uoya@nava.com.br,-,08/08/2025 18:58,-,-,-,-,-,-,-
 1700526,Viabilidade,-,-,05/05/2025 16:06,05/05/2025 16:06,-,0.0 dias,-,-,-,-
 1700526,Cancelamento em Andamento,orion.martins@nava.com.br,-,05/05/2025 16:06,-,-,-,-,-,-,-
 1700527,Viabilidade,-,-,05/05/2025 16:06,05/05/2025 16:06,-,0.0 dias,-,-,-,-

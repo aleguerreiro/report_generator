@@ -6,7 +6,6 @@ import pandas as pd
 from tqdm import tqdm
 from .data_utils import clean_illegal_chars
 
-
 from .accumulator import acumular_relatorio_principal, acumular_report_sla
 from .zapform_api_client import (
     fetch_orders_by_date,
@@ -31,6 +30,7 @@ from .zapform_auth import TokenManager
 from .extractor import extract_data
 from .sla_report_generator import gerar_report_sla
 from .utils.sla_utils import fetch_sla_by_config
+import time
 
 
 def executar_processo(logins, spreadsheet):
@@ -42,20 +42,22 @@ def executar_processo(logins, spreadsheet):
         if not ws.title.startswith("config"):
             continue
 
+        start_config_time = time.time()
         config_id = ws.title.replace("config", "").strip()
         print(f"\n🔁 Processando aba: {ws.title} (config {config_id})")
 
         df = read_config_sheet(ws)
-        if df is None or "orders" not in df.columns or not df["orders"].iloc[0].strip():
+        if df is None or "orders" not in df.columns or not str(df["orders"].iloc[0]).strip():
             print(f"⏭️ Pulando aba {ws.title}, 'orders' está vazio.")
             continue
 
         filtros = build_filters_from_sheet(df)
         filtros = aplicar_filtro_incremental(config_id, filtros)
+
         status_raw = filtros.get("status", "")
         status_list = [s.strip() for s in status_raw.split(",") if s.strip()] if status_raw else []
 
-        usar_todas = df["orders"].iloc[0].strip().lower() == "all"
+        usar_todas = str(df["orders"].iloc[0]).strip().lower() == "all"
 
         campos_padroes = extract_default_fields(df)
         campos_variaveis = extract_variable_fields(df)
@@ -67,13 +69,16 @@ def executar_processo(logins, spreadsheet):
             token_manager.get_token(),
             get_with_retry=get_with_retry
         )
+        logging.info(f"🎯 {len(etiquetas_dict)} etiquetas carregadas para config {config_id}")
 
         sla_config_dict = fetch_sla_by_config(
             config_id,
             token_manager.get_token(),
             get_with_retry=get_with_retry
         )
+        logging.info(f"📜 SLA config carregado para {config_id}")
 
+        # cache do workflow
         if config_id not in workflow_cache:
             url = f"https://api.zapform.com.br/api/v2/workflow/{config_id}/"
             headers = {
@@ -83,7 +88,21 @@ def executar_processo(logins, spreadsheet):
             response = get_with_retry(url, headers=headers)
             workflow_cache[config_id] = response.json() if response and response.status_code == 200 else {}
 
+        # ⚙️ Metadados e caminhos
+        current_datetime = datetime.now().strftime("%Y-%m-%d_%H-%M")
+        config_name = workflow_cache.get(config_id, {}).get("name") or get_config_name(
+            config_id, token_manager.get_token()
+        )
+        safe_name = "".join(c if c.isalnum() or c in "._-" else "_" for c in config_name)[:40]
+        file_path = f"report_{safe_name}_{current_datetime}.xlsx"
+        csv_acumulado_latest = f"acumulado_config_{config_id}_latest.csv"
+        csv_acumulado_sla_latest = f"acumulado_sla_config_{config_id}_latest.csv"
+
+        # ============================
+        # 1) Buscar IDs incrementais
+        # ============================
         order_ids = []
+        start_fetch_ids = time.time()
         if usar_todas:
             print(f"🔍 Iniciando busca de ordens para config {config_id}...")
             logging.info(f"🔍 Iniciando busca de ordens para config {config_id}...")
@@ -126,18 +145,51 @@ def executar_processo(logins, spreadsheet):
                     get_with_retry=get_with_retry
                 )
 
+            order_ids = list(dict.fromkeys(order_ids))  # dedup preservando ordem
             logging.info(f"✅ {len(order_ids)} ordens encontradas para a config {config_id}")
-            order_ids = list(set(order_ids))
         else:
             order_ids = [
                 oid.strip()
                 for oid in df["orders"].dropna().astype(str).tolist()
                 if oid.strip().lower() != "all" and oid.strip() != ""
             ]
+            order_ids = list(dict.fromkeys(order_ids))  # dedup
 
+        logging.info(f"⏱️ Tempo para buscar IDs: {round(time.time() - start_fetch_ids, 2)}s")
+        logging.info(f"🧾 {len(order_ids)} IDs para processar em config {config_id}")
+
+        # short-circuit sem mudanças
+        if not order_ids:
+            logging.info(f"🔕 Sem mudanças para config {config_id}. Reutilizando acumulados _latest e pulando API.")
+            df_final = pd.read_csv(csv_acumulado_latest) if os.path.exists(csv_acumulado_latest) else pd.DataFrame()
+            df_sla_final = (
+                pd.read_csv(csv_acumulado_sla_latest, dtype={"ID da Ordem": str, "Etapa": str})
+                if os.path.exists(csv_acumulado_sla_latest) else pd.DataFrame()
+            )
+
+            executar_dashboard_personalizado(config_id, df_final, file_path)
+            with pd.ExcelWriter(file_path, engine='openpyxl') as writer:
+                if not df_final.empty:
+                    df_final.to_excel(writer, sheet_name="report", index=False)
+                if not df_sla_final.empty:
+                    df_sla_final.to_excel(writer, sheet_name="report_SLA", index=False)
+
+            subject, body = _montar_email(config_name, config_id, current_datetime)
+            to_email = ", ".join(emails)
+            send_email_with_attachment(from_email, to_email, subject, body, app_password, file_path)
+
+            with open(f"last_run_config_{config_id}.json", "w") as f:
+                json.dump({"last_updated": datetime.now().isoformat()}, f)
+
+            logging.info(f"🏁 Config {config_id} concluída em {round(time.time() - start_config_time, 2)}s (sem mudanças)")
+            continue
+
+        # ============================
+        # 2) Busca detalhada SOMENTE dos IDs incrementais
+        # ============================
         results = []
         raw_orders = []
-
+        start_fetch_orders = time.time()
         for order_id in tqdm(order_ids, desc=f"Config {config_id}"):
             order_data = fetch_order_data(
                 config_id,
@@ -145,75 +197,86 @@ def executar_processo(logins, spreadsheet):
                 token_manager,
                 get_with_retry=get_with_retry
             )
-            if order_data:
-                raw_orders.append(order_data)
+            if not order_data:
+                continue
 
-                code = order_data.get("status", {}).get("code", "").strip()
-                if status_list and code not in status_list:
-                    continue
+            # filtro de status (se solicitado)
+            code = str(order_data.get("status", {}).get("code", "")).strip()
+            if status_list and code not in status_list:
+                continue
 
-                data = extract_data(order_data, campos_variaveis, etiquetas_dict, header_report_dict, campos_padroes)
-                results.append(pd.Series(data))
+            raw_orders.append(order_data)
+            data = extract_data(order_data, campos_variaveis, etiquetas_dict, header_report_dict, campos_padroes)
+            results.append(pd.Series(data))
+
+        logging.info(f"📦 {len(raw_orders)} ordens detalhadas buscadas")
+        logging.info(f"⏱️ Tempo para buscar ordens: {round(time.time() - start_fetch_orders, 2)}s")
 
         df_result = pd.DataFrame(results)
 
-        # 🆕 Gerar apenas o SLA das ordens novas/alteradas
+        # ============================
+        # 3) Watermark por ordem (SLA incremental por evento)
+        # ============================
+        cutoff_by_order = {}
+        if os.path.exists(csv_acumulado_sla_latest):
+            try:
+                df_sla_antigo = pd.read_csv(csv_acumulado_sla_latest, dtype={"ID da Ordem": str})
+                if "ID da Ordem" in df_sla_antigo.columns and "Data do Evento" in df_sla_antigo.columns:
+                    df_sla_antigo["ID da Ordem"] = df_sla_antigo["ID da Ordem"].astype(str).str.strip()
+                    # parser tolerante
+                    dt = pd.to_datetime(df_sla_antigo["Data do Evento"], errors="coerce", utc=False)
+                    mask = ~dt.isna()
+                    if mask.any():
+                        df_sla_antigo = df_sla_antigo.loc[mask].copy()
+                        df_sla_antigo["__dt__"] = dt.dt.tz_localize(None) if getattr(dt.dt, "tz", None) is not None else dt
+                        cutoff_by_order = df_sla_antigo.groupby("ID da Ordem")["__dt__"].max().to_dict()
+            except Exception as e:
+                logging.warning(f"⚠️ Não consegui ler watermark do SLA antigo: {e}")
+
+        # ============================
+        # 4) Gera SLA APENAS para novos/alterados (com colapso A,A,B,A,B -> A,B,A,B)
+        # ============================
+        start_sla_new = time.time()
         ordens_por_id = {str(o["id"]): o for o in raw_orders}
-        raw_orders_novos = [
-            ordens_por_id[str(oid)] for oid in order_ids
-            if str(oid) in ordens_por_id
-        ]
+        raw_orders_novos = [ordens_por_id[str(oid)] for oid in order_ids if str(oid) in ordens_por_id]
 
+        # >>> Importante: sua função gerar_report_sla deve:
+        # - aplicar cutoff_by_order (event_time > watermark);
+        # - colapsar repetições consecutivas A,A,B,A,B -> A,B,A,B.
+        df_sla_novos = gerar_report_sla(
+            raw_orders_novos,
+            config_id,
+            workflow_cache,
+            cutoff_by_order=cutoff_by_order  # <<< novo parâmetro
+        )
 
-        df_sla_novos = gerar_report_sla(raw_orders_novos, config_id, workflow_cache)
-
+        # limpeza leve
         for col in df_sla_novos.select_dtypes(include="object").columns:
             df_sla_novos[col] = df_sla_novos[col].map(clean_illegal_chars)
 
-        csv_novos_sla_path = f"novos_sla_config_{config_id}.csv"
-        df_sla_novos.to_csv(csv_novos_sla_path, index=False)
+        df_sla_novos.to_csv(f"novos_sla_config_{config_id}.csv", index=False)
+        logging.info(f"🆕 SLA (novos) gerado em {round(time.time() - start_sla_new, 2)}s")
 
+        # ============================
+        # 5) Acumular (sem reconsultar API para antigas)
+        # ============================
+        df_final = acumular_relatorio_principal(df_result, csv_acumulado_latest)
+        df_sla_final = acumular_report_sla(df_sla_novos, csv_acumulado_sla_latest)
 
-        csv_acumulado_sla_path = f"acumulado_sla_config_{config_id}.csv"
-        if os.path.exists(csv_acumulado_sla_path):
-            try:
-                df_sla_antigo = pd.read_csv(csv_acumulado_sla_path, dtype={"ID da Ordem": str, "Etapa": str})
-                ordens_existentes = df_sla_antigo["ID da Ordem"].unique().tolist()
-
-                for order_id in ordens_existentes:
-                    if order_id not in [o.get("id") for o in raw_orders]:
-                        order_data = fetch_order_data(config_id, order_id, token_manager, get_with_retry=get_with_retry)
-                        if order_data:
-                            raw_orders.append(order_data)
-            except Exception as e:
-                logging.warning(f"⚠️ Erro ao tentar complementar ordens antigas para SLA: {e}")
-
-        df_sla = gerar_report_sla(raw_orders, config_id, workflow_cache)
-
-
-        config_name = get_config_name(config_id, token_manager.get_token())
-        safe_name = "".join(c if c.isalnum() or c in "._-" else "_" for c in config_name)[:40]
-        current_datetime = datetime.now().strftime("%Y-%m-%d_%H-%M")
-        file_path = f"report_{safe_name}_{current_datetime}.xlsx"
-
-        # Caminhos com data/hora
+        # (Opcional) salvos adicionais datados — o accumulator já gera _latest + datado.
+        # Mantidos aqui caso você queira versionamento extra com sufixo de config+timestamp:
         csv_acumulado_path = f"acumulado_config_{config_id}_{current_datetime}.csv"
         csv_acumulado_sla_path = f"acumulado_sla_config_{config_id}_{current_datetime}.csv"
+        try:
+            df_final.to_csv(csv_acumulado_path, index=False)
+            df_sla_final.to_csv(csv_acumulado_sla_path, index=False)
+        except Exception as e:
+            logging.warning(f"⚠️ Falha ao salvar cópias datadas adicionais: {e}")
 
-        # Caminhos para versão mais recente
-        csv_acumulado_latest = f"acumulado_config_{config_id}_latest.csv"
-        csv_acumulado_sla_latest = f"acumulado_sla_config_{config_id}_latest.csv"
-
-        # Gera acumulados
-        df_final = acumular_relatorio_principal(df_result, csv_acumulado_latest)  # ✅ certo
-        df_sla_final = acumular_report_sla(df_sla, csv_acumulado_sla_latest)
-
-        # Salva também os _latest
-        df_final.to_csv(csv_acumulado_latest, index=False)
-        df_sla_final.to_csv(csv_acumulado_sla_latest, index=False)
-
+        # ============================
+        # 6) Excel, dashboard e envio
+        # ============================
         executar_dashboard_personalizado(config_id, df_final, file_path)
-
         with pd.ExcelWriter(file_path, engine='openpyxl') as writer:
             df_final.to_excel(writer, sheet_name="report", index=False)
             df_sla_final.to_excel(writer, sheet_name="report_SLA", index=False)
@@ -222,9 +285,11 @@ def executar_processo(logins, spreadsheet):
         to_email = ", ".join(emails)
         send_email_with_attachment(from_email, to_email, subject, body, app_password, file_path)
 
+        # registro execução
         with open(f"last_run_config_{config_id}.json", "w") as f:
-            json.dump({"last_updated": datetime.now(timezone.utc).isoformat()}, f)
-            logging.info(f"📁 Última execução salva para config {config_id}")
+            json.dump({"last_updated": datetime.now().isoformat()}, f)
+
+        logging.info(f"🏁 Config {config_id} concluída em {round(time.time() - start_config_time, 2)}s")
 
 
 def _carregar_credenciais_email():
