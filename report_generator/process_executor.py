@@ -159,6 +159,7 @@ def executar_processo(logins, spreadsheet):
         logging.info(f"🧾 {len(order_ids)} IDs para processar em config {config_id}")
 
         # short-circuit sem mudanças
+        
         if not order_ids:
             logging.info(f"🔕 Sem mudanças para config {config_id}. Reutilizando acumulados _latest e pulando API.")
             df_final = pd.read_csv(csv_acumulado_latest) if os.path.exists(csv_acumulado_latest) else pd.DataFrame()
@@ -168,11 +169,16 @@ def executar_processo(logins, spreadsheet):
             )
 
             executar_dashboard_personalizado(config_id, df_final, file_path)
-            with pd.ExcelWriter(file_path, engine='openpyxl') as writer:
-                if not df_final.empty:
-                    df_final.to_excel(writer, sheet_name="report", index=False)
-                if not df_sla_final.empty:
-                    df_sla_final.to_excel(writer, sheet_name="report_SLA", index=False)
+            if not df_final.empty or not df_sla_final.empty:
+                with pd.ExcelWriter(file_path, engine='openpyxl') as writer:
+                    if not df_final.empty:
+                        df_final.to_excel(writer, sheet_name="report", index=False)
+                    if not df_sla_final.empty:
+                        df_sla_final.to_excel(writer, sheet_name="report_SLA", index=False)
+            else:
+                logging.info(f"⏭️ Nenhum dado para gerar Excel na config {config_id}, pulando.")
+                continue
+
 
             subject, body = _montar_email(config_name, config_id, current_datetime)
             to_email = ", ".join(emails)

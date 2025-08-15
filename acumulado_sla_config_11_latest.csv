@@ -1039,371 +1039,792 @@ ID da Ordem,Etapa,Código do Status,Modificado por,SLA,Data do Evento,Data Iníc
 10084,🕵️ Análise Agente de Crédito,4,bancodovaletimbo@bancodovale.org.br,-,2025-06-13 17:18:37,13/06/2025 17:18,16/06/2025 10:20,-,2.71 dias,-,-,-,-
 10084,⚠️ Pendente Cliente,W,caciane@bancodovale.org.br,-,2025-06-16 10:20:29,16/06/2025 10:20,16/06/2025 13:21,-,0.13 dias,-,-,-,-
 10084,🧾 Análise Mesa de Crédito,8,caciane@bancodovale.org.br,-,2025-06-16 13:21:50,16/06/2025 13:21,01/08/2025 13:32,-,46.01 dias,-,-,-,-
-1870178,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-06 09:02:43,06/08/2025 09:02,-,-,-,-,-,-,-
 1876476,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 09:38:04,11/08/2025 09:38,11/08/2025 09:41,-,0.0 dias,-,-,-,-
 1876476,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:41:08,11/08/2025 09:41,11/08/2025 11:07,-,0.06 dias,-,-,-,-
-1876476,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 11:07:14,11/08/2025 11:07,-,-,-,-,-,-,-
 1877773,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 11:44:40,11/08/2025 11:44,11/08/2025 11:47,-,0.0 dias,-,-,-,-
 1877773,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 11:47:15,11/08/2025 11:47,11/08/2025 13:32,-,0.07 dias,-,-,-,-
-1877773,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 13:32:13,11/08/2025 13:32,-,-,-,-,-,-,-
 1876501,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 09:39:54,11/08/2025 09:39,11/08/2025 09:43,-,0.0 dias,-,-,-,-
 1876501,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:43:57,11/08/2025 09:43,11/08/2025 11:04,-,0.06 dias,-,-,-,-
-1876501,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 11:04:16,11/08/2025 11:04,-,-,-,-,-,-,-
 1876260,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 20:43:48,10/08/2025 20:43,11/08/2025 08:49,-,0.5 dias,-,-,-,-
 1876260,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 08:49:17,11/08/2025 08:49,11/08/2025 11:11,-,0.1 dias,-,-,-,-
-1876260,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 11:11:01,11/08/2025 11:11,-,-,-,-,-,-,-
 1876217,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 18:22:57,10/08/2025 18:22,11/08/2025 09:03,-,0.61 dias,-,-,-,-
 1876217,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:03:35,11/08/2025 09:03,11/08/2025 11:28,-,0.1 dias,-,-,-,-
-1876217,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 11:28:44,11/08/2025 11:28,-,-,-,-,-,-,-
-1875281,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-08 17:06:54,08/08/2025 17:06,-,-,-,-,-,-,-
-1874808,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-08 15:28:23,08/08/2025 15:28,-,-,-,-,-,-,-
-1874224,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-08 13:47:26,08/08/2025 13:47,-,-,-,-,-,-,-
-1874004,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-08 12:09:18,08/08/2025 12:09,-,-,-,-,-,-,-
-1869201,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-05 10:55:16,05/08/2025 10:55,-,-,-,-,-,-,-
-1851994,⚠️ Pendente Cliente,W,alinef@bancodovale.org.br,-,2025-07-30 15:27:23,30/07/2025 15:27,-,-,-,-,-,-,-
-1829926,🚫 Cancelado,Y,regina@bancodovale.org.br,-,2025-08-07 16:25:23,07/08/2025 16:25,-,-,-,-,-,-,-
-1879653,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 20:55:52,11/08/2025 20:55,-,-,-,-,-,-,-
-1879572,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 18:24:58,11/08/2025 18:24,-,-,-,-,-,-,-
-1879524,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 17:42:10,11/08/2025 17:42,-,-,-,-,-,-,-
 1879474,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 17:19:23,11/08/2025 17:19,11/08/2025 17:27,-,0.01 dias,-,-,-,-
-1879474,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-11 17:27:19,11/08/2025 17:27,-,-,-,-,-,-,-
 1879462,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 17:12:51,11/08/2025 17:12,11/08/2025 17:27,-,0.01 dias,-,-,-,-
-1879462,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-11 17:27:47,11/08/2025 17:27,-,-,-,-,-,-,-
 1879385,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 16:41:24,11/08/2025 16:41,11/08/2025 17:28,-,0.03 dias,-,-,-,-
-1879385,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-11 17:28:17,11/08/2025 17:28,-,-,-,-,-,-,-
 1879355,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 16:30:10,11/08/2025 16:30,11/08/2025 16:30,-,0.0 dias,-,-,-,-
 1879355,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-11 16:30:34,11/08/2025 16:30,11/08/2025 16:46,-,0.01 dias,-,-,-,-
-1879355,❌ Reprovado,X,gilmara@bancodovale.org.br,-,2025-08-11 16:46:48,11/08/2025 16:46,-,-,-,-,-,-,-
-1879351,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 16:28:41,11/08/2025 16:28,-,-,-,-,-,-,-
-1879342,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 16:25:53,11/08/2025 16:25,-,-,-,-,-,-,-
 1879325,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 16:19:03,11/08/2025 16:19,11/08/2025 16:20,-,0.0 dias,-,-,-,-
 1879325,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-11 16:20:36,11/08/2025 16:20,11/08/2025 16:59,-,0.03 dias,-,-,-,-
 1879325,⚠️ Pendência – Agente de Crédito,5,jessica@bancodovale.org.br,-,2025-08-11 16:59:13,11/08/2025 16:59,11/08/2025 16:59,-,0.0 dias,-,-,-,-
-1879325,⚠️ Pendente Cliente,W,jessica@bancodovale.org.br,-,2025-08-11 16:59:21,11/08/2025 16:59,-,-,-,-,-,-,-
 1879303,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 16:12:49,11/08/2025 16:12,11/08/2025 16:21,-,0.01 dias,-,-,-,-
 1879303,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-11 16:21:30,11/08/2025 16:21,11/08/2025 16:53,-,0.02 dias,-,-,-,-
-1879303,❌ Reprovado,X,gilmara@bancodovale.org.br,-,2025-08-11 16:53:00,11/08/2025 16:53,-,-,-,-,-,-,-
 1879290,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 16:06:06,11/08/2025 16:06,11/08/2025 16:06,-,0.0 dias,-,-,-,-
 1879290,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-11 16:06:49,11/08/2025 16:06,11/08/2025 16:48,-,0.03 dias,-,-,-,-
-1879290,❌ Reprovado,X,gilmara@bancodovale.org.br,-,2025-08-11 16:48:10,11/08/2025 16:48,-,-,-,-,-,-,-
-1879265,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 15:54:52,11/08/2025 15:54,-,-,-,-,-,-,-
-1879262,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 15:53:22,11/08/2025 15:53,-,-,-,-,-,-,-
 1879218,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 15:33:47,11/08/2025 15:33,11/08/2025 15:38,-,0.0 dias,-,-,-,-
 1879218,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-11 15:38:45,11/08/2025 15:38,11/08/2025 17:21,-,0.07 dias,-,-,-,-
-1879218,❌ Reprovado,X,gilmara@bancodovale.org.br,-,2025-08-11 17:21:57,11/08/2025 17:21,-,-,-,-,-,-,-
 1879200,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 15:21:59,11/08/2025 15:21,11/08/2025 15:49,-,0.02 dias,-,-,-,-
-1879200,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 15:49:31,11/08/2025 15:49,-,-,-,-,-,-,-
 1879187,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 15:15:10,11/08/2025 15:15,11/08/2025 15:49,-,0.02 dias,-,-,-,-
-1879187,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 15:49:05,11/08/2025 15:49,-,-,-,-,-,-,-
 1879185,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 15:14:28,11/08/2025 15:14,11/08/2025 15:14,-,0.0 dias,-,-,-,-
 1879185,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-11 15:14:42,11/08/2025 15:14,11/08/2025 16:04,-,0.03 dias,-,-,-,-
 1879185,👤 Análise Coordenação,6,dennis@bancodovale.org.br,-,2025-08-11 16:04:25,11/08/2025 16:04,11/08/2025 16:26,-,0.02 dias,-,-,-,-
-1879185,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-11 16:26:59,11/08/2025 16:26,-,-,-,-,-,-,-
 1879170,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 15:08:40,11/08/2025 15:08,11/08/2025 15:08,-,0.0 dias,-,-,-,-
-1879170,🚫 Cancelado,Y,-,-,2025-08-11 15:08:43,11/08/2025 15:08,-,-,-,-,-,-,-
 1878949,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 14:20:02,11/08/2025 14:20,11/08/2025 15:07,-,0.03 dias,-,-,-,-
 1878949,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-11 15:07:24,11/08/2025 15:07,11/08/2025 16:53,-,0.07 dias,-,-,-,-
-1878949,⚠️ Pendente Cliente,W,gilmara@bancodovale.org.br,-,2025-08-11 16:53:45,11/08/2025 16:53,-,-,-,-,-,-,-
 1878920,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 14:18:25,11/08/2025 14:18,11/08/2025 15:07,-,0.03 dias,-,-,-,-
 1878920,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-11 15:07:52,11/08/2025 15:07,11/08/2025 15:08,-,0.0 dias,-,-,-,-
-1878920,❌ Reprovado,X,jaragua@bancodovale.org.br,-,2025-08-11 15:08:00,11/08/2025 15:08,-,-,-,-,-,-,-
 1878751,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 14:07:59,11/08/2025 14:07,11/08/2025 14:10,-,0.0 dias,-,-,-,-
-1878751,🧾 Análise Mesa de Crédito,8,KATLIN,-,2025-08-11 14:10:05,11/08/2025 14:10,-,-,-,-,-,-,-
 1878659,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 13:56:23,11/08/2025 13:56,11/08/2025 13:58,-,0.0 dias,-,-,-,-
 1878659,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 13:58:28,11/08/2025 13:58,11/08/2025 13:59,-,0.0 dias,-,-,-,-
 1878659,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 13:59:30,11/08/2025 13:59,11/08/2025 16:07,-,0.09 dias,-,-,-,-
-1878659,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-11 16:07:20,11/08/2025 16:07,-,-,-,-,-,-,-
 1878647,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 13:51:15,11/08/2025 13:51,11/08/2025 13:58,-,0.0 dias,-,-,-,-
-1878647,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 13:58:17,11/08/2025 13:58,-,-,-,-,-,-,-
 1878601,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 13:29:42,11/08/2025 13:29,11/08/2025 13:29,-,0.0 dias,-,-,-,-
-1878601,🚫 Cancelado,Y,-,-,2025-08-11 13:29:51,11/08/2025 13:29,-,-,-,-,-,-,-
 1878597,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 13:28:38,11/08/2025 13:28,11/08/2025 13:29,-,0.0 dias,-,-,-,-
-1878597,🚫 Cancelado,Y,-,-,2025-08-11 13:29:07,11/08/2025 13:29,-,-,-,-,-,-,-
 1878588,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 13:24:40,11/08/2025 13:24,11/08/2025 13:24,-,0.0 dias,-,-,-,-
-1878588,🚫 Cancelado,Y,-,-,2025-08-11 13:24:48,11/08/2025 13:24,-,-,-,-,-,-,-
 1878556,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 13:07:52,11/08/2025 13:07,11/08/2025 13:14,-,0.0 dias,-,-,-,-
 1878556,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 13:14:24,11/08/2025 13:14,11/08/2025 15:04,-,0.08 dias,-,-,-,-
 1878556,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-11 15:04:53,11/08/2025 15:04,11/08/2025 16:20,-,0.05 dias,-,-,-,-
-1878556,❌ Reprovado,X,gilmara@bancodovale.org.br,-,2025-08-11 16:20:01,11/08/2025 16:20,-,-,-,-,-,-,-
 1878487,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 13:02:24,11/08/2025 13:02,11/08/2025 13:03,-,0.0 dias,-,-,-,-
 1878487,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 13:03:04,11/08/2025 13:03,11/08/2025 14:03,-,0.04 dias,-,-,-,-
 1878487,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 14:03:32,11/08/2025 14:03,11/08/2025 16:42,-,0.11 dias,-,-,-,-
-1878487,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-11 16:42:18,11/08/2025 16:42,-,-,-,-,-,-,-
 1878297,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 12:47:56,11/08/2025 12:47,11/08/2025 13:19,-,0.02 dias,-,-,-,-
 1878297,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 13:19:04,11/08/2025 13:19,11/08/2025 16:25,-,0.13 dias,-,-,-,-
-1878297,🚫 Cancelado,Y,natalia@bancodovale.org.br,-,2025-08-11 16:25:14,11/08/2025 16:25,-,-,-,-,-,-,-
 1878110,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 12:34:25,11/08/2025 12:34,11/08/2025 12:39,-,0.0 dias,-,-,-,-
-1878110,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 12:39:07,11/08/2025 12:39,-,-,-,-,-,-,-
 1878013,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 12:09:36,11/08/2025 12:09,11/08/2025 12:38,-,0.02 dias,-,-,-,-
 1878013,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 12:38:45,11/08/2025 12:38,11/08/2025 13:47,-,0.05 dias,-,-,-,-
-1878013,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 13:47:56,11/08/2025 13:47,-,-,-,-,-,-,-
 1877950,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 12:04:29,11/08/2025 12:04,11/08/2025 12:38,-,0.02 dias,-,-,-,-
 1877950,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 12:38:10,11/08/2025 12:38,11/08/2025 13:42,-,0.04 dias,-,-,-,-
 1877950,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 13:42:33,11/08/2025 13:42,11/08/2025 16:39,-,0.12 dias,-,-,-,-
-1877950,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-11 16:39:37,11/08/2025 16:39,-,-,-,-,-,-,-
 1877928,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 11:55:43,11/08/2025 11:55,11/08/2025 12:37,-,0.03 dias,-,-,-,-
 1877928,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 12:37:19,11/08/2025 12:37,11/08/2025 14:09,-,0.06 dias,-,-,-,-
-1877928,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-11 14:09:37,11/08/2025 14:09,-,-,-,-,-,-,-
 1877898,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 11:53:16,11/08/2025 11:53,11/08/2025 12:28,-,0.02 dias,-,-,-,-
 1877898,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-11 12:28:45,11/08/2025 12:28,11/08/2025 12:28,-,0.0 dias,-,-,-,-
 1877898,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-11 12:28:50,11/08/2025 12:28,11/08/2025 16:58,-,0.19 dias,-,-,-,-
-1877898,⚠️ Pendente Cliente,W,jessica@bancodovale.org.br,-,2025-08-11 16:58:43,11/08/2025 16:58,-,-,-,-,-,-,-
 1877826,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 11:48:43,11/08/2025 11:48,11/08/2025 12:36,-,0.03 dias,-,-,-,-
 1877826,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 12:36:51,11/08/2025 12:36,11/08/2025 13:40,-,0.04 dias,-,-,-,-
 1877826,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 13:40:26,11/08/2025 13:40,11/08/2025 16:37,-,0.12 dias,-,-,-,-
-1877826,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-11 16:37:43,11/08/2025 16:37,-,-,-,-,-,-,-
 1877498,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 11:20:32,11/08/2025 11:20,11/08/2025 11:46,-,0.02 dias,-,-,-,-
-1877498,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 11:46:39,11/08/2025 11:46,-,-,-,-,-,-,-
 1877445,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 11:16:12,11/08/2025 11:16,11/08/2025 11:45,-,0.02 dias,-,-,-,-
 1877445,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 11:45:49,11/08/2025 11:45,11/08/2025 12:20,-,0.02 dias,-,-,-,-
 1877445,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-11 12:20:33,11/08/2025 12:20,11/08/2025 17:04,-,0.2 dias,-,-,-,-
-1877445,❌ Reprovado,X,jessica@bancodovale.org.br,-,2025-08-11 17:04:35,11/08/2025 17:04,-,-,-,-,-,-,-
 1877213,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 10:54:13,11/08/2025 10:54,11/08/2025 10:58,-,0.0 dias,-,-,-,-
 1877213,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 10:58:45,11/08/2025 10:58,11/08/2025 11:02,-,0.0 dias,-,-,-,-
-1877213,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 11:02:25,11/08/2025 11:02,-,-,-,-,-,-,-
 1877207,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 10:53:55,11/08/2025 10:53,11/08/2025 10:55,-,0.0 dias,-,-,-,-
 1877207,🔴 Pendência SPC,3,bancodovaletimbo@bancodovale.org.br,-,2025-08-11 10:55:54,11/08/2025 10:55,11/08/2025 14:43,-,0.16 dias,-,-,-,-
-1877207,⚠️ Pendente Cliente,W,camila@bancodovale.org.br,-,2025-08-11 14:43:04,11/08/2025 14:43,-,-,-,-,-,-,-
 1877132,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 10:49:24,11/08/2025 10:49,11/08/2025 10:58,-,0.01 dias,-,-,-,-
 1877132,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 10:58:01,11/08/2025 10:58,11/08/2025 13:34,-,0.11 dias,-,-,-,-
-1877132,🕵️ Análise Agente de Crédito,4,Bruno,-,2025-08-11 13:34:06,11/08/2025 13:34,-,-,-,-,-,-,-
 1876889,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 10:18:11,11/08/2025 10:18,11/08/2025 10:47,-,0.02 dias,-,-,-,-
 1876889,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 10:47:05,11/08/2025 10:47,11/08/2025 10:55,-,0.01 dias,-,-,-,-
 1876889,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 10:55:11,11/08/2025 10:55,11/08/2025 14:14,-,0.14 dias,-,-,-,-
-1876889,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-11 14:14:57,11/08/2025 14:14,-,-,-,-,-,-,-
 1876685,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 10:04:46,11/08/2025 10:04,11/08/2025 10:05,-,0.0 dias,-,-,-,-
-1876685,⚠️ Pendente Cliente,W,bancodovaletimbo@bancodovale.org.br,-,2025-08-11 10:05:54,11/08/2025 10:05,-,-,-,-,-,-,-
 1876681,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 10:04:28,11/08/2025 10:04,11/08/2025 10:45,-,0.03 dias,-,-,-,-
-1876681,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 10:45:47,11/08/2025 10:45,-,-,-,-,-,-,-
 1876544,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 09:42:42,11/08/2025 09:42,11/08/2025 09:43,-,0.0 dias,-,-,-,-
 1876544,🕵️ Análise Agente de Crédito,4,KATLIN,-,2025-08-11 09:43:04,11/08/2025 09:43,11/08/2025 09:44,-,0.0 dias,-,-,-,-
 1876544,⚠️ Pendente Cliente,W,rejane@bancodovale.org.br,-,2025-08-11 09:44:00,11/08/2025 09:44,11/08/2025 10:57,-,0.05 dias,-,-,-,-
-1876544,🧾 Análise Mesa de Crédito,8,rejane@bancodovale.org.br,-,2025-08-11 10:57:51,11/08/2025 10:57,-,-,-,-,-,-,-
 1876493,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 09:39:30,11/08/2025 09:39,11/08/2025 09:40,-,0.0 dias,-,-,-,-
-1876493,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:40:14,11/08/2025 09:40,-,-,-,-,-,-,-
 1876466,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 09:34:00,11/08/2025 09:34,11/08/2025 09:34,-,0.0 dias,-,-,-,-
-1876466,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-11 09:34:14,11/08/2025 09:34,-,-,-,-,-,-,-
 1876393,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 08:59:00,11/08/2025 08:59,11/08/2025 09:40,-,0.03 dias,-,-,-,-
-1876393,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 09:40:03,11/08/2025 09:40,-,-,-,-,-,-,-
 1876323,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 08:21:35,11/08/2025 08:21,11/08/2025 08:52,-,0.02 dias,-,-,-,-
 1876323,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 08:52:48,11/08/2025 08:52,11/08/2025 15:24,-,0.27 dias,-,-,-,-
 1876323,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-11 15:24:53,11/08/2025 15:24,11/08/2025 16:58,-,0.06 dias,-,-,-,-
-1876323,❌ Reprovado,X,jessica@bancodovale.org.br,-,2025-08-11 16:58:13,11/08/2025 16:58,-,-,-,-,-,-,-
 1876311,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 07:06:48,11/08/2025 07:06,11/08/2025 09:39,-,0.11 dias,-,-,-,-
-1876311,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 09:39:27,11/08/2025 09:39,-,-,-,-,-,-,-
 1876309,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 06:52:21,11/08/2025 06:52,11/08/2025 08:46,-,0.08 dias,-,-,-,-
-1876309,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 08:46:45,11/08/2025 08:46,-,-,-,-,-,-,-
 1876296,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 22:38:53,10/08/2025 22:38,11/08/2025 08:46,-,0.42 dias,-,-,-,-
-1876296,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 08:46:00,11/08/2025 08:46,-,-,-,-,-,-,-
-1876276,🚫 Cancelado,Y,-,-,2025-08-10 21:21:06,10/08/2025 21:21,-,-,-,-,-,-,-
 1876261,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 20:44:47,10/08/2025 20:44,11/08/2025 08:56,-,0.51 dias,-,-,-,-
 1876261,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 08:56:16,11/08/2025 08:56,11/08/2025 10:17,-,0.06 dias,-,-,-,-
 1876261,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 10:17:45,11/08/2025 10:17,11/08/2025 13:49,-,0.15 dias,-,-,-,-
-1876261,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-11 13:49:11,11/08/2025 13:49,-,-,-,-,-,-,-
 1876259,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 20:40:07,10/08/2025 20:40,11/08/2025 08:58,-,0.51 dias,-,-,-,-
 1876259,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 08:58:33,11/08/2025 08:58,11/08/2025 14:57,-,0.25 dias,-,-,-,-
 1876259,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-11 14:57:49,11/08/2025 14:57,11/08/2025 17:05,-,0.09 dias,-,-,-,-
-1876259,⚠️ Pendente Cliente,W,jessica@bancodovale.org.br,-,2025-08-11 17:05:08,11/08/2025 17:05,-,-,-,-,-,-,-
 1876254,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 20:06:04,10/08/2025 20:06,11/08/2025 08:58,-,0.54 dias,-,-,-,-
 1876254,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 08:58:23,11/08/2025 08:58,11/08/2025 12:48,-,0.16 dias,-,-,-,-
-1876254,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-11 12:48:23,11/08/2025 12:48,-,-,-,-,-,-,-
 1876252,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 19:55:24,10/08/2025 19:55,11/08/2025 09:04,-,0.55 dias,-,-,-,-
-1876252,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 09:04:40,11/08/2025 09:04,-,-,-,-,-,-,-
 1876249,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 19:36:53,10/08/2025 19:36,11/08/2025 09:04,-,0.56 dias,-,-,-,-
 1876249,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:04:53,11/08/2025 09:04,11/08/2025 11:23,-,0.1 dias,-,-,-,-
-1876249,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 11:23:17,11/08/2025 11:23,-,-,-,-,-,-,-
 1876224,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 18:47:00,10/08/2025 18:47,11/08/2025 08:58,-,0.59 dias,-,-,-,-
-1876224,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 08:58:46,11/08/2025 08:58,-,-,-,-,-,-,-
 1876215,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 18:07:07,10/08/2025 18:07,11/08/2025 09:16,-,0.63 dias,-,-,-,-
 1876215,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:16:32,11/08/2025 09:16,11/08/2025 09:16,-,0.0 dias,-,-,-,-
-1876215,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 09:16:47,11/08/2025 09:16,-,-,-,-,-,-,-
 1876188,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 17:02:46,10/08/2025 17:02,11/08/2025 09:39,-,0.69 dias,-,-,-,-
 1876188,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:39:01,11/08/2025 09:39,11/08/2025 11:44,-,0.09 dias,-,-,-,-
-1876188,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 11:44:08,11/08/2025 11:44,-,-,-,-,-,-,-
 1876185,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 16:58:12,10/08/2025 16:58,11/08/2025 08:59,-,0.67 dias,-,-,-,-
 1876185,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 08:59:03,11/08/2025 08:59,11/08/2025 12:42,-,0.15 dias,-,-,-,-
-1876185,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 12:42:08,11/08/2025 12:42,-,-,-,-,-,-,-
 1876183,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 16:41:26,10/08/2025 16:41,11/08/2025 08:59,-,0.68 dias,-,-,-,-
-1876183,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 08:59:43,11/08/2025 08:59,-,-,-,-,-,-,-
 1876157,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 15:42:04,10/08/2025 15:42,11/08/2025 09:05,-,0.72 dias,-,-,-,-
-1876157,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 09:05:20,11/08/2025 09:05,-,-,-,-,-,-,-
 1876125,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 12:58:16,10/08/2025 12:58,11/08/2025 09:05,-,0.84 dias,-,-,-,-
 1876125,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:05:59,11/08/2025 09:05,11/08/2025 10:20,-,0.05 dias,-,-,-,-
 1876125,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 10:20:41,11/08/2025 10:20,11/08/2025 13:53,-,0.15 dias,-,-,-,-
-1876125,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-11 13:53:04,11/08/2025 13:53,-,-,-,-,-,-,-
 1876119,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 12:22:03,10/08/2025 12:22,11/08/2025 09:00,-,0.86 dias,-,-,-,-
-1876119,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 09:00:03,11/08/2025 09:00,-,-,-,-,-,-,-
 1876115,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 11:39:39,10/08/2025 11:39,11/08/2025 08:44,-,0.88 dias,-,-,-,-
 1876115,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 08:44:50,11/08/2025 08:44,11/08/2025 15:34,-,0.28 dias,-,-,-,-
 1876115,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-11 15:34:55,11/08/2025 15:34,11/08/2025 16:47,-,0.05 dias,-,-,-,-
-1876115,❌ Reprovado,X,gilmara@bancodovale.org.br,-,2025-08-11 16:47:31,11/08/2025 16:47,-,-,-,-,-,-,-
 1876102,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 10:53:22,10/08/2025 10:53,11/08/2025 09:11,-,0.93 dias,-,-,-,-
 1876102,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:11:25,11/08/2025 09:11,11/08/2025 12:46,-,0.15 dias,-,-,-,-
-1876102,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-11 12:46:18,11/08/2025 12:46,-,-,-,-,-,-,-
 1876097,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 10:31:50,10/08/2025 10:31,11/08/2025 09:07,-,0.94 dias,-,-,-,-
 1876097,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:07:12,11/08/2025 09:07,11/08/2025 10:07,-,0.04 dias,-,-,-,-
 1876097,🕵️ Análise Agente de Crédito,4,bancodovaletimbo@bancodovale.org.br,-,2025-08-11 10:07:09,11/08/2025 10:07,11/08/2025 10:09,-,0.0 dias,-,-,-,-
 1876097,🔴 Pendência SPC,3,bancodovaletimbo@bancodovale.org.br,-,2025-08-11 10:09:06,11/08/2025 10:09,11/08/2025 14:42,-,0.19 dias,-,-,-,-
-1876097,❌ Reprovado,X,camila@bancodovale.org.br,-,2025-08-11 14:42:54,11/08/2025 14:42,-,-,-,-,-,-,-
 1876092,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 10:18:06,10/08/2025 10:18,11/08/2025 09:10,-,0.95 dias,-,-,-,-
 1876092,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:10:55,11/08/2025 09:10,11/08/2025 10:24,-,0.05 dias,-,-,-,-
-1876092,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 10:24:33,11/08/2025 10:24,-,-,-,-,-,-,-
 1876089,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 10:07:13,10/08/2025 10:07,11/08/2025 09:00,-,0.95 dias,-,-,-,-
 1876089,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:00:15,11/08/2025 09:00,11/08/2025 15:46,-,0.28 dias,-,-,-,-
 1876089,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-11 15:46:09,11/08/2025 15:46,11/08/2025 16:57,-,0.05 dias,-,-,-,-
-1876089,❌ Reprovado,X,jessica@bancodovale.org.br,-,2025-08-11 16:57:05,11/08/2025 16:57,-,-,-,-,-,-,-
 1876074,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 09:22:54,10/08/2025 09:22,11/08/2025 09:38,-,1.01 dias,-,-,-,-
 1876074,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:38:22,11/08/2025 09:38,11/08/2025 11:37,-,0.08 dias,-,-,-,-
 1876074,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 11:37:41,11/08/2025 11:37,11/08/2025 14:55,-,0.14 dias,-,-,-,-
-1876074,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-11 14:55:32,11/08/2025 14:55,-,-,-,-,-,-,-
 1876067,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 08:13:15,10/08/2025 08:13,11/08/2025 09:37,-,1.06 dias,-,-,-,-
 1876067,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:37:43,11/08/2025 09:37,11/08/2025 10:30,-,0.04 dias,-,-,-,-
 1876067,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 10:30:48,11/08/2025 10:30,11/08/2025 13:54,-,0.14 dias,-,-,-,-
-1876067,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-11 13:54:28,11/08/2025 13:54,-,-,-,-,-,-,-
 1876056,📍 Definir Unidade de Atendimento,1,-,-,2025-08-10 00:29:34,10/08/2025 00:29,11/08/2025 09:00,-,1.35 dias,-,-,-,-
 1876056,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:00:43,11/08/2025 09:00,11/08/2025 09:31,-,0.02 dias,-,-,-,-
-1876056,❌ Reprovado,X,KATLIN,-,2025-08-11 09:31:26,11/08/2025 09:31,-,-,-,-,-,-,-
 1876053,📍 Definir Unidade de Atendimento,1,-,-,2025-08-09 22:59:08,09/08/2025 22:59,11/08/2025 09:37,-,1.44 dias,-,-,-,-
-1876053,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 09:37:26,11/08/2025 09:37,-,-,-,-,-,-,-
 1876047,📍 Definir Unidade de Atendimento,1,-,-,2025-08-09 21:41:14,09/08/2025 21:41,11/08/2025 09:01,-,1.47 dias,-,-,-,-
-1876047,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 09:01:14,11/08/2025 09:01,-,-,-,-,-,-,-
 1876044,📍 Definir Unidade de Atendimento,1,-,-,2025-08-09 21:30:47,09/08/2025 21:30,11/08/2025 09:35,-,1.5 dias,-,-,-,-
 1876044,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:35:39,11/08/2025 09:35,11/08/2025 13:26,-,0.16 dias,-,-,-,-
-1876044,❌ Reprovado,X,rejane@bancodovale.org.br,-,2025-08-11 13:26:12,11/08/2025 13:26,-,-,-,-,-,-,-
 1876007,📍 Definir Unidade de Atendimento,1,-,-,2025-08-09 19:13:22,09/08/2025 19:13,11/08/2025 09:31,-,1.6 dias,-,-,-,-
 1876007,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:31:06,11/08/2025 09:31,11/08/2025 12:47,-,0.14 dias,-,-,-,-
 1876007,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 12:47:15,11/08/2025 12:47,11/08/2025 13:41,-,0.04 dias,-,-,-,-
 1876007,⚠️ Pendência – Agente de Crédito,5,alinef@bancodovale.org.br,-,2025-08-11 13:41:48,11/08/2025 13:41,11/08/2025 13:41,-,0.0 dias,-,-,-,-
 1876007,👤 Análise Coordenação,6,alinef@bancodovale.org.br,-,2025-08-11 13:41:54,11/08/2025 13:41,11/08/2025 16:00,-,0.1 dias,-,-,-,-
-1876007,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-11 16:00:49,11/08/2025 16:00,-,-,-,-,-,-,-
 1876001,📍 Definir Unidade de Atendimento,1,-,-,2025-08-09 18:54:00,09/08/2025 18:54,11/08/2025 09:02,-,1.59 dias,-,-,-,-
 1876001,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:02:31,11/08/2025 09:02,11/08/2025 10:43,-,0.07 dias,-,-,-,-
-1876001,🕵️ Análise Agente de Crédito,4,Bruno,-,2025-08-11 10:43:30,11/08/2025 10:43,-,-,-,-,-,-,-
 1875998,📍 Definir Unidade de Atendimento,1,-,-,2025-08-09 18:46:16,09/08/2025 18:46,11/08/2025 09:18,-,1.61 dias,-,-,-,-
 1875998,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:18:07,11/08/2025 09:18,11/08/2025 12:44,-,0.14 dias,-,-,-,-
-1875998,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 12:44:13,11/08/2025 12:44,-,-,-,-,-,-,-
 1875994,📍 Definir Unidade de Atendimento,1,-,-,2025-08-09 18:37:22,09/08/2025 18:37,11/08/2025 09:16,-,1.61 dias,-,-,-,-
 1875994,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:16:59,11/08/2025 09:16,11/08/2025 13:01,-,0.16 dias,-,-,-,-
 1875994,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 13:01:27,11/08/2025 13:01,11/08/2025 15:52,-,0.12 dias,-,-,-,-
-1875994,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-11 15:52:32,11/08/2025 15:52,-,-,-,-,-,-,-
 1875975,📍 Definir Unidade de Atendimento,1,-,-,2025-08-09 17:57:47,09/08/2025 17:57,11/08/2025 09:17,-,1.64 dias,-,-,-,-
 1875975,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:17:32,11/08/2025 09:17,11/08/2025 10:57,-,0.07 dias,-,-,-,-
 1875975,🕵️ Análise Agente de Crédito,4,bancodovaletimbo@bancodovale.org.br,-,2025-08-11 10:57:10,11/08/2025 10:57,11/08/2025 11:02,-,0.0 dias,-,-,-,-
 1875975,🔴 Pendência SPC,3,bancodovaletimbo@bancodovale.org.br,-,2025-08-11 11:02:01,11/08/2025 11:02,11/08/2025 16:13,-,0.22 dias,-,-,-,-
-1875975,⚠️ Pendente Cliente,W,caciane@bancodovale.org.br,-,2025-08-11 16:13:03,11/08/2025 16:13,-,-,-,-,-,-,-
 1875965,📍 Definir Unidade de Atendimento,1,-,-,2025-08-09 17:34:48,09/08/2025 17:34,11/08/2025 08:49,-,1.64 dias,-,-,-,-
 1875965,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 08:49:43,11/08/2025 08:49,11/08/2025 13:08,-,0.18 dias,-,-,-,-
 1875965,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 13:08:22,11/08/2025 13:08,11/08/2025 16:15,-,0.13 dias,-,-,-,-
-1875965,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-11 16:15:12,11/08/2025 16:15,-,-,-,-,-,-,-
 1875879,📍 Definir Unidade de Atendimento,1,-,-,2025-08-09 15:03:17,09/08/2025 15:03,11/08/2025 09:16,-,1.76 dias,-,-,-,-
 1875879,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:16:06,11/08/2025 09:16,11/08/2025 12:17,-,0.13 dias,-,-,-,-
 1875879,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-11 12:17:32,11/08/2025 12:17,11/08/2025 16:53,-,0.19 dias,-,-,-,-
-1875879,❌ Reprovado,X,gilmara@bancodovale.org.br,-,2025-08-11 16:53:29,11/08/2025 16:53,-,-,-,-,-,-,-
 1875878,📍 Definir Unidade de Atendimento,1,-,-,2025-08-09 14:57:37,09/08/2025 14:57,11/08/2025 09:15,-,1.76 dias,-,-,-,-
 1875878,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:15:18,11/08/2025 09:15,11/08/2025 13:25,-,0.17 dias,-,-,-,-
 1875878,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 13:25:48,11/08/2025 13:25,11/08/2025 16:34,-,0.13 dias,-,-,-,-
-1875878,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-11 16:34:37,11/08/2025 16:34,-,-,-,-,-,-,-
 1875874,📍 Definir Unidade de Atendimento,1,-,-,2025-08-09 14:38:19,09/08/2025 14:38,11/08/2025 08:50,-,1.76 dias,-,-,-,-
 1875874,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 08:50:18,11/08/2025 08:50,11/08/2025 13:44,-,0.2 dias,-,-,-,-
-1875874,🕵️ Análise Agente de Crédito,4,Bruno,-,2025-08-11 13:44:26,11/08/2025 13:44,-,-,-,-,-,-,-
 1875873,📍 Definir Unidade de Atendimento,1,-,-,2025-08-09 14:34:12,09/08/2025 14:34,11/08/2025 08:50,-,1.76 dias,-,-,-,-
 1875873,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 08:50:55,11/08/2025 08:50,11/08/2025 09:15,-,0.02 dias,-,-,-,-
 1875873,🕵️ Análise Agente de Crédito,4,KATLIN,-,2025-08-11 09:15:40,11/08/2025 09:15,11/08/2025 09:47,-,0.02 dias,-,-,-,-
-1875873,❌ Reprovado,X,rejane@bancodovale.org.br,-,2025-08-11 09:47:51,11/08/2025 09:47,-,-,-,-,-,-,-
 1875862,📍 Definir Unidade de Atendimento,1,-,-,2025-08-09 13:59:23,09/08/2025 13:59,11/08/2025 09:14,-,1.8 dias,-,-,-,-
 1875862,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:14:11,11/08/2025 09:14,11/08/2025 13:22,-,0.17 dias,-,-,-,-
 1875862,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 13:22:12,11/08/2025 13:22,11/08/2025 16:31,-,0.13 dias,-,-,-,-
-1875862,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-11 16:31:41,11/08/2025 16:31,-,-,-,-,-,-,-
 1875841,📍 Definir Unidade de Atendimento,1,-,-,2025-08-09 13:20:52,09/08/2025 13:20,11/08/2025 09:13,-,1.83 dias,-,-,-,-
 1875841,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:13:53,11/08/2025 09:13,11/08/2025 13:16,-,0.17 dias,-,-,-,-
 1875841,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 13:16:31,11/08/2025 13:16,11/08/2025 16:23,-,0.13 dias,-,-,-,-
-1875841,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-11 16:23:19,11/08/2025 16:23,-,-,-,-,-,-,-
 1875797,📍 Definir Unidade de Atendimento,1,-,-,2025-08-09 12:38:25,09/08/2025 12:38,11/08/2025 09:13,-,1.86 dias,-,-,-,-
 1875797,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:13:27,11/08/2025 09:13,11/08/2025 13:06,-,0.16 dias,-,-,-,-
 1875797,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 13:06:50,11/08/2025 13:06,11/08/2025 15:55,-,0.12 dias,-,-,-,-
-1875797,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-11 15:55:09,11/08/2025 15:55,-,-,-,-,-,-,-
 1875758,📍 Definir Unidade de Atendimento,1,-,-,2025-08-09 11:44:18,09/08/2025 11:44,11/08/2025 09:12,-,1.89 dias,-,-,-,-
-1875758,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:12:59,11/08/2025 09:12,-,-,-,-,-,-,-
 1875704,📍 Definir Unidade de Atendimento,1,-,-,2025-08-09 09:20:39,09/08/2025 09:20,11/08/2025 08:44,-,1.97 dias,-,-,-,-
 1875704,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 08:44:34,11/08/2025 08:44,11/08/2025 12:12,-,0.14 dias,-,-,-,-
 1875704,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-11 12:12:47,11/08/2025 12:12,11/08/2025 17:03,-,0.2 dias,-,-,-,-
-1875704,⚠️ Pendente Cliente,W,jessica@bancodovale.org.br,-,2025-08-11 17:03:08,11/08/2025 17:03,-,-,-,-,-,-,-
 1875682,📍 Definir Unidade de Atendimento,1,-,-,2025-08-09 07:44:05,09/08/2025 07:44,11/08/2025 08:42,-,2.04 dias,-,-,-,-
 1875682,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 08:42:50,11/08/2025 08:42,11/08/2025 15:52,-,0.3 dias,-,-,-,-
 1875682,🕵️ Análise Agente de Crédito,4,bancodovaletimbo@bancodovale.org.br,-,2025-08-11 15:52:00,11/08/2025 15:52,11/08/2025 15:57,-,0.0 dias,-,-,-,-
-1875682,🔴 Pendência SPC,3,bancodovaletimbo@bancodovale.org.br,-,2025-08-11 15:57:04,11/08/2025 15:57,-,-,-,-,-,-,-
 1875680,📍 Definir Unidade de Atendimento,1,-,-,2025-08-09 02:29:08,09/08/2025 02:29,11/08/2025 08:40,-,2.26 dias,-,-,-,-
-1875680,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 08:40:44,11/08/2025 08:40,-,-,-,-,-,-,-
 1875670,📍 Definir Unidade de Atendimento,1,-,-,2025-08-09 00:10:53,09/08/2025 00:10,11/08/2025 08:41,-,2.35 dias,-,-,-,-
 1875670,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 08:41:16,11/08/2025 08:41,11/08/2025 10:43,-,0.08 dias,-,-,-,-
-1875670,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-11 10:43:02,11/08/2025 10:43,-,-,-,-,-,-,-
 1875644,📍 Definir Unidade de Atendimento,1,-,-,2025-08-08 23:15:41,08/08/2025 23:15,11/08/2025 08:39,-,2.39 dias,-,-,-,-
 1875644,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 08:39:30,11/08/2025 08:39,11/08/2025 12:59,-,0.18 dias,-,-,-,-
 1875644,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 12:59:24,11/08/2025 12:59,11/08/2025 15:50,-,0.12 dias,-,-,-,-
-1875644,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-11 15:50:18,11/08/2025 15:50,-,-,-,-,-,-,-
 1875610,📍 Definir Unidade de Atendimento,1,-,-,2025-08-08 20:42:46,08/08/2025 20:42,11/08/2025 08:38,-,2.5 dias,-,-,-,-
 1875610,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 08:38:45,11/08/2025 08:38,11/08/2025 12:54,-,0.18 dias,-,-,-,-
 1875610,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 12:54:54,11/08/2025 12:54,11/08/2025 15:16,-,0.1 dias,-,-,-,-
-1875610,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-11 15:16:26,11/08/2025 15:16,-,-,-,-,-,-,-
 1875609,📍 Definir Unidade de Atendimento,1,-,-,2025-08-08 20:32:40,08/08/2025 20:32,11/08/2025 08:38,-,2.5 dias,-,-,-,-
 1875609,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 08:38:15,11/08/2025 08:38,11/08/2025 10:14,-,0.07 dias,-,-,-,-
 1875609,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 10:14:46,11/08/2025 10:14,11/08/2025 13:47,-,0.15 dias,-,-,-,-
-1875609,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-11 13:47:03,11/08/2025 13:47,-,-,-,-,-,-,-
 1875591,📍 Definir Unidade de Atendimento,1,-,-,2025-08-08 19:52:52,08/08/2025 19:52,11/08/2025 08:37,-,2.53 dias,-,-,-,-
-1875591,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 08:37:35,11/08/2025 08:37,-,-,-,-,-,-,-
 1875587,📍 Definir Unidade de Atendimento,1,-,-,2025-08-08 19:36:06,08/08/2025 19:36,11/08/2025 08:37,-,2.54 dias,-,-,-,-
 1875587,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 08:37:14,11/08/2025 08:37,11/08/2025 12:50,-,0.18 dias,-,-,-,-
 1875587,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 12:50:36,11/08/2025 12:50,11/08/2025 14:03,-,0.05 dias,-,-,-,-
-1875587,❌ Reprovado,X,alinef@bancodovale.org.br,-,2025-08-11 14:03:34,11/08/2025 14:03,-,-,-,-,-,-,-
 1875584,📍 Definir Unidade de Atendimento,1,-,-,2025-08-08 19:33:08,08/08/2025 19:33,11/08/2025 08:36,-,2.54 dias,-,-,-,-
 1875584,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 08:36:21,11/08/2025 08:36,11/08/2025 12:35,-,0.17 dias,-,-,-,-
 1875584,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 12:35:51,11/08/2025 12:35,11/08/2025 14:01,-,0.06 dias,-,-,-,-
-1875584,❌ Reprovado,X,alinef@bancodovale.org.br,-,2025-08-11 14:01:10,11/08/2025 14:01,-,-,-,-,-,-,-
-1875450,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-08-08 17:22:07,08/08/2025 17:22,-,-,-,-,-,-,-
-1875381,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-08-08 16:41:20,08/08/2025 16:41,-,-,-,-,-,-,-
-1875373,🗑️ Descartado (Lixo),E,rio@bancodovale.org.br,-,2025-08-08 16:38:57,08/08/2025 16:38,-,-,-,-,-,-,-
 1875351,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-08 17:31:35,08/08/2025 17:31,11/08/2025 16:47,-,2.97 dias,-,-,-,-
-1875351,❌ Reprovado,X,gilmara@bancodovale.org.br,-,2025-08-11 16:47:09,11/08/2025 16:47,-,-,-,-,-,-,-
-1875316,📄 📄 Chamado Duplicado,D,comercialdigital@bancodovale.com.br,-,2025-08-08 17:08:53,08/08/2025 17:08,-,-,-,-,-,-,-
-1875272,🧾 Análise Mesa de Crédito,8,Bruno,-,2025-08-08 15:55:04,08/08/2025 15:55,-,-,-,-,-,-,-
-1875232,🧾 Análise Mesa de Crédito,8,Bruno,-,2025-08-08 15:35:15,08/08/2025 15:35,-,-,-,-,-,-,-
 1875218,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-08 15:30:06,08/08/2025 15:30,11/08/2025 09:44,-,2.76 dias,-,-,-,-
-1875218,👤 Análise Coordenação,6,felipe@bancodovale.org.br,-,2025-08-11 09:44:11,11/08/2025 09:44,-,-,-,-,-,-,-
 1875204,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-08 15:22:28,08/08/2025 15:22,11/08/2025 17:04,-,3.07 dias,-,-,-,-
-1875204,🧾 Análise Mesa de Crédito,8,jessica@bancodovale.org.br,-,2025-08-11 17:04:54,11/08/2025 17:04,-,-,-,-,-,-,-
 1875180,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-08 15:14:13,08/08/2025 15:14,11/08/2025 09:34,-,2.76 dias,-,-,-,-
 1875180,👤 Análise Coordenação,6,felipe@bancodovale.org.br,-,2025-08-11 09:34:56,11/08/2025 09:34,11/08/2025 09:36,-,0.0 dias,-,-,-,-
+1874978,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-08 13:56:45,08/08/2025 13:56,11/08/2025 09:21,-,2.81 dias,-,-,-,-
+1874978,🕵️ Análise Agente de Crédito,4,KATLIN,-,2025-08-11 09:21:59,11/08/2025 09:21,11/08/2025 10:08,-,0.03 dias,-,-,-,-
+1874896,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-08 13:51:31,08/08/2025 13:51,11/08/2025 09:06,-,2.8 dias,-,-,-,-
+1874881,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-08 15:06:57,08/08/2025 15:06,11/08/2025 13:53,-,2.95 dias,-,-,-,-
+1874708,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-08 12:21:04,08/08/2025 12:21,11/08/2025 08:52,-,2.86 dias,-,-,-,-
+1874708,🕵️ Análise Agente de Crédito,4,KATLIN,-,2025-08-11 08:52:29,11/08/2025 08:52,11/08/2025 10:12,-,0.06 dias,-,-,-,-
+1874707,👤 Análise Coordenação,6,natalia@bancodovale.org.br,-,2025-08-08 15:29:06,08/08/2025 15:29,11/08/2025 08:48,-,2.72 dias,-,-,-,-
+1874435,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-08 09:35:51,08/08/2025 09:35,11/08/2025 15:01,-,3.23 dias,-,-,-,-
+1874435,👤 Análise Coordenação,6,dennis@bancodovale.org.br,-,2025-08-11 15:01:11,11/08/2025 15:01,11/08/2025 15:23,-,0.02 dias,-,-,-,-
+1874326,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-08 10:14:55,08/08/2025 10:14,11/08/2025 13:50,-,3.15 dias,-,-,-,-
+1873806,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-07 15:45:34,07/08/2025 15:45,11/08/2025 13:50,-,3.92 dias,-,-,-,-
+1872885,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-07 16:08:37,07/08/2025 16:08,11/08/2025 11:28,-,3.81 dias,-,-,-,-
+1872635,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-06 13:59:19,06/08/2025 13:59,11/08/2025 16:50,-,5.12 dias,-,-,-,-
+1872468,⚠️ Pendente Cliente,W,jessica@bancodovale.org.br,-,2025-08-07 08:39:13,07/08/2025 08:39,11/08/2025 17:00,-,4.35 dias,-,-,-,-
+1872198,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-08-06 11:49:58,06/08/2025 11:49,11/08/2025 09:30,-,4.9 dias,-,-,-,-
+1871367,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-07 11:06:50,07/08/2025 11:06,11/08/2025 12:59,-,4.08 dias,-,-,-,-
+1869661,⚠️ Pendente Cliente,W,camila@bancodovale.org.br,-,2025-08-06 09:05:43,06/08/2025 09:05,11/08/2025 09:16,-,5.01 dias,-,-,-,-
+1865439,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-06 11:05:42,06/08/2025 11:05,11/08/2025 09:32,-,4.94 dias,-,-,-,-
+1864982,🙅 Desistiu,Z,jessica@bancodovale.org.br,-,2025-08-05 10:23:28,05/08/2025 10:23,11/08/2025 17:07,-,6.28 dias,-,-,-,-
+1864982,🕵️ Análise Agente de Crédito,4,jessica@bancodovale.org.br,-,2025-08-11 17:07:49,11/08/2025 17:07,11/08/2025 17:08,-,0.0 dias,-,-,-,-
+1858061,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-07 16:28:56,07/08/2025 16:28,11/08/2025 11:41,-,3.8 dias,-,-,-,-
+1842435,📍 Definir Unidade de Atendimento,1,-,-,2025-07-18 11:28:05,18/07/2025 11:28,18/07/2025 11:29,-,0.0 dias,-,-,-,-
+1842435,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-07-18 11:29:06,18/07/2025 11:29,11/08/2025 09:35,-,23.92 dias,-,-,-,-
+1821934,📍 Definir Unidade de Atendimento,1,-,-,2025-07-09 13:33:38,09/07/2025 13:33,09/07/2025 13:59,-,0.02 dias,-,-,-,-
+1821934,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.org.br,-,2025-07-09 13:59:27,09/07/2025 13:59,09/07/2025 16:18,-,0.1 dias,-,-,-,-
+1821934,🕵️ Análise Agente de Crédito,4,KATLIN,-,2025-07-09 16:18:36,09/07/2025 16:18,10/07/2025 08:45,-,0.69 dias,-,-,-,-
+1821934,⚠️ Pendente Cliente,W,adriana@bancodovale.org.br,-,2025-07-10 08:45:16,10/07/2025 08:45,11/08/2025 15:10,-,32.27 dias,-,-,-,-
+1772508,🧾 Análise Mesa de Crédito,8,rejane@bancodovale.org.br,-,2025-08-06 13:08:38,06/08/2025 13:08,11/08/2025 09:30,-,4.85 dias,-,-,-,-
+1733372,📍 Definir Unidade de Atendimento,1,-,-,2025-05-22 13:05:43,22/05/2025 13:05,22/05/2025 14:15,-,0.05 dias,-,-,-,-
+1733372,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.org.br,-,2025-05-22 14:15:14,22/05/2025 14:15,22/05/2025 14:30,-,0.01 dias,-,-,-,-
+1733372,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-05-22 14:30:44,22/05/2025 14:30,11/08/2025 09:42,-,80.8 dias,-,-,-,-
+1716182,📍 Definir Unidade de Atendimento,1,-,-,2025-05-13 15:58:14,13/05/2025 15:58,13/05/2025 15:58,-,0.0 dias,-,-,-,-
+1716182,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-05-13 15:58:35,13/05/2025 15:58,11/08/2025 09:41,-,89.74 dias,-,-,-,-
+1708748,📍 Definir Unidade de Atendimento,1,-,-,2025-05-08 16:11:13,08/05/2025 16:11,08/05/2025 16:14,-,0.0 dias,-,-,-,-
+1708748,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-05-08 16:14:11,08/05/2025 16:14,11/08/2025 09:42,-,94.73 dias,-,-,-,-
+1609700,📍 Definir Unidade de Atendimento,1,-,-,2025-04-02 11:28:13,02/04/2025 11:28,02/04/2025 11:29,-,0.0 dias,-,-,-,-
+1609700,🔴 Pendência SPC,3,bancodovaletimbo@bancodovale.org.br,-,2025-04-02 11:29:02,02/04/2025 11:29,04/04/2025 13:06,-,2.07 dias,-,-,-,-
+1609700,❌ Reprovado,X,camila@bancodovale.org.br,-,2025-04-04 13:06:30,04/04/2025 13:06,11/08/2025 09:48,-,128.86 dias,-,-,-,-
+1609700,🔴 Pendência SPC,3,bancodovaletimbo@bancodovale.org.br,-,2025-08-11 09:48:43,11/08/2025 09:48,11/08/2025 16:08,-,0.26 dias,-,-,-,-
+1350149,📍 Definir Unidade de Atendimento,1,-,-,2024-12-03 09:51:21,03/12/2024 09:51,03/12/2024 09:52,-,0.0 dias,-,-,-,-
+1350149,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2024-12-03 09:52:09,03/12/2024 09:52,11/08/2025 10:12,-,251.01 dias,-,-,-,-
+1348247,📍 Definir Unidade de Atendimento,1,-,-,2024-12-02 13:45:55,02/12/2024 13:45,02/12/2024 13:49,-,0.0 dias,-,-,-,-
+1348247,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2024-12-02 13:49:33,02/12/2024 13:49,11/08/2025 10:31,-,251.86 dias,-,-,-,-
+1338401,📍 Definir Unidade de Atendimento,1,-,-,2024-11-26 09:19:48,26/11/2024 09:19,26/11/2024 09:46,-,0.02 dias,-,-,-,-
+1338401,🔍 Análise SPC (Serasa / SPC Brasil),2,roberto@bancodovale.org.br,-,2024-11-26 09:46:27,26/11/2024 09:46,27/11/2024 09:54,-,1.01 dias,-,-,-,-
+1338401,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2024-11-27 09:54:22,27/11/2024 09:54,11/08/2025 10:14,-,257.01 dias,-,-,-,-
+1328060,📍 Definir Unidade de Atendimento,1,-,-,2024-11-21 10:41:45,21/11/2024 10:41,21/11/2024 10:51,-,0.01 dias,-,-,-,-
+1328060,🔍 Análise SPC (Serasa / SPC Brasil),2,rio@bancodovale.org.br,-,2024-11-21 10:51:59,21/11/2024 10:51,21/11/2024 10:52,-,0.0 dias,-,-,-,-
+1328060,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2024-11-21 10:52:17,21/11/2024 10:52,11/08/2025 09:00,-,262.92 dias,-,-,-,-
+1307542,📍 Definir Unidade de Atendimento,1,-,-,2024-11-12 10:18:00,12/11/2024 10:18,12/11/2024 14:00,-,0.15 dias,-,-,-,-
+1307542,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2024-11-12 14:00:45,12/11/2024 14:00,11/08/2025 09:02,-,271.79 dias,-,-,-,-
+1254162,📍 Definir Unidade de Atendimento,1,-,-,2024-10-07 14:34:57,07/10/2024 14:34,07/10/2024 14:49,-,0.01 dias,-,-,-,-
+1254162,🔍 Análise SPC (Serasa / SPC Brasil),2,roberto@bancodovale.org.br,-,2024-10-07 14:49:59,07/10/2024 14:49,09/10/2024 14:23,-,1.98 dias,-,-,-,-
+1254162,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2024-10-09 14:23:16,09/10/2024 14:23,11/08/2025 09:09,-,305.78 dias,-,-,-,-
+1215589,📍 Definir Unidade de Atendimento,1,-,-,2024-09-11 15:13:43,11/09/2024 15:13,11/09/2024 15:13,-,0.0 dias,-,-,-,-
+1215589,🕵️ Análise Agente de Crédito,4,Priscila,-,2024-09-11 15:13:54,11/09/2024 15:13,11/08/2025 10:28,-,333.8 dias,-,-,-,-
+1146832,📍 Definir Unidade de Atendimento,1,-,-,2024-07-24 09:13:25,24/07/2024 09:13,24/07/2024 09:14,-,0.0 dias,-,-,-,-
+1146832,🕵️ Análise Agente de Crédito,4,Priscila,-,2024-07-24 09:14:26,24/07/2024 09:14,11/08/2025 09:56,-,383.03 dias,-,-,-,-
+1105053,📍 Definir Unidade de Atendimento,1,-,-,2024-06-21 17:26:28,21/06/2024 17:26,21/06/2024 17:34,-,0.01 dias,-,-,-,-
+1105053,🕵️ Análise Agente de Crédito,4,Uelita,-,2024-06-21 17:34:29,21/06/2024 17:34,28/06/2024 13:45,-,6.84 dias,-,-,-,-
+1105053,🧾 Análise Mesa de Crédito,8,diogo@bancodovale.org.br,-,2024-06-28 13:45:50,28/06/2024 13:45,28/06/2024 16:18,-,0.11 dias,-,-,-,-
+1105053,✅ Aprovado,0,roberto@bancodovale.org.br,-,2024-06-28 16:18:07,28/06/2024 16:18,12/09/2024 10:50,-,75.77 dias,-,-,-,-
+1105053,🕵️ Análise Agente de Crédito,4,Priscila,-,2024-09-12 10:50:39,12/09/2024 10:50,16/09/2024 14:48,-,4.17 dias,-,-,-,-
+1105053,🧾 Análise Mesa de Crédito,8,diogo@bancodovale.org.br,-,2024-09-16 14:48:54,16/09/2024 14:48,18/09/2024 09:54,-,1.8 dias,-,-,-,-
+1105053,✅ Aprovado,0,Fernando,-,2024-09-18 09:54:32,18/09/2024 09:54,19/12/2024 09:47,-,91.99 dias,-,-,-,-
+1105053,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2024-12-19 09:47:03,19/12/2024 09:47,11/08/2025 10:35,-,235.03 dias,-,-,-,-
+1097538,📍 Definir Unidade de Atendimento,1,-,-,2024-06-19 11:16:57,19/06/2024 11:16,19/06/2024 11:30,-,0.01 dias,-,-,-,-
+1097538,🔍 Análise SPC (Serasa / SPC Brasil),2,roberto@bancodovale.org.br,-,2024-06-19 11:30:42,19/06/2024 11:30,19/06/2024 11:57,-,0.02 dias,-,-,-,-
+1097538,🕵️ Análise Agente de Crédito,4,Uelita,-,2024-06-19 11:57:16,19/06/2024 11:57,11/08/2025 10:28,-,417.94 dias,-,-,-,-
+1093004,📍 Definir Unidade de Atendimento,1,-,-,2024-06-14 11:19:52,14/06/2024 11:19,14/06/2024 11:20,-,0.0 dias,-,-,-,-
+1093004,🕵️ Análise Agente de Crédito,4,Uelita,-,2024-06-14 11:20:50,14/06/2024 11:20,11/08/2025 10:25,-,422.96 dias,-,-,-,-
+1091766,📍 Definir Unidade de Atendimento,1,-,-,2024-06-13 12:04:51,13/06/2024 12:04,13/06/2024 12:05,-,0.0 dias,-,-,-,-
+1091766,🕵️ Análise Agente de Crédito,4,Uelita,-,2024-06-13 12:05:47,13/06/2024 12:05,11/08/2025 10:36,-,423.94 dias,-,-,-,-
+1087934,📍 Definir Unidade de Atendimento,1,-,-,2024-06-10 15:05:03,10/06/2024 15:05,10/06/2024 15:06,-,0.0 dias,-,-,-,-
+1087934,🕵️ Análise Agente de Crédito,4,Uelita,-,2024-06-10 15:06:05,10/06/2024 15:06,03/07/2024 14:00,-,22.95 dias,-,-,-,-
+1087934,🧾 Análise Mesa de Crédito,8,diogo@bancodovale.org.br,-,2024-07-03 14:00:13,03/07/2024 14:00,04/07/2024 10:18,-,0.85 dias,-,-,-,-
+1087934,✅ Aprovado,0,Fernando,-,2024-07-04 10:18:23,04/07/2024 10:18,23/06/2025 10:34,-,354.01 dias,-,-,-,-
+1087934,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-06-23 10:34:42,23/06/2025 10:34,11/08/2025 10:16,-,48.99 dias,-,-,-,-
+1080137,📍 Definir Unidade de Atendimento,1,-,-,2024-06-03 09:32:32,03/06/2024 09:32,03/06/2024 09:32,-,0.0 dias,-,-,-,-
+1080137,🕵️ Análise Agente de Crédito,4,Uelita,-,2024-06-03 09:32:52,03/06/2024 09:32,11/08/2025 10:14,-,434.03 dias,-,-,-,-
+988113,📍 Definir Unidade de Atendimento,1,-,-,2024-03-18 09:42:35,18/03/2024 09:42,18/03/2024 09:43,-,0.0 dias,-,-,-,-
+988113,🕵️ Análise Agente de Crédito,4,Priscila,-,2024-03-18 09:43:04,18/03/2024 09:43,19/03/2024 09:45,-,1.0 dias,-,-,-,-
+988113,🧾 Análise Mesa de Crédito,8,juliano@bancodovale.org.br,-,2024-03-19 09:45:01,19/03/2024 09:45,01/04/2024 10:48,-,13.04 dias,-,-,-,-
+988113,✅ Aprovado,0,Fernando,-,2024-04-01 10:48:12,01/04/2024 10:48,11/04/2025 10:52,-,375.0 dias,-,-,-,-
+988113,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-04-11 10:52:40,11/04/2025 10:52,11/08/2025 09:28,-,121.94 dias,-,-,-,-
+987943,📍 Definir Unidade de Atendimento,1,-,-,2024-03-18 06:43:03,18/03/2024 06:43,18/03/2024 09:06,-,0.1 dias,-,-,-,-
+987943,🔍 Análise SPC (Serasa / SPC Brasil),2,roberto@bancodovale.org.br,-,2024-03-18 09:06:39,18/03/2024 09:06,18/03/2024 13:31,-,0.18 dias,-,-,-,-
+987943,🕵️ Análise Agente de Crédito,4,Priscila,-,2024-03-18 13:31:54,18/03/2024 13:31,20/03/2024 13:55,-,2.02 dias,-,-,-,-
+987943,🧾 Análise Mesa de Crédito,8,juliano@bancodovale.org.br,-,2024-03-20 13:55:41,20/03/2024 13:55,21/03/2024 16:39,-,1.11 dias,-,-,-,-
+987943,✅ Aprovado,0,Fernando,-,2024-03-21 16:39:37,21/03/2024 16:39,20/01/2025 10:10,-,304.73 dias,-,-,-,-
+987943,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-01-20 10:10:24,20/01/2025 10:10,11/08/2025 09:22,-,202.97 dias,-,-,-,-
+960102,📍 Definir Unidade de Atendimento,1,-,-,2024-02-14 11:58:18,14/02/2024 11:58,14/02/2024 13:12,-,0.05 dias,-,-,-,-
+960102,🕵️ Análise Agente de Crédito,4,Priscila,-,2024-02-14 13:12:39,14/02/2024 13:12,15/02/2024 15:15,-,1.09 dias,-,-,-,-
+960102,🧾 Análise Mesa de Crédito,8,juliano@bancodovale.org.br,-,2024-02-15 15:15:27,15/02/2024 15:15,20/02/2024 15:20,-,5.0 dias,-,-,-,-
+960102,✅ Aprovado,0,Fernando,-,2024-02-20 15:20:41,20/02/2024 15:20,05/08/2024 10:13,-,166.79 dias,-,-,-,-
+960102,🕵️ Análise Agente de Crédito,4,Priscila,-,2024-08-05 10:13:29,05/08/2024 10:13,07/08/2024 08:53,-,1.94 dias,-,-,-,-
+960102,🧾 Análise Mesa de Crédito,8,diogo@bancodovale.org.br,-,2024-08-07 08:53:53,07/08/2024 08:53,07/08/2024 15:06,-,0.26 dias,-,-,-,-
+960102,✅ Aprovado,0,Fernando,-,2024-08-07 15:06:07,07/08/2024 15:06,04/04/2025 11:30,-,239.85 dias,-,-,-,-
+960102,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-04-04 11:30:19,04/04/2025 11:30,11/08/2025 09:21,-,128.91 dias,-,-,-,-
+862188,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-08-08 11:17:41,08/08/2025 11:17,11/08/2025 09:35,-,2.93 dias,-,-,-,-
+705741,📍 Definir Unidade de Atendimento,1,-,-,2023-07-03 15:53:49,03/07/2023 15:53,03/07/2023 15:56,-,0.0 dias,-,-,-,-
+705741,🕵️ Análise Agente de Crédito,4,riodosul@bancodovale.org.br,-,2023-07-03 15:56:30,03/07/2023 15:56,04/07/2023 09:44,-,0.74 dias,-,-,-,-
+705741,🧾 Análise Mesa de Crédito,8,juliano@bancodovale.org.br,-,2023-07-04 09:44:11,04/07/2023 09:44,05/07/2023 10:31,-,1.03 dias,-,-,-,-
+705741,✅ Aprovado,0,fernandosandri@bancodovale.org.br,-,2023-07-05 10:31:20,05/07/2023 10:31,29/04/2024 13:45,-,299.13 dias,-,-,-,-
+705741,🕵️ Análise Agente de Crédito,4,Priscila,-,2024-04-29 13:45:08,29/04/2024 13:45,30/04/2024 10:46,-,0.88 dias,-,-,-,-
+705741,🧾 Análise Mesa de Crédito,8,juliano@bancodovale.org.br,-,2024-04-30 10:46:09,30/04/2024 10:46,30/04/2024 14:43,-,0.16 dias,-,-,-,-
+705741,✅ Aprovado,0,Fernando,-,2024-04-30 14:43:33,30/04/2024 14:43,03/02/2025 08:56,-,278.76 dias,-,-,-,-
+705741,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-02-03 08:56:21,03/02/2025 08:56,11/08/2025 09:18,-,189.02 dias,-,-,-,-
+681361,📍 Definir Unidade de Atendimento,1,-,-,2023-06-12 16:17:50,12/06/2023 16:17,13/06/2023 09:34,-,0.72 dias,-,-,-,-
+681361,🕵️ Análise Agente de Crédito,4,riodosul@bancodovale.org.br,-,2023-06-13 09:34:54,13/06/2023 09:34,13/06/2023 09:35,-,0.0 dias,-,-,-,-
+681361,🧾 Análise Mesa de Crédito,8,juliano@bancodovale.org.br,-,2023-06-13 09:35:38,13/06/2023 09:35,14/06/2023 08:28,-,0.95 dias,-,-,-,-
+681361,✅ Aprovado,0,fernandosandri@bancodovale.org.br,-,2023-06-14 08:28:02,14/06/2023 08:28,03/10/2024 10:09,-,477.07 dias,-,-,-,-
+681361,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2024-10-03 10:09:52,03/10/2024 10:09,11/08/2025 09:14,-,311.96 dias,-,-,-,-
+615032,📍 Definir Unidade de Atendimento,1,-,-,2023-04-06 09:10:37,06/04/2023 09:10,06/04/2023 09:11,-,0.0 dias,-,-,-,-
+615032,🕵️ Análise Agente de Crédito,4,riodosul@bancodovale.org.br,-,2023-04-06 09:11:14,06/04/2023 09:11,05/06/2023 16:51,-,60.32 dias,-,-,-,-
+615032,✅ Aprovado,0,juliano@bancodovale.org.br,-,2023-06-05 16:51:50,05/06/2023 16:51,15/07/2024 09:04,-,405.68 dias,-,-,-,-
+615032,🕵️ Análise Agente de Crédito,4,Priscila,-,2024-07-15 09:04:33,15/07/2024 09:04,17/07/2024 13:02,-,2.17 dias,-,-,-,-
+615032,🧾 Análise Mesa de Crédito,8,diogo@bancodovale.org.br,-,2024-07-17 13:02:34,17/07/2024 13:02,31/07/2024 11:38,-,13.94 dias,-,-,-,-
+615032,✅ Aprovado,0,Fernando,-,2024-07-31 11:38:27,31/07/2024 11:38,08/07/2025 10:16,-,341.94 dias,-,-,-,-
+615032,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-07-08 10:16:33,08/07/2025 10:16,11/08/2025 09:14,-,33.96 dias,-,-,-,-
+609025,📍 Definir Unidade de Atendimento,1,-,-,2023-03-30 14:46:07,30/03/2023 14:46,30/03/2023 14:46,-,0.0 dias,-,-,-,-
+609025,🔍 Análise SPC (Serasa / SPC Brasil),2,blumenau@bancodovale.org.br,-,2023-03-30 14:46:35,30/03/2023 14:46,30/03/2023 14:46,-,0.0 dias,-,-,-,-
+609025,🕵️ Análise Agente de Crédito,4,riodosul@bancodovale.org.br,-,2023-03-30 14:46:42,30/03/2023 14:46,05/06/2023 16:50,-,67.09 dias,-,-,-,-
+609025,✅ Aprovado,0,juliano@bancodovale.org.br,-,2023-06-05 16:50:33,05/06/2023 16:50,02/02/2024 09:24,-,241.69 dias,-,-,-,-
+609025,🕵️ Análise Agente de Crédito,4,Priscila,-,2024-02-02 09:24:03,02/02/2024 09:24,05/02/2024 13:30,-,3.17 dias,-,-,-,-
+609025,🧾 Análise Mesa de Crédito,8,juliano@bancodovale.org.br,-,2024-02-05 13:30:13,05/02/2024 13:30,14/02/2024 17:00,-,9.15 dias,-,-,-,-
+609025,✅ Aprovado,0,Fernando,-,2024-02-14 17:00:08,14/02/2024 17:00,27/02/2025 14:35,-,378.9 dias,-,-,-,-
+609025,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-02-27 14:35:31,27/02/2025 14:35,11/08/2025 09:13,-,164.78 dias,-,-,-,-
+425614,📍 Definir Unidade de Atendimento,1,-,-,2022-09-09 14:09:26,09/09/2022 14:09,09/09/2022 14:09,-,0.0 dias,-,-,-,-
+425614,🕵️ Análise Agente de Crédito,4,riodosul@bancodovale.org.br,-,2022-09-09 14:09:53,09/09/2022 14:09,12/09/2022 15:51,-,3.07 dias,-,-,-,-
+425614,🧾 Análise Mesa de Crédito,8,riodosul@bancodovale.org.br,-,2022-09-12 15:51:15,12/09/2022 15:51,14/09/2022 11:37,-,1.82 dias,-,-,-,-
+425614,✅ Aprovado,0,fernandosandri@bancodovale.org.br,-,2022-09-14 11:37:51,14/09/2022 11:37,18/02/2025 09:33,-,887.91 dias,-,-,-,-
+425614,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-02-18 09:33:03,18/02/2025 09:33,22/04/2025 10:37,-,63.04 dias,-,-,-,-
+425614,🙅 Desistiu,Z,diogo@bancodovale.org.br,-,2025-04-22 10:37:21,22/04/2025 10:37,22/04/2025 10:37,-,0.0 dias,-,-,-,-
+425614,🔴 Pendência SPC,3,diogo@bancodovale.org.br,-,2025-04-22 10:37:36,22/04/2025 10:37,22/04/2025 11:53,-,0.05 dias,-,-,-,-
+425614,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-04-22 11:53:57,22/04/2025 11:53,22/04/2025 11:54,-,0.0 dias,-,-,-,-
+425614,🙅 Desistiu,Z,rio@bancodovale.org.br,-,2025-04-22 11:54:34,22/04/2025 11:54,26/06/2025 09:05,-,64.88 dias,-,-,-,-
+425614,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-06-26 09:05:34,26/06/2025 09:05,11/08/2025 09:12,-,46.01 dias,-,-,-,-
+274505,🧾 Análise Mesa de Crédito,8,rejane@bancodovale.org.br,-,2025-08-06 15:30:44,06/08/2025 15:30,11/08/2025 09:30,-,4.75 dias,-,-,-,-
+85943,📍 Definir Unidade de Atendimento,1,-,-,2021-08-13 10:57:44,13/08/2021 10:57,13/08/2021 10:58,-,0.0 dias,-,-,-,-
+85943,🕵️ Análise Agente de Crédito,4,riodosul@bancodovale.org.br,-,2021-08-13 10:58:35,13/08/2021 10:58,17/08/2021 11:14,-,4.01 dias,-,-,-,-
+85943,🧾 Análise Mesa de Crédito,8,riodosul@bancodovale.org.br,-,2021-08-17 11:14:06,17/08/2021 11:14,19/08/2021 10:16,-,1.96 dias,-,-,-,-
+85943,✅ Aprovado,0,roberto@bancodovale.org.br,-,2021-08-19 10:16:13,19/08/2021 10:16,02/07/2025 10:11,-,1413.0 dias,-,-,-,-
+85943,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-07-02 10:11:21,02/07/2025 10:11,11/08/2025 09:11,-,39.96 dias,-,-,-,-
+9194,📍 Definir Unidade de Atendimento,1,-,-,2020-08-10 09:18:27,10/08/2020 09:18,10/08/2020 09:19,-,0.0 dias,-,-,-,-
+9194,🕵️ Análise Agente de Crédito,4,bancodovaletimbo@bancodovale.org.br,-,2020-08-10 09:19:54,10/08/2020 09:19,10/08/2020 13:12,-,0.16 dias,-,-,-,-
+9194,🧾 Análise Mesa de Crédito,8,caciane@bancodovale.org.br,-,2020-08-10 13:12:41,10/08/2020 13:12,10/08/2020 16:47,-,0.15 dias,-,-,-,-
+9194,✅ Aprovado,0,fernandosandri@bancodovale.org.br,-,2020-08-10 16:47:43,10/08/2020 16:47,30/06/2022 14:48,-,688.92 dias,-,-,-,-
+9194,🕵️ Análise Agente de Crédito,4,bancodovaletimbo@bancodovale.org.br,-,2022-06-30 14:48:30,30/06/2022 14:48,30/06/2022 14:56,-,0.01 dias,-,-,-,-
+9194,👤 Análise Coordenação,6,caciane@bancodovale.org.br,-,2022-06-30 14:56:19,30/06/2022 14:56,30/06/2022 15:07,-,0.01 dias,-,-,-,-
+9194,🧾 Análise Mesa de Crédito,8,angela@bancodovale.org.br,-,2022-06-30 15:07:27,30/06/2022 15:07,30/06/2022 17:38,-,0.1 dias,-,-,-,-
+9194,✅ Aprovado,0,fernandosandri@bancodovale.org.br,-,2022-06-30 17:38:38,30/06/2022 17:38,20/11/2023 13:59,-,507.85 dias,-,-,-,-
+9194,🧾 Análise Mesa de Crédito,8,caciane@bancodovale.org.br,-,2023-11-20 13:59:27,20/11/2023 13:59,20/11/2023 13:59,-,0.0 dias,-,-,-,-
+9194,👤 Análise Coordenação,6,caciane@bancodovale.org.br,-,2023-11-20 13:59:55,20/11/2023 13:59,20/11/2023 14:08,-,0.01 dias,-,-,-,-
+9194,🧾 Análise Mesa de Crédito,8,angela@bancodovale.org.br,-,2023-11-20 14:08:53,20/11/2023 14:08,01/12/2023 09:22,-,10.8 dias,-,-,-,-
+9194,✅ Aprovado,0,Fernando,-,2023-12-01 09:22:51,01/12/2023 09:22,11/08/2025 15:51,-,619.27 dias,-,-,-,-
+9194,🕵️ Análise Agente de Crédito,4,bancodovaletimbo@bancodovale.org.br,-,2025-08-11 15:51:10,11/08/2025 15:51,11/08/2025 16:07,-,0.01 dias,-,-,-,-
+1882640,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 15:54:59,12/08/2025 15:54,12/08/2025 17:08,-,0.05 dias,-,-,-,-
+1882623,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 15:48:41,12/08/2025 15:48,12/08/2025 15:56,-,0.01 dias,-,-,-,-
+1882623,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-12 15:56:43,12/08/2025 15:56,12/08/2025 17:07,-,0.05 dias,-,-,-,-
+1879747,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 07:57:19,12/08/2025 07:57,12/08/2025 09:15,-,0.05 dias,-,-,-,-
+1879747,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-12 09:15:25,12/08/2025 09:15,12/08/2025 09:30,-,0.01 dias,-,-,-,-
+1879747,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-12 09:30:31,12/08/2025 09:30,12/08/2025 09:31,-,0.0 dias,-,-,-,-
+1879737,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 07:03:45,12/08/2025 07:03,12/08/2025 09:13,-,0.09 dias,-,-,-,-
+1879737,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-12 09:13:26,12/08/2025 09:13,12/08/2025 09:32,-,0.01 dias,-,-,-,-
+1882745,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 16:55:23,12/08/2025 16:55,12/08/2025 17:09,-,0.01 dias,-,-,-,-
+1882734,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 16:51:47,12/08/2025 16:51,12/08/2025 16:54,-,0.0 dias,-,-,-,-
+1882687,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 16:24:19,12/08/2025 16:24,12/08/2025 16:26,-,0.0 dias,-,-,-,-
+1882572,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 15:29:43,12/08/2025 15:29,12/08/2025 15:30,-,0.0 dias,-,-,-,-
+1882572,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-12 15:30:00,12/08/2025 15:30,12/08/2025 15:52,-,0.02 dias,-,-,-,-
+1882525,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 15:16:05,12/08/2025 15:16,12/08/2025 15:18,-,0.0 dias,-,-,-,-
+1881675,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 14:22:42,12/08/2025 14:22,12/08/2025 14:58,-,0.02 dias,-,-,-,-
+1881632,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 14:00:11,12/08/2025 14:00,12/08/2025 14:56,-,0.04 dias,-,-,-,-
+1881540,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 13:52:46,12/08/2025 13:52,12/08/2025 13:52,-,0.0 dias,-,-,-,-
+1881494,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 13:46:58,12/08/2025 13:46,12/08/2025 13:48,-,0.0 dias,-,-,-,-
+1881407,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 13:24:56,12/08/2025 13:24,12/08/2025 13:25,-,0.0 dias,-,-,-,-
+1881407,⚠️ Pendência – Agente de Crédito,5,bancodovaletimbo@bancodovale.org.br,-,2025-08-12 13:25:51,12/08/2025 13:25,12/08/2025 13:26,-,0.0 dias,-,-,-,-
+1881390,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 13:13:21,12/08/2025 13:13,12/08/2025 13:27,-,0.01 dias,-,-,-,-
+1881390,🕵️ Análise Agente de Crédito,4,bancodovaletimbo@bancodovale.org.br,-,2025-08-12 13:27:24,12/08/2025 13:27,12/08/2025 13:29,-,0.0 dias,-,-,-,-
+1881390,🔴 Pendência SPC,3,bancodovaletimbo@bancodovale.org.br,-,2025-08-12 13:29:51,12/08/2025 13:29,12/08/2025 16:05,-,0.11 dias,-,-,-,-
+1880506,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 12:19:54,12/08/2025 12:19,12/08/2025 13:37,-,0.05 dias,-,-,-,-
+1880506,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-12 13:37:40,12/08/2025 13:37,12/08/2025 13:59,-,0.02 dias,-,-,-,-
+1880506,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-12 13:59:29,12/08/2025 13:59,12/08/2025 16:22,-,0.1 dias,-,-,-,-
+1880360,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 12:09:13,12/08/2025 12:09,12/08/2025 13:37,-,0.06 dias,-,-,-,-
+1880340,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 11:51:22,12/08/2025 11:51,12/08/2025 13:36,-,0.07 dias,-,-,-,-
+1880340,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-12 13:36:44,12/08/2025 13:36,12/08/2025 14:25,-,0.03 dias,-,-,-,-
+1880340,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-12 14:25:40,12/08/2025 14:25,12/08/2025 14:28,-,0.0 dias,-,-,-,-
+1880314,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 11:40:45,12/08/2025 11:40,12/08/2025 11:41,-,0.0 dias,-,-,-,-
+1880314,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-12 11:41:17,12/08/2025 11:41,12/08/2025 11:59,-,0.01 dias,-,-,-,-
+1880309,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 11:39:40,12/08/2025 11:39,12/08/2025 13:31,-,0.08 dias,-,-,-,-
+1880309,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-12 13:31:50,12/08/2025 13:31,12/08/2025 14:48,-,0.05 dias,-,-,-,-
+1880258,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 11:13:03,12/08/2025 11:13,12/08/2025 11:17,-,0.0 dias,-,-,-,-
+1880258,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-12 11:17:10,12/08/2025 11:17,12/08/2025 11:36,-,0.01 dias,-,-,-,-
+1880215,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 10:51:53,12/08/2025 10:51,12/08/2025 10:52,-,0.0 dias,-,-,-,-
+1880215,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-12 10:52:28,12/08/2025 10:52,12/08/2025 15:54,-,0.21 dias,-,-,-,-
+1880213,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 10:50:30,12/08/2025 10:50,12/08/2025 11:14,-,0.02 dias,-,-,-,-
+1880213,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-12 11:14:50,12/08/2025 11:14,12/08/2025 14:46,-,0.15 dias,-,-,-,-
+1880195,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 10:47:13,12/08/2025 10:47,12/08/2025 10:47,-,0.0 dias,-,-,-,-
+1880195,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-12 10:47:29,12/08/2025 10:47,12/08/2025 10:47,-,0.0 dias,-,-,-,-
+1880195,👤 Análise Coordenação,6,felipe@bancodovale.org.br,-,2025-08-12 10:47:49,12/08/2025 10:47,12/08/2025 10:48,-,0.0 dias,-,-,-,-
+1880152,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 10:30:50,12/08/2025 10:30,12/08/2025 10:31,-,0.0 dias,-,-,-,-
+1880152,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-12 10:31:44,12/08/2025 10:31,12/08/2025 16:24,-,0.25 dias,-,-,-,-
+1880147,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 10:28:15,12/08/2025 10:28,12/08/2025 10:28,-,0.0 dias,-,-,-,-
+1879927,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 09:33:59,12/08/2025 09:33,12/08/2025 09:34,-,0.0 dias,-,-,-,-
+1879915,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 09:28:48,12/08/2025 09:28,12/08/2025 09:41,-,0.01 dias,-,-,-,-
+1879915,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-12 09:41:08,12/08/2025 09:41,12/08/2025 09:44,-,0.0 dias,-,-,-,-
+1879863,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 09:02:16,12/08/2025 09:02,12/08/2025 09:03,-,0.0 dias,-,-,-,-
+1879791,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 08:48:34,12/08/2025 08:48,12/08/2025 09:18,-,0.02 dias,-,-,-,-
+1879791,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-12 09:18:43,12/08/2025 09:18,12/08/2025 13:47,-,0.19 dias,-,-,-,-
+1879791,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-12 13:47:26,12/08/2025 13:47,12/08/2025 16:10,-,0.1 dias,-,-,-,-
+1879791,⚠️ Pendente Cliente,W,jessica@bancodovale.org.br,-,2025-08-12 16:10:09,12/08/2025 16:10,12/08/2025 17:00,-,0.03 dias,-,-,-,-
+1879790,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 08:47:04,12/08/2025 08:47,12/08/2025 08:47,-,0.0 dias,-,-,-,-
+1879782,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 08:44:14,12/08/2025 08:44,12/08/2025 09:16,-,0.02 dias,-,-,-,-
+1879782,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-12 09:16:34,12/08/2025 09:16,12/08/2025 09:58,-,0.03 dias,-,-,-,-
+1879779,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 08:42:08,12/08/2025 08:42,12/08/2025 08:42,-,0.0 dias,-,-,-,-
+1879779,🧾 Análise Mesa de Crédito,8,Bruno,-,2025-08-12 08:42:55,12/08/2025 08:42,12/08/2025 17:46,-,0.38 dias,-,-,-,-
+1879776,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 08:37:55,12/08/2025 08:37,12/08/2025 08:38,-,0.0 dias,-,-,-,-
+1879776,🧾 Análise Mesa de Crédito,8,Bruno,-,2025-08-12 08:38:59,12/08/2025 08:38,12/08/2025 12:15,-,0.15 dias,-,-,-,-
+1879768,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 08:24:28,12/08/2025 08:24,12/08/2025 09:16,-,0.04 dias,-,-,-,-
+1879768,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-12 09:16:01,12/08/2025 09:16,12/08/2025 09:25,-,0.01 dias,-,-,-,-
+1879768,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-12 09:25:57,12/08/2025 09:25,12/08/2025 09:28,-,0.0 dias,-,-,-,-
+1879742,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 07:30:41,12/08/2025 07:30,12/08/2025 09:14,-,0.07 dias,-,-,-,-
+1879742,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-12 09:14:50,12/08/2025 09:14,12/08/2025 09:18,-,0.0 dias,-,-,-,-
+1879653,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 20:55:52,11/08/2025 20:55,12/08/2025 09:12,-,0.51 dias,-,-,-,-
+1879653,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-12 09:12:52,12/08/2025 09:12,12/08/2025 13:35,-,0.18 dias,-,-,-,-
+1879653,🕵️ Análise Agente de Crédito,4,Bruno,-,2025-08-12 13:35:48,12/08/2025 13:35,12/08/2025 17:12,-,0.15 dias,-,-,-,-
+1879572,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 18:24:58,11/08/2025 18:24,12/08/2025 09:12,-,0.62 dias,-,-,-,-
+1879572,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-12 09:12:20,12/08/2025 09:12,12/08/2025 09:55,-,0.03 dias,-,-,-,-
+1879524,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 17:42:10,11/08/2025 17:42,12/08/2025 08:47,-,0.63 dias,-,-,-,-
+1879524,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-12 08:47:31,12/08/2025 08:47,12/08/2025 13:38,-,0.2 dias,-,-,-,-
+1879524,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-12 13:38:31,12/08/2025 13:38,12/08/2025 15:54,-,0.09 dias,-,-,-,-
+1879351,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 16:28:41,11/08/2025 16:28,12/08/2025 08:46,-,0.68 dias,-,-,-,-
+1879351,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-12 08:46:40,12/08/2025 08:46,12/08/2025 13:40,-,0.2 dias,-,-,-,-
+1879342,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 16:25:53,11/08/2025 16:25,12/08/2025 08:46,-,0.68 dias,-,-,-,-
+1879342,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-12 08:46:16,12/08/2025 08:46,12/08/2025 09:33,-,0.03 dias,-,-,-,-
+1879265,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 15:54:52,11/08/2025 15:54,12/08/2025 08:46,-,0.7 dias,-,-,-,-
+1879262,📍 Definir Unidade de Atendimento,1,-,-,2025-08-11 15:53:22,11/08/2025 15:53,12/08/2025 08:45,-,0.7 dias,-,-,-,-
+1879262,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-12 08:45:42,12/08/2025 08:45,12/08/2025 09:40,-,0.04 dias,-,-,-,-
+1879262,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-12 09:40:13,12/08/2025 09:40,12/08/2025 09:42,-,0.0 dias,-,-,-,-
+1879200,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 15:49:31,11/08/2025 15:49,12/08/2025 08:44,-,0.71 dias,-,-,-,-
+1879187,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 15:49:05,11/08/2025 15:49,12/08/2025 08:36,-,0.7 dias,-,-,-,-
+1879187,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-12 08:36:52,12/08/2025 08:36,12/08/2025 08:42,-,0.0 dias,-,-,-,-
+1877928,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-11 14:09:37,11/08/2025 14:09,12/08/2025 10:09,-,0.83 dias,-,-,-,-
+1877498,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 11:46:39,11/08/2025 11:46,12/08/2025 13:29,-,1.07 dias,-,-,-,-
+1877207,⚠️ Pendente Cliente,W,camila@bancodovale.org.br,-,2025-08-11 14:43:04,11/08/2025 14:43,12/08/2025 13:07,-,0.93 dias,-,-,-,-
+1876466,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-11 09:34:14,11/08/2025 09:34,12/08/2025 10:10,-,1.03 dias,-,-,-,-
+1876092,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 10:24:33,11/08/2025 10:24,12/08/2025 08:36,-,0.92 dias,-,-,-,-
+1875797,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-11 15:55:09,11/08/2025 15:55,12/08/2025 13:55,-,0.92 dias,-,-,-,-
+1875797,👤 Análise Coordenação,6,natalia@bancodovale.org.br,-,2025-08-12 13:55:41,12/08/2025 13:55,12/08/2025 14:33,-,0.03 dias,-,-,-,-
+1875682,🔴 Pendência SPC,3,bancodovaletimbo@bancodovale.org.br,-,2025-08-11 15:57:04,11/08/2025 15:57,12/08/2025 08:30,-,0.69 dias,-,-,-,-
+1875670,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-11 10:43:02,11/08/2025 10:43,12/08/2025 10:11,-,0.98 dias,-,-,-,-
+1875591,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 08:37:35,11/08/2025 08:37,12/08/2025 13:41,-,1.21 dias,-,-,-,-
+1875450,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-08-08 17:22:07,08/08/2025 17:22,12/08/2025 13:34,-,3.84 dias,-,-,-,-
+1875381,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-08-08 16:41:20,08/08/2025 16:41,12/08/2025 13:41,-,3.87 dias,-,-,-,-
+1875281,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-08 17:06:54,08/08/2025 17:06,12/08/2025 08:46,-,3.65 dias,-,-,-,-
+1875272,🧾 Análise Mesa de Crédito,8,Bruno,-,2025-08-08 15:55:04,08/08/2025 15:55,12/08/2025 11:40,-,3.82 dias,-,-,-,-
+1875232,🧾 Análise Mesa de Crédito,8,Bruno,-,2025-08-08 15:35:15,08/08/2025 15:35,12/08/2025 17:39,-,4.09 dias,-,-,-,-
+1875218,👤 Análise Coordenação,6,felipe@bancodovale.org.br,-,2025-08-11 09:44:11,11/08/2025 09:44,12/08/2025 09:34,-,0.99 dias,-,-,-,-
+1875158,🧾 Análise Mesa de Crédito,8,KATLIN,-,2025-08-08 15:08:39,08/08/2025 15:08,12/08/2025 14:56,-,3.99 dias,-,-,-,-
+1874991,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-08 14:00:25,08/08/2025 14:00,12/08/2025 15:56,-,4.08 dias,-,-,-,-
+1874896,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-11 09:06:40,11/08/2025 09:06,12/08/2025 10:12,-,1.05 dias,-,-,-,-
+1874175,🧾 Análise Mesa de Crédito,8,gilmara@bancodovale.org.br,-,2025-08-08 12:44:26,08/08/2025 12:44,12/08/2025 12:47,-,4.0 dias,-,-,-,-
+1873792,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-07 16:07:58,07/08/2025 16:07,12/08/2025 08:50,-,4.7 dias,-,-,-,-
+1873526,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-08-08 10:46:36,08/08/2025 10:46,12/08/2025 13:45,-,4.12 dias,-,-,-,-
+1873505,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-07 11:17:58,07/08/2025 11:17,12/08/2025 15:57,-,5.19 dias,-,-,-,-
+1873385,🧾 Análise Mesa de Crédito,8,ivan@bancodovale.org.br,-,2025-08-08 15:19:22,08/08/2025 15:19,12/08/2025 15:44,-,4.02 dias,-,-,-,-
+1873055,👤 Análise Coordenação,6,alinef@bancodovale.org.br,-,2025-08-07 17:00:38,07/08/2025 17:00,12/08/2025 09:52,-,4.7 dias,-,-,-,-
+1871492,🧾 Análise Mesa de Crédito,8,rio@bancodovale.org.br,-,2025-08-06 10:37:59,06/08/2025 10:37,12/08/2025 10:34,-,6.0 dias,-,-,-,-
+1869805,🧾 Análise Mesa de Crédito,8,rejane@bancodovale.org.br,-,2025-08-08 10:15:57,08/08/2025 10:15,12/08/2025 09:28,-,3.97 dias,-,-,-,-
+1869421,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-08-05 10:17:03,05/08/2025 10:17,12/08/2025 13:35,-,7.14 dias,-,-,-,-
+1869201,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-05 10:55:16,05/08/2025 10:55,12/08/2025 10:13,-,6.97 dias,-,-,-,-
+1864982,🧾 Análise Mesa de Crédito,8,jessica@bancodovale.org.br,-,2025-08-11 17:08:08,11/08/2025 17:08,12/08/2025 15:28,-,0.93 dias,-,-,-,-
+1820423,📍 Definir Unidade de Atendimento,1,-,-,2025-07-08 12:13:47,08/07/2025 12:13,08/07/2025 12:19,-,0.0 dias,-,-,-,-
+1820423,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-07-08 12:19:26,08/07/2025 12:19,09/07/2025 11:47,-,0.98 dias,-,-,-,-
+1820423,⚠️ Pendente Cliente,W,jessica@bancodovale.org.br,-,2025-07-09 11:47:32,09/07/2025 11:47,09/07/2025 14:19,-,0.11 dias,-,-,-,-
+1820423,🙅 Desistiu,Z,jessica@bancodovale.org.br,-,2025-07-09 14:19:40,09/07/2025 14:19,12/08/2025 16:26,-,34.09 dias,-,-,-,-
+1787877,📍 Definir Unidade de Atendimento,1,-,-,2025-06-23 09:29:53,23/06/2025 09:29,23/06/2025 09:30,-,0.0 dias,-,-,-,-
+1787877,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-06-23 09:30:19,23/06/2025 09:30,23/06/2025 10:57,-,0.06 dias,-,-,-,-
+1787877,⚠️ Pendente Cliente,W,jessica@bancodovale.org.br,-,2025-06-23 10:57:26,23/06/2025 10:57,30/06/2025 14:42,-,7.16 dias,-,-,-,-
+1787877,🙅 Desistiu,Z,jessica@bancodovale.org.br,-,2025-06-30 14:42:41,30/06/2025 14:42,12/08/2025 16:27,-,43.07 dias,-,-,-,-
+1651021,📍 Definir Unidade de Atendimento,1,-,-,2025-04-15 05:03:42,15/04/2025 05:03,15/04/2025 09:05,-,0.17 dias,-,-,-,-
+1651021,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.org.br,-,2025-04-15 09:05:39,15/04/2025 09:05,15/04/2025 10:13,-,0.05 dias,-,-,-,-
+1651021,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.org.br,-,2025-04-15 10:13:54,15/04/2025 10:13,23/04/2025 14:36,-,8.18 dias,-,-,-,-
+1651021,🙅 Desistiu,Z,JairoBarros,-,2025-04-23 14:36:00,23/04/2025 14:36,12/08/2025 07:20,-,110.7 dias,-,-,-,-
+1651021,🚫 Cancelado,Y,roberto@bancodovale.org.br,-,2025-08-12 07:20:30,12/08/2025 07:20,12/08/2025 07:21,-,0.0 dias,-,-,-,-
+1513625,📍 Definir Unidade de Atendimento,1,-,-,2025-02-18 13:31:14,18/02/2025 13:31,18/02/2025 13:33,-,0.0 dias,-,-,-,-
+1513625,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-02-18 13:33:23,18/02/2025 13:33,18/02/2025 16:30,-,0.12 dias,-,-,-,-
+1513625,🔴 Pendência SPC,3,julianofiorim@bancodovale.org.br,-,2025-02-18 16:30:19,18/02/2025 16:30,18/02/2025 16:30,-,0.0 dias,-,-,-,-
+1513625,🕵️ Análise Agente de Crédito,4,julianofiorim@bancodovale.org.br,-,2025-02-18 16:30:54,18/02/2025 16:30,18/02/2025 16:34,-,0.0 dias,-,-,-,-
+1513625,⚠️ Pendente Cliente,W,julianofiorim@bancodovale.org.br,-,2025-02-18 16:34:10,18/02/2025 16:34,12/08/2025 11:46,-,174.8 dias,-,-,-,-
+1495117,📍 Definir Unidade de Atendimento,1,-,-,2025-02-04 16:23:58,04/02/2025 16:23,04/02/2025 16:24,-,0.0 dias,-,-,-,-
+1495117,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-02-04 16:24:18,04/02/2025 16:24,07/02/2025 16:51,-,3.02 dias,-,-,-,-
+1495117,⚠️ Pendente Cliente,W,julianofiorim@bancodovale.org.br,-,2025-02-07 16:51:32,07/02/2025 16:51,12/08/2025 11:53,-,185.79 dias,-,-,-,-
+992462,🧾 Análise Mesa de Crédito,8,camila@bancodovale.org.br,-,2025-08-08 11:42:45,08/08/2025 11:42,12/08/2025 12:50,-,4.05 dias,-,-,-,-
+855954,🧾 Análise Mesa de Crédito,8,regina@bancodovale.org.br,-,2025-08-08 17:23:20,08/08/2025 17:23,12/08/2025 16:53,-,3.98 dias,-,-,-,-
+646442,📍 Definir Unidade de Atendimento,1,-,-,2023-05-10 13:44:07,10/05/2023 13:44,10/05/2023 13:45,-,0.0 dias,-,-,-,-
+646442,🕵️ Análise Agente de Crédito,4,bancodovaletimbo@bancodovale.org.br,-,2023-05-10 13:45:30,10/05/2023 13:45,23/05/2023 12:34,-,12.95 dias,-,-,-,-
+646442,🙅 Desistiu,Z,caciane@bancodovale.org.br,-,2023-05-23 12:34:47,23/05/2023 12:34,23/06/2025 16:19,-,762.16 dias,-,-,-,-
+646442,🕵️ Análise Agente de Crédito,4,bancodovaletimbo@bancodovale.org.br,-,2025-06-23 16:19:27,23/06/2025 16:19,25/06/2025 11:58,-,1.82 dias,-,-,-,-
+646442,⚠️ Pendente Cliente,W,caciane@bancodovale.org.br,-,2025-06-25 11:58:02,25/06/2025 11:58,01/07/2025 09:00,-,5.88 dias,-,-,-,-
+646442,🙅 Desistiu,Z,caciane@bancodovale.org.br,-,2025-07-01 09:00:35,01/07/2025 09:00,12/08/2025 14:51,-,42.24 dias,-,-,-,-
+646442,🔍 Análise SPC (Serasa / SPC Brasil),2,bancodovaletimbo@bancodovale.org.br,-,2025-08-12 14:51:26,12/08/2025 14:51,12/08/2025 14:51,-,0.0 dias,-,-,-,-
+488136,🧾 Análise Mesa de Crédito,8,regina@bancodovale.org.br,-,2025-08-08 11:15:49,08/08/2025 11:15,12/08/2025 10:31,-,3.97 dias,-,-,-,-
+176427,📍 Definir Unidade de Atendimento,1,-,-,2022-02-24 14:23:05,24/02/2022 14:23,24/02/2022 14:23,-,0.0 dias,-,-,-,-
+176427,🕵️ Análise Agente de Crédito,4,bancodovaletimbo@bancodovale.org.br,-,2022-02-24 14:23:32,24/02/2022 14:23,24/02/2022 14:29,-,0.0 dias,-,-,-,-
+176427,👤 Análise Coordenação,6,caciane@bancodovale.org.br,-,2022-02-24 14:29:14,24/02/2022 14:29,24/02/2022 15:03,-,0.02 dias,-,-,-,-
+176427,🧾 Análise Mesa de Crédito,8,angela@bancodovale.org.br,-,2022-02-24 15:03:23,24/02/2022 15:03,25/02/2022 11:45,-,0.86 dias,-,-,-,-
+176427,✅ Aprovado,0,roberto@bancodovale.org.br,-,2022-02-25 11:45:12,25/02/2022 11:45,04/11/2024 13:27,-,983.07 dias,-,-,-,-
+176427,🕵️ Análise Agente de Crédito,4,bancodovaletimbo@bancodovale.org.br,-,2024-11-04 13:27:58,04/11/2024 13:27,04/11/2024 13:42,-,0.01 dias,-,-,-,-
+176427,🧾 Análise Mesa de Crédito,8,caciane@bancodovale.org.br,-,2024-11-04 13:42:35,04/11/2024 13:42,07/11/2024 13:29,-,2.99 dias,-,-,-,-
+176427,✅ Aprovado,0,Fernando,-,2024-11-07 13:29:38,07/11/2024 13:29,12/08/2025 08:52,-,277.81 dias,-,-,-,-
+131907,🧾 Análise Mesa de Crédito,8,juliano@bancodovale.org.br,-,2025-08-08 17:15:48,08/08/2025 17:15,12/08/2025 18:09,-,4.04 dias,-,-,-,-
+9194,🧾 Análise Mesa de Crédito,8,caciane@bancodovale.org.br,-,2025-08-11 16:07:46,11/08/2025 16:07,12/08/2025 09:03,-,0.71 dias,-,-,-,-
+1876217,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 11:28:44,11/08/2025 11:28,-,-,-,-,-,-,-
+1870178,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-06 09:02:43,06/08/2025 09:02,-,-,-,-,-,-,-
+1883126,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 09:17:57,13/08/2025 09:17,13/08/2025 09:41,-,0.02 dias,-,-,-,-
+1883126,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-13 09:41:08,13/08/2025 09:41,13/08/2025 10:04,-,0.02 dias,-,-,-,-
+1883126,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-13 10:04:26,13/08/2025 10:04,-,-,-,-,-,-,-
+1877213,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 11:02:25,11/08/2025 11:02,-,-,-,-,-,-,-
+1876476,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 11:07:14,11/08/2025 11:07,-,-,-,-,-,-,-
+1882623,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-12 17:07:48,12/08/2025 17:07,-,-,-,-,-,-,-
+1877773,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 13:32:13,11/08/2025 13:32,-,-,-,-,-,-,-
+1876501,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 11:04:16,11/08/2025 11:04,-,-,-,-,-,-,-
+1876260,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 11:11:01,11/08/2025 11:11,-,-,-,-,-,-,-
+1874224,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-08 13:47:26,08/08/2025 13:47,-,-,-,-,-,-,-
+1874004,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-08 12:09:18,08/08/2025 12:09,-,-,-,-,-,-,-
+1851994,⚠️ Pendente Cliente,W,alinef@bancodovale.org.br,-,2025-07-30 15:27:23,30/07/2025 15:27,-,-,-,-,-,-,-
+1884415,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 21:05:40,13/08/2025 21:05,-,-,-,-,-,-,-
+1884401,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 20:22:50,13/08/2025 20:22,-,-,-,-,-,-,-
+1884336,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 19:02:36,13/08/2025 19:02,-,-,-,-,-,-,-
+1884205,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 17:12:48,13/08/2025 17:12,-,-,-,-,-,-,-
+1884196,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 17:04:24,13/08/2025 17:04,-,-,-,-,-,-,-
+1884121,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 16:24:14,13/08/2025 16:24,13/08/2025 16:25,-,0.0 dias,-,-,-,-
+1884121,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-13 16:25:24,13/08/2025 16:25,-,-,-,-,-,-,-
+1884012,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 15:24:11,13/08/2025 15:24,13/08/2025 15:28,-,0.0 dias,-,-,-,-
+1884012,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-13 15:28:15,13/08/2025 15:28,13/08/2025 15:31,-,0.0 dias,-,-,-,-
+1884012,👤 Análise Coordenação,6,natalia@bancodovale.org.br,-,2025-08-13 15:31:03,13/08/2025 15:31,13/08/2025 16:57,-,0.06 dias,-,-,-,-
+1884012,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-13 16:57:58,13/08/2025 16:57,-,-,-,-,-,-,-
+1883992,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 15:21:14,13/08/2025 15:21,13/08/2025 15:23,-,0.0 dias,-,-,-,-
+1883992,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-13 15:23:20,13/08/2025 15:23,-,-,-,-,-,-,-
+1883988,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 15:20:05,13/08/2025 15:20,13/08/2025 15:22,-,0.0 dias,-,-,-,-
+1883988,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-13 15:22:56,13/08/2025 15:22,-,-,-,-,-,-,-
+1883944,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 14:57:46,13/08/2025 14:57,13/08/2025 15:38,-,0.03 dias,-,-,-,-
+1883944,🕵️ Análise Agente de Crédito,4,Bruno,-,2025-08-13 15:38:47,13/08/2025 15:38,-,-,-,-,-,-,-
+1883937,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 14:55:33,13/08/2025 14:55,13/08/2025 14:59,-,0.0 dias,-,-,-,-
+1883937,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-13 14:59:51,13/08/2025 14:59,13/08/2025 15:17,-,0.01 dias,-,-,-,-
+1883937,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-13 15:17:36,13/08/2025 15:17,13/08/2025 16:23,-,0.05 dias,-,-,-,-
+1883937,❌ Reprovado,X,elenita@bancovale.org.br,-,2025-08-13 16:23:09,13/08/2025 16:23,-,-,-,-,-,-,-
+1883912,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 14:39:09,13/08/2025 14:39,13/08/2025 14:40,-,0.0 dias,-,-,-,-
+1883912,🕵️ Análise Agente de Crédito,4,Bruno,-,2025-08-13 14:40:29,13/08/2025 14:40,-,-,-,-,-,-,-
+1883899,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 14:34:26,13/08/2025 14:34,13/08/2025 15:14,-,0.03 dias,-,-,-,-
+1883899,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-13 15:14:16,13/08/2025 15:14,-,-,-,-,-,-,-
+1883790,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 13:49:26,13/08/2025 13:49,13/08/2025 13:49,-,0.0 dias,-,-,-,-
+1883790,🕵️ Análise Agente de Crédito,4,bancodovaletimbo@bancodovale.org.br,-,2025-08-13 13:49:51,13/08/2025 13:49,-,-,-,-,-,-,-
+1883781,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 13:44:31,13/08/2025 13:44,13/08/2025 13:45,-,0.0 dias,-,-,-,-
+1883781,🕵️ Análise Agente de Crédito,4,bancodovaletimbo@bancodovale.org.br,-,2025-08-13 13:45:38,13/08/2025 13:45,-,-,-,-,-,-,-
+1883764,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 13:31:36,13/08/2025 13:31,13/08/2025 13:46,-,0.01 dias,-,-,-,-
+1883764,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-13 13:46:09,13/08/2025 13:46,-,-,-,-,-,-,-
+1883736,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 13:16:15,13/08/2025 13:16,13/08/2025 13:16,-,0.0 dias,-,-,-,-
+1883736,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-13 13:16:40,13/08/2025 13:16,-,-,-,-,-,-,-
+1883684,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 12:34:42,13/08/2025 12:34,13/08/2025 13:45,-,0.05 dias,-,-,-,-
+1883684,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-13 13:45:08,13/08/2025 13:45,13/08/2025 15:16,-,0.06 dias,-,-,-,-
+1883684,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-13 15:16:14,13/08/2025 15:16,-,-,-,-,-,-,-
+1883432,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 10:27:07,13/08/2025 10:27,13/08/2025 10:27,-,0.0 dias,-,-,-,-
+1883432,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-13 10:27:46,13/08/2025 10:27,-,-,-,-,-,-,-
+1883404,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 10:23:18,13/08/2025 10:23,13/08/2025 10:29,-,0.0 dias,-,-,-,-
+1883404,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-13 10:29:04,13/08/2025 10:29,13/08/2025 14:14,-,0.16 dias,-,-,-,-
+1883404,🕵️ Análise Agente de Crédito,4,Bruno,-,2025-08-13 14:14:45,13/08/2025 14:14,-,-,-,-,-,-,-
+1883259,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 10:07:52,13/08/2025 10:07,13/08/2025 10:08,-,0.0 dias,-,-,-,-
+1883259,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-13 10:08:07,13/08/2025 10:08,13/08/2025 10:08,-,0.0 dias,-,-,-,-
+1883259,👤 Análise Coordenação,6,dennis@bancodovale.org.br,-,2025-08-13 10:08:46,13/08/2025 10:08,-,-,-,-,-,-,-
+1883256,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 10:05:33,13/08/2025 10:05,13/08/2025 10:05,-,0.0 dias,-,-,-,-
+1883256,🚫 Cancelado,Y,-,-,2025-08-13 10:05:51,13/08/2025 10:05,-,-,-,-,-,-,-
+1883231,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 09:53:31,13/08/2025 09:53,13/08/2025 10:08,-,0.01 dias,-,-,-,-
+1883231,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-13 10:08:51,13/08/2025 10:08,13/08/2025 13:32,-,0.14 dias,-,-,-,-
+1883231,⚠️ Pendente Cliente,W,gilmara@bancodovale.org.br,-,2025-08-13 13:32:44,13/08/2025 13:32,-,-,-,-,-,-,-
+1883139,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 09:30:45,13/08/2025 09:30,13/08/2025 09:31,-,0.0 dias,-,-,-,-
+1883139,🕵️ Análise Agente de Crédito,4,KATLIN,-,2025-08-13 09:31:20,13/08/2025 09:31,-,-,-,-,-,-,-
+1883048,📍 Definir Unidade de Atendimento,1,-,-,2025-08-13 09:08:05,13/08/2025 09:08,13/08/2025 09:40,-,0.02 dias,-,-,-,-
+1883048,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-13 09:40:26,13/08/2025 09:40,13/08/2025 11:00,-,0.06 dias,-,-,-,-
+1883048,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-08-13 11:00:15,13/08/2025 11:00,-,-,-,-,-,-,-
+1882921,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 19:42:41,12/08/2025 19:42,13/08/2025 09:39,-,0.58 dias,-,-,-,-
+1882921,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-13 09:39:43,13/08/2025 09:39,13/08/2025 13:30,-,0.16 dias,-,-,-,-
+1882921,⚠️ Pendente Cliente,W,gilmara@bancodovale.org.br,-,2025-08-13 13:30:58,13/08/2025 13:30,13/08/2025 13:59,-,0.02 dias,-,-,-,-
+1882921,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-13 13:59:17,13/08/2025 13:59,-,-,-,-,-,-,-
+1882866,📍 Definir Unidade de Atendimento,1,-,-,2025-08-12 18:23:29,12/08/2025 18:23,13/08/2025 09:38,-,0.64 dias,-,-,-,-
+1882866,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-13 09:38:46,13/08/2025 09:38,13/08/2025 12:17,-,0.11 dias,-,-,-,-
+1882866,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-13 12:17:55,13/08/2025 12:17,-,-,-,-,-,-,-
+1882745,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-12 17:09:18,12/08/2025 17:09,13/08/2025 09:47,-,0.69 dias,-,-,-,-
+1882745,🕵️ Análise Agente de Crédito,4,Bruno,-,2025-08-13 09:47:12,13/08/2025 09:47,-,-,-,-,-,-,-
+1882734,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-08-12 16:54:48,12/08/2025 16:54,-,-,-,-,-,-,-
+1882687,🕵️ Análise Agente de Crédito,4,bancodovaletimbo@bancodovale.org.br,-,2025-08-12 16:26:15,12/08/2025 16:26,-,-,-,-,-,-,-
+1882640,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-12 17:08:30,12/08/2025 17:08,13/08/2025 09:32,-,0.68 dias,-,-,-,-
+1882640,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-13 09:32:05,13/08/2025 09:32,-,-,-,-,-,-,-
+1882572,👤 Análise Coordenação,6,elenita@bancovale.org.br,-,2025-08-12 15:52:59,12/08/2025 15:52,13/08/2025 07:38,-,0.66 dias,-,-,-,-
+1882572,🧾 Análise Mesa de Crédito,8,roberto@bancodovale.org.br,-,2025-08-13 07:38:37,13/08/2025 07:38,-,-,-,-,-,-,-
+1882525,🕵️ Análise Agente de Crédito,4,KATLIN,-,2025-08-12 15:18:15,12/08/2025 15:18,-,-,-,-,-,-,-
+1881675,📄 📄 Chamado Duplicado,D,comercialdigital@bancodovale.com.br,-,2025-08-12 14:58:01,12/08/2025 14:58,-,-,-,-,-,-,-
+1881632,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-12 14:56:28,12/08/2025 14:56,13/08/2025 08:44,-,0.74 dias,-,-,-,-
+1881632,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-13 08:44:43,13/08/2025 08:44,-,-,-,-,-,-,-
+1881540,🚫 Cancelado,Y,-,-,2025-08-12 13:52:47,12/08/2025 13:52,-,-,-,-,-,-,-
+1881494,🕵️ Análise Agente de Crédito,4,bancodovaletimbo@bancodovale.org.br,-,2025-08-12 13:48:19,12/08/2025 13:48,-,-,-,-,-,-,-
+1881407,🕵️ Análise Agente de Crédito,4,bancodovaletimbo@bancodovale.org.br,-,2025-08-12 13:26:13,12/08/2025 13:26,-,-,-,-,-,-,-
+1881390,❌ Reprovado,X,camila@bancodovale.org.br,-,2025-08-12 16:05:31,12/08/2025 16:05,-,-,-,-,-,-,-
+1880506,❌ Reprovado,X,jessica@bancodovale.org.br,-,2025-08-12 16:22:42,12/08/2025 16:22,-,-,-,-,-,-,-
+1880360,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-12 13:37:30,12/08/2025 13:37,-,-,-,-,-,-,-
+1880340,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-12 14:28:33,12/08/2025 14:28,-,-,-,-,-,-,-
+1880314,❌ Reprovado,X,jessica@bancodovale.org.br,-,2025-08-12 11:59:29,12/08/2025 11:59,-,-,-,-,-,-,-
+1880309,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-12 14:48:50,12/08/2025 14:48,-,-,-,-,-,-,-
+1880258,📄 📄 Chamado Duplicado,D,comercialdigital@bancodovale.com.br,-,2025-08-12 11:36:08,12/08/2025 11:36,-,-,-,-,-,-,-
+1880215,⚠️ Pendente Cliente,W,gilmara@bancodovale.org.br,-,2025-08-12 15:54:13,12/08/2025 15:54,-,-,-,-,-,-,-
+1880213,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-12 14:46:48,12/08/2025 14:46,-,-,-,-,-,-,-
+1880195,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-12 10:48:31,12/08/2025 10:48,-,-,-,-,-,-,-
+1880152,❌ Reprovado,X,jessica@bancodovale.org.br,-,2025-08-12 16:24:56,12/08/2025 16:24,-,-,-,-,-,-,-
+1880147,🚫 Cancelado,Y,-,-,2025-08-12 10:28:17,12/08/2025 10:28,-,-,-,-,-,-,-
+1879927,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-12 09:34:10,12/08/2025 09:34,-,-,-,-,-,-,-
+1879915,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-12 09:44:57,12/08/2025 09:44,-,-,-,-,-,-,-
+1879863,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-12 09:03:13,12/08/2025 09:03,-,-,-,-,-,-,-
+1879791,🙅 Desistiu,Z,jessica@bancodovale.org.br,-,2025-08-12 17:00:30,12/08/2025 17:00,-,-,-,-,-,-,-
+1879790,🧾 Análise Mesa de Crédito,8,Bruno,-,2025-08-12 08:47:28,12/08/2025 08:47,-,-,-,-,-,-,-
+1879782,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-12 09:58:13,12/08/2025 09:58,13/08/2025 11:13,-,1.05 dias,-,-,-,-
+1879782,🙅 Desistiu,Z,pierre@bancodovale.org.br,-,2025-08-13 11:13:26,13/08/2025 11:13,-,-,-,-,-,-,-
+1879779,✅ Aprovado,0,Fernando,-,2025-08-12 17:46:26,12/08/2025 17:46,-,-,-,-,-,-,-
+1879776,✅ Aprovado,0,Fernando,-,2025-08-12 12:15:31,12/08/2025 12:15,-,-,-,-,-,-,-
+1879768,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-12 09:28:20,12/08/2025 09:28,-,-,-,-,-,-,-
+1879747,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-12 09:31:44,12/08/2025 09:31,13/08/2025 10:21,-,1.03 dias,-,-,-,-
+1879747,👤 Análise Coordenação,6,natalia@bancodovale.org.br,-,2025-08-13 10:21:25,13/08/2025 10:21,13/08/2025 12:20,-,0.08 dias,-,-,-,-
+1879747,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-13 12:20:51,13/08/2025 12:20,-,-,-,-,-,-,-
+1879742,📄 📄 Chamado Duplicado,D,comercialdigital@bancodovale.com.br,-,2025-08-12 09:18:22,12/08/2025 09:18,-,-,-,-,-,-,-
+1879737,📄 📄 Chamado Duplicado,D,comercialdigital@bancodovale.com.br,-,2025-08-12 09:32:31,12/08/2025 09:32,-,-,-,-,-,-,-
+1879653,❌ Reprovado,X,eder@bancodovale.org.br,-,2025-08-12 17:12:04,12/08/2025 17:12,-,-,-,-,-,-,-
+1879572,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-12 09:55:28,12/08/2025 09:55,-,-,-,-,-,-,-
+1879524,⚠️ Pendente Cliente,W,gilmara@bancodovale.org.br,-,2025-08-12 15:54:51,12/08/2025 15:54,-,-,-,-,-,-,-
+1879474,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-11 17:27:19,11/08/2025 17:27,-,-,-,-,-,-,-
+1879462,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-11 17:27:47,11/08/2025 17:27,-,-,-,-,-,-,-
+1879385,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-11 17:28:17,11/08/2025 17:28,13/08/2025 13:31,-,1.84 dias,-,-,-,-
+1879385,⚠️ Pendente Cliente,W,gilmara@bancodovale.org.br,-,2025-08-13 13:31:44,13/08/2025 13:31,13/08/2025 13:32,-,0.0 dias,-,-,-,-
+1879385,❌ Reprovado,X,gilmara@bancodovale.org.br,-,2025-08-13 13:32:03,13/08/2025 13:32,-,-,-,-,-,-,-
+1879355,❌ Reprovado,X,gilmara@bancodovale.org.br,-,2025-08-11 16:46:48,11/08/2025 16:46,-,-,-,-,-,-,-
+1879351,🕵️ Análise Agente de Crédito,4,regina@bancodovale.org.br,-,2025-08-12 13:40:55,12/08/2025 13:40,-,-,-,-,-,-,-
+1879342,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-12 09:33:48,12/08/2025 09:33,-,-,-,-,-,-,-
+1879325,⚠️ Pendente Cliente,W,jessica@bancodovale.org.br,-,2025-08-11 16:59:21,11/08/2025 16:59,-,-,-,-,-,-,-
+1879303,❌ Reprovado,X,gilmara@bancodovale.org.br,-,2025-08-11 16:53:00,11/08/2025 16:53,-,-,-,-,-,-,-
+1879290,❌ Reprovado,X,gilmara@bancodovale.org.br,-,2025-08-11 16:48:10,11/08/2025 16:48,-,-,-,-,-,-,-
+1879265,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-12 08:46:05,12/08/2025 08:46,-,-,-,-,-,-,-
+1879262,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-12 09:42:17,12/08/2025 09:42,-,-,-,-,-,-,-
+1879218,❌ Reprovado,X,gilmara@bancodovale.org.br,-,2025-08-11 17:21:57,11/08/2025 17:21,-,-,-,-,-,-,-
+1879200,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-12 08:44:49,12/08/2025 08:44,-,-,-,-,-,-,-
+1879187,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-12 08:42:15,12/08/2025 08:42,13/08/2025 16:42,-,1.33 dias,-,-,-,-
+1879187,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-13 16:42:03,13/08/2025 16:42,-,-,-,-,-,-,-
+1879185,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-11 16:26:59,11/08/2025 16:26,-,-,-,-,-,-,-
+1879170,🚫 Cancelado,Y,-,-,2025-08-11 15:08:43,11/08/2025 15:08,-,-,-,-,-,-,-
+1878949,⚠️ Pendente Cliente,W,gilmara@bancodovale.org.br,-,2025-08-11 16:53:45,11/08/2025 16:53,-,-,-,-,-,-,-
+1878920,❌ Reprovado,X,jaragua@bancodovale.org.br,-,2025-08-11 15:08:00,11/08/2025 15:08,-,-,-,-,-,-,-
+1878751,🧾 Análise Mesa de Crédito,8,KATLIN,-,2025-08-11 14:10:05,11/08/2025 14:10,13/08/2025 16:14,-,2.09 dias,-,-,-,-
+1878751,✅ Aprovado,0,Fernando,-,2025-08-13 16:14:25,13/08/2025 16:14,-,-,-,-,-,-,-
+1878659,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-11 16:07:20,11/08/2025 16:07,-,-,-,-,-,-,-
+1878647,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 13:58:17,11/08/2025 13:58,-,-,-,-,-,-,-
+1878601,🚫 Cancelado,Y,-,-,2025-08-11 13:29:51,11/08/2025 13:29,-,-,-,-,-,-,-
+1878597,🚫 Cancelado,Y,-,-,2025-08-11 13:29:07,11/08/2025 13:29,-,-,-,-,-,-,-
+1878588,🚫 Cancelado,Y,-,-,2025-08-11 13:24:48,11/08/2025 13:24,-,-,-,-,-,-,-
+1878556,❌ Reprovado,X,gilmara@bancodovale.org.br,-,2025-08-11 16:20:01,11/08/2025 16:20,-,-,-,-,-,-,-
+1878487,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-11 16:42:18,11/08/2025 16:42,-,-,-,-,-,-,-
+1878297,🚫 Cancelado,Y,natalia@bancodovale.org.br,-,2025-08-11 16:25:14,11/08/2025 16:25,-,-,-,-,-,-,-
+1878110,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 12:39:07,11/08/2025 12:39,-,-,-,-,-,-,-
+1878013,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 13:47:56,11/08/2025 13:47,-,-,-,-,-,-,-
+1877950,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-11 16:39:37,11/08/2025 16:39,-,-,-,-,-,-,-
+1877928,❌ Reprovado,X,elenita@bancovale.org.br,-,2025-08-12 10:09:21,12/08/2025 10:09,-,-,-,-,-,-,-
+1877898,⚠️ Pendente Cliente,W,jessica@bancodovale.org.br,-,2025-08-11 16:58:43,11/08/2025 16:58,-,-,-,-,-,-,-
+1877826,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-11 16:37:43,11/08/2025 16:37,-,-,-,-,-,-,-
+1877498,⚠️ Pendente Cliente,W,KATLIN,-,2025-08-12 13:29:12,12/08/2025 13:29,-,-,-,-,-,-,-
+1877445,❌ Reprovado,X,jessica@bancodovale.org.br,-,2025-08-11 17:04:35,11/08/2025 17:04,-,-,-,-,-,-,-
+1877207,❌ Reprovado,X,camila@bancodovale.org.br,-,2025-08-12 13:07:30,12/08/2025 13:07,-,-,-,-,-,-,-
+1877132,🕵️ Análise Agente de Crédito,4,Bruno,-,2025-08-11 13:34:06,11/08/2025 13:34,-,-,-,-,-,-,-
+1876889,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-11 14:14:57,11/08/2025 14:14,-,-,-,-,-,-,-
+1876685,⚠️ Pendente Cliente,W,bancodovaletimbo@bancodovale.org.br,-,2025-08-11 10:05:54,11/08/2025 10:05,-,-,-,-,-,-,-
+1876681,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 10:45:47,11/08/2025 10:45,-,-,-,-,-,-,-
+1876544,🧾 Análise Mesa de Crédito,8,rejane@bancodovale.org.br,-,2025-08-11 10:57:51,11/08/2025 10:57,-,-,-,-,-,-,-
+1876493,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:40:14,11/08/2025 09:40,13/08/2025 11:02,-,2.06 dias,-,-,-,-
+1876493,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-08-13 11:02:20,13/08/2025 11:02,-,-,-,-,-,-,-
+1876466,❌ Reprovado,X,elenita@bancovale.org.br,-,2025-08-12 10:10:24,12/08/2025 10:10,-,-,-,-,-,-,-
+1876393,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 09:40:03,11/08/2025 09:40,-,-,-,-,-,-,-
+1876323,❌ Reprovado,X,jessica@bancodovale.org.br,-,2025-08-11 16:58:13,11/08/2025 16:58,-,-,-,-,-,-,-
+1876311,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 09:39:27,11/08/2025 09:39,-,-,-,-,-,-,-
+1876309,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 08:46:45,11/08/2025 08:46,-,-,-,-,-,-,-
+1876296,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 08:46:00,11/08/2025 08:46,-,-,-,-,-,-,-
+1876276,🚫 Cancelado,Y,-,-,2025-08-10 21:21:06,10/08/2025 21:21,-,-,-,-,-,-,-
+1876261,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-11 13:49:11,11/08/2025 13:49,13/08/2025 16:46,-,2.12 dias,-,-,-,-
+1876261,🙅 Desistiu,Z,natalia@bancodovale.org.br,-,2025-08-13 16:46:07,13/08/2025 16:46,-,-,-,-,-,-,-
+1876259,⚠️ Pendente Cliente,W,jessica@bancodovale.org.br,-,2025-08-11 17:05:08,11/08/2025 17:05,-,-,-,-,-,-,-
+1876254,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-11 12:48:23,11/08/2025 12:48,-,-,-,-,-,-,-
+1876252,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 09:04:40,11/08/2025 09:04,-,-,-,-,-,-,-
+1876249,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 11:23:17,11/08/2025 11:23,-,-,-,-,-,-,-
+1876224,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 08:58:46,11/08/2025 08:58,-,-,-,-,-,-,-
+1876215,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 09:16:47,11/08/2025 09:16,-,-,-,-,-,-,-
+1876188,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 11:44:08,11/08/2025 11:44,-,-,-,-,-,-,-
+1876185,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 12:42:08,11/08/2025 12:42,-,-,-,-,-,-,-
+1876183,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 08:59:43,11/08/2025 08:59,-,-,-,-,-,-,-
+1876157,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 09:05:20,11/08/2025 09:05,-,-,-,-,-,-,-
+1876125,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-11 13:53:04,11/08/2025 13:53,-,-,-,-,-,-,-
+1876119,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 09:00:03,11/08/2025 09:00,-,-,-,-,-,-,-
+1876115,❌ Reprovado,X,gilmara@bancodovale.org.br,-,2025-08-11 16:47:31,11/08/2025 16:47,-,-,-,-,-,-,-
+1876102,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-11 12:46:18,11/08/2025 12:46,-,-,-,-,-,-,-
+1876097,❌ Reprovado,X,camila@bancodovale.org.br,-,2025-08-11 14:42:54,11/08/2025 14:42,-,-,-,-,-,-,-
+1876092,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-12 08:36:27,12/08/2025 08:36,-,-,-,-,-,-,-
+1876089,❌ Reprovado,X,jessica@bancodovale.org.br,-,2025-08-11 16:57:05,11/08/2025 16:57,-,-,-,-,-,-,-
+1876074,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-11 14:55:32,11/08/2025 14:55,-,-,-,-,-,-,-
+1876067,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-11 13:54:28,11/08/2025 13:54,-,-,-,-,-,-,-
+1876056,❌ Reprovado,X,KATLIN,-,2025-08-11 09:31:26,11/08/2025 09:31,-,-,-,-,-,-,-
+1876053,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 09:37:26,11/08/2025 09:37,-,-,-,-,-,-,-
+1876047,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-11 09:01:14,11/08/2025 09:01,-,-,-,-,-,-,-
+1876044,❌ Reprovado,X,rejane@bancodovale.org.br,-,2025-08-11 13:26:12,11/08/2025 13:26,-,-,-,-,-,-,-
+1876007,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-11 16:00:49,11/08/2025 16:00,-,-,-,-,-,-,-
+1876001,🕵️ Análise Agente de Crédito,4,Bruno,-,2025-08-11 10:43:30,11/08/2025 10:43,-,-,-,-,-,-,-
+1875998,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-11 12:44:13,11/08/2025 12:44,-,-,-,-,-,-,-
+1875994,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-11 15:52:32,11/08/2025 15:52,-,-,-,-,-,-,-
+1875975,⚠️ Pendente Cliente,W,caciane@bancodovale.org.br,-,2025-08-11 16:13:03,11/08/2025 16:13,-,-,-,-,-,-,-
+1875965,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-11 16:15:12,11/08/2025 16:15,-,-,-,-,-,-,-
+1875879,❌ Reprovado,X,gilmara@bancodovale.org.br,-,2025-08-11 16:53:29,11/08/2025 16:53,-,-,-,-,-,-,-
+1875878,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-11 16:34:37,11/08/2025 16:34,-,-,-,-,-,-,-
+1875874,🕵️ Análise Agente de Crédito,4,Bruno,-,2025-08-11 13:44:26,11/08/2025 13:44,-,-,-,-,-,-,-
+1875873,❌ Reprovado,X,rejane@bancodovale.org.br,-,2025-08-11 09:47:51,11/08/2025 09:47,-,-,-,-,-,-,-
+1875862,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-11 16:31:41,11/08/2025 16:31,-,-,-,-,-,-,-
+1875841,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-11 16:23:19,11/08/2025 16:23,-,-,-,-,-,-,-
+1875797,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-12 14:33:14,12/08/2025 14:33,-,-,-,-,-,-,-
+1875758,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 09:12:59,11/08/2025 09:12,13/08/2025 11:02,-,2.08 dias,-,-,-,-
+1875758,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-08-13 11:02:03,13/08/2025 11:02,-,-,-,-,-,-,-
+1875704,⚠️ Pendente Cliente,W,jessica@bancodovale.org.br,-,2025-08-11 17:03:08,11/08/2025 17:03,-,-,-,-,-,-,-
+1875682,❌ Reprovado,X,camila@bancodovale.org.br,-,2025-08-12 08:30:17,12/08/2025 08:30,-,-,-,-,-,-,-
+1875680,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-11 08:40:44,11/08/2025 08:40,13/08/2025 09:48,-,2.05 dias,-,-,-,-
+1875680,🕵️ Análise Agente de Crédito,4,ivan@bancodovale.org.br,-,2025-08-13 09:48:54,13/08/2025 09:48,-,-,-,-,-,-,-
+1875670,❌ Reprovado,X,elenita@bancovale.org.br,-,2025-08-12 10:11:34,12/08/2025 10:11,-,-,-,-,-,-,-
+1875644,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-11 15:50:18,11/08/2025 15:50,-,-,-,-,-,-,-
+1875610,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-11 15:16:26,11/08/2025 15:16,-,-,-,-,-,-,-
+1875609,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-11 13:47:03,11/08/2025 13:47,-,-,-,-,-,-,-
+1875591,🕵️ Análise Agente de Crédito,4,regina@bancodovale.org.br,-,2025-08-12 13:41:03,12/08/2025 13:41,-,-,-,-,-,-,-
+1875587,❌ Reprovado,X,alinef@bancodovale.org.br,-,2025-08-11 14:03:34,11/08/2025 14:03,-,-,-,-,-,-,-
+1875584,❌ Reprovado,X,alinef@bancodovale.org.br,-,2025-08-11 14:01:10,11/08/2025 14:01,-,-,-,-,-,-,-
+1875450,✅ Aprovado,0,ivan@bancodovale.org.br,-,2025-08-12 13:34:58,12/08/2025 13:34,-,-,-,-,-,-,-
+1875381,🚫 Cancelado,Y,regina@bancodovale.org.br,-,2025-08-12 13:41:20,12/08/2025 13:41,-,-,-,-,-,-,-
+1875373,🗑️ Descartado (Lixo),E,rio@bancodovale.org.br,-,2025-08-08 16:38:57,08/08/2025 16:38,-,-,-,-,-,-,-
+1875351,❌ Reprovado,X,gilmara@bancodovale.org.br,-,2025-08-11 16:47:09,11/08/2025 16:47,-,-,-,-,-,-,-
+1875316,📄 📄 Chamado Duplicado,D,comercialdigital@bancodovale.com.br,-,2025-08-08 17:08:53,08/08/2025 17:08,-,-,-,-,-,-,-
+1875281,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-12 08:46:23,12/08/2025 08:46,-,-,-,-,-,-,-
+1875272,✅ Aprovado,0,Fernando,-,2025-08-12 11:40:01,12/08/2025 11:40,-,-,-,-,-,-,-
+1875232,✅ Aprovado,0,Fernando,-,2025-08-12 17:39:15,12/08/2025 17:39,-,-,-,-,-,-,-
+1875218,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-12 09:34:03,12/08/2025 09:34,-,-,-,-,-,-,-
+1875204,🧾 Análise Mesa de Crédito,8,jessica@bancodovale.org.br,-,2025-08-11 17:04:54,11/08/2025 17:04,-,-,-,-,-,-,-
 1875180,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-11 09:36:48,11/08/2025 09:36,-,-,-,-,-,-,-
-1875158,🧾 Análise Mesa de Crédito,8,KATLIN,-,2025-08-08 15:08:39,08/08/2025 15:08,-,-,-,-,-,-,-
+1875158,✅ Aprovado,0,Fernando,-,2025-08-12 14:56:58,12/08/2025 14:56,-,-,-,-,-,-,-
 1875060,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-08 14:55:09,08/08/2025 14:55,-,-,-,-,-,-,-
 1875057,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-08 17:21:50,08/08/2025 17:21,-,-,-,-,-,-,-
 1875002,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-08 17:19:59,08/08/2025 17:19,-,-,-,-,-,-,-
 1874993,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-08 17:17:23,08/08/2025 17:17,-,-,-,-,-,-,-
-1874991,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-08 14:00:25,08/08/2025 14:00,-,-,-,-,-,-,-
-1874978,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-08 13:56:45,08/08/2025 13:56,11/08/2025 09:21,-,2.81 dias,-,-,-,-
-1874978,🕵️ Análise Agente de Crédito,4,KATLIN,-,2025-08-11 09:21:59,11/08/2025 09:21,11/08/2025 10:08,-,0.03 dias,-,-,-,-
+1874991,❌ Reprovado,X,gilmara@bancodovale.org.br,-,2025-08-12 15:56:26,12/08/2025 15:56,-,-,-,-,-,-,-
 1874978,❌ Reprovado,X,adriana@bancodovale.org.br,-,2025-08-11 10:08:48,11/08/2025 10:08,-,-,-,-,-,-,-
 1874964,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-08 17:12:28,08/08/2025 17:12,-,-,-,-,-,-,-
-1874896,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-08 13:51:31,08/08/2025 13:51,11/08/2025 09:06,-,2.8 dias,-,-,-,-
-1874896,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-11 09:06:40,11/08/2025 09:06,-,-,-,-,-,-,-
-1874881,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-08 15:06:57,08/08/2025 15:06,11/08/2025 13:53,-,2.95 dias,-,-,-,-
+1874896,❌ Reprovado,X,elenita@bancovale.org.br,-,2025-08-12 10:12:30,12/08/2025 10:12,-,-,-,-,-,-,-
 1874881,❌ Reprovado,X,alinef@bancodovale.org.br,-,2025-08-11 13:53:12,11/08/2025 13:53,-,-,-,-,-,-,-
 1874810,👤 Análise Coordenação,6,elenita@bancovale.org.br,-,2025-08-08 14:38:52,08/08/2025 14:38,-,-,-,-,-,-,-
+1874808,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-08 15:28:23,08/08/2025 15:28,13/08/2025 16:19,-,5.04 dias,-,-,-,-
+1874808,🙅 Desistiu,Z,natalia@bancodovale.org.br,-,2025-08-13 16:19:30,13/08/2025 16:19,-,-,-,-,-,-,-
 1874784,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-08 12:22:54,08/08/2025 12:22,-,-,-,-,-,-,-
 1874759,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-08 12:22:29,08/08/2025 12:22,-,-,-,-,-,-,-
-1874708,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-08-08 12:21:04,08/08/2025 12:21,11/08/2025 08:52,-,2.86 dias,-,-,-,-
-1874708,🕵️ Análise Agente de Crédito,4,KATLIN,-,2025-08-11 08:52:29,11/08/2025 08:52,11/08/2025 10:12,-,0.06 dias,-,-,-,-
 1874708,⚠️ Pendente Cliente,W,adriana@bancodovale.org.br,-,2025-08-11 10:12:21,11/08/2025 10:12,-,-,-,-,-,-,-
-1874707,👤 Análise Coordenação,6,natalia@bancodovale.org.br,-,2025-08-08 15:29:06,08/08/2025 15:29,11/08/2025 08:48,-,2.72 dias,-,-,-,-
-1874707,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-11 08:48:21,11/08/2025 08:48,-,-,-,-,-,-,-
+1874707,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-11 08:48:21,11/08/2025 08:48,13/08/2025 11:31,-,2.11 dias,-,-,-,-
+1874707,✅ Aprovado,0,Fernando,-,2025-08-13 11:31:06,13/08/2025 11:31,-,-,-,-,-,-,-
 1874692,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-08 11:35:51,08/08/2025 11:35,-,-,-,-,-,-,-
 1874652,📄 📄 Chamado Duplicado,D,comercialdigital@bancodovale.com.br,-,2025-08-08 11:32:38,08/08/2025 11:32,-,-,-,-,-,-,-
-1874588,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-08-08 10:45:55,08/08/2025 10:45,-,-,-,-,-,-,-
+1874588,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-08-08 10:45:55,08/08/2025 10:45,13/08/2025 10:48,-,5.0 dias,-,-,-,-
+1874588,🧾 Análise Mesa de Crédito,8,ivan@bancodovale.org.br,-,2025-08-13 10:48:35,13/08/2025 10:48,-,-,-,-,-,-,-
 1874533,🚫 Cancelado,Y,-,-,2025-08-08 10:24:21,08/08/2025 10:24,-,-,-,-,-,-,-
 1874508,❌ Reprovado,X,rejane@bancodovale.org.br,-,2025-08-08 13:15:15,08/08/2025 13:15,-,-,-,-,-,-,-
-1874435,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-08 09:35:51,08/08/2025 09:35,11/08/2025 15:01,-,3.23 dias,-,-,-,-
-1874435,👤 Análise Coordenação,6,dennis@bancodovale.org.br,-,2025-08-11 15:01:11,11/08/2025 15:01,11/08/2025 15:23,-,0.02 dias,-,-,-,-
-1874435,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-11 15:23:46,11/08/2025 15:23,-,-,-,-,-,-,-
+1874435,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-11 15:23:46,11/08/2025 15:23,13/08/2025 17:20,-,2.08 dias,-,-,-,-
+1874435,✅ Aprovado,0,Fernando,-,2025-08-13 17:20:18,13/08/2025 17:20,-,-,-,-,-,-,-
 1874422,❌ Reprovado,X,alinef@bancodovale.org.br,-,2025-08-08 14:26:38,08/08/2025 14:26,-,-,-,-,-,-,-
 1874377,❌ Reprovado,X,alinef@bancodovale.org.br,-,2025-08-08 14:27:48,08/08/2025 14:27,-,-,-,-,-,-,-
 1874371,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-08 09:24:31,08/08/2025 09:24,-,-,-,-,-,-,-
@@ -1413,7 +1834,6 @@ ID da Ordem,Etapa,Código do Status,Modificado por,SLA,Data do Evento,Data Iníc
 1874342,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-08 09:22:30,08/08/2025 09:22,-,-,-,-,-,-,-
 1874331,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-08 09:22:03,08/08/2025 09:22,-,-,-,-,-,-,-
 1874329,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-08 09:21:47,08/08/2025 09:21,-,-,-,-,-,-,-
-1874326,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-08 10:14:55,08/08/2025 10:14,11/08/2025 13:50,-,3.15 dias,-,-,-,-
 1874326,❌ Reprovado,X,alinef@bancodovale.org.br,-,2025-08-11 13:50:54,11/08/2025 13:50,-,-,-,-,-,-,-
 1874324,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-08 09:20:44,08/08/2025 09:20,-,-,-,-,-,-,-
 1874311,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-08 09:19:24,08/08/2025 09:19,-,-,-,-,-,-,-
@@ -1424,19 +1844,20 @@ ID da Ordem,Etapa,Código do Status,Modificado por,SLA,Data do Evento,Data Iníc
 1874276,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-08 09:17:46,08/08/2025 09:17,-,-,-,-,-,-,-
 1874275,❌ Reprovado,X,alinef@bancodovale.org.br,-,2025-08-08 14:29:32,08/08/2025 14:29,-,-,-,-,-,-,-
 1874247,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-08 09:16:52,08/08/2025 09:16,-,-,-,-,-,-,-
-1874180,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-08-08 15:57:02,08/08/2025 15:57,-,-,-,-,-,-,-
-1874175,🧾 Análise Mesa de Crédito,8,gilmara@bancodovale.org.br,-,2025-08-08 12:44:26,08/08/2025 12:44,-,-,-,-,-,-,-
+1874180,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-08-08 15:57:02,08/08/2025 15:57,13/08/2025 11:57,-,4.83 dias,-,-,-,-
+1874180,🧾 Análise Mesa de Crédito,8,regina@bancodovale.org.br,-,2025-08-13 11:57:13,13/08/2025 11:57,-,-,-,-,-,-,-
+1874175,✅ Aprovado,0,Fernando,-,2025-08-12 12:47:36,12/08/2025 12:47,-,-,-,-,-,-,-
 1874169,❌ Reprovado,X,KATLIN,-,2025-08-08 10:04:15,08/08/2025 10:04,-,-,-,-,-,-,-
 1874107,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-08 12:16:09,08/08/2025 12:16,-,-,-,-,-,-,-
 1874090,❌ Reprovado,X,alinef@bancodovale.org.br,-,2025-08-08 11:55:40,08/08/2025 11:55,-,-,-,-,-,-,-
 1874081,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-07 17:08:06,07/08/2025 17:08,-,-,-,-,-,-,-
-1874070,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-08 10:54:26,08/08/2025 10:54,-,-,-,-,-,-,-
+1874070,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-08 10:54:26,08/08/2025 10:54,13/08/2025 11:02,-,5.01 dias,-,-,-,-
+1874070,🙅 Desistiu,Z,pierre@bancodovale.org.br,-,2025-08-13 11:02:31,13/08/2025 11:02,-,-,-,-,-,-,-
 1874003,⚠️ Pendente Cliente,W,jessica@bancodovale.org.br,-,2025-08-08 16:06:10,08/08/2025 16:06,-,-,-,-,-,-,-
 1873903,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-07 15:55:29,07/08/2025 15:55,-,-,-,-,-,-,-
-1873806,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-08-07 15:45:34,07/08/2025 15:45,11/08/2025 13:50,-,3.92 dias,-,-,-,-
 1873806,❌ Reprovado,X,alinef@bancodovale.org.br,-,2025-08-11 13:50:16,11/08/2025 13:50,-,-,-,-,-,-,-
 1873793,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-07 15:58:25,07/08/2025 15:58,-,-,-,-,-,-,-
-1873792,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-07 16:07:58,07/08/2025 16:07,-,-,-,-,-,-,-
+1873792,✅ Aprovado,0,Fernando,-,2025-08-12 08:50:41,12/08/2025 08:50,-,-,-,-,-,-,-
 1873785,⚠️ Pendente Cliente,W,jessica@bancodovale.org.br,-,2025-08-08 10:13:43,08/08/2025 10:13,-,-,-,-,-,-,-
 1873780,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-07 15:41:47,07/08/2025 15:41,-,-,-,-,-,-,-
 1873680,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-07 15:43:00,07/08/2025 15:43,-,-,-,-,-,-,-
@@ -1444,29 +1865,31 @@ ID da Ordem,Etapa,Código do Status,Modificado por,SLA,Data do Evento,Data Iníc
 1873563,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-07 12:58:31,07/08/2025 12:58,-,-,-,-,-,-,-
 1873554,❌ Reprovado,X,eder@bancodovale.org.br,-,2025-08-07 17:05:45,07/08/2025 17:05,-,-,-,-,-,-,-
 1873547,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-07 15:35:11,07/08/2025 15:35,-,-,-,-,-,-,-
-1873526,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-08-08 10:46:36,08/08/2025 10:46,-,-,-,-,-,-,-
+1873526,🙅 Desistiu,Z,regina@bancodovale.org.br,-,2025-08-12 13:45:31,12/08/2025 13:45,-,-,-,-,-,-,-
 1873512,❌ Reprovado,X,gilmara@bancodovale.org.br,-,2025-08-08 16:19:27,08/08/2025 16:19,-,-,-,-,-,-,-
-1873505,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-08-07 11:17:58,07/08/2025 11:17,-,-,-,-,-,-,-
-1873494,🧾 Análise Mesa de Crédito,8,gilmara@bancodovale.org.br,-,2025-08-08 12:44:51,08/08/2025 12:44,-,-,-,-,-,-,-
+1873505,🙅 Desistiu,Z,gilmara@bancodovale.org.br,-,2025-08-12 15:57:01,12/08/2025 15:57,-,-,-,-,-,-,-
+1873494,🧾 Análise Mesa de Crédito,8,gilmara@bancodovale.org.br,-,2025-08-08 12:44:51,08/08/2025 12:44,13/08/2025 08:51,-,4.84 dias,-,-,-,-
+1873494,✅ Aprovado,0,Fernando,-,2025-08-13 08:51:09,13/08/2025 08:51,-,-,-,-,-,-,-
 1873482,🔴 Pendência SPC,3,rio@bancodovale.org.br,-,2025-08-07 14:09:28,07/08/2025 14:09,-,-,-,-,-,-,-
 1873456,❌ Reprovado,X,alinef@bancodovale.org.br,-,2025-08-07 17:23:13,07/08/2025 17:23,-,-,-,-,-,-,-
 1873435,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-07 10:31:46,07/08/2025 10:31,-,-,-,-,-,-,-
 1873426,❌ Reprovado,X,elenita@bancovale.org.br,-,2025-08-08 11:59:15,08/08/2025 11:59,-,-,-,-,-,-,-
-1873385,🧾 Análise Mesa de Crédito,8,ivan@bancodovale.org.br,-,2025-08-08 15:19:22,08/08/2025 15:19,-,-,-,-,-,-,-
+1873385,✅ Aprovado,0,Fernando,-,2025-08-12 15:44:51,12/08/2025 15:44,-,-,-,-,-,-,-
 1873265,❌ Reprovado,X,elenita@bancovale.org.br,-,2025-08-07 10:38:32,07/08/2025 10:38,-,-,-,-,-,-,-
-1873204,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-07 15:01:03,07/08/2025 15:01,-,-,-,-,-,-,-
-1873202,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-07 12:04:06,07/08/2025 12:04,-,-,-,-,-,-,-
+1873204,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-07 15:01:03,07/08/2025 15:01,13/08/2025 15:59,-,6.04 dias,-,-,-,-
+1873204,✅ Aprovado,0,Fernando,-,2025-08-13 15:59:52,13/08/2025 15:59,-,-,-,-,-,-,-
+1873202,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-08-07 12:04:06,07/08/2025 12:04,13/08/2025 16:11,-,6.17 dias,-,-,-,-
+1873202,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-13 16:11:43,13/08/2025 16:11,-,-,-,-,-,-,-
 1873184,❌ Reprovado,X,eder@bancodovale.org.br,-,2025-08-07 17:06:31,07/08/2025 17:06,-,-,-,-,-,-,-
 1873149,❌ Reprovado,X,camila@bancodovale.org.br,-,2025-08-07 09:05:45,07/08/2025 09:05,-,-,-,-,-,-,-
 1873144,❌ Reprovado,X,rejane@bancodovale.org.br,-,2025-08-08 10:45:24,08/08/2025 10:45,-,-,-,-,-,-,-
 1873128,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-07 11:24:37,07/08/2025 11:24,-,-,-,-,-,-,-
 1873127,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-07 10:25:46,07/08/2025 10:25,-,-,-,-,-,-,-
 1873104,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-07 10:37:54,07/08/2025 10:37,-,-,-,-,-,-,-
-1873055,👤 Análise Coordenação,6,alinef@bancodovale.org.br,-,2025-08-07 17:00:38,07/08/2025 17:00,-,-,-,-,-,-,-
+1873055,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-12 09:52:46,12/08/2025 09:52,-,-,-,-,-,-,-
 1873009,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-07 11:20:18,07/08/2025 11:20,-,-,-,-,-,-,-
 1872956,❌ Reprovado,X,KATLIN,-,2025-08-07 09:22:28,07/08/2025 09:22,-,-,-,-,-,-,-
 1872926,⚠️ Pendente Cliente,W,adriana@bancodovale.org.br,-,2025-08-08 13:21:40,08/08/2025 13:21,-,-,-,-,-,-,-
-1872885,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-07 16:08:37,07/08/2025 16:08,11/08/2025 11:28,-,3.81 dias,-,-,-,-
 1872885,✅ Aprovado,0,Fernando,-,2025-08-11 11:28:20,11/08/2025 11:28,-,-,-,-,-,-,-
 1872869,✅ Aprovado,0,Fernando,-,2025-08-08 12:25:24,08/08/2025 12:25,-,-,-,-,-,-,-
 1872861,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-07 09:14:40,07/08/2025 09:14,-,-,-,-,-,-,-
@@ -1484,24 +1907,20 @@ ID da Ordem,Etapa,Código do Status,Modificado por,SLA,Data do Evento,Data Iníc
 1872646,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-06 14:35:33,06/08/2025 14:35,-,-,-,-,-,-,-
 1872642,❌ Reprovado,X,elenita@bancovale.org.br,-,2025-08-08 12:00:09,08/08/2025 12:00,-,-,-,-,-,-,-
 1872640,✅ Aprovado,0,Fernando,-,2025-08-08 15:56:03,08/08/2025 15:56,-,-,-,-,-,-,-
-1872635,🔴 Pendência SPC,3,jaragua@bancodovale.org.br,-,2025-08-06 13:59:19,06/08/2025 13:59,11/08/2025 16:50,-,5.12 dias,-,-,-,-
 1872635,⚠️ Pendente Cliente,W,gilmara@bancodovale.org.br,-,2025-08-11 16:50:23,11/08/2025 16:50,-,-,-,-,-,-,-
 1872531,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-06 14:31:04,06/08/2025 14:31,-,-,-,-,-,-,-
 1872478,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-06 13:50:04,06/08/2025 13:50,-,-,-,-,-,-,-
-1872468,⚠️ Pendente Cliente,W,jessica@bancodovale.org.br,-,2025-08-07 08:39:13,07/08/2025 08:39,11/08/2025 17:00,-,4.35 dias,-,-,-,-
 1872468,🙅 Desistiu,Z,jessica@bancodovale.org.br,-,2025-08-11 17:00:53,11/08/2025 17:00,-,-,-,-,-,-,-
-1872198,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-08-06 11:49:58,06/08/2025 11:49,11/08/2025 09:30,-,4.9 dias,-,-,-,-
 1872198,🚫 Cancelado,Y,ivan@bancodovale.org.br,-,2025-08-11 09:30:05,11/08/2025 09:30,-,-,-,-,-,-,-
 1872066,⚠️ Pendente Cliente,W,alinef@bancodovale.org.br,-,2025-08-08 11:55:51,08/08/2025 11:55,-,-,-,-,-,-,-
 1871917,❌ Reprovado,X,Danielle,-,2025-08-06 12:35:37,06/08/2025 12:35,-,-,-,-,-,-,-
 1871748,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-08-06 12:43:31,06/08/2025 12:43,-,-,-,-,-,-,-
 1871741,🙅 Desistiu,Z,dennis@bancodovale.org.br,-,2025-08-07 16:55:41,07/08/2025 16:55,-,-,-,-,-,-,-
-1871492,🧾 Análise Mesa de Crédito,8,rio@bancodovale.org.br,-,2025-08-06 10:37:59,06/08/2025 10:37,-,-,-,-,-,-,-
+1871492,✅ Aprovado,0,Fernando,-,2025-08-12 10:34:49,12/08/2025 10:34,-,-,-,-,-,-,-
 1871485,🙅 Desistiu,Z,pierre@bancodovale.org.br,-,2025-08-07 09:37:24,07/08/2025 09:37,-,-,-,-,-,-,-
 1871439,✅ Aprovado,0,Fernando,-,2025-08-08 12:52:53,08/08/2025 12:52,-,-,-,-,-,-,-
 1871424,🚫 Cancelado,Y,-,-,2025-08-06 10:35:10,06/08/2025 10:35,-,-,-,-,-,-,-
 1871404,🗑️ Descartado (Lixo),E,rio@bancodovale.org.br,-,2025-08-06 10:38:53,06/08/2025 10:38,-,-,-,-,-,-,-
-1871367,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-07 11:06:50,07/08/2025 11:06,11/08/2025 12:59,-,4.08 dias,-,-,-,-
 1871367,✅ Aprovado,0,Fernando,-,2025-08-11 12:59:08,11/08/2025 12:59,-,-,-,-,-,-,-
 1870605,❌ Reprovado,X,hilta@bancodovale.org.br,-,2025-08-06 15:47:26,06/08/2025 15:47,-,-,-,-,-,-,-
 1870565,🙅 Desistiu,Z,regina@bancodovale.org.br,-,2025-08-08 09:34:22,08/08/2025 09:34,-,-,-,-,-,-,-
@@ -1522,22 +1941,22 @@ ID da Ordem,Etapa,Código do Status,Modificado por,SLA,Data do Evento,Data Iníc
 1869908,❌ Reprovado,X,rejane@bancodovale.org.br,-,2025-08-05 16:52:25,05/08/2025 16:52,-,-,-,-,-,-,-
 1869880,❌ Reprovado,X,elenita@bancovale.org.br,-,2025-08-06 14:11:46,06/08/2025 14:11,-,-,-,-,-,-,-
 1869852,✅ Aprovado,0,Fernando,-,2025-08-07 09:43:04,07/08/2025 09:43,-,-,-,-,-,-,-
-1869805,🧾 Análise Mesa de Crédito,8,rejane@bancodovale.org.br,-,2025-08-08 10:15:57,08/08/2025 10:15,-,-,-,-,-,-,-
+1869805,✅ Aprovado,0,Fernando,-,2025-08-12 09:28:27,12/08/2025 09:28,-,-,-,-,-,-,-
 1869793,✅ Aprovado,0,Fernando,-,2025-08-06 13:24:00,06/08/2025 13:24,-,-,-,-,-,-,-
 1869777,⚠️ Pendência Coordenação,7,caciane@bancodovale.org.br,-,2025-08-06 08:54:50,06/08/2025 08:54,-,-,-,-,-,-,-
 1869776,🔴 Pendência SPC,3,rio@bancodovale.org.br,-,2025-08-05 15:49:08,05/08/2025 15:49,-,-,-,-,-,-,-
 1869719,🚫 Cancelado,Y,-,-,2025-08-05 13:26:25,05/08/2025 13:26,-,-,-,-,-,-,-
 1869692,❌ Reprovado,X,camila@bancodovale.org.br,-,2025-08-05 13:32:10,05/08/2025 13:32,-,-,-,-,-,-,-
-1869661,⚠️ Pendente Cliente,W,camila@bancodovale.org.br,-,2025-08-06 09:05:43,06/08/2025 09:05,11/08/2025 09:16,-,5.01 dias,-,-,-,-
 1869661,🙅 Desistiu,Z,camila@bancodovale.org.br,-,2025-08-11 09:16:28,11/08/2025 09:16,-,-,-,-,-,-,-
 1869644,✅ Aprovado,0,Fernando,-,2025-08-07 09:07:44,07/08/2025 09:07,-,-,-,-,-,-,-
 1869639,❌ Reprovado,X,bancodovaletimbo@bancodovale.org.br,-,2025-08-05 11:16:44,05/08/2025 11:16,-,-,-,-,-,-,-
 1869638,🚫 Cancelado,Y,-,-,2025-08-05 11:15:53,05/08/2025 11:15,-,-,-,-,-,-,-
 1869612,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-05 14:04:19,05/08/2025 14:04,-,-,-,-,-,-,-
-1869421,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-08-05 10:17:03,05/08/2025 10:17,-,-,-,-,-,-,-
+1869421,✅ Aprovado,0,ivan@bancodovale.org.br,-,2025-08-12 13:35:30,12/08/2025 13:35,-,-,-,-,-,-,-
 1869386,✅ Aprovado,0,Fernando,-,2025-08-06 16:15:40,06/08/2025 16:15,-,-,-,-,-,-,-
 1869288,✅ Aprovado,0,Fernando,-,2025-08-06 17:31:55,06/08/2025 17:31,-,-,-,-,-,-,-
 1869275,🚫 Cancelado,Y,felipe@bancodovale.org.br,-,2025-08-06 14:33:17,06/08/2025 14:33,-,-,-,-,-,-,-
+1869201,❌ Reprovado,X,elenita@bancovale.org.br,-,2025-08-12 10:13:10,12/08/2025 10:13,-,-,-,-,-,-,-
 1869161,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-05 09:34:38,05/08/2025 09:34,-,-,-,-,-,-,-
 1869159,❌ Reprovado,X,comercialdigital@bancodovale.com.br,-,2025-08-05 09:33:29,05/08/2025 09:33,-,-,-,-,-,-,-
 1869149,⚠️ Pendente Cliente,W,alinef@bancodovale.org.br,-,2025-08-07 17:17:02,07/08/2025 17:17,-,-,-,-,-,-,-
@@ -1546,7 +1965,8 @@ ID da Ordem,Etapa,Código do Status,Modificado por,SLA,Data do Evento,Data Iníc
 1869029,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-05 10:55:19,05/08/2025 10:55,-,-,-,-,-,-,-
 1869010,🗑️ Descartado (Lixo),E,comercialdigital@bancodovale.com.br,-,2025-08-05 09:31:12,05/08/2025 09:31,-,-,-,-,-,-,-
 1868940,🙅 Desistiu,Z,regina@bancodovale.org.br,-,2025-08-08 17:24:01,08/08/2025 17:24,-,-,-,-,-,-,-
-1868854,⚠️ Pendente Cliente,W,regina@bancodovale.org.br,-,2025-08-07 16:23:57,07/08/2025 16:23,-,-,-,-,-,-,-
+1868854,⚠️ Pendente Cliente,W,regina@bancodovale.org.br,-,2025-08-07 16:23:57,07/08/2025 16:23,13/08/2025 09:34,-,5.72 dias,-,-,-,-
+1868854,🧾 Análise Mesa de Crédito,8,regina@bancodovale.org.br,-,2025-08-13 09:34:43,13/08/2025 09:34,-,-,-,-,-,-,-
 1868722,❌ Reprovado,X,Danielle,-,2025-08-04 16:55:08,04/08/2025 16:55,-,-,-,-,-,-,-
 1868620,❌ Reprovado,X,elenita@bancovale.org.br,-,2025-08-05 12:00:16,05/08/2025 12:00,-,-,-,-,-,-,-
 1868619,🧾 Análise Mesa de Crédito,8,jessica@bancodovale.org.br,-,2025-08-08 15:55:15,08/08/2025 15:55,-,-,-,-,-,-,-
@@ -1598,22 +2018,21 @@ ID da Ordem,Etapa,Código do Status,Modificado por,SLA,Data do Evento,Data Iníc
 1865646,🚫 Cancelado,Y,-,-,2025-08-01 08:56:31,01/08/2025 08:56,-,-,-,-,-,-,-
 1865640,🗑️ Descartado (Lixo),E,comercialdigital@bancodovale.com.br,-,2025-08-01 08:59:23,01/08/2025 08:59,-,-,-,-,-,-,-
 1865611,🙅 Desistiu,Z,dennis@bancodovale.org.br,-,2025-08-04 09:03:25,04/08/2025 09:03,-,-,-,-,-,-,-
-1865439,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-06 11:05:42,06/08/2025 11:05,11/08/2025 09:32,-,4.94 dias,-,-,-,-
 1865439,✅ Aprovado,0,Fernando,-,2025-08-11 09:32:22,11/08/2025 09:32,-,-,-,-,-,-,-
 1865157,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-08-01 10:34:24,01/08/2025 10:34,-,-,-,-,-,-,-
 1865045,⚠️ Pendência Mesa de Crédito,9,ivan@bancodovale.org.br,-,2025-08-04 14:36:35,04/08/2025 14:36,-,-,-,-,-,-,-
-1864982,🙅 Desistiu,Z,jessica@bancodovale.org.br,-,2025-08-05 10:23:28,05/08/2025 10:23,11/08/2025 17:07,-,6.28 dias,-,-,-,-
-1864982,🕵️ Análise Agente de Crédito,4,jessica@bancodovale.org.br,-,2025-08-11 17:07:49,11/08/2025 17:07,11/08/2025 17:08,-,0.0 dias,-,-,-,-
-1864982,🧾 Análise Mesa de Crédito,8,jessica@bancodovale.org.br,-,2025-08-11 17:08:08,11/08/2025 17:08,-,-,-,-,-,-,-
+1864982,✅ Aprovado,0,Fernando,-,2025-08-12 15:28:35,12/08/2025 15:28,-,-,-,-,-,-,-
 1864953,❌ Reprovado,X,Bruno,-,2025-08-05 16:32:34,05/08/2025 16:32,-,-,-,-,-,-,-
 1864884,❌ Reprovado,X,natalia@bancodovale.org.br,-,2025-08-04 10:10:34,04/08/2025 10:10,-,-,-,-,-,-,-
 1864855,❌ Reprovado,X,alinef@bancodovale.org.br,-,2025-08-01 11:08:05,01/08/2025 11:08,-,-,-,-,-,-,-
-1864847,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-07-31 14:19:51,31/07/2025 14:19,-,-,-,-,-,-,-
+1864847,🕵️ Análise Agente de Crédito,4,comercialdigital@bancodovale.com.br,-,2025-07-31 14:19:51,31/07/2025 14:19,13/08/2025 17:16,-,13.12 dias,-,-,-,-
+1864847,❌ Reprovado,X,dennis@bancodovale.org.br,-,2025-08-13 17:16:47,13/08/2025 17:16,-,-,-,-,-,-,-
 1864836,🙅 Desistiu,Z,gilmara@bancodovale.org.br,-,2025-08-07 09:24:33,07/08/2025 09:24,-,-,-,-,-,-,-
 1864731,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-07-31 11:27:48,31/07/2025 11:27,-,-,-,-,-,-,-
 1864452,❌ Reprovado,X,alinef@bancodovale.org.br,-,2025-08-05 11:58:48,05/08/2025 11:58,-,-,-,-,-,-,-
 1864440,❌ Reprovado,X,alinef@bancodovale.org.br,-,2025-08-05 11:59:04,05/08/2025 11:59,-,-,-,-,-,-,-
-1864436,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-07-31 10:35:24,31/07/2025 10:35,-,-,-,-,-,-,-
+1864436,⚠️ Pendente Cliente,W,natalia@bancodovale.org.br,-,2025-07-31 10:35:24,31/07/2025 10:35,13/08/2025 15:49,-,13.22 dias,-,-,-,-
+1864436,🙅 Desistiu,Z,natalia@bancodovale.org.br,-,2025-08-13 15:49:43,13/08/2025 15:49,-,-,-,-,-,-,-
 1864402,🚫 Cancelado,Y,felipe@bancodovale.org.br,-,2025-08-06 14:34:09,06/08/2025 14:34,-,-,-,-,-,-,-
 1864401,🧾 Análise Mesa de Crédito,8,roberto@bancodovale.org.br,-,2025-08-01 13:48:54,01/08/2025 13:48,-,-,-,-,-,-,-
 1864214,❌ Reprovado,X,hilta@bancodovale.org.br,-,2025-08-04 14:35:41,04/08/2025 14:35,-,-,-,-,-,-,-
@@ -1634,11 +2053,14 @@ ID da Ordem,Etapa,Código do Status,Modificado por,SLA,Data do Evento,Data Iníc
 1861057,⚠️ Pendente Cliente,W,Bruno,-,2025-07-31 14:50:14,31/07/2025 14:50,-,-,-,-,-,-,-
 1858532,✅ Aprovado,0,Fernando,-,2025-08-01 13:17:31,01/08/2025 13:17,-,-,-,-,-,-,-
 1858317,🙅 Desistiu,Z,natalia@bancodovale.org.br,-,2025-08-04 10:11:43,04/08/2025 10:11,-,-,-,-,-,-,-
-1858061,🧾 Análise Mesa de Crédito,8,thiago@bancodovale.org.br,-,2025-08-07 16:28:56,07/08/2025 16:28,11/08/2025 11:41,-,3.8 dias,-,-,-,-
 1858061,✅ Aprovado,0,Fernando,-,2025-08-11 11:41:42,11/08/2025 11:41,-,-,-,-,-,-,-
 1852761,✅ Aprovado,0,Fernando,-,2025-08-05 09:27:43,05/08/2025 09:27,-,-,-,-,-,-,-
 1852214,✅ Aprovado,0,Fernando,-,2025-08-01 13:14:02,01/08/2025 13:14,-,-,-,-,-,-,-
 1851955,✅ Aprovado,0,Fernando,-,2025-08-01 13:17:30,01/08/2025 13:17,-,-,-,-,-,-,-
+1851889,📍 Definir Unidade de Atendimento,1,-,-,2025-07-23 14:09:43,23/07/2025 14:09,23/07/2025 14:17,-,0.01 dias,-,-,-,-
+1851889,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.com.br,-,2025-07-23 14:17:53,23/07/2025 14:17,23/07/2025 16:03,-,0.07 dias,-,-,-,-
+1851889,🕵️ Análise Agente de Crédito,4,Danielle,-,2025-07-23 16:03:46,23/07/2025 16:03,13/08/2025 12:26,-,20.85 dias,-,-,-,-
+1851889,🙅 Desistiu,Z,pierre@bancodovale.org.br,-,2025-08-13 12:26:02,13/08/2025 12:26,-,-,-,-,-,-,-
 1851248,🙅 Desistiu,Z,natalia@bancodovale.org.br,-,2025-08-04 10:12:34,04/08/2025 10:12,-,-,-,-,-,-,-
 1850826,✅ Aprovado,0,Fernando,-,2025-08-01 13:17:30,01/08/2025 13:17,-,-,-,-,-,-,-
 1850821,⚠️ Pendente Cliente,W,eder@bancodovale.org.br,-,2025-07-28 14:35:23,28/07/2025 14:35,-,-,-,-,-,-,-
@@ -1647,211 +2069,102 @@ ID da Ordem,Etapa,Código do Status,Modificado por,SLA,Data do Evento,Data Iníc
 1850277,❌ Reprovado,X,pierre@bancodovale.org.br,-,2025-08-06 16:46:25,06/08/2025 16:46,-,-,-,-,-,-,-
 1847525,✅ Aprovado,0,Fernando,-,2025-08-07 14:39:55,07/08/2025 14:39,-,-,-,-,-,-,-
 1845009,🙅 Desistiu,Z,dennis@bancodovale.org.br,-,2025-08-07 15:01:22,07/08/2025 15:01,-,-,-,-,-,-,-
-1842435,📍 Definir Unidade de Atendimento,1,-,-,2025-07-18 11:28:05,18/07/2025 11:28,18/07/2025 11:29,-,0.0 dias,-,-,-,-
-1842435,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-07-18 11:29:06,18/07/2025 11:29,11/08/2025 09:35,-,23.92 dias,-,-,-,-
 1842435,✅ Aprovado,0,juliano@bancodovale.org.br,-,2025-08-11 09:35:01,11/08/2025 09:35,-,-,-,-,-,-,-
 1836828,🚫 Cancelado,Y,Fernando,-,2025-08-01 13:17:42,01/08/2025 13:17,-,-,-,-,-,-,-
 1836656,✅ Aprovado,0,Fernando,-,2025-08-01 13:20:10,01/08/2025 13:20,-,-,-,-,-,-,-
 1835358,✅ Aprovado,0,Fernando,-,2025-08-01 13:20:11,01/08/2025 13:20,-,-,-,-,-,-,-
 1832016,✅ Aprovado,0,Fernando,-,2025-08-08 15:56:51,08/08/2025 15:56,-,-,-,-,-,-,-
 1831923,✅ Aprovado,0,Fernando,-,2025-08-01 13:29:15,01/08/2025 13:29,-,-,-,-,-,-,-
+1829926,🚫 Cancelado,Y,regina@bancodovale.org.br,-,2025-08-07 16:25:23,07/08/2025 16:25,-,-,-,-,-,-,-
 1828079,🙅 Desistiu,Z,pierre@bancodovale.org.br,-,2025-08-07 09:38:41,07/08/2025 09:38,-,-,-,-,-,-,-
 1826510,🗑️ Descartado (Lixo),E,natalia@bancodovale.org.br,-,2025-08-04 10:13:31,04/08/2025 10:13,-,-,-,-,-,-,-
 1825497,✅ Aprovado,0,Fernando,-,2025-08-01 13:04:29,01/08/2025 13:04,-,-,-,-,-,-,-
 1823337,✅ Aprovado,0,Fernando,-,2025-08-01 13:20:10,01/08/2025 13:20,-,-,-,-,-,-,-
 1823171,🚫 Cancelado,Y,Fernando,-,2025-08-01 13:23:55,01/08/2025 13:23,-,-,-,-,-,-,-
-1821934,📍 Definir Unidade de Atendimento,1,-,-,2025-07-09 13:33:38,09/07/2025 13:33,09/07/2025 13:59,-,0.02 dias,-,-,-,-
-1821934,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.org.br,-,2025-07-09 13:59:27,09/07/2025 13:59,09/07/2025 16:18,-,0.1 dias,-,-,-,-
-1821934,🕵️ Análise Agente de Crédito,4,KATLIN,-,2025-07-09 16:18:36,09/07/2025 16:18,10/07/2025 08:45,-,0.69 dias,-,-,-,-
-1821934,⚠️ Pendente Cliente,W,adriana@bancodovale.org.br,-,2025-07-10 08:45:16,10/07/2025 08:45,11/08/2025 15:10,-,32.27 dias,-,-,-,-
 1821934,✅ Aprovado,0,Fernando,-,2025-08-11 15:10:26,11/08/2025 15:10,-,-,-,-,-,-,-
+1820423,🕵️ Análise Agente de Crédito,4,jessica@bancodovale.org.br,-,2025-08-12 16:26:28,12/08/2025 16:26,-,-,-,-,-,-,-
 1803827,✅ Aprovado,0,Fernando,-,2025-08-01 13:13:35,01/08/2025 13:13,-,-,-,-,-,-,-
 1803295,✅ Aprovado,0,Fernando,-,2025-08-01 13:20:09,01/08/2025 13:20,-,-,-,-,-,-,-
 1798819,✅ Aprovado,0,Fernando,-,2025-08-01 13:26:08,01/08/2025 13:26,-,-,-,-,-,-,-
 1792095,✅ Aprovado,0,Fernando,-,2025-08-01 13:04:28,01/08/2025 13:04,-,-,-,-,-,-,-
+1787877,🕵️ Análise Agente de Crédito,4,jessica@bancodovale.org.br,-,2025-08-12 16:27:51,12/08/2025 16:27,-,-,-,-,-,-,-
 1786001,🚫 Cancelado,Y,Fernando,-,2025-08-01 13:04:46,01/08/2025 13:04,-,-,-,-,-,-,-
 1777506,✅ Aprovado,0,Fernando,-,2025-08-01 13:27:24,01/08/2025 13:27,-,-,-,-,-,-,-
 1773293,✅ Aprovado,0,Fernando,-,2025-08-01 13:21:32,01/08/2025 13:21,-,-,-,-,-,-,-
 1772532,🚫 Cancelado,Y,Fernando,-,2025-08-01 13:26:28,01/08/2025 13:26,-,-,-,-,-,-,-
-1772508,🧾 Análise Mesa de Crédito,8,rejane@bancodovale.org.br,-,2025-08-06 13:08:38,06/08/2025 13:08,11/08/2025 09:30,-,4.85 dias,-,-,-,-
 1772508,✅ Aprovado,0,Fernando,-,2025-08-11 09:30:16,11/08/2025 09:30,-,-,-,-,-,-,-
 1770522,✅ Aprovado,0,Fernando,-,2025-08-01 13:13:34,01/08/2025 13:13,-,-,-,-,-,-,-
 1768275,🚫 Cancelado,Y,hilta@bancodovale.org.br,-,2025-08-06 15:48:21,06/08/2025 15:48,-,-,-,-,-,-,-
 1766910,🚫 Cancelado,Y,Fernando,-,2025-08-01 13:26:28,01/08/2025 13:26,-,-,-,-,-,-,-
 1765809,✅ Aprovado,0,Fernando,-,2025-08-01 13:17:29,01/08/2025 13:17,-,-,-,-,-,-,-
 1757113,✅ Aprovado,0,Fernando,-,2025-08-01 13:32:33,01/08/2025 13:32,-,-,-,-,-,-,-
-1733372,📍 Definir Unidade de Atendimento,1,-,-,2025-05-22 13:05:43,22/05/2025 13:05,22/05/2025 14:15,-,0.05 dias,-,-,-,-
-1733372,🔍 Análise SPC (Serasa / SPC Brasil),2,comercialdigital@bancodovale.org.br,-,2025-05-22 14:15:14,22/05/2025 14:15,22/05/2025 14:30,-,0.01 dias,-,-,-,-
-1733372,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-05-22 14:30:44,22/05/2025 14:30,11/08/2025 09:42,-,80.8 dias,-,-,-,-
 1733372,✅ Aprovado,0,ivan@bancodovale.org.br,-,2025-08-11 09:42:25,11/08/2025 09:42,-,-,-,-,-,-,-
-1716182,📍 Definir Unidade de Atendimento,1,-,-,2025-05-13 15:58:14,13/05/2025 15:58,13/05/2025 15:58,-,0.0 dias,-,-,-,-
-1716182,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-05-13 15:58:35,13/05/2025 15:58,11/08/2025 09:41,-,89.74 dias,-,-,-,-
 1716182,✅ Aprovado,0,ivan@bancodovale.org.br,-,2025-08-11 09:41:35,11/08/2025 09:41,-,-,-,-,-,-,-
-1708748,📍 Definir Unidade de Atendimento,1,-,-,2025-05-08 16:11:13,08/05/2025 16:11,08/05/2025 16:14,-,0.0 dias,-,-,-,-
-1708748,🕵️ Análise Agente de Crédito,4,jaragua@bancodovale.org.br,-,2025-05-08 16:14:11,08/05/2025 16:14,11/08/2025 09:42,-,94.73 dias,-,-,-,-
 1708748,🚫 Cancelado,Y,ivan@bancodovale.org.br,-,2025-08-11 09:42:42,11/08/2025 09:42,-,-,-,-,-,-,-
-1609700,📍 Definir Unidade de Atendimento,1,-,-,2025-04-02 11:28:13,02/04/2025 11:28,02/04/2025 11:29,-,0.0 dias,-,-,-,-
-1609700,🔴 Pendência SPC,3,bancodovaletimbo@bancodovale.org.br,-,2025-04-02 11:29:02,02/04/2025 11:29,04/04/2025 13:06,-,2.07 dias,-,-,-,-
-1609700,❌ Reprovado,X,camila@bancodovale.org.br,-,2025-04-04 13:06:30,04/04/2025 13:06,11/08/2025 09:48,-,128.86 dias,-,-,-,-
-1609700,🔴 Pendência SPC,3,bancodovaletimbo@bancodovale.org.br,-,2025-08-11 09:48:43,11/08/2025 09:48,11/08/2025 16:08,-,0.26 dias,-,-,-,-
+1651021,🙅 Desistiu,Z,roberto@bancodovale.org.br,-,2025-08-12 07:21:12,12/08/2025 07:21,-,-,-,-,-,-,-
 1609700,🙅 Desistiu,Z,caciane@bancodovale.org.br,-,2025-08-11 16:08:48,11/08/2025 16:08,-,-,-,-,-,-,-
 1563878,✅ Aprovado,0,Fernando,-,2025-08-06 15:11:17,06/08/2025 15:11,-,-,-,-,-,-,-
+1513625,🚫 Cancelado,Y,felipe@bancodovale.org.br,-,2025-08-12 11:46:34,12/08/2025 11:46,-,-,-,-,-,-,-
 1499040,🙅 Desistiu,Z,regina@bancodovale.org.br,-,2025-08-08 09:33:45,08/08/2025 09:33,-,-,-,-,-,-,-
+1495117,🚫 Cancelado,Y,felipe@bancodovale.org.br,-,2025-08-12 11:53:18,12/08/2025 11:53,-,-,-,-,-,-,-
 1372470,✅ Aprovado,0,Fernando,-,2025-08-01 13:29:16,01/08/2025 13:29,-,-,-,-,-,-,-
 1366690,⚠️ Pendente Cliente,W,caciane@bancodovale.org.br,-,2025-08-08 13:28:48,08/08/2025 13:28,-,-,-,-,-,-,-
 1354324,⚠️ Pendente Cliente,W,caciane@bancodovale.org.br,-,2025-08-05 14:06:23,05/08/2025 14:06,-,-,-,-,-,-,-
-1350149,📍 Definir Unidade de Atendimento,1,-,-,2024-12-03 09:51:21,03/12/2024 09:51,03/12/2024 09:52,-,0.0 dias,-,-,-,-
-1350149,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2024-12-03 09:52:09,03/12/2024 09:52,11/08/2025 10:12,-,251.01 dias,-,-,-,-
 1350149,🙅 Desistiu,Z,ivan@bancodovale.org.br,-,2025-08-11 10:12:09,11/08/2025 10:12,-,-,-,-,-,-,-
-1348247,📍 Definir Unidade de Atendimento,1,-,-,2024-12-02 13:45:55,02/12/2024 13:45,02/12/2024 13:49,-,0.0 dias,-,-,-,-
-1348247,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2024-12-02 13:49:33,02/12/2024 13:49,11/08/2025 10:31,-,251.86 dias,-,-,-,-
 1348247,✅ Aprovado,0,ivan@bancodovale.org.br,-,2025-08-11 10:31:05,11/08/2025 10:31,-,-,-,-,-,-,-
 1341563,✅ Aprovado,0,Fernando,-,2025-08-01 13:29:14,01/08/2025 13:29,-,-,-,-,-,-,-
-1338401,📍 Definir Unidade de Atendimento,1,-,-,2024-11-26 09:19:48,26/11/2024 09:19,26/11/2024 09:46,-,0.02 dias,-,-,-,-
-1338401,🔍 Análise SPC (Serasa / SPC Brasil),2,roberto@bancodovale.org.br,-,2024-11-26 09:46:27,26/11/2024 09:46,27/11/2024 09:54,-,1.01 dias,-,-,-,-
-1338401,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2024-11-27 09:54:22,27/11/2024 09:54,11/08/2025 10:14,-,257.01 dias,-,-,-,-
 1338401,❌ Reprovado,X,ivan@bancodovale.org.br,-,2025-08-11 10:14:02,11/08/2025 10:14,-,-,-,-,-,-,-
-1328060,📍 Definir Unidade de Atendimento,1,-,-,2024-11-21 10:41:45,21/11/2024 10:41,21/11/2024 10:51,-,0.01 dias,-,-,-,-
-1328060,🔍 Análise SPC (Serasa / SPC Brasil),2,rio@bancodovale.org.br,-,2024-11-21 10:51:59,21/11/2024 10:51,21/11/2024 10:52,-,0.0 dias,-,-,-,-
-1328060,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2024-11-21 10:52:17,21/11/2024 10:52,11/08/2025 09:00,-,262.92 dias,-,-,-,-
 1328060,🙅 Desistiu,Z,ivan@bancodovale.org.br,-,2025-08-11 09:00:27,11/08/2025 09:00,-,-,-,-,-,-,-
-1307542,📍 Definir Unidade de Atendimento,1,-,-,2024-11-12 10:18:00,12/11/2024 10:18,12/11/2024 14:00,-,0.15 dias,-,-,-,-
-1307542,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2024-11-12 14:00:45,12/11/2024 14:00,11/08/2025 09:02,-,271.79 dias,-,-,-,-
 1307542,✅ Aprovado,0,ivan@bancodovale.org.br,-,2025-08-11 09:02:32,11/08/2025 09:02,-,-,-,-,-,-,-
 1276274,🙅 Desistiu,Z,caciane@bancodovale.org.br,-,2025-08-08 13:34:30,08/08/2025 13:34,-,-,-,-,-,-,-
 1263946,✅ Aprovado,0,Fernando,-,2025-08-01 13:11:49,01/08/2025 13:11,-,-,-,-,-,-,-
-1254162,📍 Definir Unidade de Atendimento,1,-,-,2024-10-07 14:34:57,07/10/2024 14:34,07/10/2024 14:49,-,0.01 dias,-,-,-,-
-1254162,🔍 Análise SPC (Serasa / SPC Brasil),2,roberto@bancodovale.org.br,-,2024-10-07 14:49:59,07/10/2024 14:49,09/10/2024 14:23,-,1.98 dias,-,-,-,-
-1254162,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2024-10-09 14:23:16,09/10/2024 14:23,11/08/2025 09:09,-,305.78 dias,-,-,-,-
 1254162,🙅 Desistiu,Z,ivan@bancodovale.org.br,-,2025-08-11 09:09:23,11/08/2025 09:09,-,-,-,-,-,-,-
-1215589,📍 Definir Unidade de Atendimento,1,-,-,2024-09-11 15:13:43,11/09/2024 15:13,11/09/2024 15:13,-,0.0 dias,-,-,-,-
-1215589,🕵️ Análise Agente de Crédito,4,Priscila,-,2024-09-11 15:13:54,11/09/2024 15:13,11/08/2025 10:28,-,333.8 dias,-,-,-,-
 1215589,🙅 Desistiu,Z,ivan@bancodovale.org.br,-,2025-08-11 10:28:44,11/08/2025 10:28,-,-,-,-,-,-,-
 1212343,🧾 Análise Mesa de Crédito,8,bancodovaletimbo@bancodovale.org.br,-,2025-08-07 16:10:11,07/08/2025 16:10,-,-,-,-,-,-,-
 1206279,🙅 Desistiu,Z,regina@bancodovale.org.br,-,2025-08-06 10:31:09,06/08/2025 10:31,-,-,-,-,-,-,-
 1206276,⚠️ Pendente Cliente,W,caciane@bancodovale.org.br,-,2025-08-08 13:29:06,08/08/2025 13:29,-,-,-,-,-,-,-
 1197670,✅ Aprovado,0,Fernando,-,2025-08-07 16:01:40,07/08/2025 16:01,-,-,-,-,-,-,-
 1195504,🙅 Desistiu,Z,rejane@bancodovale.org.br,-,2025-08-05 16:49:07,05/08/2025 16:49,-,-,-,-,-,-,-
-1146832,📍 Definir Unidade de Atendimento,1,-,-,2024-07-24 09:13:25,24/07/2024 09:13,24/07/2024 09:14,-,0.0 dias,-,-,-,-
-1146832,🕵️ Análise Agente de Crédito,4,Priscila,-,2024-07-24 09:14:26,24/07/2024 09:14,11/08/2025 09:56,-,383.03 dias,-,-,-,-
 1146832,🙅 Desistiu,Z,ivan@bancodovale.org.br,-,2025-08-11 09:56:34,11/08/2025 09:56,-,-,-,-,-,-,-
-1105053,📍 Definir Unidade de Atendimento,1,-,-,2024-06-21 17:26:28,21/06/2024 17:26,21/06/2024 17:34,-,0.01 dias,-,-,-,-
-1105053,🕵️ Análise Agente de Crédito,4,Uelita,-,2024-06-21 17:34:29,21/06/2024 17:34,28/06/2024 13:45,-,6.84 dias,-,-,-,-
-1105053,🧾 Análise Mesa de Crédito,8,diogo@bancodovale.org.br,-,2024-06-28 13:45:50,28/06/2024 13:45,28/06/2024 16:18,-,0.11 dias,-,-,-,-
-1105053,✅ Aprovado,0,roberto@bancodovale.org.br,-,2024-06-28 16:18:07,28/06/2024 16:18,12/09/2024 10:50,-,75.77 dias,-,-,-,-
-1105053,🕵️ Análise Agente de Crédito,4,Priscila,-,2024-09-12 10:50:39,12/09/2024 10:50,16/09/2024 14:48,-,4.17 dias,-,-,-,-
-1105053,🧾 Análise Mesa de Crédito,8,diogo@bancodovale.org.br,-,2024-09-16 14:48:54,16/09/2024 14:48,18/09/2024 09:54,-,1.8 dias,-,-,-,-
-1105053,✅ Aprovado,0,Fernando,-,2024-09-18 09:54:32,18/09/2024 09:54,19/12/2024 09:47,-,91.99 dias,-,-,-,-
-1105053,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2024-12-19 09:47:03,19/12/2024 09:47,11/08/2025 10:35,-,235.03 dias,-,-,-,-
 1105053,✅ Aprovado,0,ivan@bancodovale.org.br,-,2025-08-11 10:35:29,11/08/2025 10:35,-,-,-,-,-,-,-
-1097538,📍 Definir Unidade de Atendimento,1,-,-,2024-06-19 11:16:57,19/06/2024 11:16,19/06/2024 11:30,-,0.01 dias,-,-,-,-
-1097538,🔍 Análise SPC (Serasa / SPC Brasil),2,roberto@bancodovale.org.br,-,2024-06-19 11:30:42,19/06/2024 11:30,19/06/2024 11:57,-,0.02 dias,-,-,-,-
-1097538,🕵️ Análise Agente de Crédito,4,Uelita,-,2024-06-19 11:57:16,19/06/2024 11:57,11/08/2025 10:28,-,417.94 dias,-,-,-,-
 1097538,✅ Aprovado,0,ivan@bancodovale.org.br,-,2025-08-11 10:28:23,11/08/2025 10:28,-,-,-,-,-,-,-
-1093004,📍 Definir Unidade de Atendimento,1,-,-,2024-06-14 11:19:52,14/06/2024 11:19,14/06/2024 11:20,-,0.0 dias,-,-,-,-
-1093004,🕵️ Análise Agente de Crédito,4,Uelita,-,2024-06-14 11:20:50,14/06/2024 11:20,11/08/2025 10:25,-,422.96 dias,-,-,-,-
 1093004,✅ Aprovado,0,ivan@bancodovale.org.br,-,2025-08-11 10:25:39,11/08/2025 10:25,-,-,-,-,-,-,-
-1091766,📍 Definir Unidade de Atendimento,1,-,-,2024-06-13 12:04:51,13/06/2024 12:04,13/06/2024 12:05,-,0.0 dias,-,-,-,-
-1091766,🕵️ Análise Agente de Crédito,4,Uelita,-,2024-06-13 12:05:47,13/06/2024 12:05,11/08/2025 10:36,-,423.94 dias,-,-,-,-
 1091766,🙅 Desistiu,Z,ivan@bancodovale.org.br,-,2025-08-11 10:36:04,11/08/2025 10:36,-,-,-,-,-,-,-
-1087934,📍 Definir Unidade de Atendimento,1,-,-,2024-06-10 15:05:03,10/06/2024 15:05,10/06/2024 15:06,-,0.0 dias,-,-,-,-
-1087934,🕵️ Análise Agente de Crédito,4,Uelita,-,2024-06-10 15:06:05,10/06/2024 15:06,03/07/2024 14:00,-,22.95 dias,-,-,-,-
-1087934,🧾 Análise Mesa de Crédito,8,diogo@bancodovale.org.br,-,2024-07-03 14:00:13,03/07/2024 14:00,04/07/2024 10:18,-,0.85 dias,-,-,-,-
-1087934,✅ Aprovado,0,Fernando,-,2024-07-04 10:18:23,04/07/2024 10:18,23/06/2025 10:34,-,354.01 dias,-,-,-,-
-1087934,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-06-23 10:34:42,23/06/2025 10:34,11/08/2025 10:16,-,48.99 dias,-,-,-,-
 1087934,❌ Reprovado,X,ivan@bancodovale.org.br,-,2025-08-11 10:16:34,11/08/2025 10:16,-,-,-,-,-,-,-
-1080137,📍 Definir Unidade de Atendimento,1,-,-,2024-06-03 09:32:32,03/06/2024 09:32,03/06/2024 09:32,-,0.0 dias,-,-,-,-
-1080137,🕵️ Análise Agente de Crédito,4,Uelita,-,2024-06-03 09:32:52,03/06/2024 09:32,11/08/2025 10:14,-,434.03 dias,-,-,-,-
 1080137,❌ Reprovado,X,ivan@bancodovale.org.br,-,2025-08-11 10:14:37,11/08/2025 10:14,-,-,-,-,-,-,-
-992462,🧾 Análise Mesa de Crédito,8,camila@bancodovale.org.br,-,2025-08-08 11:42:45,08/08/2025 11:42,-,-,-,-,-,-,-
-988113,📍 Definir Unidade de Atendimento,1,-,-,2024-03-18 09:42:35,18/03/2024 09:42,18/03/2024 09:43,-,0.0 dias,-,-,-,-
-988113,🕵️ Análise Agente de Crédito,4,Priscila,-,2024-03-18 09:43:04,18/03/2024 09:43,19/03/2024 09:45,-,1.0 dias,-,-,-,-
-988113,🧾 Análise Mesa de Crédito,8,juliano@bancodovale.org.br,-,2024-03-19 09:45:01,19/03/2024 09:45,01/04/2024 10:48,-,13.04 dias,-,-,-,-
-988113,✅ Aprovado,0,Fernando,-,2024-04-01 10:48:12,01/04/2024 10:48,11/04/2025 10:52,-,375.0 dias,-,-,-,-
-988113,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-04-11 10:52:40,11/04/2025 10:52,11/08/2025 09:28,-,121.94 dias,-,-,-,-
+992462,✅ Aprovado,0,Fernando,-,2025-08-12 12:50:31,12/08/2025 12:50,-,-,-,-,-,-,-
 988113,✅ Aprovado,0,ivan@bancodovale.org.br,-,2025-08-11 09:28:43,11/08/2025 09:28,-,-,-,-,-,-,-
-987943,📍 Definir Unidade de Atendimento,1,-,-,2024-03-18 06:43:03,18/03/2024 06:43,18/03/2024 09:06,-,0.1 dias,-,-,-,-
-987943,🔍 Análise SPC (Serasa / SPC Brasil),2,roberto@bancodovale.org.br,-,2024-03-18 09:06:39,18/03/2024 09:06,18/03/2024 13:31,-,0.18 dias,-,-,-,-
-987943,🕵️ Análise Agente de Crédito,4,Priscila,-,2024-03-18 13:31:54,18/03/2024 13:31,20/03/2024 13:55,-,2.02 dias,-,-,-,-
-987943,🧾 Análise Mesa de Crédito,8,juliano@bancodovale.org.br,-,2024-03-20 13:55:41,20/03/2024 13:55,21/03/2024 16:39,-,1.11 dias,-,-,-,-
-987943,✅ Aprovado,0,Fernando,-,2024-03-21 16:39:37,21/03/2024 16:39,20/01/2025 10:10,-,304.73 dias,-,-,-,-
-987943,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-01-20 10:10:24,20/01/2025 10:10,11/08/2025 09:22,-,202.97 dias,-,-,-,-
 987943,✅ Aprovado,0,ivan@bancodovale.org.br,-,2025-08-11 09:22:18,11/08/2025 09:22,-,-,-,-,-,-,-
-960102,📍 Definir Unidade de Atendimento,1,-,-,2024-02-14 11:58:18,14/02/2024 11:58,14/02/2024 13:12,-,0.05 dias,-,-,-,-
-960102,🕵️ Análise Agente de Crédito,4,Priscila,-,2024-02-14 13:12:39,14/02/2024 13:12,15/02/2024 15:15,-,1.09 dias,-,-,-,-
-960102,🧾 Análise Mesa de Crédito,8,juliano@bancodovale.org.br,-,2024-02-15 15:15:27,15/02/2024 15:15,20/02/2024 15:20,-,5.0 dias,-,-,-,-
-960102,✅ Aprovado,0,Fernando,-,2024-02-20 15:20:41,20/02/2024 15:20,05/08/2024 10:13,-,166.79 dias,-,-,-,-
-960102,🕵️ Análise Agente de Crédito,4,Priscila,-,2024-08-05 10:13:29,05/08/2024 10:13,07/08/2024 08:53,-,1.94 dias,-,-,-,-
-960102,🧾 Análise Mesa de Crédito,8,diogo@bancodovale.org.br,-,2024-08-07 08:53:53,07/08/2024 08:53,07/08/2024 15:06,-,0.26 dias,-,-,-,-
-960102,✅ Aprovado,0,Fernando,-,2024-08-07 15:06:07,07/08/2024 15:06,04/04/2025 11:30,-,239.85 dias,-,-,-,-
-960102,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-04-04 11:30:19,04/04/2025 11:30,11/08/2025 09:21,-,128.91 dias,-,-,-,-
 960102,🙅 Desistiu,Z,ivan@bancodovale.org.br,-,2025-08-11 09:21:12,11/08/2025 09:21,-,-,-,-,-,-,-
 935651,✅ Aprovado,0,Fernando,-,2025-08-05 15:21:46,05/08/2025 15:21,-,-,-,-,-,-,-
 925298,🧾 Análise Mesa de Crédito,8,caciane@bancodovale.org.br,-,2025-08-01 13:48:29,01/08/2025 13:48,-,-,-,-,-,-,-
 891049,✅ Aprovado,0,Fernando,-,2025-08-01 13:32:32,01/08/2025 13:32,-,-,-,-,-,-,-
-862188,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-08-08 11:17:41,08/08/2025 11:17,11/08/2025 09:35,-,2.93 dias,-,-,-,-
 862188,🧾 Análise Mesa de Crédito,8,juliano@bancodovale.org.br,-,2025-08-11 09:35:19,11/08/2025 09:35,-,-,-,-,-,-,-
-855954,🧾 Análise Mesa de Crédito,8,regina@bancodovale.org.br,-,2025-08-08 17:23:20,08/08/2025 17:23,-,-,-,-,-,-,-
+855954,✅ Aprovado,0,Fernando,-,2025-08-12 16:53:05,12/08/2025 16:53,-,-,-,-,-,-,-
 801076,🙅 Desistiu,Z,regina@bancodovale.org.br,-,2025-08-07 16:24:55,07/08/2025 16:24,-,-,-,-,-,-,-
 742267,⚠️ Pendência Mesa de Crédito,9,ivan@bancodovale.org.br,-,2025-08-07 09:38:47,07/08/2025 09:38,-,-,-,-,-,-,-
-705741,📍 Definir Unidade de Atendimento,1,-,-,2023-07-03 15:53:49,03/07/2023 15:53,03/07/2023 15:56,-,0.0 dias,-,-,-,-
-705741,🕵️ Análise Agente de Crédito,4,riodosul@bancodovale.org.br,-,2023-07-03 15:56:30,03/07/2023 15:56,04/07/2023 09:44,-,0.74 dias,-,-,-,-
-705741,🧾 Análise Mesa de Crédito,8,juliano@bancodovale.org.br,-,2023-07-04 09:44:11,04/07/2023 09:44,05/07/2023 10:31,-,1.03 dias,-,-,-,-
-705741,✅ Aprovado,0,fernandosandri@bancodovale.org.br,-,2023-07-05 10:31:20,05/07/2023 10:31,29/04/2024 13:45,-,299.13 dias,-,-,-,-
-705741,🕵️ Análise Agente de Crédito,4,Priscila,-,2024-04-29 13:45:08,29/04/2024 13:45,30/04/2024 10:46,-,0.88 dias,-,-,-,-
-705741,🧾 Análise Mesa de Crédito,8,juliano@bancodovale.org.br,-,2024-04-30 10:46:09,30/04/2024 10:46,30/04/2024 14:43,-,0.16 dias,-,-,-,-
-705741,✅ Aprovado,0,Fernando,-,2024-04-30 14:43:33,30/04/2024 14:43,03/02/2025 08:56,-,278.76 dias,-,-,-,-
-705741,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-02-03 08:56:21,03/02/2025 08:56,11/08/2025 09:18,-,189.02 dias,-,-,-,-
 705741,✅ Aprovado,0,ivan@bancodovale.org.br,-,2025-08-11 09:18:42,11/08/2025 09:18,-,-,-,-,-,-,-
-681361,📍 Definir Unidade de Atendimento,1,-,-,2023-06-12 16:17:50,12/06/2023 16:17,13/06/2023 09:34,-,0.72 dias,-,-,-,-
-681361,🕵️ Análise Agente de Crédito,4,riodosul@bancodovale.org.br,-,2023-06-13 09:34:54,13/06/2023 09:34,13/06/2023 09:35,-,0.0 dias,-,-,-,-
-681361,🧾 Análise Mesa de Crédito,8,juliano@bancodovale.org.br,-,2023-06-13 09:35:38,13/06/2023 09:35,14/06/2023 08:28,-,0.95 dias,-,-,-,-
-681361,✅ Aprovado,0,fernandosandri@bancodovale.org.br,-,2023-06-14 08:28:02,14/06/2023 08:28,03/10/2024 10:09,-,477.07 dias,-,-,-,-
-681361,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2024-10-03 10:09:52,03/10/2024 10:09,11/08/2025 09:14,-,311.96 dias,-,-,-,-
 681361,✅ Aprovado,0,ivan@bancodovale.org.br,-,2025-08-11 09:14:26,11/08/2025 09:14,-,-,-,-,-,-,-
 680931,❌ Reprovado,X,hilta@bancodovale.org.br,-,2025-08-06 15:47:15,06/08/2025 15:47,-,-,-,-,-,-,-
+654801,📍 Definir Unidade de Atendimento,1,-,-,2023-05-18 11:19:28,18/05/2023 11:19,18/05/2023 11:20,-,0.0 dias,-,-,-,-
+654801,🕵️ Análise Agente de Crédito,4,indaial@bancodovale.org.br,-,2023-05-18 11:20:03,18/05/2023 11:20,31/05/2023 15:10,-,13.16 dias,-,-,-,-
+654801,❌ Reprovado,X,adriana@bancodovale.org.br,-,2023-05-31 15:10:46,31/05/2023 15:10,13/08/2025 17:08,-,805.08 dias,-,-,-,-
+654801,🔍 Análise SPC (Serasa / SPC Brasil),2,KATLIN,-,2025-08-13 17:08:23,13/08/2025 17:08,13/08/2025 17:08,-,0.0 dias,-,-,-,-
+654801,🧾 Análise Mesa de Crédito,8,KATLIN,-,2025-08-13 17:08:35,13/08/2025 17:08,-,-,-,-,-,-,-
+646442,🕵️ Análise Agente de Crédito,4,bancodovaletimbo@bancodovale.org.br,-,2025-08-12 14:51:32,12/08/2025 14:51,-,-,-,-,-,-,-
 627322,✅ Aprovado,0,Fernando,-,2025-08-01 13:26:07,01/08/2025 13:26,-,-,-,-,-,-,-
-615032,📍 Definir Unidade de Atendimento,1,-,-,2023-04-06 09:10:37,06/04/2023 09:10,06/04/2023 09:11,-,0.0 dias,-,-,-,-
-615032,🕵️ Análise Agente de Crédito,4,riodosul@bancodovale.org.br,-,2023-04-06 09:11:14,06/04/2023 09:11,05/06/2023 16:51,-,60.32 dias,-,-,-,-
-615032,✅ Aprovado,0,juliano@bancodovale.org.br,-,2023-06-05 16:51:50,05/06/2023 16:51,15/07/2024 09:04,-,405.68 dias,-,-,-,-
-615032,🕵️ Análise Agente de Crédito,4,Priscila,-,2024-07-15 09:04:33,15/07/2024 09:04,17/07/2024 13:02,-,2.17 dias,-,-,-,-
-615032,🧾 Análise Mesa de Crédito,8,diogo@bancodovale.org.br,-,2024-07-17 13:02:34,17/07/2024 13:02,31/07/2024 11:38,-,13.94 dias,-,-,-,-
-615032,✅ Aprovado,0,Fernando,-,2024-07-31 11:38:27,31/07/2024 11:38,08/07/2025 10:16,-,341.94 dias,-,-,-,-
-615032,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-07-08 10:16:33,08/07/2025 10:16,11/08/2025 09:14,-,33.96 dias,-,-,-,-
 615032,⚠️ Pendente Cliente,W,ivan@bancodovale.org.br,-,2025-08-11 09:14:11,11/08/2025 09:14,-,-,-,-,-,-,-
-609025,📍 Definir Unidade de Atendimento,1,-,-,2023-03-30 14:46:07,30/03/2023 14:46,30/03/2023 14:46,-,0.0 dias,-,-,-,-
-609025,🔍 Análise SPC (Serasa / SPC Brasil),2,blumenau@bancodovale.org.br,-,2023-03-30 14:46:35,30/03/2023 14:46,30/03/2023 14:46,-,0.0 dias,-,-,-,-
-609025,🕵️ Análise Agente de Crédito,4,riodosul@bancodovale.org.br,-,2023-03-30 14:46:42,30/03/2023 14:46,05/06/2023 16:50,-,67.09 dias,-,-,-,-
-609025,✅ Aprovado,0,juliano@bancodovale.org.br,-,2023-06-05 16:50:33,05/06/2023 16:50,02/02/2024 09:24,-,241.69 dias,-,-,-,-
-609025,🕵️ Análise Agente de Crédito,4,Priscila,-,2024-02-02 09:24:03,02/02/2024 09:24,05/02/2024 13:30,-,3.17 dias,-,-,-,-
-609025,🧾 Análise Mesa de Crédito,8,juliano@bancodovale.org.br,-,2024-02-05 13:30:13,05/02/2024 13:30,14/02/2024 17:00,-,9.15 dias,-,-,-,-
-609025,✅ Aprovado,0,Fernando,-,2024-02-14 17:00:08,14/02/2024 17:00,27/02/2025 14:35,-,378.9 dias,-,-,-,-
-609025,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-02-27 14:35:31,27/02/2025 14:35,11/08/2025 09:13,-,164.78 dias,-,-,-,-
 609025,✅ Aprovado,0,ivan@bancodovale.org.br,-,2025-08-11 09:13:13,11/08/2025 09:13,-,-,-,-,-,-,-
 605421,✅ Aprovado,0,Fernando,-,2025-08-01 13:21:33,01/08/2025 13:21,-,-,-,-,-,-,-
-488136,🧾 Análise Mesa de Crédito,8,regina@bancodovale.org.br,-,2025-08-08 11:15:49,08/08/2025 11:15,-,-,-,-,-,-,-
-425614,📍 Definir Unidade de Atendimento,1,-,-,2022-09-09 14:09:26,09/09/2022 14:09,09/09/2022 14:09,-,0.0 dias,-,-,-,-
-425614,🕵️ Análise Agente de Crédito,4,riodosul@bancodovale.org.br,-,2022-09-09 14:09:53,09/09/2022 14:09,12/09/2022 15:51,-,3.07 dias,-,-,-,-
-425614,🧾 Análise Mesa de Crédito,8,riodosul@bancodovale.org.br,-,2022-09-12 15:51:15,12/09/2022 15:51,14/09/2022 11:37,-,1.82 dias,-,-,-,-
-425614,✅ Aprovado,0,fernandosandri@bancodovale.org.br,-,2022-09-14 11:37:51,14/09/2022 11:37,18/02/2025 09:33,-,887.91 dias,-,-,-,-
-425614,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-02-18 09:33:03,18/02/2025 09:33,22/04/2025 10:37,-,63.04 dias,-,-,-,-
-425614,🙅 Desistiu,Z,diogo@bancodovale.org.br,-,2025-04-22 10:37:21,22/04/2025 10:37,22/04/2025 10:37,-,0.0 dias,-,-,-,-
-425614,🔴 Pendência SPC,3,diogo@bancodovale.org.br,-,2025-04-22 10:37:36,22/04/2025 10:37,22/04/2025 11:53,-,0.05 dias,-,-,-,-
-425614,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-04-22 11:53:57,22/04/2025 11:53,22/04/2025 11:54,-,0.0 dias,-,-,-,-
-425614,🙅 Desistiu,Z,rio@bancodovale.org.br,-,2025-04-22 11:54:34,22/04/2025 11:54,26/06/2025 09:05,-,64.88 dias,-,-,-,-
-425614,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-06-26 09:05:34,26/06/2025 09:05,11/08/2025 09:12,-,46.01 dias,-,-,-,-
+488136,✅ Aprovado,0,Fernando,-,2025-08-12 10:31:23,12/08/2025 10:31,-,-,-,-,-,-,-
 425614,❌ Reprovado,X,ivan@bancodovale.org.br,-,2025-08-11 09:12:49,11/08/2025 09:12,-,-,-,-,-,-,-
-274505,🧾 Análise Mesa de Crédito,8,rejane@bancodovale.org.br,-,2025-08-06 15:30:44,06/08/2025 15:30,11/08/2025 09:30,-,4.75 dias,-,-,-,-
 274505,✅ Aprovado,0,Fernando,-,2025-08-11 09:30:32,11/08/2025 09:30,-,-,-,-,-,-,-
 265656,✅ Aprovado,0,Fernando,-,2025-08-01 13:32:32,01/08/2025 13:32,-,-,-,-,-,-,-
+176427,🧾 Análise Mesa de Crédito,8,caciane@bancodovale.org.br,-,2025-08-12 08:52:10,12/08/2025 08:52,13/08/2025 16:48,-,1.33 dias,-,-,-,-
+176427,✅ Aprovado,0,Fernando,-,2025-08-13 16:48:19,13/08/2025 16:48,-,-,-,-,-,-,-
 154104,✅ Aprovado,0,Fernando,-,2025-08-07 17:30:00,07/08/2025 17:30,-,-,-,-,-,-,-
-131907,🧾 Análise Mesa de Crédito,8,juliano@bancodovale.org.br,-,2025-08-08 17:15:48,08/08/2025 17:15,-,-,-,-,-,-,-
+131907,✅ Aprovado,0,Fernando,-,2025-08-12 18:09:40,12/08/2025 18:09,-,-,-,-,-,-,-
 88585,✅ Aprovado,0,Fernando,-,2025-08-06 11:33:27,06/08/2025 11:33,-,-,-,-,-,-,-
-85943,📍 Definir Unidade de Atendimento,1,-,-,2021-08-13 10:57:44,13/08/2021 10:57,13/08/2021 10:58,-,0.0 dias,-,-,-,-
-85943,🕵️ Análise Agente de Crédito,4,riodosul@bancodovale.org.br,-,2021-08-13 10:58:35,13/08/2021 10:58,17/08/2021 11:14,-,4.01 dias,-,-,-,-
-85943,🧾 Análise Mesa de Crédito,8,riodosul@bancodovale.org.br,-,2021-08-17 11:14:06,17/08/2021 11:14,19/08/2021 10:16,-,1.96 dias,-,-,-,-
-85943,✅ Aprovado,0,roberto@bancodovale.org.br,-,2021-08-19 10:16:13,19/08/2021 10:16,02/07/2025 10:11,-,1413.0 dias,-,-,-,-
-85943,🕵️ Análise Agente de Crédito,4,rio@bancodovale.org.br,-,2025-07-02 10:11:21,02/07/2025 10:11,11/08/2025 09:11,-,39.96 dias,-,-,-,-
 85943,🙅 Desistiu,Z,ivan@bancodovale.org.br,-,2025-08-11 09:11:11,11/08/2025 09:11,-,-,-,-,-,-,-
 78148,🧾 Análise Mesa de Crédito,8,KATLIN,-,2025-08-05 11:36:51,05/08/2025 11:36,-,-,-,-,-,-,-
 58565,✅ Aprovado,0,Fernando,-,2025-08-01 13:04:30,01/08/2025 13:04,-,-,-,-,-,-,-
@@ -1860,17 +2173,4 @@ ID da Ordem,Etapa,Código do Status,Modificado por,SLA,Data do Evento,Data Iníc
 14033,✅ Aprovado,0,Fernando,-,2025-08-01 13:11:49,01/08/2025 13:11,-,-,-,-,-,-,-
 12274,✅ Aprovado,0,Fernando,-,2025-08-06 11:40:21,06/08/2025 11:40,-,-,-,-,-,-,-
 10084,🙅 Desistiu,Z,Fernando,-,2025-08-01 13:32:45,01/08/2025 13:32,-,-,-,-,-,-,-
-9194,📍 Definir Unidade de Atendimento,1,-,-,2020-08-10 09:18:27,10/08/2020 09:18,10/08/2020 09:19,-,0.0 dias,-,-,-,-
-9194,🕵️ Análise Agente de Crédito,4,bancodovaletimbo@bancodovale.org.br,-,2020-08-10 09:19:54,10/08/2020 09:19,10/08/2020 13:12,-,0.16 dias,-,-,-,-
-9194,🧾 Análise Mesa de Crédito,8,caciane@bancodovale.org.br,-,2020-08-10 13:12:41,10/08/2020 13:12,10/08/2020 16:47,-,0.15 dias,-,-,-,-
-9194,✅ Aprovado,0,fernandosandri@bancodovale.org.br,-,2020-08-10 16:47:43,10/08/2020 16:47,30/06/2022 14:48,-,688.92 dias,-,-,-,-
-9194,🕵️ Análise Agente de Crédito,4,bancodovaletimbo@bancodovale.org.br,-,2022-06-30 14:48:30,30/06/2022 14:48,30/06/2022 14:56,-,0.01 dias,-,-,-,-
-9194,👤 Análise Coordenação,6,caciane@bancodovale.org.br,-,2022-06-30 14:56:19,30/06/2022 14:56,30/06/2022 15:07,-,0.01 dias,-,-,-,-
-9194,🧾 Análise Mesa de Crédito,8,angela@bancodovale.org.br,-,2022-06-30 15:07:27,30/06/2022 15:07,30/06/2022 17:38,-,0.1 dias,-,-,-,-
-9194,✅ Aprovado,0,fernandosandri@bancodovale.org.br,-,2022-06-30 17:38:38,30/06/2022 17:38,20/11/2023 13:59,-,507.85 dias,-,-,-,-
-9194,🧾 Análise Mesa de Crédito,8,caciane@bancodovale.org.br,-,2023-11-20 13:59:27,20/11/2023 13:59,20/11/2023 13:59,-,0.0 dias,-,-,-,-
-9194,👤 Análise Coordenação,6,caciane@bancodovale.org.br,-,2023-11-20 13:59:55,20/11/2023 13:59,20/11/2023 14:08,-,0.01 dias,-,-,-,-
-9194,🧾 Análise Mesa de Crédito,8,angela@bancodovale.org.br,-,2023-11-20 14:08:53,20/11/2023 14:08,01/12/2023 09:22,-,10.8 dias,-,-,-,-
-9194,✅ Aprovado,0,Fernando,-,2023-12-01 09:22:51,01/12/2023 09:22,11/08/2025 15:51,-,619.27 dias,-,-,-,-
-9194,🕵️ Análise Agente de Crédito,4,bancodovaletimbo@bancodovale.org.br,-,2025-08-11 15:51:10,11/08/2025 15:51,11/08/2025 16:07,-,0.01 dias,-,-,-,-
-9194,🧾 Análise Mesa de Crédito,8,caciane@bancodovale.org.br,-,2025-08-11 16:07:46,11/08/2025 16:07,-,-,-,-,-,-,-
+9194,✅ Aprovado,0,Fernando,-,2025-08-12 09:03:32,12/08/2025 09:03,-,-,-,-,-,-,-

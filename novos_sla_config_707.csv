@@ -1,12 +1,20 @@
 ID da Ordem,Etapa,Código do Status,Modificado por,SLA,Data do Evento,Data Início Execução,Data Final Execução,Prazo Máximo,Duração Total,Duração Útil,Status SLA,Excedido Total (min),Excedido Útil (min)
-1601196,Aguardando Verificação/Aprovação (NAVA),0,-,-,2025-03-31 21:55:15,31/03/2025 21:55,01/04/2025 03:28,-,0.23 dias,-,-,-,-
-1601196,Enviado para o RM (Integração),1,carlos@zapform.com.br,-,2025-04-01 03:28:22,01/04/2025 03:28,01/04/2025 03:28,-,0.0 dias,-,-,-,-
-1601196,Erro de Importação,E,carlos@zapform.com.br,-,2025-04-01 03:28:40,01/04/2025 03:28,01/04/2025 11:55,-,0.35 dias,-,-,-,-
-1601196,Aguardando Verificação/Aprovação (NAVA),0,carlos@zapform.com.br,-,2025-04-01 11:55:00,01/04/2025 11:55,01/04/2025 17:13,-,0.22 dias,-,-,-,-
-1601196,Enviado para o RM (Integração),1,carlos@zapform.com.br,-,2025-04-01 17:13:31,01/04/2025 17:13,01/04/2025 17:14,-,0.0 dias,-,-,-,-
-1601196,Contrato Ativo,2,carlos@zapform.com.br,-,2025-04-01 17:14:12,01/04/2025 17:14,02/04/2025 16:45,-,0.98 dias,-,-,-,-
-1601196,Aguardando Verificação/Aprovação (NAVA),0,carlos@zapform.com.br,-,2025-04-02 16:45:54,02/04/2025 16:45,03/04/2025 15:55,-,0.97 dias,-,-,-,-
-1601196,Enviado para o RM (Integração),1,carlos@zapform.com.br,-,2025-04-03 15:55:40,03/04/2025 15:55,03/04/2025 15:56,-,0.0 dias,-,-,-,-
-1601196,Contrato Ativo,2,carlos@zapform.com.br,-,2025-04-03 15:56:22,03/04/2025 15:56,11/08/2025 10:49,-,129.79 dias,-,-,-,-
-1601196,Aguardando Verificação/Aprovação (NAVA),0,integracao-projetoisp,-,2025-08-11 10:49:11,11/08/2025 10:49,11/08/2025 10:49,-,0.0 dias,-,-,-,-
-1601196,Contratos Encerrados,5,gabriels.santos@nava.com.br,-,2025-08-11 10:49:44,11/08/2025 10:49,-,-,-,-,-,-,-
+1883538,Aguardando Verificação/Aprovação (NAVA),0,-,-,2025-08-13 11:10:41,13/08/2025 11:10,13/08/2025 11:11,-,0.0 dias,-,-,-,-
+1883538,Enviado para o RM (Integração),1,integracao-projetoisp,-,2025-08-13 11:11:12,13/08/2025 11:11,13/08/2025 11:11,-,0.0 dias,-,-,-,-
+1883538,Contrato Ativo,2,integracao-projetoisp,-,2025-08-13 11:11:45,13/08/2025 11:11,-,-,-,-,-,-,-
+1883457,Aguardando Verificação/Aprovação (NAVA),0,-,-,2025-08-13 10:39:57,13/08/2025 10:39,13/08/2025 10:40,-,0.0 dias,-,-,-,-
+1883457,Enviado para o RM (Integração),1,integracao-projetoisp,-,2025-08-13 10:40:25,13/08/2025 10:40,13/08/2025 10:40,-,0.0 dias,-,-,-,-
+1883457,Contrato Ativo,2,integracao-projetoisp,-,2025-08-13 10:40:55,13/08/2025 10:40,-,-,-,-,-,-,-
+1883281,Aguardando Verificação/Aprovação (NAVA),0,-,-,2025-08-13 10:17:49,13/08/2025 10:17,13/08/2025 10:18,-,0.0 dias,-,-,-,-
+1883281,Enviado para o RM (Integração),1,integracao-projetoisp,-,2025-08-13 10:18:15,13/08/2025 10:18,13/08/2025 10:18,-,0.0 dias,-,-,-,-
+1883281,Contrato Ativo,2,integracao-projetoisp,-,2025-08-13 10:18:48,13/08/2025 10:18,13/08/2025 10:23,-,0.0 dias,-,-,-,-
+1883281,Aguardando Verificação/Aprovação (NAVA),0,integracao-projetoisp,-,2025-08-13 10:23:01,13/08/2025 10:23,13/08/2025 10:23,-,0.0 dias,-,-,-,-
+1883281,Enviado para o RM (Integração),1,integracao-projetoisp,-,2025-08-13 10:23:07,13/08/2025 10:23,13/08/2025 10:23,-,0.0 dias,-,-,-,-
+1883281,Contrato Ativo,2,integracao-projetoisp,-,2025-08-13 10:23:43,13/08/2025 10:23,-,-,-,-,-,-,-
+1632476,Enviado para o RM (Integração),1,carlos@zapform.com.br,-,2025-04-09 13:17:06,09/04/2025 13:17,09/04/2025 13:17,-,0.0 dias,-,-,-,-
+1632476,Contrato Ativo,2,carlos@zapform.com.br,-,2025-04-09 13:17:56,09/04/2025 13:17,13/08/2025 10:44,-,125.89 dias,-,-,-,-
+1632476,Aguardando Verificação/Aprovação (NAVA),0,integracao-projetoisp,-,2025-08-13 10:44:16,13/08/2025 10:44,13/08/2025 10:44,-,0.0 dias,-,-,-,-
+1632476,Contratos Encerrados,5,gabriels.santos@nava.com.br,-,2025-08-13 10:44:20,13/08/2025 10:44,-,-,-,-,-,-,-
+1618950,Contrato Ativo,2,carlos@zapform.com.br,-,2025-04-04 16:41:54,04/04/2025 16:41,-,-,-,-,-,-,-
+1601460,Contrato Ativo,2,carlos@zapform.com.br,-,2025-04-03 16:38:07,03/04/2025 16:38,13/08/2025 11:23,-,131.78 dias,-,-,-,-
+1601460,Aguardando Verificação/Aprovação (NAVA),0,integracao-projetoisp,-,2025-08-13 11:23:46,13/08/2025 11:23,-,-,-,-,-,-,-
