@@ -1,7 +1,11 @@
 import os
 import logging
-import pandas as pd
 from datetime import datetime
+import datetime as _dt
+from typing import Optional
+
+import pandas as pd
+
 from .data_utils import clean_illegal_chars
 
 
@@ -87,7 +91,7 @@ def acumular_report_sla(df_sla, csv_path):
       3) ["ID da Ordem","Etapa"]
     Faz migração automática do CSV antigo para criar colunas ausentes.
     """
-    import datetime as _dt
+    import datetime as _dt_local
 
     def _try_parse_dt(s):
         if pd.isna(s):
@@ -96,7 +100,7 @@ def acumular_report_sla(df_sla, csv_path):
         # tenta formatos mais comuns
         for fmt in ("%Y-%m-%d %H:%M:%S", "%d/%m/%Y %H:%M", "%d/%m/%Y %H:%M:%S", "%Y-%m-%d %H:%M"):
             try:
-                return _dt.datetime.strptime(s, fmt)
+                return _dt_local.datetime.strptime(s, fmt)
             except Exception:
                 pass
         # fallback tolerante
@@ -151,9 +155,8 @@ def acumular_report_sla(df_sla, csv_path):
                     break
             if candidato_data:
                 parsed = df_antigo[candidato_data].apply(_try_parse_dt)
-                # formata para o padrão usado no novo
                 df_antigo["Data do Evento"] = parsed.apply(
-                    lambda x: x.strftime("%Y-%m-%d %H:%M:%S") if isinstance(x, _dt.datetime) else ""
+                    lambda x: x.strftime("%Y-%m-%d %H:%M:%S") if isinstance(x, _dt_local.datetime) else ""
                 )
 
         # remove linhas sem ID/Etapa
@@ -171,32 +174,25 @@ def acumular_report_sla(df_sla, csv_path):
         key_cols_old = _pick_key_for_old()
 
         if key_cols_old is None:
-            # não dá pra migrar; assume antigo vazio
             logging.warning("⚠️ CSV SLA antigo não tinha colunas mínimas; inicia acumulado do zero.")
             df_antigo = pd.DataFrame()
         else:
-            # cria chave no antigo
             df_antigo["__chave__"] = df_antigo[key_cols_old].astype(str).agg("|".join, axis=1)
 
-            # Se a chave do novo é mais GRANULAR do que a do antigo,
-            # removemos do antigo por uma chave compatível (interseção)
             inter = [c for c in key_cols_old if c in key_cols_new]
             if inter:
                 df_sla["__chave_inter__"] = df_sla[inter].astype(str).agg("|".join, axis=1)
                 df_antigo["__chave_inter__"] = df_antigo[inter].astype(str).agg("|".join, axis=1)
-                # drop do antigo tudo que conflita com o novo pela chave de interseção
                 df_antigo = df_antigo[~df_antigo["__chave_inter__"].isin(set(df_sla["__chave_inter__"]))]
                 df_antigo.drop(columns=[c for c in ["__chave_inter__"] if c in df_antigo.columns], inplace=True, errors="ignore")
                 df_sla.drop(columns=[c for c in ["__chave_inter__"] if c in df_sla.columns], inplace=True, errors="ignore")
 
     # ---- MERGE INCREMENTAL ----
     if not df_antigo.empty and "__chave__" in df_antigo.columns:
-        # remove do antigo as chaves que chegaram novas (pela chave do NOVO)
         chaves_novas = set(df_sla["__chave__"].unique())
         df_antigo_filtrado = df_antigo[~df_antigo["__chave__"].isin(chaves_novas)]
         df_sla_final = pd.concat([df_antigo_filtrado, df_sla], ignore_index=True)
     elif not df_antigo.empty:
-        # sem __chave__ no antigo (caso extremo): concatena e dedup por interseção das colunas
         inter = [c for c in ["ID da Ordem","Etapa","Código do Status","Data do Evento"] if c in df_antigo.columns and c in df_sla.columns]
         if inter:
             df_tmp = pd.concat([df_antigo, df_sla], ignore_index=True)
@@ -215,3 +211,136 @@ def acumular_report_sla(df_sla, csv_path):
 
     _salvar_acumulado_com_versionamento(df_sla_final, csv_path)
     return df_sla_final
+
+
+# ---------------------------------------------------------------------------
+# ACUMULADOR DE DUE_DATE  (por "ID da Ordem"; last-write-wins)
+# Gera/acrescenta um CSV acumulado de due_date e salva:
+#   base.csv, base_latest.csv e base_<YYYY-MM-DD_HH-MM>.csv
+# ---------------------------------------------------------------------------
+
+def _norm_date_str(v: Optional[str]) -> str:
+    """Normaliza datas para 'YYYY-MM-DD' (string). Aceita ISO, dd/mm/yyyy, yyyy-mm-dd etc."""
+    if v is None:
+        return ""
+    s = str(v).strip()
+    if not s or s.lower() in {"nan", "none"}:
+        return ""
+    # já está no formato desejado?
+    try:
+        _dt.datetime.strptime(s[:10], "%Y-%m-%d")
+        return s[:10]
+    except Exception:
+        pass
+    # remove 'Z' do ISO
+    s2 = s.replace("Z", "").replace("z", "")
+    # tenta ISO completo
+    try:
+        return _dt.datetime.fromisoformat(s2).date().strftime("%Y-%m-%d")
+    except Exception:
+        pass
+    # tenta formatos comuns
+    for fmt in ("%d/%m/%Y", "%d/%m/%y", "%Y/%m/%d", "%Y-%m-%d"):
+        try:
+            return _dt.datetime.strptime(s, fmt).date().strftime("%Y-%m-%d")
+        except Exception:
+            continue
+    return ""
+
+def _norm_status_code(v) -> str:
+    """Normaliza o status_code para string numérica (ex.: '2', '3'; 'S' permanece 'S')."""
+    if v is None:
+        return ""
+    s = str(v).strip()
+    if not s or s.lower() in {"nan", "none"}:
+        return ""
+    try:
+        if "." in s:
+            f = float(s)
+            if f.is_integer():
+                return str(int(f))
+        if s.isdigit():
+            return str(int(s))
+    except Exception:
+        pass
+    return s
+
+def _ensure_due_columns(df: pd.DataFrame) -> pd.DataFrame:
+    cols = ["ID da Ordem", "due_date", "status_code", "order_summary", "Link do contrato"]
+    for c in cols:
+        if c not in df.columns:
+            df[c] = ""
+    out = df[cols].copy()
+    # normalizações
+    out["ID da Ordem"] = out["ID da Ordem"].astype(str).str.strip()
+    out = out[out["ID da Ordem"] != ""]
+    out["due_date"] = out["due_date"].map(_norm_date_str)
+    out["status_code"] = out["status_code"].map(_norm_status_code)
+    for c in ["order_summary", "Link do contrato"]:
+        out[c] = out[c].fillna("").astype(str).str.strip()
+    # remove duplicados do snapshot (mantém a última)
+    out = out.drop_duplicates(subset=["ID da Ordem"], keep="last")
+    return out
+
+def acumular_report_due_dates(df_snapshot: pd.DataFrame, csv_latest_path: str) -> pd.DataFrame:
+    """
+    Acumula o snapshot de due_date no CSV _latest, atualizando linhas por 'ID da Ordem'.
+    Regras:
+      - Se o ID não existir no acumulado, adiciona.
+      - Se existir, atualiza due_date se vier preenchido no snapshot.
+      - Preenche/atualiza status_code, order_summary e Link do contrato quando vierem não vazios.
+      - Mantém sempre a versão mais recente por ID.
+    Também grava uma cópia datada se o caminho contiver '_latest'.
+    """
+    # 1) normaliza o snapshot
+    snap = _ensure_due_columns(df_snapshot)
+
+    # 2) carrega acumulado atual (se existir) e normaliza
+    if os.path.exists(csv_latest_path):
+        try:
+            acc = pd.read_csv(csv_latest_path, dtype=str)
+        except Exception:
+            acc = pd.DataFrame(columns=["ID da Ordem", "due_date", "status_code", "order_summary", "Link do contrato"])
+    else:
+        acc = pd.DataFrame(columns=["ID da Ordem", "due_date", "status_code", "order_summary", "Link do contrato"])
+
+    acc = _ensure_due_columns(acc)
+
+    # 3) merge manual por ID
+    acc_dict = {row["ID da Ordem"]: dict(row) for _, row in acc.iterrows()}
+
+    for _, row in snap.iterrows():
+        oid = row["ID da Ordem"]
+        if oid not in acc_dict:
+            acc_dict[oid] = dict(row)
+            continue
+
+        cur = acc_dict[oid]
+        if row["due_date"]:
+            cur["due_date"] = row["due_date"]
+        if row["status_code"]:
+            cur["status_code"] = row["status_code"]
+        if row["order_summary"]:
+            cur["order_summary"] = row["order_summary"]
+        if row["Link do contrato"]:
+            cur["Link do contrato"] = row["Link do contrato"]
+        acc_dict[oid] = cur
+
+    # 4) dataframe final (ordenado por ID para estabilidade)
+    final_df = pd.DataFrame(acc_dict.values())
+    final_df = final_df[["ID da Ordem", "due_date", "status_code", "order_summary", "Link do contrato"]]
+    final_df = final_df.sort_values("ID da Ordem", key=lambda s: s.astype(str), ignore_index=True)
+
+    # 5) persiste _latest
+    final_df.to_csv(csv_latest_path, index=False)
+
+    # cópia datada, se for um _latest
+    if "_latest" in os.path.basename(csv_latest_path):
+        ts = datetime.now().strftime("%Y-%m-%d_%H-%M")
+        dated_path = csv_latest_path.replace("_latest", f"_{ts}")
+        try:
+            final_df.to_csv(dated_path, index=False)
+        except Exception:
+            pass
+
+    return final_df

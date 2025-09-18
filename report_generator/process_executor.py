@@ -31,6 +31,7 @@ from .extractor import extract_data
 from .sla_report_generator import gerar_report_sla
 from .utils.sla_utils import fetch_sla_by_config
 import time
+from .due_date_report_generator import generate_and_send_due_date_report
 
 
 def executar_processo(logins, spreadsheet):
@@ -159,7 +160,6 @@ def executar_processo(logins, spreadsheet):
         logging.info(f"🧾 {len(order_ids)} IDs para processar em config {config_id}")
 
         # short-circuit sem mudanças
-        
         if not order_ids:
             logging.info(f"🔕 Sem mudanças para config {config_id}. Reutilizando acumulados _latest e pulando API.")
             df_final = pd.read_csv(csv_acumulado_latest) if os.path.exists(csv_acumulado_latest) else pd.DataFrame()
@@ -179,10 +179,31 @@ def executar_processo(logins, spreadsheet):
                 logging.info(f"⏭️ Nenhum dado para gerar Excel na config {config_id}, pulando.")
                 continue
 
-
             subject, body = _montar_email(config_name, config_id, current_datetime)
             to_email = ", ".join(emails)
             send_email_with_attachment(from_email, to_email, subject, body, app_password, file_path)
+
+            # DUE_DATE — apenas e-mail (sem acumular) no ramo "sem mudanças"
+            try:
+                start_due = time.time()
+                logging.info(f"🕒 due_date: iniciando para config {config_id} | total_cards={len(df_final)}")
+
+                generate_and_send_due_date_report(
+                    config=df,
+                    cards=df_final,
+                    from_email=from_email,
+                    app_password=app_password,
+                    config_id=config_id,
+                    subject_base=subject,
+                    raw_orders=None,                      # não temos raw_orders aqui
+                    api_token=token_manager.get_token(),
+                    do_email=True,
+                    do_accumulate=False,
+                )
+
+                logging.info(f"✅ due_date: concluído para config {config_id} | duração={round(time.time() - start_due, 2)}s")
+            except Exception as _e:
+                logging.error(f"Falha ao enviar relatório de vencidos: {_e}")
 
             with open(f"last_run_config_{config_id}.json", "w") as f:
                 json.dump({"last_updated": datetime.now().isoformat()}, f)
@@ -220,6 +241,24 @@ def executar_processo(logins, spreadsheet):
 
         df_result = pd.DataFrame(results)
 
+        # DUE_DATE 1/2 — acumular snapshot incremental (mesmas orders que os outros acumuladores)
+        try:
+            logging.info(f"🗂️ due_date: acumulando snapshot incremental (rows={len(df_result)})")
+            generate_and_send_due_date_report(
+                config=df,
+                cards=df_result,                 # incremental
+                from_email=from_email,
+                app_password=app_password,
+                config_id=config_id,
+                subject_base=None,               # não é usado no acúmulo
+                raw_orders=raw_orders,           # permite pegar due/status/title corretos
+                api_token=token_manager.get_token(),
+                do_email=False,                  # NÃO envia e-mail aqui
+                do_accumulate=True,              # SÓ acumula
+            )
+        except Exception as _e:
+            logging.error(f"Falha no acúmulo do due_date incremental: {_e}")
+
         # ============================
         # 3) Watermark por ordem (SLA incremental por evento)
         # ============================
@@ -229,7 +268,6 @@ def executar_processo(logins, spreadsheet):
                 df_sla_antigo = pd.read_csv(csv_acumulado_sla_latest, dtype={"ID da Ordem": str})
                 if "ID da Ordem" in df_sla_antigo.columns and "Data do Evento" in df_sla_antigo.columns:
                     df_sla_antigo["ID da Ordem"] = df_sla_antigo["ID da Ordem"].astype(str).str.strip()
-                    # parser tolerante
                     dt = pd.to_datetime(df_sla_antigo["Data do Evento"], errors="coerce", utc=False)
                     mask = ~dt.isna()
                     if mask.any():
@@ -240,20 +278,17 @@ def executar_processo(logins, spreadsheet):
                 logging.warning(f"⚠️ Não consegui ler watermark do SLA antigo: {e}")
 
         # ============================
-        # 4) Gera SLA APENAS para novos/alterados (com colapso A,A,B,A,B -> A,B,A,B)
+        # 4) Gera SLA APENAS para novos/alterados
         # ============================
         start_sla_new = time.time()
         ordens_por_id = {str(o["id"]): o for o in raw_orders}
         raw_orders_novos = [ordens_por_id[str(oid)] for oid in order_ids if str(oid) in ordens_por_id]
 
-        # >>> Importante: sua função gerar_report_sla deve:
-        # - aplicar cutoff_by_order (event_time > watermark);
-        # - colapsar repetições consecutivas A,A,B,A,B -> A,B,A,B.
         df_sla_novos = gerar_report_sla(
             raw_orders_novos,
             config_id,
             workflow_cache,
-            cutoff_by_order=cutoff_by_order  # <<< novo parâmetro
+            cutoff_by_order=cutoff_by_order
         )
 
         # limpeza leve
@@ -269,8 +304,7 @@ def executar_processo(logins, spreadsheet):
         df_final = acumular_relatorio_principal(df_result, csv_acumulado_latest)
         df_sla_final = acumular_report_sla(df_sla_novos, csv_acumulado_sla_latest)
 
-        # (Opcional) salvos adicionais datados — o accumulator já gera _latest + datado.
-        # Mantidos aqui caso você queira versionamento extra com sufixo de config+timestamp:
+        # (opcionais) cópias datadas
         csv_acumulado_path = f"acumulado_config_{config_id}_{current_datetime}.csv"
         csv_acumulado_sla_path = f"acumulado_sla_config_{config_id}_{current_datetime}.csv"
         try:
@@ -290,6 +324,26 @@ def executar_processo(logins, spreadsheet):
         subject, body = _montar_email(config_name, config_id, current_datetime)
         to_email = ", ".join(emails)
         send_email_with_attachment(from_email, to_email, subject, body, app_password, file_path)
+
+        # DUE_DATE 2/2 — enviar e-mail com a base final (sem acumular novamente)
+        try:
+            start_due = time.time()
+            logging.info(f"🕒 due_date: iniciando para config {config_id} | total_cards={len(df_final)}")
+            generate_and_send_due_date_report(
+                config=df,
+                cards=df_final,                  # base completa para e-mail
+                from_email=from_email,
+                app_password=app_password,
+                config_id=config_id,
+                subject_base=subject,
+                raw_orders=raw_orders,
+                api_token=token_manager.get_token(),
+                do_email=True,
+                do_accumulate=False,
+            )
+            logging.info(f"✅ due_date: concluído para config {config_id} | duração={round(time.time() - start_due, 2)}s")
+        except Exception as _e:
+            logging.error(f"Falha ao enviar relatório de vencidos: {_e}")
 
         # registro execução
         with open(f"last_run_config_{config_id}.json", "w") as f:
