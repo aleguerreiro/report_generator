@@ -1,17 +1,17 @@
 import os
 import json
 import logging
-from datetime import datetime, timezone
+from datetime import datetime
 import pandas as pd
 from tqdm import tqdm
-from .data_utils import clean_illegal_chars
 
+from .data_utils import clean_illegal_chars, get_with_retry
 from .accumulator import acumular_relatorio_principal, acumular_report_sla
 from .zapform_api_client import (
     fetch_orders_by_date,
     fetch_all_orders,
     fetch_order_data,
-    get_config_name
+    get_config_name,
 )
 from .label_fetcher import fetch_labels_from_workflow
 from .sheet_config_reader import (
@@ -21,17 +21,22 @@ from .sheet_config_reader import (
     extract_variable_fields,
     extract_email_list,
     extract_header_report_map,
-    aplicar_filtro_incremental
+    aplicar_filtro_incremental,
 )
 from .email_sender import send_email_with_attachment
+try:
+    # se existir, envia multi-anexos em um único e-mail
+    from .email_sender import send_email_with_attachments as _send_multi
+except Exception:
+    _send_multi = None
+
 from .dashboard_executor import executar_dashboard_personalizado
-from .data_utils import get_with_retry
 from .zapform_auth import TokenManager
 from .extractor import extract_data
 from .sla_report_generator import gerar_report_sla
 from .utils.sla_utils import fetch_sla_by_config
-import time
 from .due_date_report_generator import generate_and_send_due_date_report
+import time
 
 
 def executar_processo(logins, spreadsheet):
@@ -57,7 +62,6 @@ def executar_processo(logins, spreadsheet):
 
         status_raw = filtros.get("status", "")
         status_list = [s.strip() for s in status_raw.split(",") if s.strip()] if status_raw else []
-
         usar_todas = str(df["orders"].iloc[0]).strip().lower() == "all"
 
         campos_padroes = extract_default_fields(df)
@@ -66,57 +70,46 @@ def executar_processo(logins, spreadsheet):
         emails = extract_email_list(df)
 
         etiquetas_dict = fetch_labels_from_workflow(
-            config_id,
-            token_manager.get_token(),
-            get_with_retry=get_with_retry
+            config_id, token_manager.get_token(), get_with_retry=get_with_retry
         )
         logging.info(f"🎯 {len(etiquetas_dict)} etiquetas carregadas para config {config_id}")
 
         sla_config_dict = fetch_sla_by_config(
-            config_id,
-            token_manager.get_token(),
-            get_with_retry=get_with_retry
+            config_id, token_manager.get_token(), get_with_retry=get_with_retry
         )
         logging.info(f"📜 SLA config carregado para {config_id}")
 
         # cache do workflow
         if config_id not in workflow_cache:
             url = f"https://api.zapform.com.br/api/v2/workflow/{config_id}/"
-            headers = {
-                "accept": "application/json",
-                "Authorization": f"Token {token_manager.get_token()}"
-            }
+            headers = {"accept": "application/json", "Authorization": f"Token {token_manager.get_token()}"}
             response = get_with_retry(url, headers=headers)
             workflow_cache[config_id] = response.json() if response and response.status_code == 200 else {}
 
-        # ⚙️ Metadados e caminhos
+        # ⚙️ nomes de arquivos
         current_datetime = datetime.now().strftime("%Y-%m-%d_%H-%M")
         config_name = workflow_cache.get(config_id, {}).get("name") or get_config_name(
             config_id, token_manager.get_token()
         )
-        safe_name = "".join(c if c.isalnum() or c in "._-" else "_" for c in config_name)[:40]
-        file_path = f"report_{safe_name}_{current_datetime}.xlsx"
-        csv_acumulado_latest = f"acumulado_config_{config_id}_latest.csv"
+        safe_name = "".join(c if c.isalnum() or c in ".-" else "" for c in config_name)[:40]
+        report_path = f"report_{safe_name}_{current_datetime}.xlsx"
+        dash_path   = f"dash_report_{safe_name}_{current_datetime}.xlsx"
+
+        csv_acumulado_latest     = f"acumulado_config_{config_id}_latest.csv"
         csv_acumulado_sla_latest = f"acumulado_sla_config_{config_id}_latest.csv"
 
         # ============================
-        # 1) Buscar IDs incrementais
+        # 1) Buscar IDs
         # ============================
         order_ids = []
-        start_fetch_ids = time.time()
+        t0 = time.time()
         if usar_todas:
             print(f"🔍 Iniciando busca de ordens para config {config_id}...")
             logging.info(f"🔍 Iniciando busca de ordens para config {config_id}...")
-
             if status_list:
                 for status in status_list:
                     f = {**filtros, "status": status}
-                    ids = fetch_orders_by_date(
-                        token_manager.get_token(),
-                        config_id,
-                        f,
-                        get_with_retry=get_with_retry
-                    )
+                    ids = fetch_orders_by_date(token_manager.get_token(), config_id, f, get_with_retry=get_with_retry)
                     order_ids.extend(ids)
             elif filtros:
                 grupo_filtro = {}
@@ -125,28 +118,16 @@ def executar_processo(logins, spreadsheet):
                     if grupo:
                         grupo_filtro = grupo
                         break
-
                 if not grupo_filtro:
                     print(f"⚠️ Nenhum filtro de data encontrado. Pulando config {config_id}.")
                     continue
-
                 print(f"🔎 Buscando ordens com filtro: {grupo_filtro}")
-                order_ids = fetch_all_orders(
-                    token_manager,
-                    config_id,
-                    grupo_filtro,
-                    get_with_retry=get_with_retry
-                )
+                order_ids = fetch_all_orders(token_manager, config_id, grupo_filtro, get_with_retry=get_with_retry)
             else:
                 print(f"🔎 Buscando todas as ordens da config {config_id} sem filtros")
-                order_ids = fetch_all_orders(
-                    token_manager,
-                    config_id,
-                    {},
-                    get_with_retry=get_with_retry
-                )
+                order_ids = fetch_all_orders(token_manager, config_id, {}, get_with_retry=get_with_retry)
 
-            order_ids = list(dict.fromkeys(order_ids))  # dedup preservando ordem
+            order_ids = list(dict.fromkeys(order_ids))
             logging.info(f"✅ {len(order_ids)} ordens encontradas para a config {config_id}")
         else:
             order_ids = [
@@ -154,12 +135,14 @@ def executar_processo(logins, spreadsheet):
                 for oid in df["orders"].dropna().astype(str).tolist()
                 if oid.strip().lower() != "all" and oid.strip() != ""
             ]
-            order_ids = list(dict.fromkeys(order_ids))  # dedup
+            order_ids = list(dict.fromkeys(order_ids))
 
-        logging.info(f"⏱️ Tempo para buscar IDs: {round(time.time() - start_fetch_ids, 2)}s")
+        logging.info(f"⏱️ Tempo para buscar IDs: {round(time.time() - t0, 2)}s")
         logging.info(f"🧾 {len(order_ids)} IDs para processar em config {config_id}")
 
-        # short-circuit sem mudanças
+        # ============================
+        # Sem mudanças → reusa acumulados, gera dash separado, envia 2 anexos
+        # ============================
         if not order_ids:
             logging.info(f"🔕 Sem mudanças para config {config_id}. Reutilizando acumulados _latest e pulando API.")
             df_final = pd.read_csv(csv_acumulado_latest) if os.path.exists(csv_acumulado_latest) else pd.DataFrame()
@@ -168,9 +151,18 @@ def executar_processo(logins, spreadsheet):
                 if os.path.exists(csv_acumulado_sla_latest) else pd.DataFrame()
             )
 
-            executar_dashboard_personalizado(config_id, df_final, file_path)
+            # DASH EM ARQUIVO SEPARADO
+            logging.info(f"📊 Gerando dashboard separado em: {dash_path}")
+            executar_dashboard_personalizado(config_id, df_final, dash_path)
+
+            # REPORT (sem dash)
             if not df_final.empty or not df_sla_final.empty:
-                with pd.ExcelWriter(file_path, engine='openpyxl') as writer:
+                for _df in (df_final, df_sla_final):
+                    if _df is not None and not _df.empty:
+                        for _c in _df.select_dtypes(include="object").columns:
+                            _df[_c] = _df[_c].map(clean_illegal_chars)
+
+                with pd.ExcelWriter(report_path, engine='openpyxl', mode='w') as writer:
                     if not df_final.empty:
                         df_final.to_excel(writer, sheet_name="report", index=False)
                     if not df_sla_final.empty:
@@ -180,28 +172,17 @@ def executar_processo(logins, spreadsheet):
                 continue
 
             subject, body = _montar_email(config_name, config_id, current_datetime)
-            to_email = ", ".join(emails)
-            send_email_with_attachment(from_email, to_email, subject, body, app_password, file_path)
+            _enviar_email_duplo(from_email, ", ".join(emails), subject, body, app_password, report_path, dash_path)
 
-            # DUE_DATE — apenas e-mail (sem acumular) no ramo "sem mudanças"
+            # DUE_DATE (somente e-mail)
             try:
                 start_due = time.time()
-                logging.info(f"🕒 due_date: iniciando para config {config_id} | total_cards={len(df_final)}")
-
                 generate_and_send_due_date_report(
-                    config=df,
-                    cards=df_final,
-                    from_email=from_email,
-                    app_password=app_password,
-                    config_id=config_id,
-                    subject_base=subject,
-                    raw_orders=None,                      # não temos raw_orders aqui
-                    api_token=token_manager.get_token(),
-                    do_email=True,
-                    do_accumulate=False,
+                    config=df, cards=df_final, from_email=from_email, app_password=app_password,
+                    config_id=config_id, subject_base=subject, raw_orders=None,
+                    api_token=token_manager.get_token(), do_email=True, do_accumulate=False,
                 )
-
-                logging.info(f"✅ due_date: concluído para config {config_id} | duração={round(time.time() - start_due, 2)}s")
+                logging.info(f"✅ due_date: concluído para config {config_id} | duração={round(time.time()-start_due,2)}s")
             except Exception as _e:
                 logging.error(f"Falha ao enviar relatório de vencidos: {_e}")
 
@@ -212,56 +193,37 @@ def executar_processo(logins, spreadsheet):
             continue
 
         # ============================
-        # 2) Busca detalhada SOMENTE dos IDs incrementais
+        # 2) Busca detalhada dos IDs
         # ============================
-        results = []
-        raw_orders = []
-        start_fetch_orders = time.time()
+        results, raw_orders = [], []
+        t1 = time.time()
         for order_id in tqdm(order_ids, desc=f"Config {config_id}"):
-            order_data = fetch_order_data(
-                config_id,
-                order_id,
-                token_manager,
-                get_with_retry=get_with_retry
-            )
+            order_data = fetch_order_data(config_id, order_id, token_manager, get_with_retry=get_with_retry)
             if not order_data:
                 continue
-
-            # filtro de status (se solicitado)
             code = str(order_data.get("status", {}).get("code", "")).strip()
             if status_list and code not in status_list:
                 continue
-
             raw_orders.append(order_data)
             data = extract_data(order_data, campos_variaveis, etiquetas_dict, header_report_dict, campos_padroes)
             results.append(pd.Series(data))
-
         logging.info(f"📦 {len(raw_orders)} ordens detalhadas buscadas")
-        logging.info(f"⏱️ Tempo para buscar ordens: {round(time.time() - start_fetch_orders, 2)}s")
+        logging.info(f"⏱️ Tempo para buscar ordens: {round(time.time() - t1, 2)}s")
 
         df_result = pd.DataFrame(results)
 
-        # DUE_DATE 1/2 — acumular snapshot incremental (mesmas orders que os outros acumuladores)
+        # DUE_DATE (acúmulo incremental)
         try:
             logging.info(f"🗂️ due_date: acumulando snapshot incremental (rows={len(df_result)})")
             generate_and_send_due_date_report(
-                config=df,
-                cards=df_result,                 # incremental
-                from_email=from_email,
-                app_password=app_password,
-                config_id=config_id,
-                subject_base=None,               # não é usado no acúmulo
-                raw_orders=raw_orders,           # permite pegar due/status/title corretos
-                api_token=token_manager.get_token(),
-                do_email=False,                  # NÃO envia e-mail aqui
-                do_accumulate=True,              # SÓ acumula
+                config=df, cards=df_result, from_email=from_email, app_password=app_password,
+                config_id=config_id, subject_base=None, raw_orders=raw_orders,
+                api_token=token_manager.get_token(), do_email=False, do_accumulate=True,
             )
         except Exception as _e:
             logging.error(f"Falha no acúmulo do due_date incremental: {_e}")
 
-        # ============================
-        # 3) Watermark por ordem (SLA incremental por evento)
-        # ============================
+        # Watermark SLA
         cutoff_by_order = {}
         if os.path.exists(csv_acumulado_sla_latest):
             try:
@@ -272,84 +234,95 @@ def executar_processo(logins, spreadsheet):
                     mask = ~dt.isna()
                     if mask.any():
                         df_sla_antigo = df_sla_antigo.loc[mask].copy()
-                        df_sla_antigo["__dt__"] = dt.dt.tz_localize(None) if getattr(dt.dt, "tz", None) is not None else dt
-                        cutoff_by_order = df_sla_antigo.groupby("ID da Ordem")["__dt__"].max().to_dict()
+                        df_sla_antigo["_dt_"] = dt
+                        cutoff_by_order = df_sla_antigo.groupby("ID da Ordem")["_dt_"].max().to_dict()
             except Exception as e:
                 logging.warning(f"⚠️ Não consegui ler watermark do SLA antigo: {e}")
 
-        # ============================
-        # 4) Gera SLA APENAS para novos/alterados
-        # ============================
+        # SLA somente novos/alterados
         start_sla_new = time.time()
         ordens_por_id = {str(o["id"]): o for o in raw_orders}
         raw_orders_novos = [ordens_por_id[str(oid)] for oid in order_ids if str(oid) in ordens_por_id]
+        df_sla_novos = gerar_report_sla(raw_orders_novos, config_id, workflow_cache, cutoff_by_order=cutoff_by_order)
 
-        df_sla_novos = gerar_report_sla(
-            raw_orders_novos,
-            config_id,
-            workflow_cache,
-            cutoff_by_order=cutoff_by_order
-        )
-
-        # limpeza leve
         for col in df_sla_novos.select_dtypes(include="object").columns:
             df_sla_novos[col] = df_sla_novos[col].map(clean_illegal_chars)
 
         df_sla_novos.to_csv(f"novos_sla_config_{config_id}.csv", index=False)
         logging.info(f"🆕 SLA (novos) gerado em {round(time.time() - start_sla_new, 2)}s")
 
-        # ============================
-        # 5) Acumular (sem reconsultar API para antigas)
-        # ============================
+        # Acumular
         df_final = acumular_relatorio_principal(df_result, csv_acumulado_latest)
         df_sla_final = acumular_report_sla(df_sla_novos, csv_acumulado_sla_latest)
 
-        # (opcionais) cópias datadas
-        csv_acumulado_path = f"acumulado_config_{config_id}_{current_datetime}.csv"
-        csv_acumulado_sla_path = f"acumulado_sla_config_{config_id}_{current_datetime}.csv"
+        # cópias datadas opcionais
         try:
-            df_final.to_csv(csv_acumulado_path, index=False)
-            df_sla_final.to_csv(csv_acumulado_sla_path, index=False)
+            df_final.to_csv(f"acumulado_config_{config_id}_{current_datetime}.csv", index=False)
+            df_sla_final.to_csv(f"acumulado_sla_config_{config_id}_{current_datetime}.csv", index=False)
         except Exception as e:
             logging.warning(f"⚠️ Falha ao salvar cópias datadas adicionais: {e}")
 
         # ============================
-        # 6) Excel, dashboard e envio
+        # 6) Gerar arquivos e enviar
         # ============================
-        executar_dashboard_personalizado(config_id, df_final, file_path)
-        with pd.ExcelWriter(file_path, engine='openpyxl') as writer:
+        # DASH em arquivo separado
+        logging.info(f"📊 Gerando dashboard separado em: {dash_path}")
+        executar_dashboard_personalizado(config_id, df_final, dash_path)
+
+        # REPORT (sem dash)
+        for _df in (df_final, df_sla_final):
+            if _df is not None and not _df.empty:
+                for _c in _df.select_dtypes(include="object").columns:
+                    _df[_c] = _df[_c].map(clean_illegal_chars)
+
+        with pd.ExcelWriter(report_path, engine='openpyxl', mode='w') as writer:
             df_final.to_excel(writer, sheet_name="report", index=False)
             df_sla_final.to_excel(writer, sheet_name="report_SLA", index=False)
 
         subject, body = _montar_email(config_name, config_id, current_datetime)
-        to_email = ", ".join(emails)
-        send_email_with_attachment(from_email, to_email, subject, body, app_password, file_path)
+        _enviar_email_duplo(from_email, ", ".join(emails), subject, body, app_password, report_path, dash_path)
 
-        # DUE_DATE 2/2 — enviar e-mail com a base final (sem acumular novamente)
+        # DUE_DATE (envio final)
         try:
             start_due = time.time()
             logging.info(f"🕒 due_date: iniciando para config {config_id} | total_cards={len(df_final)}")
             generate_and_send_due_date_report(
-                config=df,
-                cards=df_final,                  # base completa para e-mail
-                from_email=from_email,
-                app_password=app_password,
-                config_id=config_id,
-                subject_base=subject,
-                raw_orders=raw_orders,
-                api_token=token_manager.get_token(),
-                do_email=True,
-                do_accumulate=False,
+                config=df, cards=df_final, from_email=from_email, app_password=app_password,
+                config_id=config_id, subject_base=subject, raw_orders=raw_orders,
+                api_token=token_manager.get_token(), do_email=True, do_accumulate=False,
             )
-            logging.info(f"✅ due_date: concluído para config {config_id} | duração={round(time.time() - start_due, 2)}s")
+            logging.info(f"✅ due_date: concluído para config {config_id} | duração={round(time.time()-start_due,2)}s")
         except Exception as _e:
             logging.error(f"Falha ao enviar relatório de vencidos: {_e}")
 
-        # registro execução
         with open(f"last_run_config_{config_id}.json", "w") as f:
             json.dump({"last_updated": datetime.now().isoformat()}, f)
 
         logging.info(f"🏁 Config {config_id} concluída em {round(time.time() - start_config_time, 2)}s")
+
+
+def _enviar_email_duplo(from_email, to_email, subject, body, app_password, report_path, dash_path):
+    """Envia um email com dois anexos (se suportado) ou faz fallback de 2 emails."""
+    logging.info(f"📧 Preparando envio com dois anexos: [{report_path}], [{dash_path}]")
+    if _send_multi:
+        try:
+            _send_multi(
+                from_email=from_email,
+                to_email=to_email,
+                subject=subject,
+                body=body,
+                app_password=app_password,
+                attachments=[report_path, dash_path],
+            )
+            logging.info("📧 E-mail com *dois anexos* enviado com sucesso.")
+            return
+        except Exception as e:
+            logging.warning(f"⚠️ Falha no envio multi-anexos, fallback em 2 e-mails: {e}")
+
+    # fallback
+    send_email_with_attachment(from_email, to_email, subject, body, app_password, report_path)
+    send_email_with_attachment(from_email, to_email, subject + " (Dashboard)", body, app_password, dash_path)
+    logging.info("📧 Enviados 2 e-mails separadamente (fallback).")
 
 
 def _carregar_credenciais_email():
