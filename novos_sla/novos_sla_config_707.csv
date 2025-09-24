@@ -1,0 +1,5 @@
+ID da Ordem,Etapa,Código do Status,Modificado por,SLA,Data do Evento,Data Início Execução,Data Final Execução,Prazo Máximo,Duração Total,Duração Útil,Status SLA,Excedido Total (min),Excedido Útil (min)
+1617019,Contratos Encerrados,5,gabriels.santos@nava.com.br,-,2025-09-22 16:04:47,22/09/2025 16:04,-,-,-,-,-,-,-
+1562893,Contrato Ativo,2,carlos@zapform.com.br,-,2025-03-17 14:04:08,17/03/2025 14:04,23/09/2025 09:13,-,189.8 dias,-,-,-,-
+1562893,Aguardando Verificação/Aprovação (NAVA),0,integracao-projetoisp,-,2025-09-23 09:13:18,23/09/2025 09:13,23/09/2025 09:13,-,0.0 dias,-,-,-,-
+1562893,Contratos Encerrados,5,gabriels.santos@nava.com.br,-,2025-09-23 09:13:38,23/09/2025 09:13,-,-,-,-,-,-,-
