@@ -1,7 +1,6 @@
 import os
 import logging
 from datetime import datetime
-import datetime as _dt
 from typing import Optional
 
 import pandas as pd

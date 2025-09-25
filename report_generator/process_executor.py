@@ -39,6 +39,11 @@ from .due_date_report_generator import generate_and_send_due_date_report
 import time
 
 
+REPORTS_OUTPUT_DIR = os.path.abspath(
+    os.path.join(os.path.dirname(__file__), "..", "all reports")
+)
+
+
 # ============================
 # Helpers de DASH/arquivos
 # ============================
@@ -60,6 +65,7 @@ def executar_processo(logins, spreadsheet):
     from_email, app_password = _carregar_credenciais_email()
     token_manager = TokenManager(logins)
     workflow_cache = {}
+    os.makedirs(REPORTS_OUTPUT_DIR, exist_ok=True)
 
     for ws in spreadsheet.worksheets():
         if not ws.title.startswith("config"):
@@ -109,8 +115,10 @@ def executar_processo(logins, spreadsheet):
             config_id, token_manager.get_token()
         )
         safe_name = "".join(c if c.isalnum() or c in "._-" else "_" for c in config_name)[:40]
-        report_path = f"report_{safe_name}_{current_datetime}.xlsx"
-        dash_path   = f"dash_report_{safe_name}_{current_datetime}.xlsx"
+        report_filename = f"report_{safe_name}_{current_datetime}.xlsx"
+        dash_filename = f"dash_report_{safe_name}_{current_datetime}.xlsx"
+        report_path = os.path.join(REPORTS_OUTPUT_DIR, report_filename)
+        dash_path = os.path.join(REPORTS_OUTPUT_DIR, dash_filename)
 
         csv_acumulado_latest     = f"acumulado_config_{config_id}_latest.csv"
         csv_acumulado_sla_latest = f"acumulado_sla_config_{config_id}_latest.csv"
